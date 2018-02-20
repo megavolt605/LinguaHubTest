@@ -1,0 +1,663 @@
+/* #################### PROJECT */
+/* And string */
+"base.and"="וגם";
+/* are don't match string */
+"are don't match"="לא תואמים";
+
+
+"qr-scan.message.camera-required"="לקריאת קוד QR, היישום UDS Game צריך לגשת למצלמה שלך";
+
+"history.table-footer.empty"="היסטוריית הפעולות ריקה";
+
+
+"price-menu.empty"="המחירון ריק";
+"price-menu.empty-cart"="אין לך פריטים בעגלה";
+
+"pricelist.add-to-cart"="נוסף לעגלה";
+
+
+"base.price"="מחיר";
+
+"rate.comment-filed.placeholder"="ההערה שלך";
+
+
+
+/* u.e. string */
+"u.e."="מטבע";
+
+
+"price-cart.title"="עגלה";
+"price-cart.base-discount"="הנחה בסיסית";
+"price-cart.purchase"="רכישה";
+
+
+
+"price-cart.total-sum"="סה\"כ";
+
+"base.total"="סה\"כ";
+
+/* Purchase for cash string */
+"price-cart.alert.action.purchase-for-cash.format"="רכישה תמורת %@";
+
+/* Purchase for scores string */
+"Purchase for scores"="רכישה עם נקודות בונוס";
+
+
+
+
+/* Insufficient scores string */
+"Insufficient scores"="אין מספיק נקודות";
+
+/* Choose action string */
+"Choose action"="בחר פעולה";
+
+/* Today from-to work time string */
+"Today from-to work time"="היום מ-%@ עד %@";
+
+/* Game not availiable string */
+"Game not availiable"="אופס! מתבצעות עבודות תחזוקה. נחזור בקרוב!";
+
+/* Invite award scores string */
+"Invite award scores"="פרס המלצה";
+
+/* History string */
+"History"="היסטוריה";
+
+/* To join string */
+"To join"="הצטרפות";
+
+/* In cart string */
+"In cart"="בעגלה";
+
+/* Name string */
+"Name"="שם";
+
+/* Rate string */
+"Rate"="סקירה";
+
+/* Rate service string */
+"Rate service"="אנא דרג את שירות הלקוחות";
+
+/* joining award scores string */
+"joining award scores"="נקודות הצטרפות";
+
+/* referral reward scores string */
+"referral reward scores"="נקודות המלצה ";
+
+/* Price for scores string */
+"Price for scores"="מחיר עם נקודות בונוס";
+
+/* Permanent discount string */
+"Permanent discount"="הנחה";
+
+/* Permanent discount 2 string */
+"Permanent discount 2"="הנחה";
+
+/* History new participant string */
+"New participant"="משתתף חדש";
+
+/* You became VIP client at place string */
+"You became VIP client at place"="אתה מקבל את הסטטוס %@";
+
+/* Bill string */
+"Bill"="בדיקה";
+
+/* Scores string */
+"Scores"="נקודות";
+
+/* Scores incoming string */
+"Scores incoming"="צבירת נקודות";
+
+/* Details string */
+"Details"="פרטים";
+
+/* Pricelist order string */
+"Pricelist order"="רכישה לפי מחירון";
+
+/* Coupon purchase string */
+"Coupon purchase"="רכישת קופון";
+
+/* Item added to cart string */
+"Item added to cart"="נוסף לעגלה";
+
+/* User Agreement string */
+"user_agreement"="הסכם משתמש";
+
+/* Privacy policy string */
+"privacy_policy"="מדיניות הפרטיות";
+
+/* About app string */
+"about"="אודות היישום";
+
+/* Name details string */
+"Name details"="שם";
+
+/* KM unit string */
+"KM unit"="ק\"מ";
+
+/* M unit string */
+"M unit"="מ'";
+
+
+// Base
+"base.apply"="פנייה";
+"base.send"="שליחה";
+"base.next"="הבא";
+"base.cancel"="ביטול";
+"base.close"="סגירה";
+"base.continue"="המשך";
+"base.could-not-autodefine-location"="לא ניתן לאתר את מיקומך";
+"base.error"="שגיאה";
+"base.error.user-not-authorized"="המשתמש לא אומת";
+"base.information"="מידע";
+"base.navigate"="עבור";
+"base.register"="הרשמה";
+"base.required-field"="שדה חובה";
+"base.settings"="הגדרות";
+"base.skip"="דלג";
+"base.write"="השאר הודעה";
+"base.sign-in"="Authorization";
+"base.sign-up"="User Registration";
+"base.setup-phone"="Set phone";
+"base.today"="היום";
+"base.exit"="יציאה";
+"base.phone-call"="צלצל";
+"base.scores.multiple"="נקודות";
+"base.password"="סיסמה";
+"base.password-confirmation"="אישור סיסמה";
+"base.not-defined"="לא צוין";
+"base.my-scores"="נקודות הבונוס שלי";
+"base.price-menu"="מחיר /תפריט";
+"base.update"="עדכון";
+"base.update-available"="עדכונים זמינים";
+"base.discount"="הנחה";
+"base.password-changed"="הסיסמה שלך שונתה ";
+"base.agreement"="הסכם";
+"base.level"="רמה";
+"base.female"="נקבה";
+"base.gender"="מין";
+"base.male"="זכר";
+"base.congratulations"="מזל טוב!";
+"base.you"="את/ה";
+"base.yesterday"="אתמול";
+
+
+// error
+"error.request.cancelled"="Request cancelled";
+"error.data-not-available"="הנתונים לא זמינים";
+"error.internal-server"="שגיאת שרת פנימית";
+"error.response.unrecognized"="תגובת שרת לא מזוהה";
+"error.unsupported-version"="גרסה זו לא נתמכת";
+"error.to-many-requests"="יותר מדי בקשות";
+
+
+"request.cancelled"="הבקשה בוטלה";
+
+
+"user-location.near-me"="בקרבת המקום";
+
+
+// Application
+"application.notification.text.launch-app-after-change-language"="לחץ לאיפוס";
+
+
+// walkthrougth
+"walkthrough.page.0.subtitle"="קבל הנחות ונקודות בונוס בכל המקומות שמשתתפים ב-UDS Game.";
+"walkthrough.page.0.title"="הנחות ובונוסים!";
+
+"walkthrough.page.1.subtitle"="ההצעות הטובות ביותר בהתאם להעדפותיך.";
+"walkthrough.page.1.title"="מבצעים והצעות מיוחדות!";
+
+"walkthrough.page.2.subtitle"="שתף קודי הטבה עם חבריך וקבל נקודות עבור כל רכישה.";
+"walkthrough.page.2.title"="המלץ לחברים!";
+
+"walkthrough.skip"="דלג";
+"welcome.sign-in"="כניסה";
+"welcome.sign-up"="הרשמה";
+"welcome.social.title"="או";
+"sign-up.agreements.format"="נרשם באפליקציה שבה אתה מסכים עם %1$@ ו %2$@";
+"sign-up.agreements.part.user-agreement"="הסכם רשיונות";
+"sign-up.agreements.part.privacy-policy"="מדיניות פרטיות סודית";
+
+"auth.facebook"="Facebook";
+"auth.vk"="VK";
+
+
+// phone
+"phone-auth.enter-phone.subtitle"="Enter your phone number";
+"phone-auth.enter-phone.button"="Send a Verification code";
+"phone-auth.enter-code.title"="Verification";
+"phone-auth.enter-code.subtitle.format"="We have sent a 6-digit code to %@";
+"phone-auth.enter-code.button"="Continue";
+"phone-auth.enter-code.re-send-button"="Send a new code";
+"phone-auth.error.incorrect-phone-number"="Incorrect Phone Number";
+"phone-auth.error.incorrect-confirmation-code"="Incorrect code";
+
+// sign in
+"sign-in-options.button.email"="כתובת דוא\"ל";
+"sign-in-options.button.forgot"="שכחת סיסמה?";
+"sign-in-options.button.phone"="מספר טלפון";
+"sign-in-options.subtitle"="כניסה דרך";
+"sign-in-options.title"="אימות ";
+
+"sign-in-with-email.password"="סיסמה";
+"sign-in-with-email.title"="כניסה ";
+"sign-in.enter-email.text-field.placeholder"="כתובת דוא\"ל ";
+
+"sign-in.forgot"="שכחת סיסמה?";
+
+
+// sign up
+"sign-up-options.button.email"="כתובת דוא\"ל ";
+"sign-up-options.button.phone"="מספר טלפון";
+"sign-up-options.subtitle"="בחר שיטת הרשמה נוחה ";
+"sign-up-options.title"="הרשמה ";
+
+"sign-up-with-email.step1.birthday-field.placeholder"="תאריך לידה ";
+"sign-up-with-email.step1.code-description"="לחץ על התמונה וחדש את הקוד";
+"sign-up-with-email.step1.code-field.placeholder"="קוד מתוך תמונה";
+"sign-up-with-email.step1.email-field.placeholder"="כתובת דוא\"ל ";
+"sign-up-with-email.step1.gender-title"="מין";
+"sign-up-with-email.step1.password-field.placeholder"="סיסמה";
+"sign-up-with-email.step1.title"="הרשמה";
+
+"sign-up-with-email.step2.first-name-field.placeholder"="שם פרטי";
+"sign-up-with-email.step2.last-name-field.placeholder"="שם משפחה";
+"sign-up-with-email.step2.title"="הרשמה";
+
+"sign-up-with-phone.birthday-field.placeholder"="תאריך לידה ";
+"sign-up-with-phone.first-name-field.placeholder"="שם פרטי";
+"sign-up-with-phone.gender-title"="מין";
+"sign-up-with-phone.last-name-field.placeholder"="שם משפחה";
+"sign-up-with-phone.title"="הרשמה";
+
+"sign-up.gender.female"="נקבה";
+"sign-up.gender.male"="זכר";
+
+
+// restore password
+"restore-password.step-email.title"="שכחת סיסמה?";
+"restore-password.step-email.subtitle"="הזן את כתובת הדוא\"ל שהשתמשת בה בעת ההרשמה ";
+"restore-password.step-email.text-field.placeholder"="כתובת דוא\"ל ";
+
+"restore-password.step-code.title"="שכחת סיסמה?";
+"restore-password.step-code.subtitle"="הזן את הקוד שנשלח לכתובת הדוא\"ל שלך ";
+"restore-password.step-code.text-field.placeholder"="קוד אישור";
+
+"restore-password.step-new-password.title"="שחזור סיסמה";
+"restore-password.confirm-password-field.placeholder"="אישור";
+"restore-password.password-field.placeholder"="סיסמה";
+
+
+// phone
+"phone-already-registered.subtitle"="לחץ על הלחצן כדי לפתוח את היישום";
+"phone-already-registered.title"="מספר טלפון זה כבר רשום";
+
+"phone-not-registered.title"="מספר הטלפון לא רשום ביישום UDS Game";
+
+
+// account banned & blocked
+"account-banned.title"="הגישה נחסמה עקב הפרת הסכם המשתמש. לבירור סיבות החסימה. פנה לתמיכה טכנית:\nsupport@udsgame.com";
+
+// device id
+"device-uuid-exceeded.device-id-title"="מזהה מכשיר";
+"device-uuid-exceeded.subtitle"="אנא היכנס באמצעות שיטות אימות אחרות או שלח צילום מסך של השגיאה לצוות התמיכה הטכנית שלנו";
+"device-uuid-exceeded.title"="מכשיר זה כבר רשום עם חשבון אחר";
+
+
+// city picker
+"city-picker.background.title"="אופס! האם אתה גר במאדים? אנא עזור לנו למצוא אותך!";
+"city-picker.search.placeholder"="עיר או אזור";
+"city-picker.title"="מיקומך ";
+"city-picker.background.autodefine-button"="Try again";
+
+
+// tabs
+"tab.discount"="הנחה";
+"tab.home"="בית";
+"tab.offers"="הצעות";
+"tab.places"="מקומות";
+"tab.promo"="קוד הטבה";
+
+
+// logout
+"logout.alert.title"="שגיאת יציאה";
+"logout.alert.push-error"="אירעה שגיאה. ככל הנראה, מכשירך יקבל התראות דחיפה חדשות. ";
+"logout.alert.try-again"="נסה שוב ";
+
+
+// categories
+"categories.all-categories"="כל המקומות";
+"categories.all-categories.description"="מקומות בכל הקטגוריות";
+
+"categories.favorite-places"="מקומות מועדפים";
+"categories.my-places"="המקומות שלי";
+
+"categories.category.all-places"="כל המקומות";
+
+"category-preferences.my.title"="ההעדפות שלי";
+
+"category-preferences.setup.subtitle"="הצעות מיוחדות המבוססות על העדפות אלה יוצגו ראשונות";
+"category-preferences.setup.title"="בחר עד 3 קטגוריות";
+
+"category-switch.button.switch"="החלפה";
+"category-switch.subtitle"="החלף את ההעדפות שנבחרו קודם לכן והוסף העדפות חדשות";
+"category-switch.title"="מספר הקטגוריות המותר - 3";
+
+
+// settings
+"settings.alert.change-instagram.title"="החלפה ";
+"settings.alert.change-skype.title"="החלפה ";
+"settings.alert.logout.title"="האם אתה בטוח?";
+
+"settings.app-info"="מידע";
+"settings.app-language"="שפה";
+
+"settings.cell.about-application"="אודות היישום";
+"settings.cell.confirm-password"="אישור";
+"settings.cell.current-password"="סיסמה נוכחית";
+"settings.cell.email"="כתובת דוא\"ל";
+"settings.cell.email-password"="דוא\"ל / סיסמה";
+"settings.cell.instagram"="Instagram";
+"settings.cell.logout"="יציאה";
+"settings.cell.new-password"="סיסמה חדשה";
+"settings.cell.phone"="מספר טלפון";
+"settings.cell.skype"="Skype";
+"settings.cell.verify-phone"="אימות מספר טלפון";
+"settings.cell.preferences"="העדפות";
+"settings.cell.birth-date"="תאריך לידה ";
+"settings.cell.last-name"="שם משפחה";
+
+
+"settings.notifications.cell.company-news"="News";
+"settings.notifications.cell.company-offers"="Offers";
+"settings.notifications.cell.company-messages"="הודעות";
+"settings.notifications.cell.new-members"="חברים שהוזמנו";
+"settings.notifications.cell.scores-change"="נקודות";
+
+"settings.change-language.alert.title"="שינוי שפה";
+"settings.change-language.alert.text"="\"%@\" יוחל לאחר הפעלה מחדש";
+
+"settings.languages"="שפות";
+"settings.languages.system"="שפת מערכת ";
+"settings.reset-to-system-language"="איפוס";
+
+"settings.section.authorization"="אימות ";
+"settings.section.notifications"="התראות";
+"settings.section.social"="רשתות חברתיות ";
+
+"settings.upload-image"="התמונה שלך";
+"settings.upload-image.open"="פתיחה";
+"settings.upload-image.camera"="צלם תמונה";
+"settings.upload-image.gallery"="בחר מתוך גלריית תמונות";
+"settings.upload-image.delete"="מחיקה";
+
+"settings.select-phone.message"="לשינוי מספר הטלפון, צור קשר עם התמיכה הטכנית בכתובת support@udsgame.com";
+
+
+// place
+"place.joining-award.alert.title"="נקודות המלצה";
+"place.joining-award.alert.message"="תתוגמל בנקודות המלצה לאחר שחבר שהזמנת באופן אישי יבצע את הרכישה הראשונה שלו ";
+
+"places.tab.all"="כל המקומות";
+"places.tab.favorite"="מועדפים";
+"places.tab.my"="המקומות שלי";
+
+"places.title"="מקומות";
+
+"my-places.title"="המקומות שלי";
+"my-places.table-placeholder.title"="המקומות שלי";
+"my-places.table-placeholder.subtitle"="מקומות שבהם אתה מבקר יופיעו כאן";
+
+"favorite-palces.title"="מקומות מועדפים";
+"favorite-places.table-placeholder.title"="מקומות מועדפים";
+"favorite-places.table-placeholder.subtitle"="הוסף מקומות שאהבת למועדפים";
+
+"company.tab.description"="תיאור";
+"company.tab.news"="News";
+"company.tab.offers"="הצעות";
+
+"company.bonus-program-description"="תיאור תוכנית בונוסים";
+"company.bonus-program-cell.button"="Bonus program";
+"company.branches-cell.button.format"="Show all branches: %@";
+"company.bonus-program.title"="Bonus program";
+
+"company.news-cell.detail-button"="Show details...";
+
+"company.action.add-to-favorites"="הוסף למועדפים";
+"company.action.remove-from-favorites"="הסר ממועדפים";
+"company.action.offers-notifications.enabled"="Subscribe to offers";
+"company.action.offers-notifications.disabled"="Unsubscribe from offers";
+"company.action.news-notifications.enabled"="Subscribe to news";
+"company.action.news-notifications.disabled"="Unsubscribe from news";
+
+"company.cell.nearest-branch"="הכתובת הקרובה ביותר";
+"company.cell.description"="מי אנחנו";
+"company.cell.phone"="מספר טלפון";
+"company.cell.website"="אתר אינטרנט";
+"company.cell.worktime"="שעות עבודה";
+"company.cell.message"="כתוב הודעה";
+"company.cell.branches"="ענפים";
+
+"company.worktime.opens-after.format"="נפתח בעוד %@";
+"company.worktime.remains-opens.format"="נשאר פתוח %@";
+"company.worktime.today-closed"="סגור";
+"company.worktime.around-the-clock"="24 שעות";
+
+"company.error.already-participant"="כבר הצטרפת לחברה ";
+
+"company.message.become-participant"="הצטרפת בהצלחה";
+"company.message.declined"="מצטערים, חברה זו אינה פעילה באופן זמני";
+
+
+// companies map
+"companies-map.all-companies.title"="כל המקומות";
+"companies-map.favorite-companies.title"="מועדפים";
+"companies-map.my-companies.title"="המקומות שלי";
+
+"company-add-to-favorite.button.add"="הוספה";
+"company-add-to-favorite.subtitle"="הוסף למועדפים";
+
+"company-branch.address"="כתובות";
+"company-branch.cell.phone"="מספר טלפון";
+"company-branch.cell.worktime"="שעות עבודה";
+
+"company-list-tutorial.bottom-view.button"="המשך";
+"company-list-tutorial.top-view.favorite"=" מקומות מועדפים";
+"company-list-tutorial.top-view.recommend"="המלצות על מקומות";
+"company-list-tutorial.top-view.title"="החלק שמאלה וגש לתכונות";
+
+
+// members structure
+"company.members-structure.level1"="רמה 1";
+"company.members-structure.level2"="רמה 2";
+"company.members-structure.level3"="רמה 3";
+"company.members-structure.no-members-placeholder"="אין חברים מוזמנים";
+"company.members-structure.recommend"="המלץ";
+
+"company.recommend"="המלץ";
+"company.recommend.title"="המלץ";
+"company.recommend.view.title"="שתף קוד הטבה עם חברים";
+"company.recommendations"="המלצות";
+
+
+// dashboard
+"dashboard.recent-companies.title"="ביקרת לאחרונה";
+"dashboard.search.placeholder"="חיפוש מקומות";
+
+"dashboard.category-header.button"="הצגה";
+
+"global-search.placeholder"="חיפוש";
+
+
+// offers
+"offer-trends-cell.button"="עבור";
+"offer-trends-cell.subtitle"="ראה את המקומות האהובים ביותר";
+"offer-trends-cell.title"="בחירת משתמש";
+
+"offer.action.complaint"="הגשת תלונה";
+"offer.expire-date"="ההצעה בתוקף עד";
+"offer.quantity"="נותרים / כולם";
+"offer.use"="השתמש";
+
+"offers-filters.cell.location"="מיקום";
+"offers-filters.title"="סינון";
+
+"offers-recommended-for-you.title"="עבורך";
+
+"offers-trending.title"="בחירת משתמש";
+
+"offers.recommend-header.button"="עבור";
+"offers.recommended-header.title"="במיוחד עבורך";
+
+"offers.title"="הצעות";
+
+"offer.compaint.succes"="התלונה נשלחה ";
+
+
+// profile
+"profile.title"="פרופיל";
+
+
+// qr code
+"qr-code.discount.title"="Discount";
+"qr-code.discount.subtitle"="Show this QR code to cashier or tell this numbers";
+"qr-code.discount.details"="This discount is valid at all places participating in UDS Game app";
+
+"qr-code.offer.title"="Offer";
+"qr-code.offer.subtitle"="Show this QR code to cashier or tell this numbers";
+
+"qr-code.storefront.title"="Payment";
+"qr-code.storefront.subtitle"="Show this QR code to cashier or tell this numbers";
+
+"qr-code.input.input-view-title"="הזן קוד הטבה או סרוק אותו";
+"qr-code.input.text-field-placeholder"="קוד הטבה";
+"qr-code.input.title"="קוד הטבה";
+
+"qr-code.recommend.card-subtitle"="או הזן אותו באופן ידני ";
+"qr-code.recommend.card-title"="השתמש בקוד QR";
+
+
+// sample
+"sample.company1.annotation"="בית קפה על הגג - הקפה הכי טוב מברמן איטלקי.";
+"sample.company1.name"="גג ";
+
+"sample.company2.annotation"="קליניקת יופי - ניתוחים פלסטיים.";
+"sample.company2.name"="בסטיה";
+
+"sample.company3.annotation"="פיצרייה - פיצה נפוליטנית אמיתית";
+"sample.company3.name"="בלה איטליאנו";
+
+
+// timeline
+"timeline.type.purchase"="רכישה";
+"timeline.type.scores-income"="צבירת נקודות";
+"timeline.type.all"="כל ההיסטוריה";
+
+"timeline.order-by-offer"=" רכישות שבוצעו עם מבצעים ";
+"timeline.scores-refunded"="Scores refunded";
+"timeline.operation.comment"="Comment";
+
+"timeline.cell.birday-gift.title"="מתנה";
+
+"timeline.pricelist-order-cell.purchase.format"="מומש %1$@ נקודות ו %2$@ %3$@";
+
+
+// location service
+"location-service.request-timed-out"="תם הזמן הקצוב להפעלה";
+"location-service.options-alert.title"="לא ניתן היה לאתר את מיקומך";
+"location-service.options-alert.action.manual-enter"="הזן באופן ידני";
+"location-service.options-alert.action.navigate-to-settings"="עבור אל הגדרות";
+
+"city.not-defined"="לא נמצא";
+
+// table
+"table.footer.pull-to-load-more"="החלק למטה לטעינת פריטים נוספים";
+"companies-list-table.footer.no-items"="לא נמצא";
+"company-search-table.footer.no-items"="לא נמצא";
+"city-search-table.footer.no-items"="לא נמצא";
+"offers-table.footer.no-items"="לא נמצא";
+
+/* Not delete because used in MWPhotoBrowser pod */
+"Done"="סיום";
+"of"="מתוך";
+
+
+"place.not-defined-neares-branch-cell.text"="לא ניתן היה לאתר את מיקומך";
+"place.not-defined-neares-branch-cell.button"="קביעה";
+"paces.table-footer.my-places-empty"="נרשמת לאחרונה ולא הצטרפת לאף מקום עדיין :(";
+
+"global-search.cell.location"="מיקומך ";
+
+// feedback && poll
+"feedback.title"="משוב";
+"feedback.comment.placeholder"="נא השאר את המשוב (אם את/ה רוצה)";
+"feedback.rate.title"="תודה על רכישתך!";
+"feedback.rate.subtitle.format"="בבקשה דרג את איכות השירות%@";
+
+"feedback-take-poll.title"="תודה על משובך !";
+"feedback-take-poll.subtitle.format"="%@ מנסה להישתפר למענך ! אנא מלא/י שאלון סקר קצר";
+"feedback-take-poll.poll-button"="התחל סקר";
+
+"poll.title"="סקר";
+
+
+// conversation
+"conversations-list.title"="הודעות";
+"conversations-list.background.title"="עדיין אין הודעות";
+"conversations-list.background.subtitle"="ניתן לפתוח דיאלוג בדף הפרופיל של החברה";
+
+"company.messages.alert.unlock-messages"="בטל חסימה לדיאלוג";
+"company.messages.alert.lock-messages"="חסום דיאלוג ";
+"message.forward-rate.title"="תגובות למשוב";
+"conversation.message-input-toolbar.company-inactive"="מצטערים, חברה זו אינה פעילה באופן זמני";
+"conversation.message-input-toolbar.company-blocked-messages"="החברה אינה יכולה כרגע לקבל הודעות";
+"conversation.message-input-toolbar.user-blocked-messages"="הדיאלוג הזה נחסם. לא ניתן לשלוח הודעה.";
+"conversation.message-input-toolbar.user-blocked-messages.button"="בטל חסימה להודעות";
+"messages.input-toolbar.placeholder"="הודעה";
+
+
+// category picker
+"category-picker.general.title"="קטגורייה";
+
+
+// company filters
+"company-filters.cell.location"="עיר";
+"company-filters.cell.category"="קטגורייה";
+"company-filters.cell.halal"="חלאל";
+"company-filters.cell.rating"="המקומות הטובים ביותר";
+"company-filters.cell.discount"="הנחה";
+"company-filters.cell.cashback"="קאש בק (Cashback)";
+"company-filters.title"="סננים";
+"company-filters.button.clear"="איפוס";
+"company-filters.rating-header"="דרוג";
+"company-filters.bonus-program-header"="תוכנית הבונוס";
+
+
+// search
+"company-search.title"="חפש";
+
+
+// pushes
+"push-notification.merge-scores.text"="הצג היסטוריה של תשלומים שבוצעו באמצעות מספר הטלפון, כמו גם את מקור הנקודות, ואת ההרשמה בחברה";
+/* #################### PLIST */
+/* NSLocationWhenInUseUsageDescription */
+"NSCameraUsageDescription"="סרוק קוד QR ";
+
+/* NSLocationWhenInUseUsageDescription */
+"NSLocationWhenInUseUsageDescription"="נדרש למצוא מקומות קרובים";
+
+/* NSPhotoLibraryUsageDescription */
+"NSPhotoLibraryUsageDescription"="נדרש לבחור תמונת פרופיל";
+
+/* TGShortcutItemTypeDiscountTitle */
+"TGShortcutItemTypeDiscountTitle"="הנחה";
+
+/* TGShortcutItemTypePromoTitle */
+"TGShortcutItemTypePromoTitle"="קוד הטבה";
+
+/* TGShortcutItemTypePlacesTitle */
+"TGShortcutItemTypePlacesTitle"="מקומות";
+
+/* TGShortcutItemTypeOffersTitle */
+"TGShortcutItemTypeOffersTitle"="הצעות";

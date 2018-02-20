@@ -1,0 +1,635 @@
+/* #################### PROJECT */
+/* And string */
+"base.and"="și";
+/* are don't match string */
+"are don't match"="nu coincide";
+
+
+"qr-scan.message.camera-required"="UDS Game vă solicită accesul la camera foto pentru a scana codul QR";
+
+"history.table-footer.empty"="Istoricul operațiunilor este gol";
+
+
+"price-menu.empty"="Lista de prețuri este goală";
+"price-menu.empty-cart"="Nu aveți nici un element în coșul de cumpărături";
+
+"pricelist.add-to-cart"="Adăugat în coșul de cumpărături";
+
+
+"base.price"="Preț";
+
+"rate.comment-filed.placeholder"="Comentariul dvs.";
+
+
+
+/* u.e. string */
+"u.e."="Moneda";
+
+
+"price-cart.title"="Coșul de cumpărături";
+"price-cart.base-discount"="Reducere de baza";
+"price-cart.purchase"="Cumpără";
+
+
+
+"price-cart.total-sum"="Total";
+
+"base.total"="Total";
+
+/* Purchase for cash string */
+"price-cart.alert.action.purchase-for-cash.format"="Achiziționați pentru %@";
+
+/* Purchase for scores string */
+"Purchase for scores"="Achiziționați cu puncte bonus";
+
+/* Purchased with scores and cash string */
+"timeline.pricelist-order-cell.purchase.format"="Cheltuiți %1$@ puncte și %2$@ %3$@";
+
+/* Insufficient scores string */
+"Insufficient scores"="Puncte insuficiente";
+
+/* Choose action string */
+"Choose action"="Alegeți o acțiune";
+
+/* Today from-to work time string */
+"Today from-to work time"="Astăzi de la %@ pana la %@";
+
+/* Game not availiable string */
+"Game not availiable"="Oops! Întreținerea în curs. Vom reveni în curând!";
+
+/* Invite award scores string */
+"Invite award scores"="Puncte pentru recomandari";
+
+/* History string */
+"History"="Istoric";
+
+/* To join string */
+"To join"="Alăturați-vă";
+
+/* In cart string */
+"In cart"="În coș de cumpăraturi";
+
+/* Name string */
+"Name"="Nume";
+
+/* Rate string */
+"Rate"="Recenzie";
+
+/* Rate service string */
+"Rate service"="Vă rugăm, evaluați serviciile noastre";
+
+/* joining award scores string */
+"joining award scores"="puncte de Bun Venit";
+
+/* referral reward scores string */
+"referral reward scores"="puncte de recomandare";
+
+/* Price for scores string */
+"Price for scores"="Preț cu puncte bonus";
+
+/* Permanent discount string */
+"Permanent discount"="Reducere";
+
+/* Permanent discount 2 string */
+"Permanent discount 2"="reducere";
+
+/* History new participant string */
+"New participant"="Participant nou";
+
+/* You became VIP client at place string */
+"You became VIP client at place"="Ați primit statutul  %@ ";
+
+/* Bill string */
+"Bill"="Verificați";
+
+/* Scores string */
+"Scores"="Puncte";
+
+/* Scores incoming string */
+"Scores incoming"="Puncte de acumulare";
+
+/* Details string */
+"Details"="Detalii";
+
+/* Pricelist order string */
+"Pricelist order"="Achizitionați din lista de prețuri";
+
+/* Coupon purchase string */
+"Coupon purchase"="Cupon de achiziție";
+
+/* Item added to cart string */
+"Item added to cart"="Aăugat în coș de cumpărături";
+
+/* User Agreement string */
+"user_agreement"="Acordul utilizatorului";
+
+/* Privacy policy string */
+"privacy_policy"="Politica de confidențialitate";
+
+/* About app string */
+"about"="Despre aplicație";
+
+/* Name details string */
+"Name details"="Nume";
+
+/* KM unit string */
+"KM unit"="km";
+
+/* M unit string */
+"M unit"="m";
+
+
+
+// Base
+"base.apply"="Aplicați";
+"base.send"="Trimiteți";
+"base.next"="Următorul";
+"base.cancel"="Anulați";
+"base.close"="Inchideți";
+"base.continue"="Comtinuați";
+"base.could-not-autodefine-location"="Locația dvs. nu poate fi găsită";
+"base.error"="Eroare";
+"base.error.user-not-authorized"="Utilizatorul nu este autorizat";
+"base.information"="Informații";
+"base.navigate"="Mergeți";
+"base.register"="Înregistrare";
+"base.required-field"="Câmp obligatoriu";
+"base.settings"="Setări";
+"base.skip"="Săriți peste";
+"base.write"="Lăsaţi un mesaj";
+"base.sign-in"="Autorizare";
+"base.sign-up"="Înregistrarea utilizatorului";
+"base.setup-phone"="Setați telefonul";
+"base.today"="Astăzi";
+"base.exit"="Ieșire";
+"base.phone-call"="Sunați";
+"base.scores.multiple"="puncte";
+"base.password"="Parola";
+"base.password-confirmation"="Confirmarea parolei";
+"base.not-defined"="Nu este specificat";
+"base.my-scores"="Punctele mele bonus";
+"base.price-menu"="Preț /Menu";
+"base.update"="Actualizare";
+"base.update-available"="Actualizările sunt disponibile";
+"base.discount"="Reducere";
+"base.password-changed"="Parola dvs. a fost schimbată";
+"base.agreement"="Acord";
+"base.level"="Nivel";
+"base.female"="Feminin";
+"base.gender"="Gen";
+"base.male"="Masculin";
+"base.congratulations"="Felicitări!";
+"base.you"="Dvs.";
+"base.yesterday"="Ieri";
+
+
+// error
+"error.request.cancelled"="Cerere anulată";
+"error.data-not-available"="Datele nu sunt disponibile";
+"error.internal-server"="Eroare internă a serverului";
+"error.response.unrecognized"="Răspuns nerecunoscut a serverului";
+"error.unsupported-version"="Versiunea data nu este acceptată";
+"error.to-many-requests"="Prea multe solicitări";
+
+
+"request.cancelled"="Cererea a fost anulată";
+
+
+"user-location.near-me"="În vecinătate";
+
+
+// Application
+"application.notification.text.launch-app-after-change-language"="Tastați pentru a reseta";
+
+
+// walkthrougth
+"walkthrough.page.0.subtitle"="Primiți reduceri și puncte bonus în toate locațiile participante în UDS Game. ";
+"walkthrough.page.0.title"="Reduceri si bonusuri!";
+
+"walkthrough.page.1.subtitle"="Cele mai bune oferte în acord cu preferințele dvs.";
+"walkthrough.page.1.title"="Promoții și oferte speciale!";
+
+"walkthrough.page.2.subtitle"="Distribuiți coduri promoționale cu prietenii dvs. și primiți puncte pentru fiecare tranzacție.";
+"walkthrough.page.2.title"="Recomandați prietenilor dvs.!";
+
+"walkthrough.skip"="Săriți peste";
+
+
+// welcome
+"welcome.sign-in"="Conectați-vă";
+"welcome.sign-up"="Înregistraț-vă acum";
+"welcome.social.title"="sau";
+"sign-up.agreements.format"="Înregistrându-vă în aplicație sunteți de acord cu %1$@ și  %2$@";
+"sign-up.agreements.part.user-agreement"="acordul de licență";
+"sign-up.agreements.part.privacy-policy"="politica de confidențialitate";
+
+
+
+"auth.facebook"="Facebook";
+"auth.vk"="VK";
+
+
+// phone
+"phone-auth.enter-phone.subtitle"="Introduceți numărul de telefon";
+"phone-auth.enter-phone.button"="Trimiteți un cod de verificare";
+"phone-auth.enter-code.title"="Verificare";
+"phone-auth.enter-code.subtitle.format"="Am trimis un cod de 6 cifre la %@";
+"phone-auth.enter-code.button"="Continuați";
+"phone-auth.enter-code.re-send-button"="Trimiteți un nou cod";
+"phone-auth.error.incorrect-phone-number"="Număr de telefon incorect";
+"phone-auth.error.incorrect-confirmation-code"="Cod incorect";
+
+// sign in
+"sign-in-options.button.email"="Adresa de e-mail";
+"sign-in-options.button.forgot"="Ați uitat parola?";
+"sign-in-options.button.phone"="Numărul de telefon";
+"sign-in-options.subtitle"="Conectați-vă cu";
+"sign-in-options.title"="Autorizație";
+
+"sign-in-with-email.password"="Parola";
+"sign-in-with-email.title"="Conectați-vă";
+"sign-in.enter-email.text-field.placeholder"="Adresa de e-mail";
+
+"sign-in.forgot"="Ați uitat parola?";
+
+
+// sign up
+"sign-up-options.button.email"="Adresa de e-mail";
+"sign-up-options.button.phone"="Numărul de telefon";
+"sign-up-options.subtitle"="Vă rugăm, alegeți o metodă convenabilă de înregistrare";
+"sign-up-options.title"="Înregistrare";
+
+"sign-up-with-email.step1.birthday-field.placeholder"="Data de naștere";
+"sign-up-with-email.step1.code-description"="Apăsați pe imagine și reînnoiți codul";
+"sign-up-with-email.step1.code-field.placeholder"="Codul din imagine";
+"sign-up-with-email.step1.email-field.placeholder"="Adresa de e-mail";
+"sign-up-with-email.step1.gender-title"="Gen";
+"sign-up-with-email.step1.password-field.placeholder"="Parola";
+"sign-up-with-email.step1.title"="Înregistrare";
+
+"sign-up-with-email.step2.first-name-field.placeholder"="Prenume";
+"sign-up-with-email.step2.last-name-field.placeholder"="Nume";
+"sign-up-with-email.step2.title"="Înscrieți-vă";
+
+"sign-up-with-phone.birthday-field.placeholder"="Data de naștere";
+"sign-up-with-phone.first-name-field.placeholder"="Prenume";
+"sign-up-with-phone.gender-title"="Gen";
+"sign-up-with-phone.last-name-field.placeholder"="Nume de familie";
+"sign-up-with-phone.title"="Înscriere";
+
+"sign-up.gender.female"="Feminin";
+"sign-up.gender.male"="Masculin";
+
+
+// restore password
+"restore-password.step-email.title"="Ați uitat parola?";
+"restore-password.step-email.subtitle"="Introduceți adresa de e-mail pe care ați utilizat-o la înregistrare";
+"restore-password.step-email.text-field.placeholder"="Adresa de e-mail";
+
+"restore-password.step-code.title"="Ați uitat parola?";
+"restore-password.step-code.subtitle"="Introduceți codul de verificare trimis pe adresa dvs. de e-mail";
+"restore-password.step-code.text-field.placeholder"="Confirmarea parolei";
+
+"restore-password.step-new-password.title"="Restabiliți parola dvs.";
+"restore-password.confirm-password-field.placeholder"="Confirmați";
+"restore-password.password-field.placeholder"="Parola";
+
+
+// phone
+"phone-already-registered.subtitle"="Vă rugăm, tastați butonul pentru a deschide aplicația";
+"phone-already-registered.title"="Numărul de telefon este deja înregistrat";
+
+"phone-not-registered.title"="Numărul dvs. de telefon nu este înregistrat în aplicația UDS Game";
+
+
+// account banned & blocked
+"account-banned.title"="Accesul este blocat pentru încălcarea Acordului de utilizare. Pentru a clarifica motivele blocajului, consultați echipa tehnică:\nsupport@udsgame.com";
+
+// device id
+"device-uuid-exceeded.device-id-title"="id-ul dispozitivului";
+"device-uuid-exceeded.subtitle"="Vă rugam, conectați-vă utilizând alte metode de autorizare sau trimiteți o captură de ecran a erorii prin e-mail către echipa noastră tehnică";
+"device-uuid-exceeded.title"="Dispozitivul este deja înregistrat cu un cont diferit";
+
+
+// city picker
+"city-picker.background.title"="Oops! Locuiți pe Marte? Vă rugăm să ne ajutați să vă găsim!";
+"city-picker.search.placeholder"="Oraș sau regiune";
+"city-picker.title"="Locația dvs.";
+"city-picker.background.autodefine-button"="Încercați din nou";
+
+
+// tabs
+"tab.discount"="Reducere";
+"tab.home"="Acasă";
+"tab.offers"="Oferte";
+"tab.places"="Locațiile";
+"tab.promo"="Codul promoțional";
+
+
+// logout
+"logout.alert.title"="Eroare la deconectare";
+"logout.alert.push-error"="A aparut o eroare. Probabil, dispozitivul dvs. va primi noi notificări-push.";
+"logout.alert.try-again"="Vă rugăm să incercați din nou";
+
+
+// categories
+"categories.all-categories"="Toate locațiile";
+"categories.all-categories.description"="Locații in toate categoriile";
+
+"categories.favorite-places"="Locații favorite";
+"categories.my-places"="Locațiile mele";
+
+"categories.category.all-places"="Toate locațiile";
+
+"category-preferences.my.title"="Preferințe";
+
+"category-preferences.setup.subtitle"="Ofertele speciale bazate pe aceste preferințe vor fi afișate primele";
+"category-preferences.setup.title"="Alegeți până la 3 categorii";
+
+"category-switch.button.switch"="Înlocuiți";
+"category-switch.subtitle"="Vă rugăm  inlocuiți preferințele selectate anterior si adăugați altele noi";
+"category-switch.title"="Numărul de categorii permise - 3";
+
+
+// settings
+"settings.alert.change-instagram.title"="Înlocuiți";
+"settings.alert.change-skype.title"="Înlocuiți";
+"settings.alert.logout.title"="Sunteți sigur?";
+
+"settings.app-info"="Informații";
+"settings.app-language"="Limbă";
+
+"settings.cell.about-application"="Despre aplicație";
+"settings.cell.confirm-password"="Confirmați";
+"settings.cell.current-password"="Parola";
+"settings.cell.email"="Adresa de e-mail";
+"settings.cell.email-password"="Adresa de e-mail / Parola";
+"settings.cell.instagram"="Instagram";
+"settings.cell.logout"="Deconectare";
+"settings.cell.new-password"="Parolă nouă";
+"settings.cell.phone"="Numărul de telefon";
+"settings.cell.skype"="Skype";
+"settings.cell.verify-phone"="Numărul de telefon";
+"settings.cell.preferences"="Preferințe";
+"settings.cell.birth-date"="Data de naștere";
+"settings.cell.last-name"="Nume de familie";
+
+"settings.notifications.cell.company-news"="Noutăți";
+"settings.notifications.cell.company-offers"="Oferte";
+"settings.notifications.cell.company-messages"="Mesaje";
+"settings.notifications.cell.new-members"="Prieteni invitați";
+"settings.notifications.cell.scores-change"="Puncte";
+
+"settings.change-language.alert.title"="Schimbați limba";
+"settings.change-language.alert.text"="\"%@\" va fi aplicat după repornire";
+
+"settings.languages"="Limbi";
+"settings.languages.system"="Limbă";
+"settings.reset-to-system-language"="Resetați";
+
+"settings.section.authorization"="Autorizație";
+"settings.section.notifications"="Notificări";
+"settings.section.social"="Rețele de socializare";
+
+"settings.upload-image"="Fotografia dvs.";
+"settings.upload-image.open"="Deschideți";
+"settings.upload-image.camera"="Faceți o fotografie";
+"settings.upload-image.gallery"="Alegeți din galeria foto";
+"settings.upload-image.delete"="Ștergeți";
+
+"settings.select-phone.message"="Pentru a schimba numărul dvs. de telefon, vă rugăm, contactați asistența tehnică: support@udsgame.com";
+
+
+// place
+"place.joining-award.alert.title"="Puncte de recomandare";
+"place.joining-award.alert.message"="Veți fi recompensați cu puncte de recomandare odată ce prietenul dvs. invitat personal va face prima achiziție";
+
+"places.tab.all"="Toate locațiile";
+"places.tab.favorite"="Favorite";
+"places.tab.my"="Locațiile mele";
+
+"places.title"="Locații";
+
+"my-places.title"="Locațiile mele";
+"my-places.table-placeholder.title"="Locațiile mele";
+"my-places.table-placeholder.subtitle"="Locurile pe care le vizitați vor apărea aici";
+
+"favorite-palces.title"="Locații favorite";
+"favorite-places.table-placeholder.title"="Locații favorite";
+"favorite-places.table-placeholder.subtitle"="Adăugați locații care vă plac la favorile";
+
+"company.tab.description"="Descriere";
+"company.tab.news"="Noutăți";
+"company.tab.offers"="Oferte";
+
+"company.bonus-program-description"="Descrierea programului de Bonusare";
+"company.bonus-program-cell.button"="Programul de bonusare";
+"company.branches-cell.button.format"="Afișați toate sucursalele: %@";
+"company.bonus-program.title"="Programul de bonusare";
+
+"company.news-cell.detail-button"="Arată detaliile...";
+
+"company.action.add-to-favorites"="Adăugați la favorite";
+"company.action.remove-from-favorites"="Ștergeți din favorite";
+"company.action.offers-notifications.enabled"="Abonați-vă la oferte";
+"company.action.offers-notifications.disabled"="Dezabonați-vă de la oferte";
+"company.action.news-notifications.enabled"="Abonați-vă la știri";
+"company.action.news-notifications.disabled"="Dezabonați-vă de la știri";
+
+"company.cell.nearest-branch"="Cele mai apropiate adrese";
+"company.cell.description"="Despre noi";
+"company.cell.phone"="Numărul de telefon";
+"company.cell.website"="site Web";
+"company.cell.worktime"="Program de lucru";
+"company.cell.message"="Scrieți un mesaj";
+
+"company.worktime.opens-after.format"="Se deschide în %@";
+"company.worktime.remains-opens.format"="Ramâne deschis %@";
+"company.worktime.today-closed"="Închis";
+"company.worktime.around-the-clock"="24 ore";
+
+"company.error.already-participant"="Dvs. v-ati alătura deja companiei";
+
+"company.message.become-participant"="V-ați alăturat cu succes";
+
+
+// companies map
+"companies-map.all-companies.title"="Toate locațiile";
+"companies-map.favorite-companies.title"="Favorite";
+"companies-map.my-companies.title"="Locațiile mele";
+
+"company-add-to-favorite.button.add"="Adăugați";
+"company-add-to-favorite.subtitle"="Adăugați la favorite";
+
+"company-branch.address"="Adrese";
+"company-branch.cell.phone"="Numărul de telefon";
+"company-branch.cell.worktime"="Program de lucru";
+
+"company-list-tutorial.bottom-view.button"="Continuați";
+"company-list-tutorial.top-view.favorite"="Locații favorite";
+"company-list-tutorial.top-view.recommend"="Romandări de locații";
+"company-list-tutorial.top-view.title"="Glisați spre stânga și accesați funcțiile";
+
+
+// members structure
+"company.members-structure.level1"="Nivelul 1";
+"company.members-structure.level2"="Nivelul 2";
+"company.members-structure.level3"="Nivelul 3";
+"company.members-structure.no-members-placeholder"="Nu sunt prieteni invitați";
+"company.members-structure.recommend"="Recomandat";
+
+"company.recommend"="Recomandat";
+"company.recommend.title"="Recomandat";
+"company.recommend.view.title"="Distribuiți codul promoțional cu prietenii dvs.";
+"company.recommendations"="Recomandari";
+
+
+// dashboard
+"dashboard.recent-companies.title"="Ați vizitat recent";
+"dashboard.search.placeholder"="Căutați locații";
+
+"dashboard.category-header.button"="Vizualiza-ți";
+
+"global-search.placeholder"="Căutați";
+
+
+// offers
+"offer-trends-cell.button"="Mergeți";
+"offer-trends-cell.subtitle"="Vedeți locațiile cele mai plăcute";
+"offer-trends-cell.title"="Alegerea utilizatorului";
+
+"offer.action.complaint"="Depuneți o reclamație";
+"offer.expire-date"="Oferta valabilă până la";
+"offer.quantity"="Restul / Toate";
+"offer.use"="Folosiți";
+
+"offers-filters.cell.location"="Locație";
+"offers-filters.title"="Filtru ";
+
+"offers-recommended-for-you.title"="Pentru dumneavoastră";
+
+"offers-trending.title"="Alegerea utilizatorului";
+
+"offers.recommend-header.button"="Mergeți";
+"offers.recommended-header.title"="Special pentru dvs.";
+
+"offers.title"="Oferte";
+
+"offer.compaint.succes"="Reclamația dvs. a fost trimisă";
+
+
+// profile
+"profile.title"="Profil";
+
+
+// qr code
+"qr-code.discount.title"="Reducere";
+"qr-code.discount.subtitle"="Arătați acest cod QR casierului sau spuneți aceste numere";
+"qr-code.discount.details"="Această reducere este disponibilă în toate locațiile - participante în UDS Game";
+
+"qr-code.offer.title"="Ofertă";
+"qr-code.offer.subtitle"="Arătați acest cod QR casierului sau spuneți aceste numere";
+
+"qr-code.storefront.title"="Plată";
+"qr-code.storefront.subtitle"="Arătați acest cod QR casierului sau spuneți aceste numere";
+
+"qr-code.input.input-view-title"="Introduce-ți codul promoțional sau scanați-l";
+"qr-code.input.text-field-placeholder"="Codul promoțional";
+"qr-code.input.title"="Codul promoțional";
+
+"qr-code.recommend.card-subtitle"="sau introduceți-l manual";
+"qr-code.recommend.card-title"="Folosiți codul QR";
+
+
+// sample
+"sample.company1.annotation"="Roof coffee housen - cea mai bună cafea de la barista italiană.";
+"sample.company1.name"="Acoperiş";
+
+"sample.company2.annotation"="Clinică de infrumusețare - chirurgie cosmetică.";
+"sample.company2.name"="bestia";
+
+"sample.company3.annotation"="Pizzeria - pizza autentică neapolită";
+"sample.company3.name"="Bella Italiano";
+
+
+// timeline
+"timeline.type.purchase"="Achiziție";
+"timeline.type.scores-income"="Puncte de acumulare";
+"timeline.type.all"="Tot istoricul";
+
+"timeline.order-by-offer"="Achizițiile efectuate cu oferte promoționale";
+"timeline.scores-refunded"="Balurile au fost returnate";
+"timeline.operation.comment"="Comment";
+
+
+// location service
+"location-service.request-timed-out"="Timpul sesiunii a expirat";
+"location-service.options-alert.title"="Locația dvs. nu a putut fi găsită";
+"location-service.options-alert.action.manual-enter"="Introduceți manual";
+"location-service.options-alert.action.navigate-to-settings"="Mergeți la setări";
+
+"city.not-defined"="Nu a fost găsit";
+
+// table
+"table.footer.pull-to-load-more"="Vă rugăm, glisați în jos pentru a încărca mai mult";
+"company-search-table.footer.no-items"="Nu a fost găsit";
+"city-search-table.footer.no-items"="Nu a fost găsit";
+
+/* Not delete because used in MWPhotoBrowser pod */
+"Done"="Finalizați";
+"of"="de";
+
+
+"place.not-defined-neares-branch-cell.text"="Locația dvs. nu a putut fi găsită";
+"place.not-defined-neares-branch-cell.button"="Determinați";
+"paces.table-footer.my-places-empty"="Te-ai înregistrat recent și încă nu ai vizitat nici o locație :(";
+
+"global-search.cell.location"="Locație";
+
+// feedback && poll
+"feedback.title"="Feedback";
+"feedback.comment.placeholder"="Vă rugăm să lăsați feedback (dacă doriți)";
+"feedback.rate.title"="Vă mulțumim pentru cumpărăturile făcute!";
+"feedback.rate.subtitle.format"="Evaluarea calității serviciului in %@";
+
+"feedback-take-poll.title"="Vă mulțumim pentru feedback!";
+"feedback-take-poll.subtitle.format"="%@ încearcă din greu să fie mai bine pentru dvs.! Vă rugăm completați sondajul scurt.";
+"feedback-take-poll.poll-button"="Începeți sondajul";
+
+"poll.title"="Sondaj de opinie";
+
+
+// conversation
+"conversations-list.title"="Mesaje";
+"conversations-list.background.title"="Încă nu sunt mesaje";
+"conversations-list.background.subtitle"="Puteți deschide un dialog pe pagina companiei";
+
+"company.messages.alert.unlock-messages"="Deblocați dialogul";
+"company.messages.alert.lock-messages"="Blocați dialogul";
+"message.forward-rate.title"="Răspuns la feedback";
+"conversation.message-input-toolbar.company-inactive"="Ne pare rău, această companie este temporar inactivă";
+"conversation.message-input-toolbar.company-blocked-messages"="Mesajele primite sunt restricționate de companie";
+"conversation.message-input-toolbar.user-blocked-messages"="Dialogul a fost blocat. Nu puteți trimite mesaj.";
+"conversation.message-input-toolbar.user-blocked-messages.button"="Deblocați Mesaje";
+"messages.input-toolbar.placeholder"="Mesaj...";
+/* #################### PLIST */
+/* NSLocationWhenInUseUsageDescription */
+"NSCameraUsageDescription"="Scanati codul QR";
+
+/* NSLocationWhenInUseUsageDescription */
+"NSLocationWhenInUseUsageDescription"="It’s required to find nearby places";
+
+/* NSPhotoLibraryUsageDescription */
+"NSPhotoLibraryUsageDescription"="It’s required for choosing a profile picture";
+
+/* TGShortcutItemTypeDiscountTitle */
+"TGShortcutItemTypeDiscountTitle"="Reducere";
+
+/* TGShortcutItemTypePromoTitle */
+"TGShortcutItemTypePromoTitle"="Codul promoțional";
+
+/* TGShortcutItemTypePlacesTitle */
+"TGShortcutItemTypePlacesTitle"="Locațiile";
+
+/* TGShortcutItemTypeOffersTitle */
+"TGShortcutItemTypeOffersTitle"="Oferte";

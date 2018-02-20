@@ -1,0 +1,749 @@
+/* #################### PROJECT */
+/* And string */
+"base.and"="Και";
+/* are don't match string */
+"are don't match"="δεν ταιριάζουν";
+
+
+"qr-scan.message.camera-required"="Για να διαβάσετε έναν κώδικα QR, το UDS Game χρειάζεται πρόσβαση στην κάμερά σας";
+
+"history.table-footer.empty"="Το ιστορικό λειτουργίας είναι κενό";
+
+
+"price-menu.empty"="Ο τιμοκατάλογος είναι άδειος";
+"price-menu.empty-cart"="Το καλάθι είναι άδειο";
+
+"pricelist.add-to-cart"="Προστέθηκε στο καλάθι";
+
+
+"base.price"="Τιμή";
+
+"rate.comment-filed.placeholder"="Το σχόλιό σας";
+
+
+
+/* u.e. string */
+"u.e."="u.e.";
+
+
+"price-cart.title"="Καλάθι";
+"price-cart.base-discount"="Βασική έκπτωση";
+"price-cart.purchase"="Πληρώστε τώρα";
+
+
+
+"price-cart.total-sum"="Σύνολο";
+
+"base.total"="Σύνολο";
+
+/* Purchase for cash string */
+"price-cart.alert.action.purchase-for-cash.format"="Αγορά για %@";
+
+/* Purchase for scores string */
+"Purchase for scores"="Αγορά με πόντους";
+
+
+
+
+/* Insufficient scores string */
+"Insufficient scores"="Δεν έχετε αρκετούς πόντους";
+
+/* Choose action string */
+"Choose action"="Επιλέξτε μια ενέργεια";
+
+/* Today from-to work time string */
+"Today from-to work time"="Σήμερα από %@σε %@";
+
+/* Game not availiable string */
+"Game not availiable"="Ωχ! Οι τεχνικές εργασίες βρίσκονται σε εξέλιξη. Σύντομα θα είμαστε και πάλι μαζί σας!";
+
+/* Invite award scores string */
+"Invite award scores"="Ανταμοιβή για σύσταση";
+
+/* History string */
+"History"="Ιστορία";
+
+/* To join string */
+"To join"="Συμμετέχω";
+
+/* In cart string */
+"In cart"="Στο καλάθι";
+
+/* Name string */
+"Name"="Όνομα";
+
+/* Rate string */
+"Rate"="Ανασκόπηση";
+
+/* Rate service string */
+"Rate service"="Αξιολογήστε την ποιότητα της υπηρεσίας";
+
+/* joining award scores string */
+"joining award scores"="Βαθμοι καλωσορίσματος";
+
+/* referral reward scores string */
+"referral reward scores"="βαθμοι για σύσταση";
+
+/* Price for scores string */
+"Price for scores"="Τιμή με πόντους ";
+
+/* Permanent discount string */
+"Permanent discount"="Έκπτωση";
+
+/* Permanent discount 2 string */
+"Permanent discount 2"="Έκπτωση";
+
+/* History new participant string */
+"New participant"="Νέος συμμετέχων";
+
+/* You became VIP client at place string */
+"You became VIP client at place"="Παίρνετε μια κατάσταση %@";
+
+/* Bill string */
+"Bill"="Λογαριασμός";
+
+/* Scores string */
+"Scores"="Πόντοι";
+
+/* Scores incoming string */
+"Scores incoming"="Πόντοι απόκτησης";
+
+/* Details string */
+"Details"="Λεπτομέρειες";
+
+/* Pricelist order string */
+"Pricelist order"="Αγορά βάσει τιμοκαταλόγου";
+
+/* Coupon purchase string */
+"Coupon purchase"="Αγορά κουπονιών";
+
+/* Item added to cart string */
+"Item added to cart"="Στο καλάθι";
+
+/* User Agreement string */
+"user_agreement"="Συμφωνία Χρήστη";
+
+/* Privacy policy string */
+"privacy_policy"="Πολιτική Απορρήτου";
+
+/* About app string */
+"about"="Σχετικά με την εφαρμογή";
+
+/* Name details string */
+"Name details"="Όνομα";
+
+/* KM unit string */
+"KM unit"="km";
+
+/* M unit string */
+"M unit"="m";
+"Mile unit"="μι";
+"base.apply"="Εφαρμόστε";
+"base.send"="Στείλετε";
+"base.next"="Επόμενο";
+"base.cancel"="Ακυρώνω";
+"base.close"="Κλείνω";
+"base.continue"="Συνεχίζω";
+"base.could-not-autodefine-location"="Δεν μπορέσαμε να προσδιορίσουμε την τοποθεσία σας\n";
+"base.error"="Σφάλμα";
+"base.error.user-not-authorized"="Ο χρήστης δεν εξουσιοδοτείται";
+"base.information"="Πληροφορίες";
+"base.navigate"="Πηγαίνετε στο";
+"base.register"="Εγγραφείτε";
+"base.required-field"="Υποχρεωτικό πεδίο";
+"base.settings"="Ρυθμίσεις";
+"base.skip"="Παραλείπω";
+"base.write"="Αφήστε ένα μήνυμα";
+"base.sign-in"="Εξουσιοδότηση";
+"base.sign-up"="Εγγραφή χρήστη";
+"base.setup-phone"="Προσθήκη τηλεφώνου";
+"base.today"="Σήμερα";
+"base.exit"="Εξοδος";
+"base.phone-call"="Τηλεφωνήστε";
+"base.scores.multiple"="Πόντοι\n";
+"base.password"="Κωδικός πρόσβασης";
+"base.password-confirmation"="Επιβεβαίωση κωδικού πρόσβασης";
+"base.not-defined"="Δεν διευκρινίζεται";
+"base.my-scores"="Οι βαθμοι μου";
+"base.price-menu"="Τιμή / μενού";
+"base.update"="Ανανέωση ";
+"base.update-available"="Διαθέσιμες ενημερώσεις";
+"base.discount"="Έκπτωση";
+"base.password-changed"="Ο κωδικός πρόσβασης άλλαξε με επιτυχία";
+"base.agreement"="Συμφωνίας";
+"base.level"="Επίπεδο";
+"base.female"="Θηλυκός";
+"base.gender"="Φυλο\n";
+"base.male"="Αρσενικός";
+"base.congratulations"="Συγχαρητήρια";
+"base.you"="Εσείς";
+"base.yesterday"="Εχθές";
+
+
+// error
+"error.request.cancelled"="Η αίτηση ακυρώθηκε";
+"error.data-not-available"="Τα δεδομένα δεν είναι διαθέσιμα";
+"error.internal-server"="Εσωτερικό σφάλμα διακομιστή";
+"error.response.unrecognized"="Ανεγνωρισμένη απάντηση διακομιστή";
+"error.unsupported-version"="Αυτή η έκδοση δεν υποστηρίζεται πλέον";
+"error.to-many-requests"="Πάρα πολλά αιτήματα";
+
+
+"request.cancelled"="Η αίτηση ακυρώθηκε";
+
+
+"user-location.near-me"="Πλησίον";
+
+
+// Application
+"application.notification.text.launch-app-after-change-language"="Πατήστε για να επανεκκινήσετε την εφαρμογή";
+
+
+// walkthrougth
+"walkthrough.page.0.subtitle"="Λάβετε εκπτώσεις και πόντους μπόνους σε όλα τα μέρη που συμμετέχουν στο Παιχνίδι UDS";
+"walkthrough.page.0.title"="Εκπτώσεις και μπόνους!";
+
+"walkthrough.page.1.subtitle"="Οι καλύτερες προσφορές σύμφωνα με τις προτιμήσεις σας.";
+"walkthrough.page.1.title"="Προσφορές και ειδικές προσφορές";
+
+"walkthrough.page.2.subtitle"="Μοιραστείτε κωδικούς προσφοράς με φίλους και κερδίστε πόντους από κάθε αγορά.";
+"walkthrough.page.2.title"="Συστάσεις σε φίλους!";
+
+"walkthrough.skip"="Παραλείπω";
+
+
+// welcome
+"welcome.button.auth"="Συνδεθείτε";
+"welcome.button.continue-without-auth"="Παράλειψη εγγραφής χρήστη";
+"welcome.sign-in"="Συνδεθείτε";
+"welcome.sign-up"="Εγγραφείτε";
+"welcome.social.title"="ή";
+"sign-up.agreements.format"="Με τη εγγραφή σας στην εφαρμογή συμφωνείτε με τα %1$@και τα %2$@";
+"sign-up.agreements.part.user-agreement"="Συμφωνία χρήστη";
+"sign-up.agreements.part.privacy-policy"="Πολιτική Απορρήτου\n";
+"welcome-options.label.title"="Συνδεθείτε στο λογαριασμό σας και βρείτε περισσότερες μοναδικές λειτουργίες του παιχνιδιού UDS";
+
+"auth.facebook"="Facebook";
+"auth.vk"="VK";
+
+
+// phone
+"phone-auth.enter-phone.subtitle"="Πληκτρολογήστε τον αριθμό τηλεφώνου";
+"phone-auth.enter-phone.button"="Αποστολή κώδικα επαλήθευσης";
+"phone-auth.enter-code.title"="Επιβεβαίωση";
+"phone-auth.enter-code.subtitle.format"="Έχουμε στείλει έναν 6ψήφιο κωδικό στο %@";
+"phone-auth.enter-code.button"="Συνεχίστε";
+"phone-auth.enter-code.re-send-button"="Στείλτε ξανά τον κωδικό";
+"phone-auth.error.incorrect-phone-number"="Μη έγκυρος αριθμός τηλεφώνου";
+"phone-auth.error.incorrect-confirmation-code"="Πληκτρολογήθηκε μη έγκυρος κωδικός";
+
+// sign in
+"sign-in-options.button.email"="E-mail";
+"sign-in-options.button.forgot"="Ξεχάσατε τον κωδικό?";
+"sign-in-options.button.phone"="Αριθμός τηλεφώνου";
+"sign-in-options.subtitle"="Σύνδεση χρησιμοποιώντας";
+"sign-in-options.title"="Εξουσιοδότηση";
+
+"sign-in-with-email.password"="Κωδικός πρόσβασης";
+"sign-in-with-email.title"="Συνδεθείτε";
+"sign-in.enter-email.text-field.placeholder"="E-mail";
+
+"sign-in.forgot"="Ξεχάσατε τον κωδικό σας;";
+
+
+// sign up
+"sign-up-options.button.email"="E-mail";
+"sign-up-options.button.phone"="Αριθμός τηλεφώνου";
+"sign-up-options.subtitle"="Επιλέξτε έναν βολικό τρόπο εγγραφής";
+"sign-up-options.title"="Εγγραφή";
+
+"sign-up-with-email.step1.birthday-field.placeholder"="Ημερομηνία γέννησης";
+"sign-up-with-email.step1.code-description"="Κάντε κλικ στην εικόνα για να ανανεώσετε τον κωδικό";
+"sign-up-with-email.step1.code-field.placeholder"="Κωδικοποίηση από την εικόνα";
+"sign-up-with-email.step1.email-field.placeholder"="E-mail ";
+"sign-up-with-email.step1.gender-title"="φύλο";
+"sign-up-with-email.step1.password-field.placeholder"="Κωδικός πρόσβασης";
+"sign-up-with-email.step1.title"="Εγγραφή";
+
+"sign-up-with-email.step2.first-name-field.placeholder"="Όνομα";
+"sign-up-with-email.step2.last-name-field.placeholder"="Επώνυμο";
+"sign-up-with-email.step2.title"="Εγγραφή";
+
+"sign-up-with-phone.birthday-field.placeholder"="Ημερομηνία γέννησης";
+"sign-up-with-phone.first-name-field.placeholder"="Όνομα";
+"sign-up-with-phone.gender-title"="Φυλο";
+"sign-up-with-phone.last-name-field.placeholder"="Επώνυμο";
+"sign-up-with-phone.title"="Εγγραφή";
+
+"sign-up.gender.female"="Γυναικείος";
+"sign-up.gender.male"="Αρσενικός";
+
+
+// restore password
+"restore-password.step-email.title"="Ξεχάσατε τον κωδικό;";
+"restore-password.step-email.subtitle"="Καταχωρίστε το e-mail που δώσατε κατά την εγγραφή";
+"restore-password.step-email.text-field.placeholder"="E-mail ";
+
+"restore-password.step-code.title"="Ξεχάσατε τον κωδικό σας;";
+"restore-password.step-code.subtitle"="Καταχωρίστε τον κωδικό από το e-mail  που στείλαμε στο συγκεκριμένο γραμματοκιβώτιο";
+"restore-password.step-code.text-field.placeholder"="Κωδικός επιβεβαίωσης";
+
+"restore-password.step-new-password.title"="Ανάκτηση κωδικού πρόσβασης";
+"restore-password.confirm-password-field.placeholder"="Επιβεβαίωση";
+"restore-password.password-field.placeholder"="Κωδικός πρόσβασης";
+
+
+// phone
+"phone-already-registered.subtitle"="Κάντε κλικ στο κουμπί για να ανοίξετε την εφαρμογή";
+"phone-already-registered.title"="Αυτός ο αριθμός έχει ήδη έναν χρήστη";
+
+"phone-not-registered.title"="Ο αριθμός τηλεφώνου σας δεν έχει εγγραφεί στην εφαρμογή του παιχνιδιού UDS";
+
+
+// account banned & blocked
+"account-banned.title"="Η πρόσβαση αποκλείεται για παραβιάσεις των όρων της σύμβασης χρήστη. Για να επιλύσετε τους λόγους του αποκλεισμού, επικοινωνήστε με την τεχνική υποστήριξη: support@udsgame.com";
+
+// device id
+"device-uuid-exceeded.device-id-title"="αναγνωριστικό συσκευής";
+"device-uuid-exceeded.subtitle"="Δοκιμάστε να συνδεθείτε χρησιμοποιώντας άλλα εργαλεία σύνδεσης ή να στείλετε ένα στιγμιότυπο οθόνης αυτού του παραθύρου στην αλληλογραφία τεχνικής υποστήριξης";
+"device-uuid-exceeded.title"="Αυτή η συσκευή έχει ήδη εγγραφεί με διαφορετικό λογαριασμό";
+
+
+// city picker
+"city-picker.background.title"="Ωχ! Ζείτε στον Άρη; Παρακαλώ βοηθήστε μας για να σας βρούμε!";
+"city-picker.search.placeholder"="Πόλη ή περιοχή";
+"city-picker.title"="Η τοποθεσία σας";
+"city-picker.background.autodefine-button"="Δοκιμάστε ξανά";
+
+
+// tabs
+"tab.discount"="Έκπτωση";
+"tab.home"="Αρχική σελίδα";
+"tab.offers"="Προσφορές";
+"tab.places"="Μέρη";
+"tab.promo"="Κωδικός προσφοράς";
+
+
+// logout
+"logout.alert.title"="Σφάλμα κατά την έξοδο";
+"logout.alert.push-error"="Προέκυψε ένα σφάλμα. Πιθανώς, η συσκευή σας θα λάβει νέες ειδοποιήσεις push.";
+"logout.alert.try-again"="Επανάληψη";
+
+
+// categories
+"categories.all-categories"="Όλα τα μέρη";
+"categories.all-categories.description"="Θέσεις σε όλες τις κατηγορίες";
+
+"categories.favorite-places"="Αγαπημένα μέρη";
+"categories.my-places"="Τα μέρη μου";
+
+"categories.category.all-places"="Όλα τα μέρη";
+
+"category-preferences.my.title"="Οι προτιμήσεις μου";
+
+"category-preferences.setup.subtitle"="Ειδικές προσφορές που βασίζονται σε αυτές τις προτιμήσεις θα εμφανίζονται πρώτα";
+"category-preferences.setup.title"="Επιλέξτε έως 3 κατηγορίες";
+
+"category-switch.button.switch"="Αντικαθιστώ";
+"category-switch.subtitle"="Αντικαταστήστε τις προηγούμενες επιλεγμένες προτιμήσεις και προσθέστε νέες";
+"category-switch.title"="Ο αριθμός των επιτρεπόμενων κατηγοριών - 3";
+
+
+// settings
+"settings.alert.change-instagram.title"="Αντικαθιστώ";
+"settings.alert.change-skype.title"="Αντικαθιστώ";
+"settings.alert.logout.title"="Είσαι σίγουρος?";
+
+"settings.app-info"="Πληροφορίες";
+"settings.app-language"="Γλώσσα";
+"settings.cell.metric-system"="Μετρικό σύστημα";
+"settings.metric-system.miles"="Μάιλς";
+"settings.metric-system.meters"="Μετρητές";
+"metric-system.title"="Μετρικό σύστημα";
+"settings.cell.about-application"="Σχετικά με την εφαρμογή";
+"settings.cell.confirm-password"="Επιβεβαιώνω";
+"settings.cell.current-password"="Τρέχων κωδικός πρόσβασης";
+"settings.cell.email"="E-mail";
+"settings.cell.email-password"="E-mail / Κωδικός πρόσβασης";
+"settings.cell.instagram"="Instagram";
+"settings.cell.logout"="Αποσύνδεση";
+"settings.cell.new-password"="Νέος Κωδικός";
+"settings.cell.phone"="Τηλεφωνικό νούμερο";
+"settings.cell.skype"="Skype";
+"settings.cell.verify-phone"="Επαληθεύστε τον αριθμό τηλεφώνου";
+"settings.cell.preferences"="Προτιμήσεις";
+"settings.cell.birth-date"="Ημερομηνία γέννησης";
+"settings.cell.last-name"="Επίθετο";
+"settings.cell.user-location"="Πόλη";
+"settings.cell.user-auth.button"="Συνδεθείτε";
+"settings.cell.user-auth.title"="Συνδεθείτε στο λογαριασμό";
+"settings.cell.user-auth.subtitle"="Συνδεθείτε στο λογαριασμό σας και βρείτε περισσότερες μοναδικές λειτουργίες του παιχνιδιού UDS";
+
+
+"settings.notifications.cell.company-news"="Νέα";
+"settings.notifications.cell.company-offers"="Προσφορές";
+"settings.notifications.cell.company-messages"="Μηνύματα";
+"settings.notifications.cell.new-members"="Προσκεκλημένοι φίλοι";
+"settings.notifications.cell.scores-change"="Πόντοι";
+
+"settings.change-language.alert.title"="Αλλαξε γλώσσα";
+"settings.change-language.alert.text"="\"%@\" θα εφαρμοστεί μετά την επανεκκίνηση";
+
+"settings.languages"="Γλώσσες";
+"settings.languages.system"="Γλώσσα συστήματος";
+"settings.reset-to-system-language"="Επαναφορά";
+
+"settings.section.authorization"="Εξουσιοδότηση";
+"settings.section.notifications"="Ειδοποιήσεις";
+"settings.section.social"="Κοινωνικά δίκτυα";
+
+"settings.upload-image"="Η φωτογραφία σου";
+"settings.upload-image.open"="Άνοιξε";
+"settings.upload-image.camera"="Βγάλε μια φωτογραφία";
+"settings.upload-image.gallery"="Επιλέξτε από τη συλλογή φωτογραφιών";
+"settings.upload-image.delete"="Διαγράφω";
+
+"settings.select-phone.message"="Για να αλλάξετε τον αριθμό τηλεφώνου σας, επικοινωνήστε με την τεχνική υποστήριξη στη διεύθυνση support@udsgame.com";
+
+// place
+"place.joining-award.alert.title"="βαθμοί σύστασης";
+"place.joining-award.alert.message"="Θα επιβραβευτείτε με πόντους σύστασης μόλις ο φίλος που σαυ προσκάλεσε προσωπικά κάνει την πρώτη αγορά";
+
+"places.tab.all"="Όλα τα μέρη";
+"places.tab.favorite"="Αγαπημένα";
+"places.tab.my"="Τα μέρη μου";
+
+"places.title"="Μέρη";
+
+"my-places.title"="Τα μέρη μου";
+"my-places.table-placeholder.title"="Τα μέρη μου";
+"my-places.table-placeholder.subtitle"="Τα μέρη που επισκέπτεστε θα εμφανίζονται εδώ";
+
+"favorite-palces.title"="Αγαπημένα μέρη";
+"favorite-places.table-placeholder.title"="Αγαπημένα μέρη";
+"favorite-places.table-placeholder.subtitle"="Προσθέστε τα αγαπημένα σας μέρη";
+
+"company.tab.description"="Περιγραφή";
+"company.tab.news"="Νέα";
+"company.tab.offers"="Προσφορές";
+
+"company.bonus-program-description"="Περιγραφή προγράμματος μπόνους";
+"company.bonus-program-cell.button"="Πρόγραμμα μπόνους";
+"company.branches-cell.button.format"="Εμφάνιση όλων των κλάδων: %@";
+"company.bonus-program.title"="Πρόγραμμα μπόνους";
+
+"company.news-cell.detail-button"="Δείξε λεπτομέρειες...";
+
+"company.action.add-to-favorites"="Προσθήκη στα αγαπημένα";
+"company.action.remove-from-favorites"="Κατάργηση από τα αγαπημένα";
+"company.action.offers-notifications.enabled"="Εγγραφείτε στις προσφορές";
+"company.action.offers-notifications.disabled"="Καταργήστε την εγγραφή από τις προσφορές";
+"company.action.news-notifications.enabled"="Εγγραφείτε στα νέα";
+"company.action.news-notifications.disabled"="Κατάργηση εγγραφής από ειδήσεις";
+
+"company.cell.nearest-branch"="Πλησιέστερη διεύθυνση";
+"company.cell.description"="Σχετικά με εμάς";
+"company.cell.phone"="Τηλεφωνικό νούμερο";
+"company.cell.website"="Δικτυακός τόπος";
+"company.cell.worktime"="Ωρες εργασίας";
+"company.cell.message"="Γράψε ένα μήνυμα";
+"company.cell.branches"="Κλάδος";
+
+"company.worktime.opens-after.format"="Ανοίγει σε %@";
+"company.worktime.remains-opens.format"="Παραμένει ανοιχτό %@";
+"company.worktime.today-closed"="Κλειστό";
+"company.worktime.around-the-clock"="24 ώρες";
+
+"company.error.already-participant"="Έχετε ήδη προστεθεί στην εταιρεία";
+
+"company.message.become-participant"="Έχετε ενώσει με επιτυχία";
+"company.message.declined"="Λυπούμαστε, αυτή η Εταιρεία είναι προσωρινά ανενεργή";
+
+"company.share-text.cashback.format"="Αποκτήστε επιστροφή μετρητών %1$@για αγορές στις %2$@:\n1. Κάντε λήψη της εφαρμογής παιχνιδιών UDS από το %3$@\n2.Εισάγετε %4$@στην ενότητα \"Κωδικός προσφοράς\" και κερδίστε ανταμοιβές και μπόνους!";
+"company.share-text.discount.format"="Αποκτήστε %1$@ΚΑΘΕ αγορά σε οποιαδήποτε αγορά στο %2$@:\n1.Εφαιρέστε την εφαρμογή παιχνιδιών UDS από %3$@\n2.Εισάγετε %4$@στην ενότητα \"Κωδικός προσφοράς\" και λάβετε ανταμοιβή με εκπτώσεις, μπόνους και μετρητά!";
+
+"company.become-participant.message"="Έχετε κερδίσει %1$@πόντοι καλωσορίσματος";
+
+"company.auth-alert.title"="Εγγραφείτε και κερδίστε με μπόνους και πόντους!";
+"company.auth-alert.auth-action.title"="Συνδεθείτε";
+
+
+// companies map
+"companies-map.all-companies.title"="Όλα τα μέρη";
+"companies-map.favorite-companies.title"="Αγαπημένα";
+"companies-map.my-companies.title"="Τα μέρη μου";
+
+"company-add-to-favorite.button.add"="Προσθέτω";
+"company-add-to-favorite.subtitle"="Προσθήκη στα αγαπημένα";
+
+"company-branch.address"="Διευθύνσεις";
+"company-branch.cell.phone"="Τηλεφωνικό νούμερο";
+"company-branch.cell.worktime"="Ωρες εργασίας";
+
+"company-list-tutorial.bottom-view.button"="Συνεχίζω";
+"company-list-tutorial.top-view.favorite"=" Αγαπημένα μέρη";
+"company-list-tutorial.top-view.recommend"="Συστάσεις των τόπων";
+"company-list-tutorial.top-view.title"="Σύρετε προς τα αριστερά και αποκτήστε πρόσβαση σε χαρακτηριστικά";
+
+"company-list.section-header.up-to-3-km"="Μέσα σε 3 χλμ";
+"company-list.section-header.up-to-5-km"="Μέσα σε 5 χλμ";
+"company-list.section-header.up-to-10-km"="Μέσα σε 10 χλμ";
+"company-list.section-header.up-to-20-km"="Μέσα σε 20 χλμ";
+"company-list.section-header.up-to-30-km"="Μέσα σε 30 χλμ";
+"company-list.section-header.greater-30-km"="Περαιτέρω 30 χλμ";
+
+"company-list.section-header.up-to-2-mile"="Μέσα σε 2 μίλια";
+"company-list.section-header.up-to-4-mile"="Σε απόσταση 4 μιλίων";
+"company-list.section-header.up-to-8-mile"="Μέσα σε 8 μίλια";
+"company-list.section-header.up-to-15-mile"="Μέσα σε 15 μίλια";
+"company-list.section-header.up-to-18-mile"="Μέσα σε 18 μίλια";
+"company-list.section-header.greater-18-mile"="Περαιτέρω 18 μίλια";
+
+
+// members structure
+"company.members-structure.level1"="επίπεδο 1";
+"company.members-structure.level2"="επίπεδο 2";
+"company.members-structure.level3"="επίπεδο 3";
+"company.members-structure.no-members-placeholder"="Δεν προσκαλούνται φίλοι";
+"company.members-structure.recommend"="Συνιστώ";
+
+"company.recommend"="Συνιστώ";
+"company.recommend.title"="Συνιστώ";
+"company.recommend.view.title"="Μοιραστείτε τον κωδικό προσφοράς με τους φίλους σας";
+"company.recommendations"="Συστάσεις";
+
+
+// dashboard
+"dashboard.recent-companies.title"="Έχετε επισκεφθεί πρόσφατα";
+"dashboard.search.placeholder"="Αναζήτηση τοποθεσιών";
+
+"dashboard.category-header.button"="Παρακολουθήστε";
+
+"global-search.placeholder"="Έρευνα";
+
+
+// offers
+"offer-trends-cell.button"="Πηγαίνετε στο";
+"offer-trends-cell.subtitle"="Μάθετε τι άρεσαν στους άλλους χρήστες";
+"offer-trends-cell.title"="Επιλογή των χρηστών";
+"offer.action.complaint"="Κάνω παράπονο";
+"offer.expire-date"="Η προσφορά ισχύει μέχρι";
+"offer.quantity"="Εναπομείναντα /Σύνολο";
+"offer.use"="Χρήση";
+
+"offers-filters.cell.location"="Τοποθεσία";
+"offers-filters.title"="Φίλτρο";
+
+"offers-recommended-for-you.title"="Για σενα";
+
+"offers-trending.title"="Επιλογή των χρηστών";
+
+"offers.recommend-header.button"="Πηγαίνετε στο";
+"offers.recommended-header.title"="Ειδικά για εσάς";
+
+"offers.title"="Προσφορές";
+
+"offer.compaint.succes"="Η καταγγελία στάλθηκε";
+
+
+// profile
+"profile.title"="Προφίλ";
+
+
+// qr code
+"qr-code.discount.title"="Εκπτωση";
+"qr-code.discount.subtitle"="Παρουσιάστε τον κωδικό ή τον αριθμό QR στο ταμείο";
+"qr-code.discount.details"="Ισχύει σε κάθε συμμετέχοντα χώρο UDS GAME APP";
+
+"qr-code.offer.title"="Προσφορά";
+"qr-code.offer.subtitle"="Παρουσιάστε τον κωδικό ή τον αριθμό QR στο ταμείο";
+
+"qr-code.storefront.title"="Πληρωμή";
+"qr-code.storefront.subtitle"="Παρουσιάστε τον κωδικό ή τον αριθμό QR στο ταμείο";
+
+"qr-code.input.input-view-title"="Καταχωρίστε έναν κωδικό προσφοράς ή σαρώστε τον";
+"qr-code.input.text-field-placeholder"="Κωδικός προσφοράς";
+"qr-code.input.title"="Κωδικός προσφοράς";
+
+"qr-code.recommend.card-subtitle"="ή χειροκίνητη εισαγωγή";
+"qr-code.recommend.card-title"="Χρησιμοποιήστε κώδικα QR";
+
+
+// sample
+"sample.company1.annotation"="Στέγη καφενείο - ο καλύτερος καφές από την ιταλική barista.";
+"sample.company1.name"="Στέγη";
+
+"sample.company2.annotation"="Κλινική ομορφιάς - αισθητική χειρουργική.";
+"sample.company2.name"="Μπαστιά";
+
+"sample.company3.annotation"="Πιτσαρία - αυθεντική ναπολιτάνικη πίτσα";
+"sample.company3.name"="Bella Italiano";
+
+
+// timeline
+"timeline.type.purchase"="Αγορά";
+"timeline.type.scores-income"="Πόντοι απόκτησης";
+"timeline.type.all"="Όλη η ιστορία";
+
+"timeline.order-by-offer"="Αγορές με προσφορές προώθησης";
+"timeline.scores-refunded"="Οι αποδόσεις επιστράφηκαν";
+"timeline.operation.comment"="Σχόλιο";
+
+"timeline.cell.birday-gift.title"="Δώρο";
+
+"timeline.pricelist-order-cell.purchase.format"="Χρησιμοποιήθηκαν %1$@και %2$@%3$@";
+
+
+// location service
+"location-service.request-timed-out"="Χρονικό όριο περιόδου σύνδεσης";
+"location-service.options-alert.title"="Δεν ήταν δυνατή η εύρεση της τοποθεσίας σας";
+"location-service.options-alert.action.manual-enter"="Εισαγάγετε μη αυτόματα";
+"location-service.options-alert.action.navigate-to-settings"="Μεταβείτε στις ρυθμίσεις";
+
+"city.not-defined"="Δεν βρέθηκε";
+
+// table
+"table.footer.pull-to-load-more"="Πιάστε προς τα κάτω για να φορτώσετε περισσότερα";
+"companies-list-table.footer.no-items"="Δεν βρέθηκε";
+"company-search-table.footer.no-items"="Δεν βρέθηκε";
+"city-search-table.footer.no-items"="Δεν βρέθηκε";
+"offers-table.footer.no-items"="Δεν βρέθηκε";
+
+/* Not delete because used in MWPhotoBrowser pod */
+"Done"="Τέλος";
+"of"="από το";
+
+
+"place.not-defined-neares-branch-cell.text"="Δεν ήταν δυνατή η εύρεση της τοποθεσίας σας";
+"place.not-defined-neares-branch-cell.button"="Προσδιορίστε";
+"paces.table-footer.my-places-empty"="Έχετε πρόσφατα εγγραφεί και δεν έχετε ενταχθεί σε κανέναν ακόμη τόπο :(";
+
+"global-search.cell.location"="Τοποθεσία";
+
+// feedback && poll
+"feedback.title"="Αξιολόγηση";
+"feedback.comment.placeholder"="Παρακαλώ αφήστε τα σχόλιά σας (αν θέλετε)";
+"feedback.rate.title"="Σας ευχαριστούμε για την αγορά σας!";
+"feedback.rate.subtitle.format"="Αξιολογήστε την ποιότητα της υπηρεσίας σε %@";
+
+"feedback-take-poll.title"="Ευχαριστούμε για την ανταπόκρισή σας!";
+"feedback-take-poll.subtitle.format"="%@προσπαθεί σκληρά για να είναι καλύτερη για εσάς! Συμπληρώστε τη σύντομη έρευνα";
+"feedback-take-poll.poll-button"="Ξεκινήστε την έρευνα";
+
+"poll.title"="Δημοσκόπηση";
+
+
+// conversation
+"conversations-list.title"="Μηνύματα";
+"conversations-list.background.title"="Δεν υπάρχουν ακόμη μηνύματα";
+"conversations-list.background.subtitle"="Μπορείτε να ανοίξετε ένα διάλογο στη σελίδα προφίλ της εταιρείας";
+
+"company.messages.alert.unlock-messages"="Ξεκλείδωμα διαλόγου";
+"company.messages.alert.lock-messages"="Αποκλεισμός συνομιλίας";
+"message.forward-rate.title"="Απάντηση στην αξιολόγηση υπηρεσιών";
+"conversation.message-input-toolbar.company-inactive"="Λυπούμαστε, αυτή η Εταιρεία είναι προσωρινά ανενεργή";
+"conversation.message-input-toolbar.company-blocked-messages"="Η εταιρεία δεν είναι αυτή τη στιγμή σε θέση να λαμβάνει μηνύματα";
+"conversation.message-input-toolbar.user-blocked-messages"="Ο συγκεκριμένος διάλογος έχει αποκλειστεί. Δεν μπορείτε να στείλετε ένα μήνυμα.";
+"conversation.message-input-toolbar.user-blocked-messages.button"="Ξεκλείδωμα διαλόγου";
+"messages.input-toolbar.placeholder"="Μήνυμα...";
+
+
+// category picker
+"category-picker.general.title"="Κατηγορία";
+
+
+// company filters
+"company-filters.cell.location"="Πόλη";
+"company-filters.cell.category"="Κατηγορία";
+"company-filters.cell.halal"="Halal";
+"company-filters.cell.rating"="Καλύτεροι χώροι";
+"company-filters.cell.discount"="Εκπτωση";
+"company-filters.cell.cashback"="Επιστροφή μετρητών";
+"company-filters.title"="Φίλτρα";
+"company-filters.button.clear"="Επαναφορά";
+"company-filters.rating-header"="Εκτίμηση";
+"company-filters.bonus-program-header"="Πρόγραμμα μπόνους";
+
+
+// search
+"company-search.title"="Έρευνα";
+
+
+// pushes
+"push-notification.merge-scores.text"="Προβάλετε το ιστορικό πληρωμών μέσω του αριθμού τηλεφώνου καθώς και την προέλευση των σημείων και την εγγραφή στην εταιρεία";
+
+
+// auth
+"restore-password.title"="Ανάκτηση κωδικού πρόσβασης";
+"restore-password.enter-email.title"="Περισσότερες οδηγίες θα σταλούν στo e-mail";
+"restore-password.enter-email.text-field.placeholder"="E-mail";
+
+"restore-password.enter-code.text-field.placeholder"="Κωδικός επιβεβαίωσης";
+"restore-password.enter-code.title.format"="Εισαγάγετε τον κωδικό που λάβατε στο e-mail επιβεβαίωσης %@";
+
+"restore-password.setup-password.title"="Δημιουργήστε έναν νέο κωδικό πρόσβασης";
+"restore-password.setup-password.text-field.placeholder"="Κωδικός πρόσβασης";
+
+"auth.enter-sms-code.button.resend"="Ξαναστείλε τον κωδικό";
+"auth.button.no-account"="Δεν έχω ακόμα λογαριασμό";
+"auth.enter-sms-code.title.format"="Έχουμε στείλει έναν 6ψήφιο κωδικό στο %@";
+"auth.enter-sms-code.label.resend.format"="Στείλτε ξανά στη διεύθυνση: %@";
+"auth.button.sign-in"="Συνδεθείτε";
+"auth.button.sign-up"="Εγγραφείτε";
+"auth.button.restore-password"="Ξεχάσατε τον κωδικό?";
+
+"sign-in.enter-password.text-field.placeholder"="Κωδικός πρόσβασης";
+"sign-in.enter-password.title.format"="Για να συνεχίσετε, εισαγάγετε τον κωδικό πρόσβασής σας για %@";
+
+"sign-in.title"="Συνδεθείτε στο λογαριασμό σας και βρείτε περισσότερες μοναδικές λειτουργίες του παιχνιδιού UDS";
+"sign-in.text-field.placeholder"="E-mail";
+"sign-in.button.sign-up"="Είμαι νέος χρήστης";
+"sign-in.label.social"="Συνδεθείτε χρησιμοποιώντας το κοινωνικό δίκτυο";
+
+"auth.button.already-have-account"="Έχω λογαριασμό UDS Game";
+
+"sign-up.enter-password.title"="Δημιουργήστε έναν νέο κωδικό πρόσβασης";
+"sign-up.enter-password.text-field.placeholder"="Κωδικός πρόσβασης";
+
+"sign-up.enter-captcha.label.captcha"="Κάντε κλικ στην εικόνα για να λάβετε νέο κωδικό";
+"sign-up.enter-captcha.text-field.placeholder"="Εισάγετε τον κωδικό";
+
+"sign-up.enter-user-info.title"="Πείτε κάτι για τον εαυτό σας";
+"sign-up.enter-user-info.text-field.first-name.placeholder"="Όνομα";
+"sign-up.enter-user-info.text-field.last-name.placeholder"="Επώνυμο";
+"sign-up.enter-user-info.text-field.birthday.placeholder"="Ημερομηνία γέννησης";
+"sign-up.enter-user-info.label.gender-title"="Καθορίστε το φύλο σας";
+"sign-up.enter-user-info.label.male-gender"="Αρσενικός";
+"sign-up.enter-user-info.label.female-gender"="Θηλυκός";
+
+"sign-up.title"="Δημιουργήστε έναν λογαριασμό για να ανακαλύψετε όλες τις λειτουργίες της εφαρμογής παιχνιδιών UDS!";
+"sign-up.text-field.placeholder"="E-mail";
+"sign-up.label.social"="Εισάγετε με";
+
+"verify-phone.title"="Επαλήθευση του αριθμού τηλεφώνου";
+"verify-phone.text-field.placeholder"="Τηλέφωνο";
+/* #################### PLIST */
+/* NSLocationWhenInUseUsageDescription */
+"NSCameraUsageDescription"="Σάρωση κώδικα QR";
+
+/* NSLocationWhenInUseUsageDescription */
+"NSLocationWhenInUseUsageDescription"="It’s required to find nearby places";
+
+/* NSPhotoLibraryUsageDescription */
+"NSPhotoLibraryUsageDescription"="It’s required for choosing a profile picture";
+
+/* TGShortcutItemTypeDiscountTitle */
+"TGShortcutItemTypeDiscountTitle"="Εκπτωση";
+
+/* TGShortcutItemTypePromoTitle */
+"TGShortcutItemTypePromoTitle"="Κωδικός προσφοράς";
+
+/* TGShortcutItemTypePlacesTitle */
+"TGShortcutItemTypePlacesTitle"="Μέρη";
+
+/* TGShortcutItemTypeOffersTitle */
+"TGShortcutItemTypeOffersTitle"="Προσφορές";
+/* #################### SETTINGS */
+/* A single strings file, whose title is specified in your preferences schema. The strings files provide the localized content to display to the user for each of your preferences. */
+"Licenses"="Άδειες";
+"Version"="Έκδοση";

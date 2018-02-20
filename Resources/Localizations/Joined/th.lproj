@@ -1,0 +1,725 @@
+/* #################### PROJECT */
+/* And string */
+"base.and"="และ";
+/* are don't match string */
+"are don't match"="ไม่ตรงกัน";
+
+
+"qr-scan.message.camera-required"="หากต้องการอ่านโค้ด QR เกม UDS ต้องการเข้าถึงกล้องของคุณ";
+
+"history.table-footer.empty"="ประวัติการทำงานว่างเปล่า";
+
+
+"price-menu.empty"="ราคาต่อหน่วย";
+"price-menu.empty-cart"="คุณไม่มีรายการในรถเข็น";
+
+"pricelist.add-to-cart"="เพิ่มในตะกร้าสินค้า";
+
+
+"base.price"="ราคา";
+
+"rate.comment-filed.placeholder"="ความคิดเห็นของคุณ";
+
+
+"price-cart.title"="เกวียน";
+"price-cart.base-discount"="ส่วนลดพื้นฐาน";
+"price-cart.purchase"="ซื้อ";
+
+
+
+"price-cart.total-sum"="ทั้งหมด";
+
+"base.total"="ทั้งหมด";
+
+/* Purchase for cash string */
+"price-cart.alert.action.purchase-for-cash.format"="ซื้อเพื่อ %@";
+
+/* Purchase for scores string */
+"Purchase for scores"="ซื้อด้วยคะแนนสะสม";
+
+
+
+
+/* Insufficient scores string */
+"Insufficient scores"="คุณมีคะแนนไม่พอ";
+
+/* Choose action string */
+"Choose action"="เลือกการดำเนินการ";
+
+/* Today from-to work time string */
+"Today from-to work time"="%@วันนี้ ตั้งแต่  ถึง %@";
+
+/* Game not availiable string */
+"Game not availiable"="อ๊ะ! การบำรุงรักษาอยู่ระหว่างดำเนินการ เราจะกลับมาเร็ว ๆ นี้!";
+
+/* Invite award scores string */
+"Invite award scores"="คำแนะนำรางวัล";
+
+/* History string */
+"History"="ประวัติ";
+
+/* To join string */
+"To join"="เข้าร่วม";
+
+/* In cart string */
+"In cart"="ในรถเข็น";
+
+/* Name string */
+"Name"="ชื่อ";
+
+/* Rate string */
+"Rate"="ทบทวน";
+
+/* Rate service string */
+"Rate service"="กรุณาให้คะแนนบริการลูกค้า";
+
+/* joining award scores string */
+"joining award scores"="คะแนนที่ให้ในการแนะนำ";
+
+/* referral reward scores string */
+"referral reward scores"="คะแนนแนะนำ";
+
+/* Price for scores string */
+"Price for scores"="ราคาพร้อมคะแนนโบนัส";
+
+/* Permanent discount string */
+"Permanent discount"="ส่วนลด";
+
+/* Permanent discount 2 string */
+"Permanent discount 2"="ส่วนลด";
+
+/* History new participant string */
+"New participant"="ผู้เข้าร่วมใหม่";
+
+/* You became VIP client at place string */
+"You became VIP client at place"="คุณได้รับสถานะ %@";
+
+/* Bill string */
+"Bill"="เช็คบิล";
+
+/* Scores string */
+"Scores"="คะแนน";
+
+/* Scores incoming string */
+"Scores incoming"="คะแนนคงค้าง";
+
+/* Details string */
+"Details"="รายละเอียด";
+
+/* Pricelist order string */
+"Pricelist order"="ซื้อตามราคา";
+
+/* Coupon purchase string */
+"Coupon purchase"="การซื้อคูปอง";
+
+/* Item added to cart string */
+"Item added to cart"="เพิ่มลงในรถเข็นแล้ว";
+
+/* User Agreement string */
+"user_agreement"="ข้อตกลงการใช้";
+
+/* Privacy policy string */
+"privacy_policy"="นโยบายความเป็นส่วนตัว";
+
+/* About app string */
+"about"="เกี่ยวกับ app";
+
+/* Name details string */
+"Name details"="ชื่อ";
+
+/* KM unit string */
+"KM unit"="กม.";
+
+/* M unit string */
+"M unit"="ม.";
+"base.apply"="ส่งใบสมัคร";
+"base.send"="ส่ง";
+"base.next"="ถัดไป";
+"base.cancel"="ยกเลิก";
+"base.close"="ปิด";
+"base.continue"="ต่อ";
+"base.could-not-autodefine-location"="ไม่พบตำแหน่งของคุณ";
+"base.error"="ผิดพลาด";
+"base.error.user-not-authorized"="ผู้ใช้ไม่ได้รับอนุญาต";
+"base.information"="ข้อมูล";
+"base.navigate"="ไป";
+"base.register"="ลงทะเบียน";
+"base.required-field"="ฟิลด์ที่ต้องระบุ";
+"base.settings"="ตั้งค่า";
+"base.skip"="ข้าม";
+"base.write"="ฝากข้อความ";
+"base.sign-in"="การอนุญาต";
+"base.sign-up"="การลงทะเบียนผู้ใช้";
+"base.setup-phone"="ตั้งค่าโทรศัพท์";
+"base.today"="ในวันนี้";
+"base.exit"="ออก";
+"base.phone-call"="โทร";
+"base.scores.multiple"="คะแนน";
+"base.password"="รหัสผ่าน";
+"base.password-confirmation"="การยืนยันรหัสผ่าน";
+"base.not-defined"="ไม่ระบุ";
+"base.my-scores"="คะแนนโบนัสของฉัน";
+"base.price-menu"="รายการราคา / เมนู";
+"base.update"="เพื่ออัพเดต";
+"base.update-available"="อัปเดตพร้อมใช้งาน";
+"base.discount"="ส่วนลด";
+"base.password-changed"="เปลี่ยนรหัสผ่านของคุณแล้ว";
+"base.agreement"="ข้อตกลง";
+"base.level"="ระดับชั้น";
+"base.female"="หญิง";
+"base.gender"="เพศ";
+"base.male"="ชาย";
+"base.congratulations"="ขอแสดงความยินดี!";
+"base.you"="คุณ";
+"base.yesterday"="เมื่อวาน";
+
+
+// error
+"error.request.cancelled"="ยกเลิกคำขอแล้ว";
+"error.data-not-available"="ข้อมูลไม่พร้อมใช้งาน";
+"error.internal-server"="ข้อผิดพลาดภายในเซิร์ฟเวอร์";
+"error.response.unrecognized"="การตอบสนองของเซิร์ฟเวอร์ที่ไม่รู้จัก";
+"error.unsupported-version"="ไม่รองรับเวอร์ชันนี้";
+"error.to-many-requests"="มีคำขอมากเกินไป";
+
+
+"request.cancelled"="คำขอถูกยกเลิกแล้ว";
+
+
+"user-location.near-me"="ใกล้เคียง";
+
+
+// Application
+"application.notification.text.launch-app-after-change-language"="คลิกเพื่อรีเซ็ต";
+
+
+// walkthrougth
+"walkthrough.page.0.subtitle"="รับรางวัลพร้อมคะแนนสะสมและส่วนลดจากทุกสถานที่ที่เข้าร่วม UDS Game App";
+"walkthrough.page.0.title"="ส่วนลดและโบนัส!";
+
+"walkthrough.page.1.subtitle"="ข้อเสนอที่ดีที่สุดตามความต้องการของคุณ";
+"walkthrough.page.1.title"="โปรโมชั่นและข้อเสนอพิเศษ!";
+
+"walkthrough.page.2.subtitle"="แชร์รหัสโปรโมชันกับเพื่อน ๆ และรับคะแนนสำหรับการซื้อแต่ละครั้ง";
+"walkthrough.page.2.title"="แนะนำให้เพื่อนของคุณ!";
+
+"walkthrough.skip"="ข้าม";
+
+
+// welcome
+"welcome.button.auth"="เข้าระบบ";
+"welcome.button.continue-without-auth"="ข้ามการลงทะเบียนของผู้ใช้";
+"welcome.sign-in"="ล็อคอิน";
+"welcome.sign-up"="สมัครตอนนี้";
+"welcome.social.title"="หรือ";
+"sign-up.agreements.format"="การลงทะเบียนในแอปที่คุณเห็นด้วยกับ %1$@และ %2$@";
+"sign-up.agreements.part.user-agreement"="ข้อตกลงใบอนุญาต";
+"sign-up.agreements.part.privacy-policy"="นโยบายส่วนบุคคลที่เป็นความลับ";
+"welcome-options.label.title"="เข้าสู่ระบบบัญชีของคุณและค้นหาคุณลักษณะเฉพาะอื่น ๆ ของเกม UDS";
+
+"auth.facebook"="Facebook";
+"auth.vk"="VK";
+
+
+// phone
+"phone-auth.enter-phone.subtitle"="ป้อนหมายเลขโทรศัพท์ของคุณ";
+"phone-auth.enter-phone.button"="ส่งรหัสยืนยัน";
+"phone-auth.enter-code.title"="การตรวจสอบ";
+"phone-auth.enter-code.subtitle.format"="เราได้ส่งรหัส 6 หลักไปที่ %@";
+"phone-auth.enter-code.button"="ต่อ";
+"phone-auth.enter-code.re-send-button"="ส่งรหัสใหม่";
+"phone-auth.error.incorrect-phone-number"="หมายเลขโทรศัพท์ไม่ถูกต้อง";
+"phone-auth.error.incorrect-confirmation-code"="รหัสไม่ถูกต้อง";
+
+// sign in
+"sign-in-options.button.email"="ที่อยู่อีเมล";
+"sign-in-options.button.forgot"="ลืมรหัสผ่าน?";
+"sign-in-options.button.phone"="หมายเลขโทรศัพท์";
+"sign-in-options.subtitle"="ลงชื่อเข้าใช้ด้วย";
+"sign-in-options.title"="การอนุญาต";
+
+"sign-in-with-email.password"="รหัสผ่าน";
+"sign-in-with-email.title"="เข้าระบบ";
+"sign-in.enter-email.text-field.placeholder"="ที่อยู่อีเมล";
+
+"sign-in.forgot"="ลืมรหัสผ่าน?";
+
+
+// sign up
+"sign-up-options.button.email"="ที่อยู่อีเมล";
+"sign-up-options.button.phone"="หมายเลขโทรศัพท์";
+"sign-up-options.subtitle"="โปรดเลือกวิธีการลงทะเบียนที่สะดวก";
+"sign-up-options.title"="การลงทะเบียน";
+
+"sign-up-with-email.step1.birthday-field.placeholder"="วันเกิด";
+"sign-up-with-email.step1.code-description"="คลิกที่รูปภาพและต่ออายุรหัส";
+"sign-up-with-email.step1.code-field.placeholder"="รหัสรูปภาพ";
+"sign-up-with-email.step1.email-field.placeholder"="ที่อยู่อีเมล";
+"sign-up-with-email.step1.gender-title"="เพศ";
+"sign-up-with-email.step1.password-field.placeholder"="รหัสผ่าน";
+"sign-up-with-email.step1.title"="การลงทะเบียน";
+
+"sign-up-with-email.step2.first-name-field.placeholder"="ชื่อจริง";
+"sign-up-with-email.step2.last-name-field.placeholder"="นามสกุล";
+"sign-up-with-email.step2.title"="ลงชื่อ";
+
+"sign-up-with-phone.birthday-field.placeholder"="วันเกิด";
+"sign-up-with-phone.first-name-field.placeholder"="ชื่อจริง";
+"sign-up-with-phone.gender-title"="เพศ";
+"sign-up-with-phone.last-name-field.placeholder"="นามสกุล";
+"sign-up-with-phone.title"="ลงชื่อ";
+
+"sign-up.gender.female"="หญิง";
+"sign-up.gender.male"="ชาย";
+
+
+// restore password
+"restore-password.step-email.title"="ลืมรหัสผ่าน?";
+"restore-password.step-email.subtitle"="ป้อนที่อยู่อีเมลที่คุณใช้ขณะลงทะเบียน";
+"restore-password.step-email.text-field.placeholder"="ที่อยู่อีเมล";
+
+"restore-password.step-code.title"="ลืมรหัสผ่าน?";
+"restore-password.step-code.subtitle"="ป้อนรหัสที่ส่งไปยังที่อยู่อีเมลของคุณ";
+"restore-password.step-code.text-field.placeholder"="รหัสยืนยัน";
+
+"restore-password.step-new-password.title"="บันทึกรหัสอีกครั้ง";
+"restore-password.confirm-password-field.placeholder"="ยืนยัน";
+"restore-password.password-field.placeholder"="รหัสผ่าน";
+
+
+// phone
+"phone-already-registered.subtitle"="โปรดคลิกที่ปุ่มเพื่อเปิดแอป";
+"phone-already-registered.title"="หมายเลขโทรศัพท์ลงทะเบียนแล้ว";
+
+"phone-not-registered.title"="หมายเลขโทรศัพท์ของคุณไม่ได้ลงทะเบียนไว้ในแอ็พพลิเคชันเกม UDS";
+
+
+// account banned & blocked
+"account-banned.title"="การเข้าถึงถูกบล็อกเนื่องจากมีการละเมิดข้อตกลงของผู้ใช้ เพื่อชี้แจงสาเหตุของการบล็อกให้ดูที่การสนับสนุนทางเทคนิค:\nsupport@udsgame.com";
+
+// device id
+"device-uuid-exceeded.device-id-title"="รหัสอุปกรณ์";
+"device-uuid-exceeded.subtitle"="โปรดลงชื่อเข้าใช้โดยใช้วิธีการอนุมัติอื่นหรือส่งภาพหน้าจอข้อผิดพลาดไปยังทีมสนับสนุนทางเทคนิคของเรา";
+"device-uuid-exceeded.title"="อุปกรณ์นี้ได้ลงทะเบียนกับบัญชีอื่นแล้ว";
+
+
+// city picker
+"city-picker.background.title"="อ๊ะ! คุณอาศัยอยู่บนดาวอังคารหรือไม่? โปรดช่วยเราหาคุณ!";
+"city-picker.search.placeholder"="เมืองหรือภูมิภาค";
+"city-picker.title"="ตำแหน่งของคุณ";
+"city-picker.background.autodefine-button"="ลองอีกครั้ง";
+
+
+// tabs
+"tab.discount"="ส่วนลด";
+"tab.home"="บ้าน";
+"tab.offers"="ข้อเสนอพิเศษ";
+"tab.places"="สถานที่";
+"tab.promo"="รหัสส่วนลด";
+
+
+// logout
+"logout.alert.title"="ข้อผิดพลาดในการออกจากระบบ";
+"logout.alert.push-error"="เกิดข้อผิดพลาด. อาจเป็นเพราะอุปกรณ์ของคุณจะได้รับการแจ้งเตือนผลักดันใหม่";
+"logout.alert.try-again"="กรุณาลองอีกครั้ง";
+
+
+// categories
+"categories.all-categories"="ทุกสถานที่";
+"categories.all-categories.description"="สถานที่ในทุกหมวด";
+
+"categories.favorite-places"="สถานที่โปรดปราน";
+"categories.my-places"="สถานที่ของฉัน";
+
+"categories.category.all-places"="ทุกสถานที่";
+
+"category-preferences.my.title"="การตั้งค่าของฉัน";
+
+"category-preferences.setup.subtitle"="ข้อเสนอพิเศษตามการตั้งค่าเหล่านี้จะแสดงขึ้นเป็นอันดับแรก";
+"category-preferences.setup.title"="เลือกได้ถึง 3 หมวด";
+
+"category-switch.button.switch"="แทนที่";
+"category-switch.subtitle"="โปรดเปลี่ยนการตั้งค่าที่เลือกก่อนหน้านี้และเพิ่มค่าใหม่";
+"category-switch.title"="จำนวนประเภทที่อนุญาต - 3";
+
+
+// settings
+"settings.alert.change-instagram.title"="แทนที่";
+"settings.alert.change-skype.title"="แทนที่";
+"settings.alert.logout.title"="คุณแน่ใจไหม?";
+
+"settings.app-info"="ข้อมูล";
+"settings.app-language"="ภาษา";
+"settings.cell.about-application"="เกี่ยวกับ app";
+"settings.cell.confirm-password"="ยืนยัน";
+"settings.cell.current-password"="รหัสผ่านปัจจุบัน";
+"settings.cell.email"="ที่อยู่อีเมล";
+"settings.cell.email-password"="อีเมลรหัสผ่าน";
+"settings.cell.instagram"="Instagram";
+"settings.cell.logout"="ล็อคเอ้าท์";
+"settings.cell.new-password"="รหัสใหม่";
+"settings.cell.phone"="หมายเลขโทรศัพท์";
+"settings.cell.skype"="Skype";
+"settings.cell.verify-phone"="ยืนยันหมายเลขโทรศัพท์";
+"settings.cell.preferences"="การตั้งค่า";
+"settings.cell.birth-date"="วันเกิด";
+"settings.cell.last-name"="นามสกุล";
+"settings.cell.user-location"="เมือง";
+"settings.cell.user-auth.button"="เข้าระบบ";
+"settings.cell.user-auth.title"="ลงชื่อเข้าใช้บัญชี";
+"settings.cell.user-auth.subtitle"="เข้าสู่ระบบบัญชีของคุณและค้นหาคุณลักษณะเฉพาะอื่น ๆ ของเกม UDS";
+
+
+"settings.notifications.cell.company-news"="ข่าว";
+"settings.notifications.cell.company-offers"="ข้อเสนอพิเศษ";
+"settings.notifications.cell.company-messages"=" ข้อความ";
+"settings.notifications.cell.new-members"="เพื่อนที่ได้รับเชิญ";
+"settings.notifications.cell.scores-change"="คะแนน";
+
+"settings.change-language.alert.title"="เปลี่ยนภาษา";
+"settings.change-language.alert.text"="%@จะถูกใช้หลังจากรีสตาร์ท";
+
+"settings.languages"="ภาษา";
+"settings.languages.system"="ภาษาของระบบ";
+"settings.reset-to-system-language"="รีเซ็ต";
+
+"settings.section.authorization"="การอนุญาต";
+"settings.section.notifications"="การแจ้งเตือน";
+"settings.section.social"="สังคมออนไลน์";
+
+"settings.upload-image"="ภาพถ่ายของคุณ";
+"settings.upload-image.open"="เปิด";
+"settings.upload-image.camera"="ถ่ายรูป";
+"settings.upload-image.gallery"="เลือกจากแกลเลอรี่ภาพ";
+"settings.upload-image.delete"="ลบ";
+
+"settings.select-phone.message"="หากต้องการเปลี่ยนหมายเลขโทรศัพท์ของคุณโปรดติดต่อฝ่ายสนับสนุนด้านเทคนิคที่ support@udsgame.com";
+
+// place
+"place.joining-award.alert.title"="คะแนนแนะนำ";
+"place.joining-award.alert.message"="คุณจะได้รับคะแนนแนะนำเมื่อเพื่อนที่ได้รับเชิญเป็นรายบุคคลของคุณทำการซื้อครั้งแรก";
+
+"places.tab.all"="ทุกสถานที่";
+"places.tab.favorite"="favorities";
+"places.tab.my"="สถานที่ของฉัน";
+
+"places.title"="สถานที่";
+
+"my-places.title"="สถานที่ของฉัน";
+"my-places.table-placeholder.title"="สถานที่ของฉัน";
+"my-places.table-placeholder.subtitle"="สถานที่ที่คุณไปจะปรากฏที่นี่";
+
+"favorite-palces.title"="สถานที่โปรดปราน";
+"favorite-places.table-placeholder.title"="สถานที่โปรดปราน";
+"favorite-places.table-placeholder.subtitle"="เพิ่มสถานที่ที่คุณชื่นชอบ";
+
+"company.tab.description"="รายละเอียด";
+"company.tab.news"="ข่าว";
+"company.tab.offers"="ข้อเสนอพิเศษ";
+
+"company.bonus-program-description"="คำอธิบายโปรแกรมโบนัส";
+"company.bonus-program-cell.button"="โปรแกรมโบนัส";
+"company.branches-cell.button.format"="แสดงสาขาทั้งหมด: %@";
+"company.bonus-program.title"="โปรแกรมโบนัส";
+
+"company.news-cell.detail-button"="แสดงรายละเอียด...";
+
+"company.action.add-to-favorites"="เพิ่มเป็นรายการโปรด";
+"company.action.remove-from-favorites"="นำออกจากรายการโปรด";
+"company.action.offers-notifications.enabled"="สมัครรับข้อเสนอพิเศษ";
+"company.action.offers-notifications.disabled"="ยกเลิกการรับข้อเสนอพิเศษ";
+"company.action.news-notifications.enabled"="สมัครรับข้อเสนอพิเศษ";
+"company.action.news-notifications.disabled"="ยกเลิกการรับข่าวสาร";
+
+"company.cell.nearest-branch"="ที่อยู่ใกล้ที่สุด";
+"company.cell.description"="เกี่ยวกับเรา";
+"company.cell.phone"="หมายเลขโทรศัพท์";
+"company.cell.website"="เว็บไซต์";
+"company.cell.worktime"="ชั่วโมงทำงาน";
+"company.cell.message"="เขียนข้อความ ...";
+"company.cell.branches"="สาขา";
+
+"company.worktime.opens-after.format"="เปิดมา%@";
+"company.worktime.remains-opens.format"="ยังเปิดอยู่%@";
+"company.worktime.today-closed"="ปิด";
+"company.worktime.around-the-clock"="24 ชั่วโมง";
+
+"company.error.already-participant"="คุณได้เข้าร่วม บริษัท แล้ว";
+
+"company.message.become-participant"="คุณเข้าร่วมเรียบร้อยแล้ว";
+"company.message.declined"="บริษัท ไม่สามารถใช้งานได้ชั่วคราว";
+
+"company.share-text.cashback.format"="รับ %1$@เงินสดคืนเมื่อซื้อที่ %2$@:\n1. ดาวน์โหลด UDS Game App จาก %3$@\n2. เพิ่ม %4$@ในส่วน 'รหัสโปรโมชัน' และรับรางวัลด้วยส่วนลดและโบนัส!";
+"company.share-text.discount.format"="คุณต้องการรับ%1$@ ใน ไหม%2$@\n\n  1. ดาวน์โหลดแอพจาก UDS Game App %3$@\n\n  2. %4$@เลือกส่วนรหัสโปรโมชันและป้อนรหัสต่อไปนี้: \n\n    รับส่วนลดโบนัสและการกู้คืนซอฟท์แวร์ UDS Game!";
+
+"company.become-participant.message"="คุณได้รับ %1$@จุดต้อนรับ";
+
+
+// companies map
+"companies-map.all-companies.title"="ทุกสถานที่";
+"companies-map.favorite-companies.title"="ที่ชื่นชอบ";
+"companies-map.my-companies.title"="สถานที่ของฉัน";
+
+"company-add-to-favorite.button.add"="เพิ่ม";
+"company-add-to-favorite.subtitle"="เพิ่มเป็นรายการโปรด";
+
+"company-branch.address"="ที่อยู่";
+"company-branch.cell.phone"="หมายเลขโทรศัพท์";
+"company-branch.cell.worktime"="ชั่วโมงทำงาน";
+
+"company-list-tutorial.bottom-view.button"="ต่อ";
+"company-list-tutorial.top-view.favorite"="สถานที่โปรดปราน";
+"company-list-tutorial.top-view.recommend"="ข้อเสนอแนะของสถานที่";
+"company-list-tutorial.top-view.title"="กวาดนิ้วไปทางซ้ายและเข้าถึงคุณลักษณะต่างๆ";
+
+"company-list.section-header.up-to-3-km"="ภายใน 3 กม";
+"company-list.section-header.up-to-5-km"="ภายใน 3 กม";
+"company-list.section-header.up-to-10-km"="ภายใน 3 กม";
+"company-list.section-header.up-to-20-km"="ภายใน 3 กม";
+"company-list.section-header.up-to-30-km"="ภายใน 3 กม";
+
+
+// members structure
+"company.members-structure.level1"="ระดับ 1";
+"company.members-structure.level2"="ระดับ 2";
+"company.members-structure.level3"="ระดับ 3";
+"company.members-structure.no-members-placeholder"="ไม่มีเพื่อนที่ได้รับเชิญ";
+"company.members-structure.recommend"="แนะนำ";
+
+"company.recommend"="แนะนำ";
+"company.recommend.title"="แนะนำ";
+"company.recommend.view.title"="แชร์รหัสโปรโมชันกับเพื่อนของคุณ";
+"company.recommendations"="ข้อเสนอแนะ";
+
+
+// dashboard
+"dashboard.recent-companies.title"="คุณเพิ่งเข้าชม";
+"dashboard.search.placeholder"="ค้นหาสถานที่";
+
+"dashboard.category-header.button"="ดู";
+
+"global-search.placeholder"="ค้นหา";
+
+
+// offers
+"offer-trends-cell.button"="ไป";
+"offer-trends-cell.subtitle"="ดูสถานที่ที่ชอบมากที่สุด";
+"offer-trends-cell.title"="ทางเลือกของผู้ใช้";
+"offer.action.complaint"="ทำการฟ้องร้อง";
+"offer.expire-date"="ข้อเสนอพิเศษใช้ได้จนถึง";
+"offer.quantity"="เหลือ / ทั้งหมด";
+"offer.use"="ใช้";
+
+"offers-filters.cell.location"="ที่ตั้ง";
+"offers-filters.title"="กรอง";
+
+"offers-recommended-for-you.title"="สำหรับคุณ";
+
+"offers-trending.title"="ทางเลือกของผู้ใช้";
+
+"offers.recommend-header.button"="ไป";
+"offers.recommended-header.title"="พิเศษสำหรับคุณ";
+
+"offers.title"="ข้อเสนอพิเศษ";
+
+"offer.compaint.succes"="ส่งการร้องเรียนแล้ว";
+
+
+// profile
+"profile.title"="ข้อมูลส่วนตัว";
+
+
+// qr code
+"qr-code.discount.title"="ส่วนลด";
+"qr-code.discount.subtitle"="แสดงรหัส QR หรือหมายเลขแคชเชียร์";
+"qr-code.discount.details"="ใช้ได้ที่สถานที่จัดงาน UDS GAME APP ที่เข้าร่วมโครงการ";
+
+"qr-code.offer.title"="เสนอ";
+"qr-code.offer.subtitle"="แสดงรหัส QR หรือหมายเลขแคชเชียร์";
+
+"qr-code.storefront.title"="การชำระเงิน";
+"qr-code.storefront.subtitle"="แสดงรหัส QR หรือหมายเลขแคชเชียร์";
+
+"qr-code.input.input-view-title"="ป้อนรหัสโปรโมชันหรือสแกน";
+"qr-code.input.text-field-placeholder"="รหัสส่วนลด";
+"qr-code.input.title"="รหัสส่วนลด";
+
+"qr-code.recommend.card-subtitle"="หรือป้อนด้วยตนเอง";
+"qr-code.recommend.card-title"="ใช้โค้ด QR";
+
+
+// sample
+"sample.company1.annotation"="หลังคาบ้านกาแฟ - กาแฟที่ดีที่สุดจากบาริสตีอิตาเลียน";
+"sample.company1.name"="หลังคา";
+
+"sample.company2.annotation"="คลินิกความงาม - ศัลยกรรมความงาม";
+
+"sample.company3.annotation"="พิซซ่า - พิซซ่าสไตล์เนเปิลส์แท้";
+"sample.company3.name"="Bella Italiano";
+
+
+// timeline
+"timeline.type.purchase"="ซื้อ";
+"timeline.type.scores-income"="คะแนนคงค้าง";
+"timeline.type.all"="ประวัติทั้งหมด";
+
+"timeline.order-by-offer"="การซื้อที่ทำด้วยข้อเสนอพิเศษโปรโมชัน";
+"timeline.scores-refunded"="คะแนนที่ได้รับคืน";
+"timeline.operation.comment"="ความเห็น";
+
+"timeline.cell.birday-gift.title"="ของขวัญ";
+
+"timeline.pricelist-order-cell.purchase.format"="ใช้จ่าย %1$@คะแนนและ %2$@%3$@";
+
+
+// location service
+"location-service.request-timed-out"="หมดเวลา";
+"location-service.options-alert.title"="ไม่พบตำแหน่งของคุณ";
+"location-service.options-alert.action.manual-enter"="คู่มือการใช้";
+"location-service.options-alert.action.navigate-to-settings"="ไปที่การตั้งค่า";
+
+"city.not-defined"="ไม่พบ";
+
+// table
+"table.footer.pull-to-load-more"="โปรดกวาดลงเพื่อโหลดเพิ่มเติม";
+"companies-list-table.footer.no-items"="ไม่พบ";
+"company-search-table.footer.no-items"="ไม่พบ";
+"city-search-table.footer.no-items"="ไม่พบ";
+"offers-table.footer.no-items"="ไม่พบ";
+
+/* Not delete because used in MWPhotoBrowser pod */
+"Done"="เสร็จสิ้น\n";
+"of"="ของ";
+
+
+"place.not-defined-neares-branch-cell.text"="ไม่พบตำแหน่งของคุณ";
+"place.not-defined-neares-branch-cell.button"="กำหนด";
+"paces.table-footer.my-places-empty"="คุณเพิ่งลงทะเบียนและคุณยังไม่ได้เข้าร่วมสถานที่ใด ๆ : (";
+
+"global-search.cell.location"="ที่ตั้ง";
+
+// feedback && poll
+"feedback.title"="ผลตอบรับ";
+"feedback.comment.placeholder"="กรุณาใส่ความคิดเห็นของคุณ (ถ้าต้องการ)";
+"feedback.rate.title"="ขอขอบคุณสำหรับการซื้อของคุณ!";
+"feedback.rate.subtitle.format"="โปรดให้คะแนนคุณภาพของบริการใน %@";
+
+"feedback-take-poll.title"="ขอบคุณสำหรับความคิดเห็นของคุณ!";
+"feedback-take-poll.subtitle.format"="%@กำลังพยายามอย่างเต็มที่เพื่อให้ดียิ่งขึ้นสำหรับคุณ! โปรดกรอกแบบสำรวจสั้น ๆ";
+"feedback-take-poll.poll-button"="เริ่มการสำรวจ";
+
+"poll.title"="สำรวจ";
+
+
+// conversation
+"conversations-list.title"=" ข้อความ";
+"conversations-list.background.title"="ยังไม่มีข้อความ";
+"conversations-list.background.subtitle"="คุณสามารถเปิดบทสนทนาได้ในหน้าโปรไฟล์ บริษัท";
+
+"company.messages.alert.unlock-messages"="เลิกบล็อกการสนทนา";
+"company.messages.alert.lock-messages"="บล็อกการสนทนา";
+"message.forward-rate.title"="การตอบสนองต่อข้อเสนอแนะ";
+"conversation.message-input-toolbar.company-inactive"="บริษัท ไม่สามารถใช้งานได้ชั่วคราว";
+"conversation.message-input-toolbar.company-blocked-messages"="ปัจจุบัน บริษัท ไม่สามารถรับข้อความได้";
+"conversation.message-input-toolbar.user-blocked-messages"="บทสนทนานี้ถูกบล็อก คุณไม่สามารถส่งข้อความ";
+"conversation.message-input-toolbar.user-blocked-messages.button"="เลิกบล็อกข้อความ";
+"messages.input-toolbar.placeholder"="ข้อความ ...";
+
+
+// category picker
+"category-picker.general.title"="หมวดหมู่";
+
+
+// company filters
+"company-filters.cell.location"="เมือง";
+"company-filters.cell.category"="หมวดหมู่";
+"company-filters.cell.halal"="ฮาลาล";
+"company-filters.cell.rating"="สถานที่ที่ดีที่สุด";
+"company-filters.cell.discount"="ส่วนลด";
+"company-filters.cell.cashback"="เงินคืน";
+"company-filters.title"="ตัวกรอง";
+"company-filters.button.clear"="รีเซ็ต";
+"company-filters.rating-header"="อันดับ";
+"company-filters.bonus-program-header"="โปรแกรมโบนัส";
+
+
+// search
+"company-search.title"="ค้นหา";
+
+
+// pushes
+"push-notification.merge-scores.text"="ดูประวัติการชำระเงินผ่านทางหมายเลขโทรศัพท์รวมทั้งจุดเริ่มต้นของจุดและการลงทะเบียนใน บริษัท";
+
+
+// auth
+"restore-password.title"="การกู้คืนรหัสผ่าน";
+"restore-password.enter-email.title"="คำแนะนำเพิ่มเติมจะถูกส่งไปยัง e-mail ของคุณ";
+"restore-password.enter-email.text-field.placeholder"="อีเมล";
+
+"restore-password.enter-code.text-field.placeholder"="รหัสยืนยัน";
+"restore-password.enter-code.title.format"="โปรดป้อนรหัสที่คุณได้รับในอีเมลยืนยัน %@";
+
+"restore-password.setup-password.title"="สร้างรหัสผ่านใหม่";
+"restore-password.setup-password.text-field.placeholder"="รหัสผ่าน";
+
+"auth.enter-sms-code.button.resend"="ส่งรหัสอีกครั้ง";
+"auth.button.no-account"="ฉันยังไม่มีบัญชี";
+"auth.enter-sms-code.title.format"="เราได้ส่งรหัส 6 หลักไปที่ %@";
+"auth.enter-sms-code.label.resend.format"="ส่งอีกครั้ง: %@";
+"auth.button.sign-in"="เข้าระบบ";
+"auth.button.sign-up"="ลงชื่อ";
+"auth.button.restore-password"="ลืมรหัสผ่าน?";
+
+"sign-in.enter-password.text-field.placeholder"="รหัสผ่าน";
+"sign-in.enter-password.title.format"="หากต้องการดำเนินการต่อโปรดป้อนรหัสผ่านสำหรับ %@";
+
+"sign-in.title"="ลงชื่อเข้าใช้บัญชีของคุณและหาคุณลักษณะเฉพาะอื่น ๆ UDS Game";
+"sign-in.button.sign-up"="ฉันเป็นผู้ใช้ใหม่";
+"sign-in.label.social"="ป้อนด้วย";
+
+"auth.button.already-have-account"="ฉันมีบัญชี UDS Game";
+
+"sign-up.enter-password.title"="สร้างรหัสผ่านใหม่";
+"sign-up.enter-password.text-field.placeholder"="รหัสผ่าน";
+
+"sign-up.enter-captcha.label.captcha"="คลิกภาพเพื่อรับรหัสใหม่";
+"sign-up.enter-captcha.text-field.placeholder"="ใส่รหัส";
+
+"sign-up.enter-user-info.title"="บอกอะไรบางอย่างเกี่ยวกับตัวคุณเอง";
+"sign-up.enter-user-info.text-field.first-name.placeholder"="ชื่อจริง";
+"sign-up.enter-user-info.text-field.last-name.placeholder"="นามสกุล";
+"sign-up.enter-user-info.text-field.birthday.placeholder"="วันเกิด";
+"sign-up.enter-user-info.label.gender-title"="ระบุเพศของคุณ";
+"sign-up.enter-user-info.label.male-gender"="ชาย";
+"sign-up.enter-user-info.label.female-gender"="หญิง";
+
+"sign-up.title"="สร้างบัญชีเพื่อค้นหาคุณลักษณะทั้งหมดของ UDS Game App!";
+"sign-up.label.social"="ป้อนด้วย";
+
+"verify-phone.title"="การยืนยันทางโทรศัพท์";
+"verify-phone.text-field.placeholder"="โทรศัพท์";
+/* #################### PLIST */
+/* NSLocationWhenInUseUsageDescription */
+"NSCameraUsageDescription"="สแกนโค้ด QR";
+
+/* NSLocationWhenInUseUsageDescription */
+"NSLocationWhenInUseUsageDescription"="ต้องหาสถานที่ใกล้เคียง";
+
+/* NSPhotoLibraryUsageDescription */
+"NSPhotoLibraryUsageDescription"="จำเป็นสำหรับการเลือกรูปโปรไฟล์";
+
+/* TGShortcutItemTypeDiscountTitle */
+"TGShortcutItemTypeDiscountTitle"="ส่วนลด";
+
+/* TGShortcutItemTypePromoTitle */
+"TGShortcutItemTypePromoTitle"="รหัสส่วนลด";
+
+/* TGShortcutItemTypePlacesTitle */
+"TGShortcutItemTypePlacesTitle"="สถานที่";
+
+/* TGShortcutItemTypeOffersTitle */
+"TGShortcutItemTypeOffersTitle"="ข้อเสนอพิเศษ";
+/* #################### SETTINGS */
+/* A single strings file, whose title is specified in your preferences schema. The strings files provide the localized content to display to the user for each of your preferences. */
+"Licenses"="ใบอนุญาต";
+"Version"="รุ่น";

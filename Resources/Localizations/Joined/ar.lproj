@@ -1,0 +1,630 @@
+/* #################### PROJECT */
+/* And string */
+"base.and"="و";
+/* are don't match string */
+"are don't match"="لا تتطابق";
+
+
+"qr-scan.message.camera-required"="لقراءة رمز USD Game ,QR يحتاج إلى الوصول إلى الكميرا";
+
+"history.table-footer.empty"="تاريخ العملية فارغ";
+
+
+"price-menu.empty"="قائمة الأسعار فارغة";
+"price-menu.empty-cart"="ليس لديك أي عناصر في سلة التسوق";
+
+"pricelist.add-to-cart"="تمت الإضافة إلى السلة";
+
+
+"base.price"="السعر";
+
+"rate.comment-filed.placeholder"="تعليقك";
+
+
+
+/* u.e. string */
+"u.e."="أكتب رسالة";
+
+
+"price-cart.title"="السلة";
+"price-cart.base-discount"="خصم أساسي";
+"price-cart.purchase"="شراء";
+
+
+
+"price-cart.total-sum"="المجموع";
+
+"base.total"="المجموع";
+
+/* Purchase for cash string */
+"price-cart.alert.action.purchase-for-cash.format"="شراء ل%@";
+
+/* Purchase for scores string */
+"Purchase for scores"="شراء مع نقاط المكافأة";
+
+/* Insufficient scores string */
+"Insufficient scores"="لا ما يكفي من النقاط";
+
+/* Choose action string */
+"Choose action"="اختر إجراء";
+
+/* Today from-to work time string */
+"Today from-to work time"="اليوم من %@ الى %@";
+
+/* Game not availiable string */
+"Game not availiable"="!Oops, الصيانة قيد التنفيذ. سوف نعود قريبا!\n";
+
+/* Invite award scores string */
+"Invite award scores"="مكافأة التوصية";
+
+/* History string */
+"History"="سجل";
+
+/* To join string */
+"To join"="إنضم إلى";
+
+/* In cart string */
+"In cart"="في السلة";
+
+/* Name string */
+"Name"="الاسم";
+
+/* Rate string */
+"Rate"="إعادة النظر";
+
+/* Rate service string */
+"Rate service"="يرجى تقييم خدمة العملاء";
+
+/* joining award scores string */
+"joining award scores"="نقاط الترحيب";
+
+/* referral reward scores string */
+"referral reward scores"="نقاط التوصية";
+
+/* Price for scores string */
+"Price for scores"="السعر مع نقاط المكافأة";
+
+/* Earned join scores string */
+"company.become-participant.message"="You have earned %1$@ welcome points";
+
+/* Permanent discount string */
+"Permanent discount"="خصم";
+
+/* Permanent discount 2 string */
+"Permanent discount 2"="خصم";
+
+/* History new participant string */
+"New participant"="مشارك جديد";
+
+/* You became VIP client at place string */
+"You became VIP client at place"="ستحصل على%@ من العملية\n";
+
+/* Bill string */
+"Bill"="التحقق";
+
+/* Scores string */
+"Scores"="نقاط";
+
+/* Scores incoming string */
+"Scores incoming"="نقاط الاستحقاق";
+
+/* Details string */
+"Details"="تفاصيل";
+
+/* Pricelist order string */
+"Pricelist order"="الشراء حسب قائمة الأسعار";
+
+/* Coupon purchase string */
+"Coupon purchase"="شراء القسيمة";
+
+/* Item added to cart string */
+"Item added to cart"="تمت الإضافة إلى السلة";
+
+/* User Agreement string */
+"user_agreement"="اتفاقية المستخدم";
+
+/* Privacy policy string */
+"privacy_policy"="سياسة الخصوصية";
+
+/* About app string */
+"about"="حول التطبيق";
+
+/* Name details string */
+"Name details"="الاسم";
+
+/* KM unit string */
+"KM unit"="كيلو متر";
+
+/* M unit string */
+"M unit"="متر";
+
+
+
+// Base
+"base.apply"="تطبيق";
+"base.send"="إرسال";
+"base.next"="التالى";
+"base.cancel"="إلغاء";
+"base.close"="قريب";
+"base.continue"="استمرار";
+"base.could-not-autodefine-location"="لا يمكن العثور على موقعك";
+"base.error"="خطأ";
+"base.error.user-not-authorized"="المستخدم غير مخول";
+"base.information"="معلومات";
+"base.navigate"="اذهب";
+"base.register"="تسجيل";
+"base.required-field"="يتطلب حقلا";
+"base.settings"="إعدادات";
+"base.skip"="تخطى";
+"base.write"="اترك رسالة";
+"base.sign-in"="ترخيص";
+"base.sign-up"="تسجيل المستخدم";
+"base.setup-phone"="تعيين الهاتف";
+"base.today"="اليوم";
+"base.exit"="خروج";
+"base.phone-call"="مكالمة";
+"base.scores.multiple"="نقاط";
+"base.password"="كلمة السر";
+"base.password-confirmation"="تأكيد كلمة المرور";
+"base.not-defined"="غير محدد";
+"base.my-scores"="نقاط المكافأة الخاصة بي";
+"base.price-menu"="السعر / القائمة";
+"base.update"="تحديث";
+"base.update-available"="التحديثات المتوفرة";
+"base.discount"="خصم";
+"base.password-changed"="تم تغيير كلمة السر الخاصة بك";
+"base.agreement"="اتفاقية";
+"base.level"="مستوى";
+"base.female"="أنثى";
+"base.gender"="الجنس";
+"base.male"="ذكر";
+"base.congratulations"="تهانينا!";
+"base.you"="أنت";
+"base.yesterday"="أمس";
+
+
+// error
+"error.request.cancelled"="تم إلغاء الطلب";
+"error.data-not-available"="البيانات غير متوفرة";
+"error.internal-server"="خطأ في الخادم الداخلي";
+"error.response.unrecognized"="استجابة الخادم غير معروفة";
+"error.unsupported-version"="الإصدار غير معتمد";
+"error.to-many-requests"="الطلبات كثيرة جدا";
+
+
+"request.cancelled"="تم إلغاء الطلب";
+
+
+"user-location.near-me"="قريب";
+
+
+// Application
+"application.notification.text.launch-app-after-change-language"="انقر لإعادة تعيين";
+
+
+// walkthrougth
+"walkthrough.page.0.subtitle"="الحصول على خصومات ونقاط المكافأة في جميع الأماكن المشاركة في UDS Game.";
+"walkthrough.page.0.title"="الخصومات والمكافآت!";
+
+"walkthrough.page.1.subtitle"="أفضل العروض وفقا لتفضيلاتك.";
+"walkthrough.page.1.title"="الترقيات والعروض الخاصة!";
+
+"walkthrough.page.2.subtitle"="مشاركة رموز الترويجي مع أصدقاء لك والحصول على نقاط لكل عملية شراء.";
+"walkthrough.page.2.title"="أوصي به لأصدقائك!";
+
+"walkthrough.skip"="تخطى";
+
+
+// welcome
+"welcome.sign-in"="تسجيل الدخول";
+"welcome.sign-up"="سجل الان";
+"welcome.social.title"="أو";
+
+
+"auth.facebook"="فيس بوك";
+
+
+// phone
+"phone-auth.enter-phone.subtitle"="أدخل رقم هاتفك";
+"phone-auth.enter-phone.button"="إرسال رمز التحقق";
+"phone-auth.enter-code.title"="التحقق";
+"phone-auth.enter-code.subtitle.format"="لقد أرسلنا رمزمكون من 6 أرقام إلى %@";
+"phone-auth.enter-code.button"="استمرار";
+"phone-auth.enter-code.re-send-button"="إرسال رمز جديد";
+"phone-auth.error.incorrect-phone-number"="رقم الهاتف غير صحيح";
+"phone-auth.error.incorrect-confirmation-code"="شفرة خاطئة";
+
+// sign in
+"sign-in-options.button.email"="عنوان البريد الإلكتروني";
+"sign-in-options.button.forgot"="هل نسيت كلمة المرور؟";
+"sign-in-options.button.phone"="رقم الهاتف";
+"sign-in-options.subtitle"="تسجيل الدخول ب";
+"sign-in-options.title"="ترخيص";
+
+"sign-in-with-email.password"="كلمه السر";
+"sign-in-with-email.title"="تسجيل الدخول";
+"sign-in.enter-email.text-field.placeholder"="عنوان البريد الإلكتروني";
+
+"sign-in.forgot"="هل نسيت كلمة المرور؟";
+
+
+// sign up
+"sign-up-options.button.email"="عنوان البريد الإلكتروني";
+"sign-up-options.button.phone"="رقم الهاتف";
+"sign-up-options.subtitle"="الرجاء اختيار طريقة تسجيل مريحة";
+"sign-up-options.title"="التسجيل";
+
+"sign-up-with-email.step1.birthday-field.placeholder"="تاريخ الولادة";
+"sign-up-with-email.step1.code-description"="انقر على الصورة وجدد الرمز";
+"sign-up-with-email.step1.code-field.placeholder"="رمز من الصورة";
+"sign-up-with-email.step1.email-field.placeholder"="عنوان البريد الإلكتروني";
+"sign-up-with-email.step1.gender-title"="الجنس";
+"sign-up-with-email.step1.password-field.placeholder"="كلمه السر";
+"sign-up-with-email.step1.title"="التسجيل";
+
+"sign-up-with-email.step2.first-name-field.placeholder"="الاسم الاول";
+"sign-up-with-email.step2.last-name-field.placeholder"="الكنية";
+"sign-up-with-email.step2.title"="سجل";
+
+"sign-up-with-phone.birthday-field.placeholder"="تاريخ الولادة";
+"sign-up-with-phone.first-name-field.placeholder"="الاسم الاول";
+"sign-up-with-phone.gender-title"="الجنس";
+"sign-up-with-phone.last-name-field.placeholder"="اسم العائلة";
+"sign-up-with-phone.title"="سجل";
+
+"sign-up.gender.female"="أنثى";
+"sign-up.gender.male"="ذكر";
+
+
+// restore password
+"restore-password.step-email.title"="هل نسيت كلمة المرور؟";
+"restore-password.step-email.subtitle"="أدخل عنوان البريد الإلكتروني الذي استخدمته أثناء التسجيل";
+"restore-password.step-email.text-field.placeholder"="عنوان البريد الإلكتروني";
+
+"restore-password.step-code.title"="هل نسيت كلمة المرور؟";
+"restore-password.step-code.subtitle"="أدخل الرمز المرسل إلى عنوان بريدك الإلكتروني";
+"restore-password.step-code.text-field.placeholder"="تأكيد الكود";
+
+"restore-password.step-new-password.title"="استعادة كلمة المرور";
+"restore-password.confirm-password-field.placeholder"="تأكيد";
+"restore-password.password-field.placeholder"="كلمه السر";
+
+
+// phone
+"phone-already-registered.subtitle"="يرجى النقر على زر لفتح التطبيق";
+"phone-already-registered.title"="رقم الهاتف مسجل بالفعل";
+
+"phone-not-registered.title"="لم يتم تسجيل رقم الهاتف في UDS Game app";
+
+
+// account banned & blocked
+"account-banned.title"="لقد نم حظر الوصول لانتهاك اتفاقية المستخدم. لتوضيح أسباب الكتلة تشير إلى الدعم الفني:\nsupport@udsgame.com";
+
+// device id
+"device-uuid-exceeded.device-id-title"="معرف الجهاز";
+"device-uuid-exceeded.subtitle"="الرجاء تسجيل الدخول باستخدام طرق التفويض الأخرى أو إرسال صورة الخطا الى فريق الدعم الفني";
+"device-uuid-exceeded.title"="هذا الجهاز مسجل بالفعل بحساب مختلف";
+
+
+// city picker
+"city-picker.background.title"="عذرا! هل تعيش على المريخ؟ الرجاء مساعدتنا قائد عليك!";
+"city-picker.search.placeholder"="المدينة أو المنطقة";
+"city-picker.title"="مكانك";
+"city-picker.background.autodefine-button"="حاول ثانية";
+
+
+// tabs
+"tab.discount"="خصم";
+"tab.home"="الصفحة الرئيسية";
+"tab.offers"="عروض";
+"tab.places"="أماكن";
+"tab.promo"="رمز ترويجي";
+
+
+// logout
+"logout.alert.title"="خطأ في تسجيل الخروج";
+"logout.alert.push-error"="حدث خطأ. ربما، سوف يتلقى جهازك دفعه إخطارات جديدة.";
+"logout.alert.try-again"="حاول مرة اخرى";
+
+
+// categories
+"categories.all-categories"="جميع الأماكن";
+"categories.all-categories.description"="الأماكن في جميع الفئات";
+
+"categories.favorite-places"="الأماكن المفضلة";
+"categories.my-places"="أماكني";
+
+"categories.category.all-places"="جميع الأماكن";
+
+"category-preferences.my.title"="تفضيلاتي";
+
+"category-preferences.setup.subtitle"="سيتم عرض العروض الخاصة على أساس هذه التفضيلات أولا";
+"category-preferences.setup.title"="اختيار ما يصل إلى 3 فئات";
+
+"category-switch.button.switch"="استبدل";
+"category-switch.subtitle"="يرجى استبدال التفضيلات المحددة سابقا وإضافة تفضيلات جديدة";
+"category-switch.title"="عدد الفئات المسموح بها - 3";
+
+
+// settings
+"settings.alert.change-instagram.title"="استبدل";
+"settings.alert.change-skype.title"="استبدل";
+"settings.alert.logout.title"="هل أنت واثق؟";
+
+"settings.app-info"="معلومات";
+"settings.app-language"="لغة";
+
+"settings.cell.about-application"="حول التطبيق";
+"settings.cell.confirm-password"="تأكيد";
+"settings.cell.current-password"="كلمة السر الحالية";
+"settings.cell.email"="عنوان البريد الإلكتروني";
+"settings.cell.email-password"="البريد الإلكتروني / كلمة مرور";
+"settings.cell.instagram"="إينستاجرام";
+"settings.cell.logout"="تسجيل الخروج";
+"settings.cell.new-password"="كلمة السر الجديدة";
+"settings.cell.phone"="رقم الهاتف";
+"settings.cell.skype"="سكايب";
+"settings.cell.verify-phone"="التحقق من رقم الهاتف";
+"settings.cell.preferences"="تفضيلات";
+"settings.cell.birth-date"="تاريخ الولادة";
+"settings.cell.last-name"="اسم العائلة";
+
+"settings.notifications.cell.company-news"="أخبار";
+"settings.notifications.cell.company-offers"="عروض";
+"settings.notifications.cell.company-messages"="رسائل";
+"settings.notifications.cell.new-members"="الأصدقاء المدعويين";
+"settings.notifications.cell.scores-change"="نقاط";
+
+"settings.change-language.alert.title"="نغيير اللغة";
+"settings.change-language.alert.text"="\"%@\" سيتم تطبيق بعد إعادة التشغيل";
+
+"settings.languages"="اللغات";
+"settings.languages.system"="لغة النظام";
+"settings.reset-to-system-language"="إعادة تعيين";
+
+"settings.section.authorization"="ترخيص";
+"settings.section.notifications"="إشعارات";
+"settings.section.social"="الشبكات اجتماعية";
+
+"settings.upload-image"="صورتك";
+"settings.upload-image.open"="فتح";
+"settings.upload-image.camera"="التقاط صورة";
+"settings.upload-image.gallery"="اختر من معرض الصور";
+"settings.upload-image.delete"="حذف";
+
+"settings.select-phone.message"="لتغيير رقم هاتفك، يرجى الاتصال بالدعم الفني على\nsupport@udsgame.com";
+
+
+// place
+"place.joining-award.alert.title"="نقاط التوصية";
+"place.joining-award.alert.message"="سوف تكافأ بنقاط التوصية فور قيام صديقك الذي دعوته بالشراء الأول";
+
+"places.tab.all"="جميع الأماكن";
+"places.tab.favorite"="المفضلة";
+"places.tab.my"="أماكني";
+
+"places.title"="أماكن";
+
+"my-places.title"="أماكني";
+"my-places.table-placeholder.title"="أماكني";
+"my-places.table-placeholder.subtitle"="ستظهر الأماكن التي تزورها هنا";
+
+"favorite-palces.title"="الأماكن المفضلة";
+"favorite-places.table-placeholder.title"="الأماكن المفضلة";
+"favorite-places.table-placeholder.subtitle"="إضافة الأماكن التي احببتها إلى المفضلة";
+
+"company.tab.description"="وصف";
+"company.tab.news"="أخبار";
+"company.tab.offers"="عروض";
+
+"company.bonus-program-description"="وصف برنامج المكافأة";
+"company.bonus-program-cell.button"="برنامج المكافآت";
+"company.branches-cell.button.format"="عرض جميع الفروع: %@";
+"company.bonus-program.title"="برنامج المكافآت";
+
+"company.news-cell.detail-button"="اظهر التفاصيل...";
+
+"company.action.add-to-favorites"="أضف إلى المفضلة";
+"company.action.remove-from-favorites"="إزالة من المفضلة";
+"company.action.offers-notifications.enabled"="خدمات التأجير";
+"company.action.offers-notifications.disabled"="إلغاء الاشتراك من العروض";
+"company.action.news-notifications.enabled"="الاشتراك في الأخبار";
+"company.action.news-notifications.disabled"="إلغاء الاشتراك من الأخبار";
+
+"company.cell.nearest-branch"="أقرب عنوان";
+"company.cell.description"="معلومات عنا";
+"company.cell.phone"="رقم الهاتف";
+"company.cell.website"="موقع الكتروني";
+"company.cell.worktime"="ساعات العمل";
+"company.cell.message"="اكتب رسالة";
+
+"company.worktime.opens-after.format"="يفتح في %@";
+"company.worktime.remains-opens.format"="لا تزال مفتوحة %@";
+"company.worktime.today-closed"="مغلق";
+"company.worktime.around-the-clock"="24 ساعة";
+
+"company.error.already-participant"="لقد انضممت إلى الشركة بالفعل";
+
+"company.message.become-participant"="لقد انضممت بنجاح";
+
+
+// companies map
+"companies-map.all-companies.title"="جميع الأماكن";
+"companies-map.favorite-companies.title"="المفضلة";
+"companies-map.my-companies.title"="أماكني";
+
+"company-add-to-favorite.button.add"="إضافة";
+"company-add-to-favorite.subtitle"="اضافة الى المفضلة";
+
+"company-branch.address"="عناوين";
+"company-branch.cell.phone"="رقم الهاتف";
+"company-branch.cell.worktime"="ساعات العمل";
+
+"company-list-tutorial.bottom-view.button"="استمرار";
+"company-list-tutorial.top-view.favorite"="الأماكن المفضلة";
+"company-list-tutorial.top-view.recommend"="توصيات الأماكن";
+"company-list-tutorial.top-view.title"="اسحب الى اليسار للدخول علي المميزات";
+
+
+// members structure
+"company.members-structure.level1"="المستوى 1";
+"company.members-structure.level2"="مشهور";
+"company.members-structure.level3"="مستوى 3";
+"company.members-structure.no-members-placeholder"="ليس هناك أصدقاء مدعوين";
+"company.members-structure.recommend"="نوصي";
+
+"company.recommend"="نوصي";
+"company.recommend.title"="نوصي";
+"company.recommend.view.title"="شارك الرمز الترويجي مع أصدقائك";
+"company.recommendations"="التوصيات";
+
+
+// dashboard
+"dashboard.recent-companies.title"="لقد زرت مؤخرا";
+"dashboard.search.placeholder"="البحث في الأماكن";
+
+"dashboard.category-header.button"="معاينة";
+
+"global-search.placeholder"="بحث";
+
+
+// offers
+"offer-trends-cell.button"="اذهب";
+"offer-trends-cell.subtitle"="اطلع على الأماكن الأكثر إعجابا";
+"offer-trends-cell.title"="اختيار المستخدمين";
+
+"offer.action.complaint"="تقديم شكوى";
+"offer.expire-date"="يسري العرض حتى";
+"offer.quantity"="المتبقي / الكل";
+"offer.use"="استخدم";
+
+"offers-filters.cell.location"="موقع";
+"offers-filters.title"="فلتر";
+
+"offers-recommended-for-you.title"="لك";
+
+"offers-trending.title"="اختيار المستخدمين";
+
+"offers.recommend-header.button"="اذهب";
+"offers.recommended-header.title"="خصيصا لك";
+
+"offers.title"="عروض";
+
+"offer.compaint.succes"="تم إرسال الشكوى";
+
+
+// profile
+"profile.title"="الملف الشخصي";
+
+
+// qr code
+"qr-code.discount.title"="خصم";
+"qr-code.discount.subtitle"="عرض رمز QR  هذا إلى أمين الصندوق أو أخبره عن هذه الأرقام";
+"qr-code.discount.details"="هذا الخصم صالح في جميع الأماكن المشاركة في تطبيق UDS Game app";
+
+"qr-code.offer.title"="عرض";
+"qr-code.offer.subtitle"="عرض رمز QR  هذا إلى أمين الصندوق أو أخبره عن هذه الأرقام";
+
+"qr-code.storefront.title"="الدفع";
+"qr-code.storefront.subtitle"="عرض رمز QR  هذا إلى أمين الصندوق أو أخبره عن هذه الأرقام";
+
+"qr-code.input.input-view-title"="أدخل الرمز الترويجي أو امسحه";
+"qr-code.input.text-field-placeholder"=" الرمز الترويجي";
+"qr-code.input.title"=" الرمز الترويجي";
+
+"qr-code.recommend.card-subtitle"="أو إدخاله يدويا";
+"qr-code.recommend.card-title"="استخدم رمز QR";
+
+
+// sample
+"sample.company1.annotation"="Roof coffee house - أفضل القهوة من باريستا الإيطالية.";
+"sample.company1.name"="سقف";
+
+"sample.company2.annotation"="عيادة تجميل - جراحة تجميلية.";
+"sample.company2.name"="Bestia\n";
+
+"sample.company3.annotation"="Pizzeria - authentic neapolitan pizza";
+"sample.company3.name"="Bella Italiano";
+
+
+// timeline
+"timeline.type.purchase"="شراء";
+"timeline.type.scores-income"="نقاط الاستحقاق";
+"timeline.type.all"="كل السجل";
+
+"timeline.order-by-offer"="مشتريات مصنوعة من العروض الترويجية";
+"timeline.scores-refunded"="تم رد النقاط";
+"timeline.operation.comment"="تعليق";
+
+
+// location service
+"location-service.request-timed-out"="نفاد وقت الجلسة";
+"location-service.options-alert.title"="تعذر العثور على موقعك";
+"location-service.options-alert.action.manual-enter"="أدخل يدويا";
+"location-service.options-alert.action.navigate-to-settings"="اذهب للاعدادات";
+
+"city.not-defined"="لم يتم العثور عليه";
+
+// table
+"table.footer.pull-to-load-more"="الرجاء التمرير سريعا لأسفل لتحميل المزيد";
+"company-search-table.footer.no-items"="لم يتم العثور عليه";
+"city-search-table.footer.no-items"="لم يتم العثور عليه";
+
+/* Not delete because used in MWPhotoBrowser pod */
+"Done"="إنهاء";
+"of"="من";
+
+
+"place.not-defined-neares-branch-cell.text"="تعذر العثور على موقعك";
+"place.not-defined-neares-branch-cell.button"="تحديد";
+"paces.table-footer.my-places-empty"="لقد سجلت مؤخرا ولم تنضم إلى أي مكان حتى الآن :(";
+
+"global-search.cell.location"="موقع";
+
+// feedback && poll
+"feedback.title"="تقييم";
+"feedback.comment.placeholder"="يرجى ترك ملاحظاتك (إذا كنت تريد)";
+"feedback.rate.title"="شكرا لك على الشراء!";
+"feedback.rate.subtitle.format"="يرجى تقييم جودة الخدمة في %@";
+
+"feedback-take-poll.title"="شكرا لتقييمك!";
+"feedback-take-poll.subtitle.format"="%@ تحاول بجد أن تكون أفضل بالنسبة لك! يرجى إكمال الاستبيان القصير";
+"feedback-take-poll.poll-button"="بدء الاستبيان";
+
+"poll.title"="استبيان";
+
+
+// conversation
+"conversations-list.title"="رسائل";
+"conversations-list.background.title"="ليست هناك رسائل حتى الآن";
+"conversations-list.background.subtitle"="يمكنك فتح حوار على صفحة الملف الشخصي للشركة";
+
+"company.messages.alert.unlock-messages"="إلغاء حجب الحوار";
+"company.messages.alert.lock-messages"=" حجب الحوار";
+"message.forward-rate.title"="رسالة. السعر-المعدل.عنوان";
+"conversation.message-input-toolbar.company-inactive"="عذرا، هذه الشركة غير نشطة مؤقتا";
+"conversation.message-input-toolbar.company-blocked-messages"="يتم تقييد الرسائل الواردة من قبل الشركة";
+"conversation.message-input-toolbar.user-blocked-messages"="تم حجب هذا الحوار. لا يمكنك إرسال رسالة.";
+"conversation.message-input-toolbar.user-blocked-messages.button"="إلغاء حظر الرسائل";
+"messages.input-toolbar.placeholder"="رسالة...";
+/* #################### PLIST */
+/* NSLocationWhenInUseUsageDescription */
+"NSCameraUsageDescription"="مسح رمز QR";
+
+/* NSLocationWhenInUseUsageDescription */
+"NSLocationWhenInUseUsageDescription"="It’s required to find nearby places";
+
+/* NSPhotoLibraryUsageDescription */
+"NSPhotoLibraryUsageDescription"="It’s required for choosing a profile picture";
+
+/* TGShortcutItemTypeDiscountTitle */
+"TGShortcutItemTypeDiscountTitle"="خصم";
+
+/* TGShortcutItemTypePromoTitle */
+"TGShortcutItemTypePromoTitle"="رمز ترويجي";
+
+/* TGShortcutItemTypePlacesTitle */
+"TGShortcutItemTypePlacesTitle"="أماكن";
+
+/* TGShortcutItemTypeOffersTitle */
+"TGShortcutItemTypeOffersTitle"="عروض";

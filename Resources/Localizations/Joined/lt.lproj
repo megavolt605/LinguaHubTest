@@ -1,0 +1,762 @@
+/* #################### PROJECT */
+/* And string */
+"base.and"="Ir";
+/* are don't match string */
+"are don't match"="Nesutampa";
+
+
+"qr-scan.message.camera-required"="Kad nuskaityti QR kodą, UDS Game reikalinga prieiga prie jūsų kameros";
+
+"history.table-footer.empty"="Operacijų istorija tuščia";
+
+
+"price-menu.empty"="Kainoraštis yra tuščias";
+"price-menu.empty-cart"="Jūsų krepšelis tuščias";
+
+"pricelist.add-to-cart"="Įdėta į krepšelį";
+
+
+"base.price"="Kaina";
+
+"rate.comment-filed.placeholder"="Jūsų komentaras";
+
+
+
+/* u.e. string */
+"u.e."="u.e.";
+
+
+"price-cart.title"="Krepšelis";
+"price-cart.base-discount"="Bazinė nuolaida";
+"price-cart.purchase"="Pirkimas";
+
+
+
+"price-cart.total-sum"="Iš viso";
+
+"base.total"="Iš viso";
+
+/* Purchase for cash string */
+"price-cart.alert.action.purchase-for-cash.format"="Pirkti už %@";
+
+/* Purchase for scores string */
+"Purchase for scores"="Pirkti už balus";
+
+
+
+
+/* Insufficient scores string */
+"Insufficient scores"="Nepakanka balų";
+
+/* Choose action string */
+"Choose action"="Pasirinkite veiksmą";
+
+/* Today from-to work time string */
+"Today from-to work time"="Šiandien nuo %@ iki %@";
+
+/* Game not availiable string */
+"Game not availiable"="Oi! Vykdomi techniniai darbai. Netrukus grįšime!";
+
+/* Invite award scores string */
+"Invite award scores"="Apdovanojimas už rekomendaciją";
+
+/* History string */
+"History"="Istorija";
+
+/* To join string */
+"To join"="Prisijunk";
+
+/* In cart string */
+"In cart"="Į krepšelį";
+
+/* Name string */
+"Name"="Vardas";
+
+/* Rate string */
+"Rate"="Atsiliepimas";
+
+/* Rate service string */
+"Rate service"="Įvertinkite klientų aptarnavimą";
+
+/* joining award scores string */
+"joining award scores"="sveikinimo balai";
+
+/* referral reward scores string */
+"referral reward scores"="balai už rekomendacijas ";
+
+/* Price for scores string */
+"Price for scores"="Kaina už premijos balus";
+
+/* Permanent discount string */
+"Permanent discount"="Nuolaida";
+
+/* Permanent discount 2 string */
+"Permanent discount 2"="nuolaida";
+
+/* History new participant string */
+"New participant"="Naujas dalyvis";
+
+/* You became VIP client at place string */
+"You became VIP client at place"="Jūs gavote %@ statusą %";
+
+/* Bill string */
+"Bill"="Sąskaita";
+
+/* Scores string */
+"Scores"="Balai";
+
+/* Scores incoming string */
+"Scores incoming"="Balų kaupimas";
+
+/* Details string */
+"Details"="Smulkiau";
+
+/* Pricelist order string */
+"Pricelist order"="Pirkite pagal kainoraštį";
+
+/* Coupon purchase string */
+"Coupon purchase"="Kupono pirkimas";
+
+/* Item added to cart string */
+"Item added to cart"="Įdėta į krepšelį";
+
+/* User Agreement string */
+"user_agreement"="Vartotojo sutartis";
+
+/* Privacy policy string */
+"privacy_policy"="Privatumo politika";
+
+/* About app string */
+"about"="Apie programą";
+
+/* Name details string */
+"Name details"="Pavadinimas";
+
+/* KM unit string */
+"KM unit"="km";
+
+/* M unit string */
+"M unit"="m";
+"Mile unit"="mi";
+
+
+// Base
+"base.done"="Atlikta";
+"base.apply"="Taikyti";
+"base.send"="Siųsti";
+"base.next"="Kitas";
+"base.cancel"="Atšaukti";
+"base.close"="Uždaryti";
+"base.continue"="Tęsti";
+"base.could-not-autodefine-location"="Neįmanoma rasti jūsų buvimo vietos";
+"base.error"="Klaida";
+"base.error.user-not-authorized"="Vartotojas neautorizuotas";
+"base.information"="Informacija";
+"base.navigate"="Eikite";
+"base.register"="Registruotis";
+"base.required-field"="Privalomas laukelis";
+"base.settings"="Nustatymai";
+"base.skip"="Praleisti";
+"base.write"="Palikti žinutę";
+"base.sign-in"="Autorizacija";
+"base.sign-up"="Vartotojo registracija";
+"base.setup-phone"="Pridėti telefoną";
+"base.today"="Šiandien";
+"base.exit"="Išeiti";
+"base.phone-call"="Paskambinti";
+"base.scores.multiple"="Balai";
+"base.password"="Slaptažodis";
+"base.password-confirmation"="Slaptažodžio patvirtinimas";
+"base.not-defined"="Nenurodyta";
+"base.my-scores"="Mano  balai";
+"base.price-menu"="Kaina / Meniu";
+"base.update"="Atnaujinti ";
+"base.update-available"="Galimi atnaujinimai";
+"base.discount"="Nuolaida";
+"base.password-changed"="Jūsų slaptažodis buvo pakeistas";
+"base.agreement"="Sutartis";
+"base.level"="Lygis";
+"base.female"="Mot.";
+"base.gender"="Lytis";
+"base.male"="Vyr.";
+"base.congratulations"="Sveikiname!";
+"base.you"="Jūs";
+"base.yesterday"="Vakar";
+
+
+// error
+"error.request.cancelled"="Kažkas nutiko :(";
+"error.data-not-available"="Duomenų nėra";
+"error.internal-server"="Vidinė serverio klaida";
+"error.response.unrecognized"="Neatpažintas serverio atsakas";
+"error.unsupported-version"="Versija nepalaikoma";
+"error.to-many-requests"="Per daug prašymų";
+
+
+"request.cancelled"="Prašymas buvo atšauktas";
+
+
+"user-location.near-me"="Šalia manęs";
+
+
+// Application
+"application.notification.text.launch-app-after-change-language"="Spustelėkite, kad atstatytumėte";
+
+
+// walkthrougth
+"walkthrough.page.0.subtitle"="Gaukite nuolaidas ir premijinius balus visose UDS Game dalyvaujančiose vietose.";
+"walkthrough.page.0.title"="Nuolaidos ir premijos!";
+
+"walkthrough.page.1.subtitle"="Geriausi pasiūlymai pagal jūsų pageidavimus.";
+"walkthrough.page.1.title"="Akcijos ir ypatingi pasiūlymai!";
+
+"walkthrough.page.2.subtitle"="Pasidalykite promo kodu su savo draugais ir gaukite balų už kiekvieną pirkimą.";
+"walkthrough.page.2.title"="Rekomenduokite savo draugams!";
+
+"walkthrough.skip"="Praleisti";
+
+
+// welcome
+"welcome.button.auth"="Prisijungti";
+"welcome.button.continue-without-auth"="Tęsti be registracijos";
+"welcome.sign-in"="Prisijungti";
+"welcome.sign-up"="Registruotis dabar";
+"welcome.social.title"="arba";
+"sign-up.agreements.format"="Registruodamiesi programoje jūs sutinkate su %1$@ ir %2$@";
+"sign-up.agreements.part.user-agreement"="Licencijomis sutartimi";
+"sign-up.agreements.part.privacy-policy"="Konfidencialaus privatumo politika";
+"welcome-options.label.title"="Prisijunkite, kad galėtumėte įvertinti visas UDS Game galimybės";
+
+"auth.facebook"="Facebook";
+"auth.vk"="VK";
+
+
+// phone
+"phone-auth.enter-phone.subtitle"="Įveskite telefono numerį";
+"phone-auth.enter-phone.button"="Siųsti patvirtinimo kodą";
+"phone-auth.enter-code.title"="Patvirtinimas";
+"phone-auth.enter-code.subtitle.format"="Mes išsiuntėme jums 6 skaitmenų kodą %@";
+"phone-auth.enter-code.button"="Tęsti";
+"phone-auth.enter-code.re-send-button"="Siųsti kodą iš naujo";
+"phone-auth.error.incorrect-phone-number"="Netinkamas telefono numeris";
+"phone-auth.error.incorrect-confirmation-code"="Įvestas netinkamas kodas";
+
+// sign in
+"sign-in-options.button.email"="El. pašto adresas";
+"sign-in-options.button.forgot"="Pamiršote slaptažodį?";
+"sign-in-options.button.phone"="Telefono numeris";
+"sign-in-options.subtitle"="Prisijungti su";
+"sign-in-options.title"="Prieigos teisė";
+
+"sign-in-with-email.password"="Slaptažodis";
+"sign-in-with-email.title"="Prisijungti";
+"sign-in.enter-email.text-field.placeholder"="El. pašto adresas";
+
+"sign-in.forgot"="Pamiršote slaptažodį?";
+
+
+// sign up
+"sign-up-options.button.email"="El. pašto adresas";
+"sign-up-options.button.phone"="Telefono numeris";
+"sign-up-options.subtitle"="Prašome pasirinkti patogų registracijos būdą";
+"sign-up-options.title"="Registracija";
+
+"sign-up-with-email.step1.birthday-field.placeholder"="Gimimo data";
+"sign-up-with-email.step1.code-description"="Spustelėkite paveikslėlį ir atnaujinkite kodą";
+"sign-up-with-email.step1.code-field.placeholder"="Kodas iš paveikslėlio";
+"sign-up-with-email.step1.email-field.placeholder"="El. pašto adresas";
+"sign-up-with-email.step1.gender-title"="Lytis";
+"sign-up-with-email.step1.password-field.placeholder"="Slaptažodis";
+"sign-up-with-email.step1.title"="Registracija";
+
+"sign-up-with-email.step2.first-name-field.placeholder"="Vardas";
+"sign-up-with-email.step2.last-name-field.placeholder"="Pavardė";
+"sign-up-with-email.step2.title"="Užsiregistruoti";
+
+"sign-up-with-phone.birthday-field.placeholder"="Gimimo data";
+"sign-up-with-phone.first-name-field.placeholder"="Vardas";
+"sign-up-with-phone.gender-title"="Lytis";
+"sign-up-with-phone.last-name-field.placeholder"="Pavardė";
+"sign-up-with-phone.title"="Užsiregistruoti";
+
+"sign-up.gender.female"="Mot.";
+"sign-up.gender.male"="Vyr.";
+
+
+// restore password
+"restore-password.step-email.title"="Pamiršote slaptažodį?";
+"restore-password.step-email.subtitle"="Įveskite el. pašto adresą, kurį naudojote registruodamiesi";
+"restore-password.step-email.text-field.placeholder"="El. pašto adresas";
+
+"restore-password.step-code.title"="Pamiršote slaptažodį?";
+"restore-password.step-code.subtitle"="Įveskite kodą, išsiųstą jūsų el. pašto adresu";
+"restore-password.step-code.text-field.placeholder"="Patvirtinimo kodas";
+
+"restore-password.step-new-password.title"="Atkurti slaptažodį";
+"restore-password.confirm-password-field.placeholder"="Patvirtinti";
+"restore-password.password-field.placeholder"="Slaptažodis";
+
+
+// phone
+"phone-already-registered.subtitle"="Spustelėkite mygtuką, kad atidarytumėte programą";
+"phone-already-registered.title"="Telefono numeris jau yra užregistruotas";
+
+"phone-not-registered.title"="Telefono numeris nėra registruotas UDS Game programoje";
+
+
+// account banned & blocked
+"account-banned.title"="Prieiga yra užblokuota dėl Vartotojo sutarties pažeidimo. Norėdami išsiaiškinti blokavimo priežastis, kreipkitės į techninę pagalbą: support@udsgame.com";
+
+// device id
+"device-uuid-exceeded.device-id-title"="Įrenginio ID";
+"device-uuid-exceeded.subtitle"="Prisijunkite naudodami kitus prieigos leidimo metodus arba nusiųskite klaidos ekrano kopiją mūsų techninės pagalbos komandai";
+"device-uuid-exceeded.title"="Šis įrenginys jau yra registruotas kitoje paskyroje";
+
+
+// city picker
+"city-picker.background.title"="Oi!  Jūs gyvenate Marse? Padėkite mums jus surasti!";
+"city-picker.search.placeholder"="Miestas ar regionas";
+"city-picker.title"="Jūsų buvimo vieta";
+"city-picker.background.autodefine-button"="Bandyk iš naujo";
+
+
+// tabs
+"tab.discount"="Nuolaida";
+"tab.home"="Į pradžią";
+"tab.offers"="Akcijos";
+"tab.places"="Vietos";
+"tab.promo"="Promo kodas";
+
+
+// logout
+"logout.alert.title"="Atsijungimo klaida";
+"logout.alert.push-error"="Įvyko klaida. Tikriausiai jūsų įrenginys gaus naujus pranešimus.";
+"logout.alert.try-again"="Prašome pabandyti dar kartą";
+
+
+// categories
+"categories.all-categories"="Visos vietos";
+"categories.all-categories.description"="Vietos visose kategorijose";
+
+"categories.favorite-places"="Pasirinktos vietos";
+"categories.my-places"="Mano vietos";
+
+"categories.category.all-places"="Visos vietos";
+
+"category-preferences.my.title"="Mano pasirinkimai";
+
+"category-preferences.setup.subtitle"="Pirmiausia bus rodomi šių kategorijų specialūs pasiūlymai";
+"category-preferences.setup.title"="Pasirinkite iki 3 kategorijų";
+
+"category-switch.button.switch"="Pakeisti";
+"category-switch.subtitle"="Prašome pakeisti anksčiau pasirinktas pageidavimus ir pridėti naujų";
+"category-switch.title"="Leidžiamų kategorijų skaičius - 3";
+
+
+// settings
+"settings.alert.change-instagram.title"="Pakeisti";
+"settings.alert.change-skype.title"="Pakeisti";
+"settings.alert.logout.title"="Ar jūs esate tuo įsitikinęs?";
+
+"settings.app-info"="Informacija";
+"settings.app-language"="Kalba";
+"settings.cell.metric-system"="Atstumo nustatymai";
+"settings.metric-system.miles"="Mylios";
+"settings.metric-system.meters"="Metrai";
+"metric-system.title"="Atstumo nustatymai";
+
+"settings.cell.support"="Palaikymo tarnyba";
+"settings.cell.about-application"="Apie programą";
+"settings.cell.confirm-password"="Patvirtinti";
+"settings.cell.current-password"="Senas slaptažodis";
+"settings.cell.email"="El. pašto adresas";
+"settings.cell.email-password"="El. paštas / Slaptažodis";
+"settings.cell.instagram"="Instagram";
+"settings.cell.logout"="Atsijungti";
+"settings.cell.new-password"="Naujas slaptažodis";
+"settings.cell.phone"="Telefono numeris";
+"settings.cell.skype"="Skype";
+"settings.cell.verify-phone"="Patvirtinkite telefono numerį";
+"settings.cell.preferences"="Pasirinkimai";
+"settings.cell.birth-date"="Gimimo data";
+"settings.cell.last-name"="Pavardė";
+"settings.cell.user-location"="Miestas";
+"settings.cell.user-auth.button"="Prisijungti";
+"settings.cell.user-auth.title"="Prisijunkite prie paskyros";
+"settings.cell.user-auth.subtitle"="Prisijunkite, kad galėtumėte įvertinti visas UDS Game galimybės";
+
+
+"settings.notifications.cell.company-news"="Naujienos";
+"settings.notifications.cell.company-offers"="Akcijos";
+"settings.notifications.cell.company-messages"="Pranešimai";
+"settings.notifications.cell.new-members"="Pakviesti draugai";
+"settings.notifications.cell.scores-change"="Balai";
+
+"settings.change-language.alert.title"="Pakeisti kalbą";
+"settings.change-language.alert.text"="\"%@\" bus taikoma po kartotinio paleidimo  programėlės";
+
+"settings.languages"="Kalbos";
+"settings.languages.system"="Sistemos kalba";
+"settings.reset-to-system-language"="Atstatyti";
+
+"settings.section.authorization"="Autorizacija";
+"settings.section.notifications"="Pranešimai";
+"settings.section.social"="Socialiniai tinklai";
+
+"settings.upload-image"="Jūsų nuotrauka";
+"settings.upload-image.open"="Atidarykite";
+"settings.upload-image.camera"="Nufotografuokite";
+"settings.upload-image.gallery"="Pasirinkite iš nuotraukų galerijos";
+"settings.upload-image.delete"="Ištrinti";
+
+"settings.select-phone.message"="Norėdami pakeisti savo telefono numerį, susisiekite su technine pagalba adresu support@udsgame.com";
+
+
+// support
+"support.title"="Palaikymo tarnyba";
+"support.cell.title"="Siųskite mums el. Laišką su bet kokiais klausimais ar pasiūlymais, kuriuos galite naudoti naudodami UDS Game programą:";
+"support.cell.details"="Paraiška apdorojama per 48 valandas";
+
+// place
+"place.joining-award.alert.title"="Balai už rekomendacijas ";
+"place.joining-award.alert.message"="Jūs gausite  balų už rekomendacijas, kai jūsų pakviestas draugas atliks pirmąjį pirkimą";
+
+"places.tab.all"="Visos vietos";
+"places.tab.favorite"="Megstamiausi";
+"places.tab.my"="Mano vietos";
+
+"places.title"="Vietos";
+
+"my-places.title"="Mano vietos";
+"my-places.table-placeholder.title"="Mano vietos";
+"my-places.table-placeholder.subtitle"="Čia bus rodomos lankomos vietos";
+
+"favorite-palces.title"="Pasirinktos vietos";
+"favorite-places.table-placeholder.title"="Mėgstamiausios vietos";
+"favorite-places.table-placeholder.subtitle"="Pridėti patinkančios vietos į mėgstamiausius";
+
+"company.tab.description"="Aprašymas";
+"company.tab.news"="Naujienos";
+"company.tab.offers"="Akcijos";
+
+"company.bonus-program-description"="Premijų programos aprašymas";
+"company.bonus-program-cell.button"="Bonus programa";
+"company.branches-cell.button.format"="Rodyti visus adresus: %@";
+"company.bonus-program.title"="Bonus programa";
+
+"company.news-cell.detail-button"="Rodyti detaliau";
+
+"company.action.add-to-favorites"="Įtraukti į megstamiausius";
+"company.action.remove-from-favorites"="Pašalinti iš megstamiausių";
+"company.action.offers-notifications.enabled"="Prenumeruoti pasiūlymus";
+"company.action.offers-notifications.disabled"="Atsisakyti pasiūlymų prenumeratos";
+"company.action.news-notifications.enabled"="Užsiprenumeruoti naujienas";
+"company.action.news-notifications.disabled"="Atsisakyti  naujienų prenumeratos";
+
+"company.cell.nearest-branch"="Artimiausias adresas";
+"company.cell.description"="Apie mus";
+"company.cell.phone"="Telefono numeris";
+"company.cell.website"="Interneto svetainė";
+"company.cell.worktime"="Darbo valandos";
+"company.cell.message"="Parašyk žinutę";
+"company.cell.branches"="Filialai";
+
+"company.worktime.opens-after.format"="Atsidarys po %@";
+"company.worktime.remains-opens.format"="Lieka atidaryta %@";
+"company.worktime.today-closed"="Uždaryta";
+"company.worktime.around-the-clock"="24 valandos";
+
+"company.error.already-participant"="Jūs jau prisijungėte prie įmonės";
+
+"company.message.become-participant"="Jūs sėkmingai prisijungėte";
+"company.message.declined"="Deja, ši kompanija laikinai neaktyvi";
+
+"company.share-text.cashback.format"="Ar norite gauti %1$@ %2$@ iš %3$@?\n1. Atsisiųskite programėlė https://udsgame.com/download\n2. Įveskite  %4$@ promo kodą.\nGaukite nuolaidų, premijų ir pinigų gražinimą ( cashback ) su UDS Game!\n";
+"company.share-text.discount.format"="Ar norite gauti %1$@ %2$@ iš %3$@?\n1. Atsisiųskite programėlė https://udsgame.com/download\n2. Įveskite %4$@ promo kodą.\nGaukite nuolaidų, premijų ir pinigų gražinimą ( cashback ) su UDS Game!\n";
+
+"company.become-participant.message"="Jūs gavote %1$@ sveikinimo balu";
+
+"company.auth-alert.title"="Užsiregistruok ir gauk galimybę pasinaudoti premijomis ir balais! ";
+"company.auth-alert.auth-action.title"="Prisijungti";
+
+
+// companies map
+"companies-map.all-companies.title"="Visos vietos";
+"companies-map.favorite-companies.title"="Megstamiausi";
+"companies-map.my-companies.title"="Mano vietos";
+
+"company-add-to-favorite.button.add"="Pridėti";
+"company-add-to-favorite.subtitle"="Įtraukti į megstamiausius";
+
+"company-branch.address"="Adresai";
+"company-branch.cell.phone"="Telefono numeris";
+"company-branch.cell.worktime"="Darbo valandos";
+
+"company-list-tutorial.bottom-view.button"="Tęsti";
+"company-list-tutorial.top-view.favorite"=" Mėgstamiausios vietos";
+"company-list-tutorial.top-view.recommend"="Vietos pagal rekomendacijas";
+"company-list-tutorial.top-view.title"="Braukite kairėn kad atidaryti funkcijas";
+
+"company-list.section-header.up-to-3-km"="Ne toliau 3 km";
+"company-list.section-header.up-to-5-km"="Ne toliau 5 km";
+"company-list.section-header.up-to-10-km"="Ne toliau 10 km";
+"company-list.section-header.up-to-20-km"="Ne toliau 20 km";
+"company-list.section-header.up-to-30-km"="Ne toliau 30 km";
+"company-list.section-header.greater-30-km"="Toliau 30 km";
+
+"company-list.section-header.up-to-2-mile"="Ne toliau 2 mylių";
+"company-list.section-header.up-to-4-mile"="Ne toliau 4 mylių";
+"company-list.section-header.up-to-8-mile"="Ne toliau 8 mylių";
+"company-list.section-header.up-to-15-mile"="Ne toliau 15 mylių";
+"company-list.section-header.up-to-18-mile"="Ne toliau 18 mylių";
+"company-list.section-header.greater-18-mile"="Toliau 18 mylių";
+
+
+// members structure
+"company.members-structure.level1"="1 lygis";
+"company.members-structure.level2"="2 lygis";
+"company.members-structure.level3"="3 lygis";
+"company.members-structure.no-members-placeholder"="Pakviestų draugų nėra";
+"company.members-structure.recommend"="Rekomenduoti";
+
+"company.recommend"="Rekomenduoti";
+"company.recommend.title"="Rekomenduoti";
+"company.recommend.view.title"="Pasidalykite promo kodu su  draugais";
+"company.recommendations"="Rekomendacijos";
+
+
+// dashboard
+"dashboard.recent-companies.title"="Neseniai lankėtės";
+"dashboard.search.placeholder"="Vietų paieška";
+
+"dashboard.category-header.button"="Peržiūrėti";
+
+"global-search.placeholder"="Ieškoti";
+
+
+// offers
+"offer-trends-cell.button"="Ieikite";
+"offer-trends-cell.subtitle"="Žiūrėti kitų mėgstamiausias vietas";
+"offer-trends-cell.title"="Vartotojų pasirinkimas";
+
+"offer.title"="Pasiūlymas";
+"offer.action.complaint"="Pasiskųsti";
+"offer.expire-date"="Pasiūlymas galioja iki";
+"offer.quantity"="Likę / Viskas";
+"offer.use"="Naudoti";
+
+"offers-filters.cell.location"="Buvimo vieta";
+"offers-filters.title"="Filtras";
+
+"offers-recommended-for-you.title"="Jums";
+
+"offers-trending.title"="Vartotojų pasirinkimas";
+
+"offers.recommend-header.button"="Įeikite";
+"offers.recommended-header.title"="Specialiai jums";
+
+"offers.title"="Akcijas";
+
+"offer.compaint.succes"="Skundas buvo išsiųstas";
+
+
+// profile
+"profile.title"="Profilis";
+
+
+// qr code
+"qr-code.discount.title"="Nuolaida";
+"qr-code.discount.subtitle"="Pateikite QR kodą ar numerį kasininkui";
+"qr-code.discount.details"="Galioja bet kurioje dalyvaujančioje UDS GAME vietoje";
+
+"qr-code.offer.title"="Pasiūlymas";
+"qr-code.offer.subtitle"="Pateikite QR kodą ar numerį kasininkui";
+
+"qr-code.storefront.title"="Mokėjimas";
+"qr-code.storefront.subtitle"="Pateikite QR kodą ar numerį kasininkui";
+
+"qr-code.input.input-view-title"="Įveskite promo kodą arba nuskenuokite";
+"qr-code.input.text-field-placeholder"="Promo kodas";
+"qr-code.input.title"="Promo kodas";
+
+"qr-code.recommend.card-subtitle"="arba įveskite jį rankiniu būdu";
+"qr-code.recommend.card-title"="Naudokite QR kodą";
+
+
+// sample
+"sample.company1.annotation"="Roof coffee house - geriausia kava iš italų baristos.";
+"sample.company1.name"="Roof";
+
+"sample.company2.annotation"="Grožio klinika - kosmetinė chirurgija.";
+"sample.company2.name"="Bestia";
+
+"sample.company3.annotation"="Picerija - autentiška neapolietiška pica";
+"sample.company3.name"="Bella Italiano";
+
+
+// timeline
+"timeline.type.purchase"="Pirkimas";
+"timeline.type.scores-income"="Balų kaupimas";
+"timeline.type.all"="Visa istorija";
+
+"timeline.order-by-offer"="Pirkimai, atlikti naudojant akcijos";
+"timeline.scores-refunded"="Koregavimas";
+"timeline.operation.comment"="Komentaras";
+
+"timeline.cell.birday-gift.title"="Sveikinimai";
+
+"timeline.pricelist-order-cell.purchase.format"="Panaudojo %1$@ balus ir %2$@%3$@";
+
+
+// location service
+"location-service.request-timed-out"="Viršytas laukimo laikas";
+"location-service.options-alert.title"="Neįmanoma nustatyti jūsų buvimo vietos";
+"location-service.options-alert.action.manual-enter"="Įveskite rankiniu būdu";
+"location-service.options-alert.action.navigate-to-settings"="Pereikite į nustatymus";
+
+"city.not-defined"="Nerasta";
+
+// table
+"table.footer.pull-to-load-more"="Jei norite įkelti daugiau, braukite žemyn";
+"companies-list-table.footer.no-items"="Nerastas";
+"company-search-table.footer.no-items"="Nerasta";
+"city-search-table.footer.no-items"="Nerasta";
+"offers-table.footer.no-items"="Nerastas";
+
+/* Not delete because used in MWPhotoBrowser pod */
+"Done"="Baigti";
+"of"="iš";
+
+
+"place.not-defined-neares-branch-cell.text"="Neįmanoma nustatyti jūsų buvimo vietos";
+"place.not-defined-neares-branch-cell.button"="Nustatyti";
+"paces.table-footer.my-places-empty"="Jūs neseniai užsiregistravote ir dar nesate prisijungęs prie jokios vietos :(";
+
+"global-search.cell.location"="Buvimo vieta";
+
+// feedback && poll
+"feedback.title"="Vertinimas";
+"feedback.comment.placeholder"="Palikite atsiliepimą (pagal pageidavima)";
+"feedback.rate.title"="Dėkojame už pirkinį!";
+"feedback.rate.subtitle.format"="Prašome įvertinti aptarnavimo kokybę %@";
+
+"feedback-take-poll.title"="Įvertinkite paslaugų kokybę!";
+"feedback-take-poll.subtitle.format"="%@ stengiames būti geresni Jums! Prašome užpildyti trumpą apklausą";
+"feedback-take-poll.poll-button"="Pradėkite apklausą";
+
+"poll.title"="Apklausą";
+
+
+// conversation
+"conversations-list.title"="Pranešimai";
+"conversations-list.background.title"="Pranešimų kol kas nėra";
+"conversations-list.background.subtitle"="Pokalbį  galima pradėti kompanijos puslapyje  ";
+
+"company.messages.alert.unlock-messages"="Atblokuoti pokalbį ";
+"company.messages.alert.lock-messages"="Užblokuoti pokalbį ";
+"message.forward-rate.title"="Atsakymas į atsiliepimus";
+"conversation.message-input-toolbar.company-inactive"="Deja, ši kompanija laikinai neaktyvi";
+"conversation.message-input-toolbar.company-blocked-messages"="Kompanija apribojo galimybę siųsti pranešimus";
+"conversation.message-input-toolbar.user-blocked-messages"="Pokalbis užblokotas. Jūs negalite siųsti žinutės.";
+"conversation.message-input-toolbar.user-blocked-messages.button"="Atblokuoti pranešimus";
+"messages.input-toolbar.placeholder"="Pranešimas...";
+
+
+// category picker
+"category-picker.general.title"="Kategorija";
+
+
+// company filters
+"company-filters.cell.location"="Miestas";
+"company-filters.cell.category"="Kategorija";
+"company-filters.cell.halal"="Halal";
+"company-filters.cell.rating"="Geriausios vietos";
+"company-filters.cell.discount"="Nuolaida";
+"company-filters.cell.cashback"="Cashback";
+"company-filters.title"="Filtrai";
+"company-filters.button.clear"="Atstatyti";
+"company-filters.rating-header"="Reitingas";
+"company-filters.bonus-program-header"="Premijos programa";
+
+
+// search
+"company-search.title"="Ieškoti";
+
+
+// pushes
+"push-notification.merge-scores.text"="Peržiūrėkite mokėjimų istoriją pagal telefono numerį, taip pat balų kilmę ir registraciją įmonėje";
+
+
+// auth
+"restore-password.title"="Slaptažodžio atstatymas";
+"restore-password.enter-email.title"="Kitos instrukcijos bus išsiųstos į jūsų el. Pašto adresą";
+"restore-password.enter-email.text-field.placeholder"="El. paštas";
+
+"restore-password.enter-code.text-field.placeholder"="Patvirtinimo kodas";
+"restore-password.enter-code.title.format"="Prašome įvesti patvirtinimo el. Laiške gautą kodą %@";
+
+"restore-password.setup-password.title"="Sukurkite naują slaptažodį";
+"restore-password.setup-password.text-field.placeholder"="Slaptažodis";
+
+"auth.enter-sms-code.button.resend"="Atsiųskite kodą dar kartą";
+"auth.button.no-account"="Dar neturiu paskyros";
+"auth.enter-sms-code.title.format"="Mes atsiųsime jums 6 skaitmenų kodą į %@";
+"auth.enter-sms-code.label.resend.format"="Atsiųsti per: %@";
+"auth.button.sign-in"="Prisijungti";
+"auth.button.sign-up"="Užsiregistruoti";
+"auth.button.restore-password"="Pamiršote slaptažodį?";
+
+"sign-in.enter-password.text-field.placeholder"="Slaptažodis";
+"sign-in.enter-password.title.format"="Jei norite tęsti, įveskite savo slaptažodį %@";
+
+"sign-in.title"="Prisijunkite, kad galėtumėte įvertinti visas UDS Game galimybės";
+"sign-in.button.sign-up"="Naujas vartotojas?";
+"sign-in.label.social"="Prisijungti per soc. tinklą";
+
+"auth.button.already-have-account"="Turiu UDS Game paskyrą";
+
+"sign-up.enter-password.title"="Sukurkite naują slaptažodį";
+"sign-up.enter-password.text-field.placeholder"="Slaptažodis";
+
+"sign-up.enter-captcha.label.captcha"="Spustelėkite paveikslėlį, kad gautumėte naują kodą";
+"sign-up.enter-captcha.text-field.placeholder"="Įveskite kodą iš paveikslėlio";
+
+"sign-up.enter-user-info.title"="Papasakok šiek tiek apie save";
+"sign-up.enter-user-info.text-field.first-name.placeholder"="Vardas";
+"sign-up.enter-user-info.text-field.last-name.placeholder"="Pavardė";
+"sign-up.enter-user-info.text-field.birthday.placeholder"="Gimimo data";
+"sign-up.enter-user-info.label.gender-title"="Nurodykite savo lytį";
+"sign-up.enter-user-info.label.male-gender"="Vyras";
+"sign-up.enter-user-info.label.female-gender"="Moteris";
+
+"sign-up.title"="Prisijunkite, kad galėtumėte įvertinti visas UDS Game galimybės";
+"sign-up.label.social"="Prisijungti per soc. tinklą";
+
+"verify-phone.title"="Telefono patikrinimas";
+"verify-phone.text-field.placeholder"="Telefonas";
+"verify-phone.error.value-not-a-phone-number"="Įveskite telefono numerį";
+/* #################### PLIST */
+/* NSLocationWhenInUseUsageDescription */
+"NSCameraUsageDescription"="Nuskaityti QR kodą ";
+
+/* NSLocationWhenInUseUsageDescription */
+"NSLocationWhenInUseUsageDescription"="Reikia rasti netoliese esančias vietas";
+
+/* NSPhotoLibraryUsageDescription */
+"NSPhotoLibraryUsageDescription"="Reikia rinktis profilio nuotrauką";
+
+/* TGShortcutItemTypeDiscountTitle */
+"TGShortcutItemTypeDiscountTitle"="Nuolaida";
+
+/* TGShortcutItemTypePromoTitle */
+"TGShortcutItemTypePromoTitle"="Promo kodas";
+
+/* TGShortcutItemTypePlacesTitle */
+"TGShortcutItemTypePlacesTitle"="Vietos";
+
+/* TGShortcutItemTypeOffersTitle */
+"TGShortcutItemTypeOffersTitle"="Pasiūlymai";
+/* #################### SETTINGS */
+/* A single strings file, whose title is specified in your preferences schema. The strings files provide the localized content to display to the user for each of your preferences. */
+"Licenses"="Licencijos";
+"Version"="Versija";

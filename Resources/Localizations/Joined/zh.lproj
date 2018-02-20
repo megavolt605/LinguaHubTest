@@ -1,0 +1,617 @@
+/* #################### PROJECT */
+/* And string */
+"base.and"="和";
+/* are don't match string */
+"are don't match"="不一致";
+
+
+"qr-scan.message.camera-required"="要读取 QR 码，UDS Game 需要访问您的摄像头";
+
+"history.table-footer.empty"="操作历史记录为空";
+
+
+"price-menu.empty"="价目表为空";
+"price-menu.empty-cart"="您的购物车中没有商品";
+
+"pricelist.add-to-cart"="已加入购物车";
+
+
+"base.price"="价格";
+
+"rate.comment-filed.placeholder"="您的评论";
+
+
+
+/* u.e. string */
+"u.e."="例如";
+
+
+"price-cart.title"="购物车";
+"price-cart.base-discount"="基本折扣";
+"price-cart.purchase"="购买";
+
+
+
+"price-cart.total-sum"="合计";
+
+"base.total"="合计";
+
+/* Purchase for cash string */
+"price-cart.alert.action.purchase-for-cash.format"="为%@购买";
+
+/* Purchase for scores string */
+"Purchase for scores"="用奖励积分购买";
+
+/* Purchased with scores and cash string */
+"timeline.pricelist-order-cell.purchase.format"="用了 %1$@ 个积分和 %2$@ %3$@";
+
+/* Insufficient scores string */
+"Insufficient scores"="积分不够";
+
+/* Choose action string */
+"Choose action"="选择一种操作";
+
+/* Today from-to work time string */
+"Today from-to work time"="今天%@到%@";
+
+/* Game not availiable string */
+"Game not availiable"="糟糕！正在进行维护我们会很快恢复！";
+
+/* Invite award scores string */
+"Invite award scores"="推荐奖励";
+
+/* History string */
+"History"="历史记录";
+
+/* To join string */
+"To join"="加入";
+
+/* In cart string */
+"In cart"="在购物车内";
+
+/* Name string */
+"Name"="名称";
+
+/* Rate string */
+"Rate"="评论";
+
+/* Rate service string */
+"Rate service"="请为客户服务评分";
+
+/* joining award scores string */
+"joining award scores"="欢迎积分";
+
+/* referral reward scores string */
+"referral reward scores"="推荐积分";
+
+/* Price for scores string */
+"Price for scores"="价格（含奖励积分）";
+
+/* Earned join scores string */
+"company.become-participant.message"="您已获得 %1$@ 个欢迎积分";
+
+/* Permanent discount string */
+"Permanent discount"="折扣";
+
+/* Permanent discount 2 string */
+"Permanent discount 2"="折扣";
+
+/* History new participant string */
+"New participant"="新参与者";
+
+/* You became VIP client at place string */
+"You became VIP client at place"="您获得了%@身份";
+
+/* Bill string */
+"Bill"="检查";
+
+/* Scores string */
+"Scores"="积分";
+
+/* Scores incoming string */
+"Scores incoming"="累积积分";
+
+/* Details string */
+"Details"="详细信息";
+
+/* Pricelist order string */
+"Pricelist order"="按价目表购买";
+
+/* Coupon purchase string */
+"Coupon purchase"="优惠券购买";
+
+/* Item added to cart string */
+"Item added to cart"="已加入购物车";
+
+/* User Agreement string */
+"user_agreement"="用户协议";
+
+/* Privacy policy string */
+"privacy_policy"="隐私政策";
+
+/* About app string */
+"about"="应用简介";
+
+/* Name details string */
+"Name details"="名称";
+
+/* KM unit string */
+"KM unit"="千米";
+
+/* M unit string */
+"M unit"="米";
+
+
+
+// Base
+"base.apply"="应用";
+"base.send"="发送";
+"base.next"="下一步";
+"base.cancel"="取消";
+"base.close"="关闭";
+"base.continue"="继续";
+"base.could-not-autodefine-location"="找不到您的位置";
+"base.error"="错误";
+"base.error.user-not-authorized"="用户未经授权";
+"base.information"="信息";
+"base.navigate"="前往";
+"base.register"="注册";
+"base.required-field"="必填项";
+"base.settings"="设置";
+"base.skip"="跳过";
+"base.write"="留言";
+"base.sign-in"="授权";
+"base.sign-up"="用户注册";
+"base.setup-phone"="设置手机";
+"base.today"="今天";
+"base.exit"="退出";
+"base.phone-call"="致电";
+"base.scores.multiple"="积分";
+"base.password"="密码";
+"base.password-confirmation"="确认密码";
+"base.not-defined"="未指定";
+"base.my-scores"="我的积分";
+"base.price-menu"="价格/菜单";
+"base.update"="更新";
+"base.update-available"="有更新";
+"base.discount"="折扣";
+"base.password-changed"="您的密码已更改";
+"base.agreement"="协议";
+"base.level"="级别";
+"base.female"="女";
+"base.gender"="性别";
+"base.male"="男";
+"base.congratulations"="祝贺您！";
+
+
+// error
+"error.request.cancelled"="请求已取消";
+"error.data-not-available"="数据不可用";
+"error.internal-server"="内部服务器错误";
+"error.response.unrecognized"="服务器响应无法识别";
+"error.unsupported-version"="不支持该版本";
+"error.to-many-requests"="请求太多";
+
+
+"request.cancelled"="请求被取消";
+
+
+"user-location.near-me"="附近";
+
+
+// Application
+"application.notification.text.launch-app-after-change-language"="点击重置";
+
+
+// walkthrougth
+"walkthrough.page.0.subtitle"="在加入 UDS Game 的所有商家处获得优惠和奖励积分。";
+"walkthrough.page.0.title"="折扣和奖励！";
+
+"walkthrough.page.1.subtitle"="根据您的喜好提供最佳优惠。";
+"walkthrough.page.1.title"="促销和特别优惠！";
+
+"walkthrough.page.2.subtitle"="与好友分享促销代码，朋友每次购买都可为您获取积分。";
+"walkthrough.page.2.title"="推荐给您的好友！";
+
+"walkthrough.skip"="跳过";
+
+
+// welcome
+"welcome.sign-in"="登录";
+"welcome.sign-up"="立即注册";
+"welcome.social.title"="或";
+
+
+"auth.facebook"="Facebook";
+"auth.vk"="VK";
+
+
+// phone
+"phone-auth.enter-phone.subtitle"="输入您的电话号码";
+"phone-auth.enter-phone.button"="发送验证码";
+"phone-auth.enter-code.title"="验证";
+"phone-auth.enter-code.subtitle.format"="我们已经向 %@ 发送了一个 6 位的代码";
+"phone-auth.enter-code.button"="继续";
+"phone-auth.enter-code.re-send-button"="发一个新的代码";
+"phone-auth.error.incorrect-phone-number"="电话号码不正确";
+"phone-auth.error.incorrect-confirmation-code"="代码不正确";
+
+// sign in
+"sign-in-options.button.email"="邮件地址";
+"sign-in-options.button.forgot"="忘记密码了？";
+"sign-in-options.button.phone"="电话号码";
+"sign-in-options.subtitle"="登录方式";
+"sign-in-options.title"="授权";
+
+"sign-in-with-email.password"="密码";
+"sign-in-with-email.title"="登录";
+"sign-in.enter-email.text-field.placeholder"="邮件地址";
+
+"sign-in.forgot"="忘记密码";
+
+
+// sign up
+"sign-up-options.button.email"="邮件地址";
+"sign-up-options.button.phone"="电话号码";
+"sign-up-options.subtitle"="请选择方便的注册方式";
+"sign-up-options.title"="注册";
+
+"sign-up-with-email.step1.birthday-field.placeholder"="出生日期";
+"sign-up-with-email.step1.code-description"="点击图片并更新代码";
+"sign-up-with-email.step1.code-field.placeholder"="图像中的代码";
+"sign-up-with-email.step1.email-field.placeholder"="邮件地址";
+"sign-up-with-email.step1.gender-title"="性别";
+"sign-up-with-email.step1.password-field.placeholder"="密码";
+"sign-up-with-email.step1.title"="注册";
+
+"sign-up-with-email.step2.first-name-field.placeholder"="名字";
+"sign-up-with-email.step2.last-name-field.placeholder"="姓氏";
+"sign-up-with-email.step2.title"="注册";
+
+"sign-up-with-phone.birthday-field.placeholder"="出生日期";
+"sign-up-with-phone.first-name-field.placeholder"="名字";
+"sign-up-with-phone.gender-title"="性别";
+"sign-up-with-phone.last-name-field.placeholder"="姓氏";
+"sign-up-with-phone.title"="注册";
+
+"sign-up.gender.female"="女";
+"sign-up.gender.male"="男";
+
+
+// restore password
+"restore-password.step-email.title"="忘记密码了？";
+"restore-password.step-email.subtitle"="输入您注册时使用的电子邮件地址";
+"restore-password.step-email.text-field.placeholder"="邮件地址";
+
+"restore-password.step-code.title"="忘记密码了？";
+"restore-password.step-code.subtitle"="输入发送到您的电子邮件地址的代码";
+"restore-password.step-code.text-field.placeholder"="确认码";
+
+"restore-password.step-new-password.title"="恢复密码";
+"restore-password.confirm-password-field.placeholder"="确认";
+"restore-password.password-field.placeholder"="密码";
+
+
+// phone
+"phone-already-registered.subtitle"="请点击此按钮打开应用";
+"phone-already-registered.title"="电话号码已被注册";
+
+"phone-not-registered.title"="该电话号码没有在 UDS Game 应用中注册";
+
+
+// account banned & blocked
+"account-banned.title"="由于违反用户协议，访问被阻止。要了解阻止原因，请联系技术支持：\nsupport@udsgame.com";
+
+// device id
+"device-uuid-exceeded.device-id-title"="设备 ID";
+"device-uuid-exceeded.subtitle"="请使用其他授权方法登录，或向我们的技术支持小组发送错误屏幕截图";
+"device-uuid-exceeded.title"="该设备已经注册了其他帐户";
+
+
+// city picker
+"city-picker.background.title"="糟糕！您在火星上吗？请帮我们找到您！";
+"city-picker.search.placeholder"="城市或区域";
+"city-picker.title"="您的位置";
+"city-picker.background.autodefine-button"="再试一次";
+
+
+// tabs
+"tab.discount"="折扣";
+"tab.home"="首页";
+"tab.offers"="优惠";
+"tab.places"="商家";
+"tab.promo"="促销代码";
+
+
+// logout
+"logout.alert.title"="退出错误";
+"logout.alert.push-error"="发生了错误。您的设备可能会收到新的推送通知。";
+"logout.alert.try-again"="请再试一次";
+
+
+// categories
+"categories.all-categories"="所有商家";
+"categories.all-categories.description"="所有类别中的商家";
+
+"categories.favorite-places"="喜欢的商家";
+"categories.my-places"="我的商家";
+
+"categories.category.all-places"="所有商家";
+
+"category-preferences.my.title"="我的偏好设置";
+
+"category-preferences.setup.subtitle"="将首先显示基于这些偏好的特别优惠";
+"category-preferences.setup.title"="最多可以选择 3 个类别";
+
+"category-switch.button.switch"="替换";
+"category-switch.subtitle"="请替换以前选择的偏好设置并添加新的偏好设置";
+"category-switch.title"="允许的类别数量 - 3";
+
+
+// settings
+"settings.alert.change-instagram.title"="替换";
+"settings.alert.change-skype.title"="替换";
+"settings.alert.logout.title"="确定吗？";
+
+"settings.app-info"="信息";
+"settings.app-language"="语言";
+
+"settings.cell.about-application"="应用简介";
+"settings.cell.confirm-password"="确认";
+"settings.cell.current-password"="当前密码";
+"settings.cell.email"="邮件地址";
+"settings.cell.email-password"="电子邮件/密码";
+"settings.cell.instagram"="Instagram";
+"settings.cell.logout"="退出";
+"settings.cell.new-password"="新密码";
+"settings.cell.phone"="电话号码";
+"settings.cell.skype"="Skype";
+"settings.cell.verify-phone"="验证电话号码";
+"settings.cell.preferences"="偏好设置";
+"settings.cell.birth-date"="出生日期";
+"settings.cell.last-name"="姓氏";
+
+"settings.notifications.cell.company-news"="新闻";
+"settings.notifications.cell.company-offers"="优惠";
+"settings.notifications.cell.company-messages"="消息";
+"settings.notifications.cell.new-members"="邀请的好友";
+"settings.notifications.cell.scores-change"="积分";
+
+"settings.change-language.alert.title"="更改语言";
+"settings.change-language.alert.text"="重新启动后将应用“%@”";
+
+"settings.languages"="语言";
+"settings.languages.system"="系统语言";
+"settings.reset-to-system-language"="重置";
+
+"settings.section.authorization"="授权";
+"settings.section.notifications"="通知";
+"settings.section.social"="社交网络";
+
+"settings.upload-image"="您的照片";
+"settings.upload-image.open"="打开";
+"settings.upload-image.camera"="拍照";
+"settings.upload-image.gallery"="从照片库中选择";
+"settings.upload-image.delete"="删除";
+
+"settings.select-phone.message"="要更改电话号码，请联系技术支持 support@udsgame.com";
+
+
+// place
+"place.joining-award.alert.title"="推荐积分";
+"place.joining-award.alert.message"="一旦您个人邀请的朋友进行了首次购买，您将获得推荐积分";
+
+"places.tab.all"="所有商家";
+"places.tab.favorite"="收藏夹";
+"places.tab.my"="我的商家";
+
+"places.title"="商家";
+
+"my-places.title"="我的商家";
+"my-places.table-placeholder.title"="我的商家";
+"my-places.table-placeholder.subtitle"="您访问的商家将出现在这里";
+
+"favorite-palces.title"="喜欢的商家";
+"favorite-places.table-placeholder.title"="喜欢的商家";
+"favorite-places.table-placeholder.subtitle"="添加您喜欢的商家";
+
+"company.tab.description"="描述";
+"company.tab.news"="新闻";
+"company.tab.offers"="优惠";
+
+"company.bonus-program-description"="奖励计划描述";
+"company.bonus-program-cell.button"="奖励计划";
+"company.branches-cell.button.format"="显示所有分店：%@";
+"company.bonus-program.title"="奖励计划";
+
+"company.news-cell.detail-button"="显示详细信息...";
+
+"company.action.add-to-favorites"="添加到收藏夹";
+"company.action.remove-from-favorites"="从收藏夹中移除";
+"company.action.offers-notifications.enabled"="订阅优惠";
+"company.action.offers-notifications.disabled"="取消订阅优惠";
+"company.action.news-notifications.enabled"="订阅新闻";
+"company.action.news-notifications.disabled"="取消订阅新闻";
+
+"company.cell.nearest-branch"="最近的地址";
+"company.cell.description"="关于我们";
+"company.cell.phone"="电话号码";
+"company.cell.website"="网站";
+"company.cell.worktime"="营业时间";
+"company.cell.message"="撰写留言";
+
+"company.worktime.opens-after.format"="在 %@ 中打开";
+"company.worktime.remains-opens.format"="保持打开%@";
+"company.worktime.today-closed"="已关闭";
+"company.worktime.around-the-clock"="24 小时";
+
+"company.error.already-participant"="您已加入该公司";
+
+"company.message.become-participant"="您已成功加入";
+
+
+// companies map
+"companies-map.all-companies.title"="所有商家";
+"companies-map.favorite-companies.title"="收藏夹";
+"companies-map.my-companies.title"="我的商家";
+
+"company-add-to-favorite.button.add"="添加";
+"company-add-to-favorite.subtitle"="添加到收藏夹";
+
+"company-branch.address"="地址";
+"company-branch.cell.phone"="电话号码";
+"company-branch.cell.worktime"="营业时间";
+
+"company-list-tutorial.bottom-view.button"="继续";
+"company-list-tutorial.top-view.favorite"=" 喜欢的商家";
+"company-list-tutorial.top-view.recommend"="商家建议";
+"company-list-tutorial.top-view.title"="向左滑动并访问功能";
+
+
+// members structure
+"company.members-structure.level1"="1 级";
+"company.members-structure.level2"="2 级";
+"company.members-structure.level3"="3 级";
+"company.members-structure.no-members-placeholder"="未邀请好友";
+"company.members-structure.recommend"="推荐";
+
+"company.recommend"="推荐";
+"company.recommend.title"="推荐";
+"company.recommend.view.title"="与好友分享促销代码";
+"company.recommendations"="推荐";
+
+
+// dashboard
+"dashboard.recent-companies.title"="您最近访问过";
+"dashboard.search.placeholder"="搜索商家";
+
+"dashboard.category-header.button"="视图";
+
+"global-search.placeholder"="搜索";
+
+
+// offers
+"offer-trends-cell.button"="前往";
+"offer-trends-cell.subtitle"="查看最多人喜欢的商家";
+"offer-trends-cell.title"="用户选择";
+
+"offer.action.complaint"="投诉";
+"offer.expire-date"="优惠有效期：";
+"offer.quantity"="剩余/全部";
+"offer.use"="使用";
+
+"offers-filters.cell.location"="位置";
+"offers-filters.title"="筛选";
+
+"offers-recommended-for-you.title"="为您";
+
+"offers-trending.title"="用户选择";
+
+"offers.recommend-header.button"="前往";
+"offers.recommended-header.title"="专为您提供";
+
+"offers.title"="优惠";
+
+"offer.compaint.succes"="投诉已发送";
+
+
+// profile
+"profile.title"="个人资料";
+
+
+// qr code
+"qr-code.discount.title"="折扣";
+"qr-code.discount.subtitle"="向收银员展示此 QR 码或报此编号";
+"qr-code.discount.details"="此折扣在加入 UDS Game 应用的所有商家都有效";
+
+"qr-code.offer.title"="优惠";
+"qr-code.offer.subtitle"="向收银员展示此 QR 码或报此编号";
+
+"qr-code.storefront.title"="付款";
+"qr-code.storefront.subtitle"="向收银员展示此 QR 码或报此编号";
+
+"qr-code.input.input-view-title"="输入或扫描促销代码";
+"qr-code.input.text-field-placeholder"="促销代码";
+"qr-code.input.title"="促销代码";
+
+"qr-code.recommend.card-subtitle"="或手动输入";
+"qr-code.recommend.card-title"="使用 QR 码";
+
+
+// sample
+"sample.company1.annotation"="Roof 咖啡馆 - 来自意大利咖啡师的最美味咖啡。";
+"sample.company1.name"="Roof";
+
+"sample.company2.annotation"="美容诊所 - 整容手术。";
+"sample.company2.name"="Bestia";
+
+"sample.company3.annotation"="比萨店 - 正宗那不勒斯比萨";
+"sample.company3.name"="Bella Italiano";
+
+
+// timeline
+"timeline.type.purchase"="购买";
+"timeline.type.scores-income"="累积积分";
+"timeline.type.all"="所有历史记录";
+
+"timeline.order-by-offer"="使用了促销优惠的购买";
+"timeline.scores-refunded"="积分已退还";
+"timeline.operation.comment"="评论";
+
+
+// location service
+"location-service.request-timed-out"="会话超时";
+"location-service.options-alert.title"="找不到您的位置";
+"location-service.options-alert.action.manual-enter"="手动输入";
+"location-service.options-alert.action.navigate-to-settings"="转到“设置”";
+
+"city.not-defined"="未找到";
+
+// table
+"table.footer.pull-to-load-more"="请向下滑动来加载更多";
+"company-search-table.footer.no-items"="未找到";
+"city-search-table.footer.no-items"="未找到";
+
+/* Not delete because used in MWPhotoBrowser pod */
+"Done"="完成";
+"of"="/";
+
+
+"place.not-defined-neares-branch-cell.text"="找不到您的位置";
+"place.not-defined-neares-branch-cell.button"="确定";
+"paces.table-footer.my-places-empty"="您最近注册了，但还没有加入任何商家 :(";
+
+"global-search.cell.location"="位置";
+
+// feedback && poll
+"feedback.title"="评价";
+"feedback.comment.placeholder"="请留下您的意见（如果您愿意）";
+"feedback.rate.title"="感谢您的购买！";
+"feedback.rate.subtitle.format"="请在 %@ 中为服务质量评分";
+
+"feedback-take-poll.title"="感谢您的评价！";
+"feedback-take-poll.subtitle.format"="%@正努力为您改进！请完成简短的问卷调查";
+"feedback-take-poll.poll-button"="开始参加问卷调查";
+
+"poll.title"="问卷调查";
+/* #################### PLIST */
+/* NSLocationWhenInUseUsageDescription */
+"NSCameraUsageDescription"="扫描 QR 码";
+
+/* NSLocationWhenInUseUsageDescription */
+"NSLocationWhenInUseUsageDescription"="It’s required to find nearby places";
+
+/* NSPhotoLibraryUsageDescription */
+"NSPhotoLibraryUsageDescription"="It’s required for choosing a profile picture";
+
+/* TGShortcutItemTypeDiscountTitle */
+"TGShortcutItemTypeDiscountTitle"="折扣";
+
+/* TGShortcutItemTypePromoTitle */
+"TGShortcutItemTypePromoTitle"="促销代码";
+
+/* TGShortcutItemTypePlacesTitle */
+"TGShortcutItemTypePlacesTitle"="商家";
+
+/* TGShortcutItemTypeOffersTitle */
+"TGShortcutItemTypeOffersTitle"="优惠";

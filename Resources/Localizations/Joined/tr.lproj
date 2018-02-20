@@ -1,0 +1,628 @@
+/* #################### PROJECT */
+/* And string */
+"base.and"="ve";
+/* are don't match string */
+"are don't match"="Eşleşmiyor";
+
+
+"qr-scan.message.camera-required"="QR kodunu taramak için UDS GAME'in kameranıza erişmesi gerekir.";
+
+"history.table-footer.empty"="İşlem geçmişi boş";
+
+
+"price-menu.empty"="Fiyat listesi boş";
+"price-menu.empty-cart"="Sepetiniz boş";
+
+"pricelist.add-to-cart"="Sepetinize eklendi";
+
+
+"base.price"="Fiyat";
+
+"rate.comment-filed.placeholder"="Yorumunuz";
+
+
+
+/* u.e. string */
+"u.e."="para";
+
+
+"price-cart.title"="Sepet";
+"price-cart.base-discount"="Baz indirim";
+"price-cart.purchase"="Satın al";
+
+
+
+"price-cart.total-sum"="Toplam";
+
+"base.total"="Toplam";
+
+/* Purchase for cash string */
+"price-cart.alert.action.purchase-for-cash.format"="%@ ile öde";
+
+/* Purchase for scores string */
+"Purchase for scores"="Bonus puanlarla satın alın";
+
+/* Insufficient scores string */
+"Insufficient scores"="Yetersiz puan";
+
+/* Choose action string */
+"Choose action"="Bir eylem seçin";
+
+/* Today from-to work time string */
+"Today from-to work time"="Bugün %@- %@ arası";
+
+/* Game not availiable string */
+"Game not availiable"="Hata! Teknik çalışmalar devam ediyor. Yakında döneceğiz!";
+
+/* Invite award scores string */
+"Invite award scores"="Tavsiye ödülü";
+
+/* History string */
+"History"="Tarih";
+
+/* To join string */
+"To join"="Katıl";
+
+/* In cart string */
+"In cart"="Sepette";
+
+/* Name string */
+"Name"="İsim";
+
+/* Rate string */
+"Rate"="Yorum";
+
+/* Rate service string */
+"Rate service"="Lütfen müşteri hizmetini derecelendirin";
+
+/* joining award scores string */
+"joining award scores"="Hoşgeldiniz puanları";
+
+/* referral reward scores string */
+"referral reward scores"="öneri puanları";
+
+/* Price for scores string */
+"Price for scores"="Bonus fiyatı";
+
+/* Permanent discount string */
+"Permanent discount"="İndirim";
+
+/* Permanent discount 2 string */
+"Permanent discount 2"="İndirim";
+
+/* History new participant string */
+"New participant"="Yeni katılımcı";
+
+/* You became VIP client at place string */
+"You became VIP client at place"=" %@ status aldınız";
+
+/* Bill string */
+"Bill"="Hesap";
+
+/* Scores string */
+"Scores"="Puanlar";
+
+/* Scores incoming string */
+"Scores incoming"="Kazanılmıs puanlar";
+
+/* Details string */
+"Details"="Ayrıntılar";
+
+/* Pricelist order string */
+"Pricelist order"="Fiyat listesinden satın alma";
+
+/* Coupon purchase string */
+"Coupon purchase"="Kupon satın alım";
+
+/* Item added to cart string */
+"Item added to cart"="Sepetinize eklendi";
+
+/* User Agreement string */
+"user_agreement"="Kullanıcı Sözleşmesi";
+
+/* Privacy policy string */
+"privacy_policy"="Gizlilik Politikası";
+
+/* About app string */
+"about"="Uygulama hakkında";
+
+/* Name details string */
+"Name details"="İsim";
+
+/* KM unit string */
+"KM unit"="km";
+
+/* M unit string */
+"M unit"="m";
+
+
+
+// Base
+"base.apply"="Uygulama";
+"base.send"="Gönder";
+"base.next"="Sonraki";
+"base.cancel"="İptal et";
+"base.close"="Kapat";
+"base.continue"="Devam et";
+"base.could-not-autodefine-location"="Konumunuz bulunamıyor";
+"base.error"="Hata";
+"base.error.user-not-authorized"="Kullanıcı yetkili değil";
+"base.information"="Bilgi";
+"base.navigate"="Geç";
+"base.register"="Kayıt";
+"base.required-field"="Gerekli alan";
+"base.settings"="Ayarlar";
+"base.skip"="Atla";
+"base.write"="Mesaj bırakın";
+"base.sign-in"="Yetki";
+"base.sign-up"="Kullanıcı Kaydı";
+"base.setup-phone"="Telefon numarası ekleyin";
+"base.today"="Bugün";
+"base.exit"="Çıkış";
+"base.phone-call"="Çağrı";
+"base.scores.multiple"="puanlar";
+"base.password"="Şifre";
+"base.password-confirmation"="Şifre onayı";
+"base.not-defined"="Belirtilmedi";
+"base.my-scores"="Bonus puanlarım";
+"base.price-menu"="Fiyat / Menü";
+"base.update"="Güncelleştirme";
+"base.update-available"="Güncellemeler mevcut";
+"base.discount"="İndirim";
+"base.password-changed"="Şifreniz değiştirildi";
+"base.agreement"="Anlaşma";
+"base.level"="Seviye";
+"base.female"="Bayan";
+"base.gender"="Cinsiyet";
+"base.male"="Erkek";
+"base.congratulations"="Tebrikler!";
+"base.you"="Siz";
+"base.yesterday"="Dün";
+
+
+// error
+"error.request.cancelled"="Istek iptal edildi";
+"error.data-not-available"="Veri mevcut değildir";
+"error.internal-server"="İç sunucu hatası";
+"error.response.unrecognized"="Tanınmayan sunucu yanıtı";
+"error.unsupported-version"="Sürüm desteklenmiyor";
+"error.to-many-requests"="Çok fazla istek bulunmaktadır";
+
+
+"request.cancelled"="İstek iptal edildi";
+
+
+"user-location.near-me"="Yakınlardaki";
+
+
+// Application
+"application.notification.text.launch-app-after-change-language"="Sıfırlamak için tıklayın";
+
+
+// walkthrougth
+"walkthrough.page.0.subtitle"="UDS Game katılan tüm mekanlarda indirimler ve bonus puanları alın.";
+"walkthrough.page.0.title"="İndirimler ve bonuslar!";
+
+"walkthrough.page.1.subtitle"="Tercihlerinize göre en iyi kampanyalar.";
+"walkthrough.page.1.title"="Kampanyalar ve özel teklifler!";
+
+"walkthrough.page.2.subtitle"="Promosyon kodlarını arkadaşlarınızla paylaşın ve  onların her bir satın alımından puan kazanın.";
+"walkthrough.page.2.title"="Arkadaşlarınıza Tavsiye Edin!";
+
+"walkthrough.skip"="Atla";
+
+
+// welcome
+"welcome.sign-in"="Giriş";
+"welcome.sign-up"="Şimdi üye ol";
+"welcome.social.title"="veya";
+
+
+"auth.facebook"="Facebook";
+"auth.vk"="VK";
+
+
+// phone
+"phone-auth.enter-phone.subtitle"="Telefon numaranızı girin";
+"phone-auth.enter-phone.button"="Doğrulama kodu gönder";
+"phone-auth.enter-code.title"="Doğrulama";
+"phone-auth.enter-code.subtitle.format"="%@ adresine 6 haneli bir kod gönderdik.";
+"phone-auth.enter-code.button"="Devam et";
+"phone-auth.enter-code.re-send-button"="Yeni bir kod gönder";
+"phone-auth.error.incorrect-phone-number"="Yanlış Telefon Numarası";
+"phone-auth.error.incorrect-confirmation-code"="Yanlış kod";
+
+// sign in
+"sign-in-options.button.email"="E-posta adresı";
+"sign-in-options.button.forgot"="Şifremi unuttum";
+"sign-in-options.button.phone"="Telefon numarası";
+"sign-in-options.subtitle"="ile giriş yap";
+"sign-in-options.title"="Yetki";
+
+"sign-in-with-email.password"="Şifre";
+"sign-in-with-email.title"="Oturum aç";
+"sign-in.enter-email.text-field.placeholder"="E-posta adresi";
+
+"sign-in.forgot"="Şifremi unuttum";
+
+
+// sign up
+"sign-up-options.button.email"="E-posta adresi";
+"sign-up-options.button.phone"="Telefon numarası";
+"sign-up-options.subtitle"="Lütfen, uygun bir kayıt yöntemi seçin";
+"sign-up-options.title"="Kayıt";
+
+"sign-up-with-email.step1.birthday-field.placeholder"="Doğum tarihi";
+"sign-up-with-email.step1.code-description"="Resme tıklayın ve kodu yenileyin";
+"sign-up-with-email.step1.code-field.placeholder"="Görüntüdeki kodu";
+"sign-up-with-email.step1.email-field.placeholder"="E-posta adresi";
+"sign-up-with-email.step1.gender-title"="Cinsiyet";
+"sign-up-with-email.step1.password-field.placeholder"="Şifre";
+"sign-up-with-email.step1.title"="Kayıt";
+
+"sign-up-with-email.step2.first-name-field.placeholder"="İsim";
+"sign-up-with-email.step2.last-name-field.placeholder"="Soyadı";
+"sign-up-with-email.step2.title"="Kaydol";
+
+"sign-up-with-phone.birthday-field.placeholder"="Doğum tarihi";
+"sign-up-with-phone.first-name-field.placeholder"="İsim";
+"sign-up-with-phone.gender-title"="Cinsiyet";
+"sign-up-with-phone.last-name-field.placeholder"="Soyadı";
+"sign-up-with-phone.title"="Kaydol";
+
+"sign-up.gender.female"="Bayan";
+"sign-up.gender.male"="Erkek";
+
+
+// restore password
+"restore-password.step-email.title"="Şifremi unuttum";
+"restore-password.step-email.subtitle"="Kayıt sırasında kullandığınız e-posta adresini giriniz";
+"restore-password.step-email.text-field.placeholder"="E-posta adresı";
+
+"restore-password.step-code.title"="Şifremi unuttum";
+"restore-password.step-code.subtitle"="E-posta adresinize gönderilen kodu girin";
+"restore-password.step-code.text-field.placeholder"="Onay kodu";
+
+"restore-password.step-new-password.title"="Şifreni yenile";
+"restore-password.confirm-password-field.placeholder"="Onaylamak";
+"restore-password.password-field.placeholder"="Şifre";
+
+
+// phone
+"phone-already-registered.subtitle"="Uygulamayı açmak için lütfen butona tıklayın";
+"phone-already-registered.title"="Telefon numarası zaten kayıtlı";
+
+"phone-not-registered.title"="Bu telefon numarası UDS Game uygulamasında kayıtlı değildir.";
+
+
+// account banned & blocked
+"account-banned.title"="Erişiminiz  Kullanıcı Sözleşmesinin ihlali nedeniyle engellendi. Engel nedenlerini öğrenmek için Teknik Desteğe başvurunuz:\nsupport@udsgame.com";
+
+// device id
+"device-uuid-exceeded.device-id-title"="Cihaz No";
+"device-uuid-exceeded.subtitle"="Lütfen, diğer giriş  yöntemleri kullanarak oturum açın veya teknik destek ekibimize bir hata ekran görüntüsü gönderin.";
+"device-uuid-exceeded.title"="Bu cihaz zaten farklı bir hesapla kayıtlı";
+
+
+// city picker
+"city-picker.background.title"="Hata! Mars'ta mı yaşıyorsun? Lütfen sizi bulmamızda bize yardımcı olun!";
+"city-picker.search.placeholder"="Şehir veya bölge";
+"city-picker.title"="Konumunuz";
+"city-picker.background.autodefine-button"="Tekrar dene";
+
+
+// tabs
+"tab.discount"="İndirim";
+"tab.home"="Ana sayfa";
+"tab.offers"="Kampanyalar";
+"tab.places"="Mekanlar";
+"tab.promo"="Promosyon kodu";
+
+
+// logout
+"logout.alert.title"="Çıkış hatası";
+"logout.alert.push-error"="Bir hata oluştu. Muhtemelen cihazınız yeni bildirimler alacaktır.";
+"logout.alert.try-again"="Lütfen tekrar deneyin";
+
+
+// categories
+"categories.all-categories"="Tüm Mekanlar";
+"categories.all-categories.description"="Tüm kategorilerdeki mekanlar";
+
+"categories.favorite-places"="Favori mekanlarınız";
+"categories.my-places"="Mekanlarım";
+
+"categories.category.all-places"="Tüm mekanlar";
+
+"category-preferences.my.title"="Tercihlerim";
+
+"category-preferences.setup.subtitle"="Özel kampanyalar bu tercihlere göre gösterilecek.";
+"category-preferences.setup.title"="En fazla 3 kategori seçin";
+
+"category-switch.button.switch"="Değiştir";
+"category-switch.subtitle"="Lütfen daha önce seçilen tercihleri değiştirin ve yenilerini ekleyin.";
+"category-switch.title"="İzin verilen kategori sayısı - 3";
+
+
+// settings
+"settings.alert.change-instagram.title"="Değiştir";
+"settings.alert.change-skype.title"="Değiştir";
+"settings.alert.logout.title"="Emin misiniz?";
+
+"settings.app-info"="Bilgi";
+"settings.app-language"="Dil";
+
+"settings.cell.about-application"="Uygulama hakkında";
+"settings.cell.confirm-password"="Onaylamak";
+"settings.cell.current-password"="Şimdiki Şifre";
+"settings.cell.email"="E-posta adresi";
+"settings.cell.email-password"="E-posta/Şifre";
+"settings.cell.instagram"="Instagram";
+"settings.cell.logout"="Çıkış yap";
+"settings.cell.new-password"="Yeni şifre";
+"settings.cell.phone"="Telefon numarası";
+"settings.cell.skype"="Skype";
+"settings.cell.verify-phone"="Telefon numarasını doğrulama";
+"settings.cell.preferences"="Tercihler";
+"settings.cell.birth-date"="Doğum tarihi";
+"settings.cell.last-name"="Soyadı";
+
+"settings.notifications.cell.company-news"="Haber";
+"settings.notifications.cell.company-offers"="Kampanyalar";
+"settings.notifications.cell.company-messages"="Mesajlar";
+"settings.notifications.cell.new-members"="Davet edilen arkadaşlar";
+"settings.notifications.cell.scores-change"="Puanlar";
+
+"settings.change-language.alert.title"="Dili değiştir";
+"settings.change-language.alert.text"="\" %@\" yeniden başlattıktan sonra uygulanacaktır";
+
+"settings.languages"="Diller";
+"settings.languages.system"="Sistem dili";
+"settings.reset-to-system-language"="Reset";
+
+"settings.section.authorization"="Yetki";
+"settings.section.notifications"="Bildirimler";
+"settings.section.social"="Sosyal ağlar";
+
+"settings.upload-image"="Sizin fotoğrafınız";
+"settings.upload-image.open"="Aç";
+"settings.upload-image.camera"="Fotoğraf çek";
+"settings.upload-image.gallery"="Fotoğraf galerisi arasından seçim yapın";
+"settings.upload-image.delete"="Sil";
+
+"settings.select-phone.message"="Telefon numaranızı değiştirmek için, lütfen support@udsgame.com adresinden teknik desteğe başvurun.";
+
+
+// place
+"place.joining-award.alert.title"="Öneri puanları";
+"place.joining-award.alert.message"="Kişisel olarak davet edilen arkadaşınız ilk satın alma işlemini gerçekleştirdiğinde, öneri puanlarıyla ödüllendirileceksiniz.";
+
+"places.tab.all"="Tüm mekanlar";
+"places.tab.favorite"="Favoriler";
+"places.tab.my"="Mekanlarim";
+
+"places.title"="Mekanlar";
+
+"my-places.title"="Mekanlarim";
+"my-places.table-placeholder.title"="Mekanlarim";
+"my-places.table-placeholder.subtitle"="Ziyaret ettiğiniz mekanlar burada görünür";
+
+"favorite-palces.title"="Favori mekanlar";
+"favorite-places.table-placeholder.title"="Favori mekanlar";
+"favorite-places.table-placeholder.subtitle"="Sevdiğiniz mekanlari favorilere ekleyin";
+
+"company.tab.description"="Açıklama";
+"company.tab.news"="Haberler";
+"company.tab.offers"="Kampanyalar";
+
+"company.bonus-program-description"="Bonus programı açıklaması";
+"company.bonus-program-cell.button"="Bonus programı";
+"company.branches-cell.button.format"="Tüm şübelerı göster: %@";
+"company.bonus-program.title"="Bonus programı";
+
+"company.news-cell.detail-button"="Detayları göster...";
+
+"company.action.add-to-favorites"="Favorilere ekle";
+"company.action.remove-from-favorites"="Favorilerden kaldır";
+"company.action.offers-notifications.enabled"="Kampanyalara abone olun";
+"company.action.offers-notifications.disabled"="Kampanya aboneliğinden ayrıl";
+"company.action.news-notifications.enabled"="Haberlere abone ol";
+"company.action.news-notifications.disabled"="Haber aboneliğini iptal";
+
+"company.cell.nearest-branch"="En yakın adres";
+"company.cell.description"="Hakkımızda";
+"company.cell.phone"="Telefon numarası";
+"company.cell.website"="Web sitesi";
+"company.cell.worktime"="Çalışma saatleri";
+"company.cell.message"="Mesaj gönder";
+
+"company.worktime.opens-after.format"="%@ içinde açılacak";
+"company.worktime.remains-opens.format"="%@ daha açık kalır";
+"company.worktime.today-closed"="Kapalı";
+"company.worktime.around-the-clock"="24 saat";
+
+"company.error.already-participant"="Zaten şirkete katıldınız.";
+
+"company.message.become-participant"="Başarıyla katıldınız";
+
+
+// companies map
+"companies-map.all-companies.title"="Tüm Mekanlar";
+"companies-map.favorite-companies.title"="Favoriler";
+"companies-map.my-companies.title"="Mekanlarım";
+
+"company-add-to-favorite.button.add"="Ekle";
+"company-add-to-favorite.subtitle"="Favorilere ekle";
+
+"company-branch.address"="Adresler";
+"company-branch.cell.phone"="Telefon numarası:";
+"company-branch.cell.worktime"="Çalışma saatleri";
+
+"company-list-tutorial.bottom-view.button"="Devam et";
+"company-list-tutorial.top-view.favorite"="Favori yerler";
+"company-list-tutorial.top-view.recommend"="Mekan önerileri";
+"company-list-tutorial.top-view.title"="İstediğin fonksiyona hızlı bir şekilde ulaşman için parmağınızın ile sağdan sola doğru sürükle.";
+
+
+// members structure
+"company.members-structure.level1"="1. seviye";
+"company.members-structure.level2"="2. seviye";
+"company.members-structure.level3"="3. seviye";
+"company.members-structure.no-members-placeholder"="Davet edilen arkadaş yok";
+"company.members-structure.recommend"="Tavsiye etmek";
+
+"company.recommend"="Tavsiye etmek";
+"company.recommend.title"="Tavsiye etmek";
+"company.recommend.view.title"="Promosyon kodunu arkadaşlarınla ​​paylaş";
+"company.recommendations"="Öneriler";
+
+
+// dashboard
+"dashboard.recent-companies.title"="Son ziyaret ettiniz mekanlar";
+"dashboard.search.placeholder"="Mekanları ara";
+
+"dashboard.category-header.button"="Göster";
+
+"global-search.placeholder"="Ara";
+
+
+// offers
+"offer-trends-cell.button"="Geç";
+"offer-trends-cell.subtitle"="En sevilen mekanları görün";
+"offer-trends-cell.title"="Kullanıcıların tercihi";
+
+"offer.action.complaint"="Bir şikayette bulunun";
+"offer.expire-date"="Teklif () tarihlere kadar geçerlidir:";
+"offer.quantity"="Kalan / Tümü";
+"offer.use"="Kullan";
+
+"offers-filters.cell.location"="Konum";
+"offers-filters.title"="Filtre";
+
+"offers-recommended-for-you.title"="Size özel";
+
+"offers-trending.title"="Kullanıcıların tercihi";
+
+"offers.recommend-header.button"="Geç";
+"offers.recommended-header.title"="Size özel";
+
+"offers.title"="Kampanyalar";
+
+"offer.compaint.succes"="Şikayet gönderildi";
+
+
+// profile
+"profile.title"="Profil";
+
+
+// qr code
+"qr-code.discount.title"="İndirim";
+"qr-code.discount.subtitle"="Bu QR kodunu kasiyere gösterin veya bu numaraları söyleyin";
+"qr-code.discount.details"="Bu indirim, UDS Game uygulamiya katılan tüm mekanlarda geçerlidir";
+
+"qr-code.offer.title"="Kampanya";
+"qr-code.offer.subtitle"="Bu QR kodunu kasiyere gösterin veya bu numaraları söyleyin";
+
+"qr-code.storefront.title"="Ödeme";
+"qr-code.storefront.subtitle"="Bu QR kodunu kasiyere gösterin veya bu numaraları söyleyin";
+
+"qr-code.input.input-view-title"="Promosyon kodu girin veya tarayın";
+"qr-code.input.text-field-placeholder"="Promosyon kodu";
+"qr-code.input.title"="Promosyon kodu";
+
+"qr-code.recommend.card-subtitle"="veya manuel olarak gir";
+"qr-code.recommend.card-title"="QR-kodu kullanın";
+
+
+// sample
+"sample.company1.annotation"="Roof coffee house  - İtalyan barista'nın en güzel kahvesi.";
+"sample.company1.name"="Çatı";
+
+"sample.company2.annotation"="Güzellik klinikleri - kozmetik cerrahi";
+"sample.company2.name"="Bestia";
+
+"sample.company3.annotation"="Pizzacı - otantik Napoli pizza";
+"sample.company3.name"="Bella Italiano";
+
+
+// timeline
+"timeline.type.purchase"="Satın alma";
+"timeline.type.scores-income"="Kazanılan puanlar";
+"timeline.type.all"="Tüm tarıh";
+
+"timeline.order-by-offer"="Promosyon kampanyaları ile yapılan satın alma işlemleri";
+"timeline.scores-refunded"="Puanlar geri ödendi";
+"timeline.operation.comment"="Yorum";
+
+
+// location service
+"location-service.request-timed-out"="Oturum zaman aşımına uğradı";
+"location-service.options-alert.title"="Konumuzu bulunamadı";
+"location-service.options-alert.action.manual-enter"="Manuel olarak giriniz";
+"location-service.options-alert.action.navigate-to-settings"="Ayarlara git";
+
+"city.not-defined"="Bulunamadı";
+
+// table
+"table.footer.pull-to-load-more"="Daha fazla yüklemek için lütfen aşağı doğru hızlıca kaydırın";
+"company-search-table.footer.no-items"="Bulunamadı";
+"city-search-table.footer.no-items"="Bulunamadı";
+
+/* Not delete because used in MWPhotoBrowser pod */
+"Done"="Tamamlandı";
+"of"="arasında";
+
+
+"place.not-defined-neares-branch-cell.text"="Konumunuzu bulunamadı";
+"place.not-defined-neares-branch-cell.button"="Belirlemek";
+"paces.table-footer.my-places-empty"="Son kaydolmuştunuz ama henüz herhangi bir mekana katılmadınız :(";
+
+"global-search.cell.location"="Konum";
+
+// feedback && poll
+"feedback.title"="Değerlendirme";
+"feedback.comment.placeholder"="Lütfen görüşlerinizi bildiriniz (isterseniz)";
+"feedback.rate.title"="Satın aldığınız için teşekkür ederiz!";
+"feedback.rate.subtitle.format"=" Lütfen  %@' da hizmet kalitesini değerlendirin.";
+
+"feedback-take-poll.title"="Puanınız için teşekkür ederiz!";
+"feedback-take-poll.subtitle.format"="%@ sizin için daha iyi olmaya çalışıyor! Lütfen kısa anketi doldurun";
+"feedback-take-poll.poll-button"="Anket başlat";
+
+"poll.title"="Araştırma";
+
+
+// conversation
+"conversations-list.title"="Mesajlar";
+"conversations-list.background.title"="Henüz mesaj yok";
+"conversations-list.background.subtitle"="Şirket profil sayfasında bir diyalog açabilirsiniz";
+
+"company.messages.alert.unlock-messages"="Diyaloğu engellemeyi kaldır";
+"company.messages.alert.lock-messages"="Diyaloğu engelle";
+"message.forward-rate.title"="Geri bildirime yanıt";
+"conversation.message-input-toolbar.company-inactive"="Üzgünüz, bu Şirket geçici olarak etkin değil";
+"conversation.message-input-toolbar.company-blocked-messages"="Gelen mesajlar şirket tarafından kısıtlanmıştır";
+"conversation.message-input-toolbar.user-blocked-messages"="Bu Diyalog engellendi. Mesaj gönderemezsiniz.";
+"conversation.message-input-toolbar.user-blocked-messages.button"="Mesajları Engellemeyi Kaldır";
+"messages.input-toolbar.placeholder"="Mesaj";
+/* #################### PLIST */
+/* NSLocationWhenInUseUsageDescription */
+"NSCameraUsageDescription"="QR kodu tara";
+
+/* NSLocationWhenInUseUsageDescription */
+"NSLocationWhenInUseUsageDescription"="It’s required to find nearby places";
+
+/* NSPhotoLibraryUsageDescription */
+"NSPhotoLibraryUsageDescription"="It’s required for choosing a profile picture";
+
+/* TGShortcutItemTypeDiscountTitle */
+"TGShortcutItemTypeDiscountTitle"="İndirim";
+
+/* TGShortcutItemTypePromoTitle */
+"TGShortcutItemTypePromoTitle"="Promosyon kodu";
+
+/* TGShortcutItemTypePlacesTitle */
+"TGShortcutItemTypePlacesTitle"="Mekanlar";
+
+/* TGShortcutItemTypeOffersTitle */
+"TGShortcutItemTypeOffersTitle"="Kampanyalar";

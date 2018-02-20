@@ -1,0 +1,637 @@
+/* #################### PROJECT */
+/* And string */
+"base.and"="და";
+/* are don't match string */
+"are don't match"="არ ემთხვევა";
+
+
+"qr-scan.message.camera-required"="QR კოდის წაკითხვისთვის, UDS Game-ს სჭირდება თქვენი კამერის წვდომა";
+
+"history.table-footer.empty"="ოპერაციის ისტორია ცარიელია";
+
+
+"price-menu.empty"="ფასთა სია ცარიელია";
+"price-menu.empty-cart"="თქვენი კალათა ცარიელია";
+
+"pricelist.add-to-cart"="კალათაში დამატება";
+
+
+"base.price"="ფასი";
+
+"rate.comment-filed.placeholder"="თქვენი კომენტარი";
+
+
+
+/* u.e. string */
+"u.e."="u.e";
+
+
+"price-cart.title"="კალათა";
+"price-cart.base-discount"="ძირითადი ფასდაკლება";
+"price-cart.purchase"="შეძენა";
+
+
+
+"price-cart.total-sum"="სულ";
+
+"base.total"="ჯამი";
+
+/* Purchase for cash string */
+"price-cart.alert.action.purchase-for-cash.format"="შეიძინე %@სთვის";
+
+/* Purchase for scores string */
+"Purchase for scores"="შეიძინე ბონუს ქულებით";
+
+/* Purchased with scores and cash string */
+"timeline.pricelist-order-cell.purchase.format"="Spent %1$@ points and %2$@ %3$@";
+
+/* Insufficient scores string */
+"Insufficient scores"="არასაკმარისი ქულები";
+
+/* Choose action string */
+"Choose action"="აირჩიეთ მოქმედება";
+
+/* Today from-to work time string */
+"Today from-to work time"="დღეს %@-დან %@-მდე";
+
+/* Game not availiable string */
+"Game not availiable"="უკაცრავად! მიმდინარეობს საიტის რეკონსტრუქცია. მალე დაგიბრუნდებით";
+
+/* Invite award scores string */
+"Invite award scores"="სარეკომენდაციო ჯილდო";
+
+/* History string */
+"History"="ისტორია";
+
+/* To join string */
+"To join"="შემოგვიერთდი";
+
+/* In cart string */
+"In cart"="კალათაში";
+
+/* Name string */
+"Name"="სახელი";
+
+/* Rate string */
+"Rate"="მიმოხილვა";
+
+/* Rate service string */
+"Rate service"="გთხოვთ შეაფასოთ მომსახურების სერვისი";
+
+/* joining award scores string */
+"joining award scores"="გაწევრიანების ქულა";
+
+/* referral reward scores string */
+"referral reward scores"="სარეკომენდაციო ქულები";
+
+/* Price for scores string */
+"Price for scores"="ფასი ბონუს ქულებით";
+
+/* Earned join scores string */
+"company.become-participant.message"="თქვენ მიიღეთ %1$@ გაწევრიანების ქულა";
+
+/* Permanent discount string */
+"Permanent discount"="ფასდაკლება";
+
+/* Permanent discount 2 string */
+"Permanent discount 2"="ფასდაკლება";
+
+/* History new participant string */
+"New participant"="ახალი მონაწილე";
+
+/* You became VIP client at place string */
+"You became VIP client at place"="თქვენ მიიღებთ %@ სტატუსს";
+
+/* Bill string */
+"Bill"="შემოწმება";
+
+/* Scores string */
+"Scores"="ქულები";
+
+/* Scores incoming string */
+"Scores incoming"="დაგროვილი ქულები";
+
+/* Details string */
+"Details"="დეტალები";
+
+/* Pricelist order string */
+"Pricelist order"="შეძენა ფასის მიხედვით";
+
+/* Coupon purchase string */
+"Coupon purchase"="კუპონის შეძენა";
+
+/* Item added to cart string */
+"Item added to cart"="კალათაში დამატება";
+
+/* User Agreement string */
+"user_agreement"="მომხმარებლის შეთანხმება";
+
+/* Privacy policy string */
+"privacy_policy"="კონფიდენციალურობის შეთანხმება";
+
+/* About app string */
+"about"="აპლიკაციის შესახებ";
+
+/* Name details string */
+"Name details"="სახელი";
+
+/* KM unit string */
+"KM unit"="კმ";
+
+/* M unit string */
+"M unit"="მ";
+
+
+
+// Base
+"base.apply"="მიმართვა";
+"base.send"="გაგზავნა";
+"base.next"="შემდეგი";
+"base.cancel"="გაუქმება";
+"base.close"="დახურვა";
+"base.continue"="გაგრძელება";
+"base.could-not-autodefine-location"="თქვენი ადგილმდებარეობა ვერ დადგინდა";
+"base.error"="შეცდომა";
+"base.error.user-not-authorized"="მომხმარებელი არ არის ავტორიზებული";
+"base.information"="ინფორმაცია";
+"base.navigate"="გაგრძელება";
+"base.register"="რეგისტრაცია";
+"base.required-field"="აუცილებელი ველი";
+"base.settings"="პარამეტრები";
+"base.skip"="გამოტოვება";
+"base.write"="დატოვე შეტყობინება";
+"base.sign-in"="ავტორიზაცია";
+"base.sign-up"="მომხმარებლის რეგისტრაცია";
+"base.setup-phone"="ტელეფონის დაყენება";
+"base.today"="დღეს";
+"base.exit"="გასვლა";
+"base.phone-call"="დარეკვა";
+"base.scores.multiple"="ქულები";
+"base.password"="პაროლი";
+"base.password-confirmation"="პაროლის დადასტურება";
+"base.not-defined"="არ არის დაკონკრეტებული";
+"base.my-scores"="ჩემი ბონუს ქულები";
+"base.price-menu"="ფასი/მენიუ";
+"base.update"="განახლება";
+"base.update-available"="ხელმისაწვდომი განახლებები";
+"base.discount"="ფასდაკლება";
+"base.password-changed"="თქვენი პაროლი შეცვლილია";
+"base.agreement"="თანხმობა";
+"base.level"="დონე";
+"base.female"="მდედრობითი";
+"base.gender"="სქესი";
+"base.male"="მამრობითი";
+"base.congratulations"="გილოცავთ!";
+"base.you"="თქვენ";
+"base.yesterday"="გუშინ";
+
+
+// error
+"error.request.cancelled"="მოთხოვნა გაუქმებულია";
+"error.data-not-available"="მონაცემები არ არის ხელმისაწვდომი";
+"error.internal-server"="შიდა სერვერის შეცდომა";
+"error.response.unrecognized"="ამოუცნობი სერვერის პასუხი";
+"error.unsupported-version"="ვერსია არ არის მხარდაჭერილი";
+"error.to-many-requests"="ძალიან ბევრი მოთხოვნა";
+
+
+"request.cancelled"="მოთხოვნა გაუქმებულია";
+
+
+"user-location.near-me"="ახლოს";
+
+
+// Application
+"application.notification.text.launch-app-after-change-language"="დააჭირეთ გადასატვირთად";
+
+
+// walkthrougth
+"walkthrough.page.0.subtitle"="მიიღეთ ფასდაკლებები და ბონუს ქულები ყველა UDS თამაშის მონაწილე ადგილას";
+"walkthrough.page.0.title"="ფასდაკლებები და ბონუსები!";
+
+"walkthrough.page.1.subtitle"="საუკეთესო შეთავაზებები თქვენი პრიორიტეტების გათვალისწინებით";
+"walkthrough.page.1.title"="აქციები და სპეციალური შემოთავაზებები!";
+
+"walkthrough.page.2.subtitle"="გაუზიარე პრომო კოდები თქვენს მეგობრებს და მიიღე ქულები თითო შენაძენთან ერთად";
+"walkthrough.page.2.title"="გაუწიეთ რეკომენდაცია თქვენს მეგობრებთან!";
+
+"walkthrough.skip"="გამოტოვე";
+
+
+// welcome
+"welcome.sign-in"="შესვლა";
+"welcome.sign-up"="დარეგისტრირდი ახლა";
+"welcome.social.title"="ან";
+"sign-up.agreements.format"="აპლიკაციაში რეგისტრირებით თქვენ ეთანხმებით %1$@ და %2$@";
+"sign-up.agreements.part.user-agreement"="ლიცენზიის ხელშეკრულებას";
+"sign-up.agreements.part.privacy-policy"="კონფიდენციალურობის ინფორმაციის პოლიტიკას";
+
+
+"auth.facebook"="Facebook";
+"auth.vk"="VK";
+
+
+// phone
+"phone-auth.enter-phone.subtitle"="შეიყვანეთ თქვენი ტელეფონის ნომერი";
+"phone-auth.enter-phone.button"="გააგზავნეთ სავერიფიკაციო კოდი";
+"phone-auth.enter-code.title"="ვერიფიკაცია";
+"phone-auth.enter-code.subtitle.format"="თქვენ მიიღეთ 6 ნიშნა კოდი  %@";
+"phone-auth.enter-code.button"="გაგრძელება";
+"phone-auth.enter-code.re-send-button"="ახალი კოდის გაგზავნა";
+"phone-auth.error.incorrect-phone-number"="არასწორი ტელეფონის ნომერი";
+"phone-auth.error.incorrect-confirmation-code"="არასწორი კოდი";
+
+// sign in
+"sign-in-options.button.email"="ელექტრონული მისამართი";
+"sign-in-options.button.forgot"="დაგავიწყდა შენი პაროლი?";
+"sign-in-options.button.phone"="ტელეფონის ნომერი";
+"sign-in-options.subtitle"="შესვლა";
+"sign-in-options.title"="ავტორიზაცია";
+
+"sign-in-with-email.password"="პაროლი";
+"sign-in-with-email.title"="შესვლა";
+"sign-in.enter-email.text-field.placeholder"="ელექტრონული მისამართი";
+
+"sign-in.forgot"="დაგავიწყდა შენი პაროლი?";
+
+
+// sign up
+"sign-up-options.button.email"="ელექტრონული მისამართი";
+"sign-up-options.button.phone"="ტელეფონის ნომერი";
+"sign-up-options.subtitle"="გთხოვთ აირჩიოთ თქვენთვის მოსახერხებელი სარეგისტრაციო მეთოდი";
+"sign-up-options.title"="რეგისტრაცია";
+
+"sign-up-with-email.step1.birthday-field.placeholder"="დაბადების თარიღი";
+"sign-up-with-email.step1.code-description"="დააჭირეთ სურათს და განაახლეთ კოდი";
+"sign-up-with-email.step1.code-field.placeholder"="კოდი სურათიდან";
+"sign-up-with-email.step1.email-field.placeholder"="ელექტრონული მისამართი";
+"sign-up-with-email.step1.gender-title"="სქესი";
+"sign-up-with-email.step1.password-field.placeholder"="პაროლი";
+"sign-up-with-email.step1.title"="რეგისტრაცია";
+
+"sign-up-with-email.step2.first-name-field.placeholder"="სახელი";
+"sign-up-with-email.step2.last-name-field.placeholder"="გვარი";
+"sign-up-with-email.step2.title"="რეგისტრაცია";
+
+"sign-up-with-phone.birthday-field.placeholder"="დაბადების თარიღი";
+"sign-up-with-phone.first-name-field.placeholder"="სახელი";
+"sign-up-with-phone.gender-title"="სქესი";
+"sign-up-with-phone.last-name-field.placeholder"="გვარი";
+"sign-up-with-phone.title"="დარეგისტრირდი";
+
+"sign-up.gender.female"="მდედრობითი";
+"sign-up.gender.male"="მამრობითი";
+
+
+// restore password
+"restore-password.step-email.title"="დაგავიწყდა პაროლი?";
+"restore-password.step-email.subtitle"="შეიყვანეთ თქვენი, რეგისტრაციის დროს გამოყენებული, ელექტრონული ფოსტის მისამართი ";
+"restore-password.step-email.text-field.placeholder"="ელექტრონული მისამართი";
+
+"restore-password.step-code.title"="დაგავიწყდათ პაროლი?";
+"restore-password.step-code.subtitle"="შეიყვანეთ თქვენს ელექტრონულ მისამართზე მიღებული კოდი";
+"restore-password.step-code.text-field.placeholder"="დადასტურების კოდი";
+
+"restore-password.step-new-password.title"="პაროლის აღდგენა";
+"restore-password.confirm-password-field.placeholder"="დადასტურება";
+"restore-password.password-field.placeholder"="პაროლი";
+
+
+// phone
+"phone-already-registered.subtitle"="აპლიკაციის გასახსნელად დააჭირეთ ღილაკს ";
+"phone-already-registered.title"="ტელეფონის ნომერი უკვე რეგისტრირებულია";
+
+"phone-not-registered.title"="ტელეფონის ნომერი არ არის დარეგისტრირებული UDS თამაშის აპლიკაციაში ";
+
+
+// account banned & blocked
+"account-banned.title"="წვდომა დაბლოკილია მომხმარებლის შეთანხმების დარღვევისთვის. დაბლოკვის მიზეზის გასაგებად დაუკავშირდით ტექნიკური მხარდაჭერის დეპარტამენტს: support@udsgame.com";
+
+// device id
+"device-uuid-exceeded.device-id-title"="მოწყობილობის id";
+"device-uuid-exceeded.subtitle"="გთხოვთ, შეხვიდეთ სხვა ავტორიზაციის მეთოდის გამოყენებით ან გაუგზავნეთ შეცდომის სურათი (error  screenshot) ჩვენი ტექნიკური მხარდაჭერის დეპარტამენტს";
+"device-uuid-exceeded.title"="ეს მოწყობილობა უკვე რეგისტრირებულია სხვა ანგარიშით";
+
+
+// city picker
+"city-picker.background.title"="უკაცრავად! მარსზე ცხოვრობთ? გთხოვთ დაგვეხმაროთ თქვენს პოვნაში!";
+"city-picker.search.placeholder"="ქალაქი ან რეგიონი";
+"city-picker.title"="თქვენი ადგილმდებარეობა";
+"city-picker.background.autodefine-button"="სცადეთ კიდევ ერთხელ";
+
+
+// tabs
+"tab.discount"="ფასდაკლება";
+"tab.home"="მთავარი";
+"tab.offers"="შემოთავაზებები";
+"tab.places"="ადგილები";
+"tab.promo"="პრომო კოდი";
+
+
+// logout
+"logout.alert.title"="შეცდომა გამოსვლისას";
+"logout.alert.push-error"="დაფიქსირდა შეცდომა. ახლა თქვენ მიიღებთ შეტყობინებას თქვენს მოწყობილობაზე.";
+"logout.alert.try-again"="გთხოვთ კიდევ სცადეთ";
+
+
+// categories
+"categories.all-categories"="ყველა ადგილი";
+"categories.all-categories.description"="ადგილები ყველა კატეგორიაში";
+
+"categories.favorite-places"="საყვარელი ადგილები";
+"categories.my-places"="ჩემი ადგილები";
+
+"categories.category.all-places"="ყველა ადგილი";
+
+"category-preferences.my.title"="ჩემი არჩევანი";
+
+"category-preferences.setup.subtitle"="ამ შეთავაზებებზე დაფუძნებული სპეციალური შეთავაზებები იქნება ნაჩვენები პირველი";
+"category-preferences.setup.title"="აირჩიეთ 3 კატეგორია";
+
+"category-switch.button.switch"="ჩანაცვლება";
+"category-switch.subtitle"="გთხოვთ, შეცვალოთ ადრე შერჩეული პრიორიტეტები და დაამატოთ ახალები";
+"category-switch.title"="დაშვებული კატეგორიების რაოდენობა - 3";
+
+
+// settings
+"settings.alert.change-instagram.title"="ჩანაცვლება";
+"settings.alert.change-skype.title"="ჩანაცვლება";
+"settings.alert.logout.title"="დარწმუნებული ხარ?";
+
+"settings.app-info"="ინფორმაცია";
+"settings.app-language"="ენა";
+
+"settings.cell.about-application"="აპლიკაციის შესახებ";
+"settings.cell.confirm-password"="დადასტურება";
+"settings.cell.current-password"="ახლანდელი პაროლი";
+"settings.cell.email"="ელექტრონული მისამართი";
+"settings.cell.email-password"="ელ.ფოსტა/პაროლი";
+"settings.cell.instagram"="Instagram";
+"settings.cell.logout"="გამოსვლა";
+"settings.cell.new-password"="ახალი პაროლი";
+"settings.cell.phone"="ტელეფონის ნომერი";
+"settings.cell.skype"="Skype";
+"settings.cell.verify-phone"="ტელეფონის ნომრის ვერიფიკაცია";
+"settings.cell.preferences"="პრიორიტეტები";
+"settings.cell.birth-date"="დაბადების თარიღი";
+"settings.cell.last-name"="გვარი";
+
+"settings.notifications.cell.company-news"="ახალი ამბები";
+"settings.notifications.cell.company-offers"="შემოთავაზებები";
+"settings.notifications.cell.company-messages"="შეტყობინებები";
+"settings.notifications.cell.new-members"="მოწვეული მეგობრები";
+"settings.notifications.cell.scores-change"="ქულები";
+
+"settings.change-language.alert.title"="ენის შეცვლა";
+"settings.change-language.alert.text"="%@ იქნება განახლებული გადატვირთვის შემდეგ";
+
+"settings.languages"="ენა";
+"settings.languages.system"="სისტემის ენა";
+"settings.reset-to-system-language"="გადატვირთვა";
+
+"settings.section.authorization"="ავტორიზაცია";
+"settings.section.notifications"="შეტყობინებები";
+"settings.section.social"="სოციალური ქსელი";
+
+"settings.upload-image"="თქვენი ფოტო";
+"settings.upload-image.open"="გახსნა";
+"settings.upload-image.camera"="გადაიღეთ სურათი";
+"settings.upload-image.gallery"="აირჩიეთ ფოტო გალერეიდან";
+"settings.upload-image.delete"="წაშლა";
+
+"settings.select-phone.message"="თქვენი ტელეფონი ნომრის შეცვლისთვის გთხოვთ დაუკავშირდეთ ტექნიკური მხარდაჭერის გუნდს support@udsgame.com";
+
+
+// place
+"place.joining-award.alert.title"="ქულები რეკომენდაციისთვის";
+"place.joining-award.alert.message"="თქვენ დაჯილდოვდებით სარეკომენდაციო ქულებით როდესაც თქვენი მოწვეული მეგობარი გააკეთებს პირველ შენაძენს";
+
+"places.tab.all"="ყველა ადგილი";
+"places.tab.favorite"="ფავორიტი";
+"places.tab.my"="ჩემი ადგილები";
+
+"places.title"="ადგილები";
+
+"my-places.title"="ჩემი ადგილები";
+"my-places.table-placeholder.title"="ჩემი ადგილები";
+"my-places.table-placeholder.subtitle"="თქვენს მიერ მონახულებული ადგილები გამოჩნდება აქ";
+
+"favorite-palces.title"="საყვარელი ადგილები";
+"favorite-places.table-placeholder.title"="საყვარელი ადგილები";
+"favorite-places.table-placeholder.subtitle"="დაამატეთ ადგილები რომლებიც მოგეწონათ რჩეულებში";
+
+"company.tab.description"="აღწერა";
+"company.tab.news"="ახალი ამბები";
+"company.tab.offers"="შემოთავაზებები";
+
+"company.bonus-program-description"="ბონუს პროგრამის აღწერა";
+"company.bonus-program-cell.button"="ბონუს პროგრამა";
+"company.branches-cell.button.format"="ყველა ფილიალის ჩვენება: %@";
+"company.bonus-program.title"="ბონუს პროგრამა";
+
+"company.news-cell.detail-button"="დეტალების ჩვენება...";
+
+"company.action.add-to-favorites"="რჩეულებში დამატება";
+"company.action.remove-from-favorites"="რჩეულებიდან ამოღება";
+"company.action.offers-notifications.enabled"="შეთავაზებების გამოწერა";
+"company.action.offers-notifications.disabled"="შეთავაზების გამოწერის გაუქმება";
+"company.action.news-notifications.enabled"="სიახლეების გამოწერა";
+"company.action.news-notifications.disabled"="სიახლეების გამოწერის გაუქმება";
+
+"company.cell.nearest-branch"="უახლოესი მისამართი";
+"company.cell.description"="ჩვენს შესახებ";
+"company.cell.phone"="ტელეფონის ნომერი";
+"company.cell.website"="საიტი";
+"company.cell.worktime"="სამუშაო საათები";
+"company.cell.message"="დაწერეთ შეტყობინება";
+
+"company.worktime.opens-after.format"="ხსნის %@";
+"company.worktime.remains-opens.format"="გახსნილი რჩება %@";
+"company.worktime.today-closed"="დახურულია";
+"company.worktime.around-the-clock"="24 საათი";
+
+"company.error.already-participant"="თქვენ უკვე შეუერთდით კომპანიას";
+
+"company.message.become-participant"="თქვენ წარმატებით შეუერთდით";
+
+
+// companies map
+"companies-map.all-companies.title"="ყველა ადგილი";
+"companies-map.favorite-companies.title"="ფავორიტი";
+"companies-map.my-companies.title"="ჩემი ადგილები";
+
+"company-add-to-favorite.button.add"="დამატება";
+"company-add-to-favorite.subtitle"="ფავორიტებში დამატება";
+
+"company-branch.address"="მისამართები";
+"company-branch.cell.phone"="ტელეფონის ნომერი";
+"company-branch.cell.worktime"="სამუშაო საათები";
+
+"company-list-tutorial.bottom-view.button"="გაგრძელება";
+"company-list-tutorial.top-view.favorite"="საყვარელი ადგილები";
+"company-list-tutorial.top-view.recommend"="რეკომენდირებული ადგილები";
+"company-list-tutorial.top-view.title"="გაასრიალეთ მარცხნივ და გახსენით ფუნქციები";
+
+
+// members structure
+"company.members-structure.level1"="პირველი დონე";
+"company.members-structure.level2"="მეორე დონე";
+"company.members-structure.level3"="მესამე დონე";
+"company.members-structure.no-members-placeholder"="არ არის მოწვეული მეგობრები";
+"company.members-structure.recommend"="რეკომენდაცია";
+
+"company.recommend"="რეკომენდაცია";
+"company.recommend.title"="რეკომენდაცია";
+"company.recommend.view.title"="გაუზიარე პრომო კოდი მეგობრებს";
+"company.recommendations"="რეკომენდაცია";
+
+
+// dashboard
+"dashboard.recent-companies.title"="თქვენ ახლახანს მოინახულეთ";
+"dashboard.search.placeholder"="ადგილების ძიება";
+
+"dashboard.category-header.button"="ნახვა";
+
+"global-search.placeholder"="ძებნა";
+
+
+// offers
+"offer-trends-cell.button"="გააგრძელე";
+"offer-trends-cell.subtitle"="ნახეთ ყველაზე მოწონებული ადგილები";
+"offer-trends-cell.title"="მომხმარებლის არჩევანი";
+
+"offer.action.complaint"="დაწერეთ საჩივარი";
+"offer.expire-date"="შემოთავაზება ძალაშია @%-მდე";
+"offer.quantity"="დარჩენილი/ყველა";
+"offer.use"="გამოიყენე";
+
+"offers-filters.cell.location"="მდებარეობა";
+"offers-filters.title"="ფილტრი";
+
+"offers-recommended-for-you.title"="თქვენთვის";
+
+"offers-trending.title"="მომხმარებლის არჩევანი";
+
+"offers.recommend-header.button"="გააგრძელე";
+"offers.recommended-header.title"="განსაკუთრებით თქვენთვის";
+
+"offers.title"="შემოთავაზებები";
+
+"offer.compaint.succes"="საჩივარი გაგზავნილია";
+
+
+// profile
+"profile.title"="პროფილი";
+
+
+// qr code
+"qr-code.discount.title"="ფასდაკლება";
+"qr-code.discount.subtitle"="აჩვენეთ QR კოდი სალაროში ან წარადგინეთ ეს ნომერი";
+"qr-code.discount.details"="ყველა ადგილი, რომელიც მონაწილეობს UDS Game app-ში აქვს მოქმედი ფასდაკლება.";
+
+"qr-code.offer.title"="შემოთავაზება";
+"qr-code.offer.subtitle"="აჩვენეთ QR კოდი სალაროში ან წარადგინეთ ეს ნომერი";
+
+"qr-code.storefront.title"="გადახდა";
+"qr-code.storefront.subtitle"="აჩვენეთ QR კოდი სალაროში ან წარადგინეთ ეს ნომერი";
+
+"qr-code.input.input-view-title"="შეიყვანეთ პრომო კოდი ან დაასკანერეთ";
+"qr-code.input.text-field-placeholder"="პრომო კოდი";
+"qr-code.input.title"="პრომო კოდი";
+
+"qr-code.recommend.card-subtitle"="ან ხელით შეიყვანეთ";
+"qr-code.recommend.card-title"="გამოიყენეთ QR- კოდი";
+
+
+// sample
+"sample.company1.annotation"="სახურავის ყავის სახლი - საუკეთესო ყავა იტალიური ბარისტასგან.";
+"sample.company1.name"="სახურავი";
+
+"sample.company2.annotation"="სილამაზის კლინიკა - კოსმეტიკური ქირურგია.";
+"sample.company2.name"="საუკეთესო";
+
+"sample.company3.annotation"="პიცერია - ავთენტური ნეაპოლიური პიცა";
+"sample.company3.name"="ბელა იტალიაო";
+
+
+// timeline
+"timeline.type.purchase"="ყიდვა";
+"timeline.type.scores-income"="ქულების დაგროვება";
+"timeline.type.all"="ყველა ისტორია";
+
+"timeline.order-by-offer"="პრომო კოდის შენაძენები";
+"timeline.scores-refunded"="ქულა დააბრუნეს";
+"timeline.operation.comment"=" კომენტარი";
+
+
+// location service
+"location-service.request-timed-out"="სესიას დრო გაუვიდა";
+"location-service.options-alert.title"="თქვენი ადგილმდებარეობა ვერ მოიძებნა";
+"location-service.options-alert.action.manual-enter"="შეიყვანეთ ხელით";
+"location-service.options-alert.action.navigate-to-settings"="გადადით პარამეტრებზე";
+
+"city.not-defined"="ვერ მოიძებნა";
+
+// table
+"table.footer.pull-to-load-more"="მეტის სანახავად გთხოვთ, ჩამოწიოთ ქვემოთ";
+"company-search-table.footer.no-items"="ვერ მოიძებნა";
+"city-search-table.footer.no-items"="ვერ მოიძებნა";
+
+/* Not delete because used in MWPhotoBrowser pod */
+"Done"="დასრულება";
+"of"="ზე";
+
+
+"place.not-defined-neares-branch-cell.text"="თქვენი მდებარეობა ვერ მოიძებნა";
+"place.not-defined-neares-branch-cell.button"="განსაზღვრე";
+"paces.table-footer.my-places-empty"="თქვენ ცოტა ხნის წინ დარეგისტრირდით მაგრან არ შეუერთდით არცერთ დგილს :(";
+
+"global-search.cell.location"="ადგილმდებარეობა";
+
+// feedback && poll
+"feedback.title"="შეფასება";
+"feedback.comment.placeholder"="გთხოვთ გაგვიტოვოთ თქვენი feedback (თუ გნებავთ)";
+"feedback.rate.title"="მადლობას გიხდით შენაძენისთვის!";
+"feedback.rate.subtitle.format"="გთხოვთ, შეაფასოთ მომსახურების ხარისხი %@";
+
+"feedback-take-poll.title"="გმადლობთ თქვენი შეფასებისთვის!";
+"feedback-take-poll.subtitle.format"="%@ცდილობს, სერვისის გაუმჯობესებას! გთხოვთ შეავსოთ მოკლე კითხვარი";
+"feedback-take-poll.poll-button"="გამოკითხვის დაწყება";
+
+"poll.title"="გამოკითხვა";
+
+
+// conversation
+"conversations-list.title"="შეტყობინებები";
+"conversations-list.background.title"="შეტყობინებები ჯერ არ არის";
+"conversations-list.background.subtitle"="თქვენ შეგიძლიათ გახსნათ დიალოგი კომპანიის პროფილის გვერდზე";
+
+"company.messages.alert.unlock-messages"="დიალოგის ბლოკის მოხსნა";
+"company.messages.alert.lock-messages"="დიალოგის დაბლოკვა";
+"message.forward-rate.title"="გამოხმაურე feedback-ს";
+"conversation.message-input-toolbar.company-inactive"="უკაცრავად, ეს კომპანია დროებით არააქტიურია";
+"conversation.message-input-toolbar.company-blocked-messages"="შემომავალი შეტყობინებები შეზღუდულია კომპანიის მიერ";
+"conversation.message-input-toolbar.user-blocked-messages"="ეს დიალოგი ბლოკირებულია. თქვენ არ შეგიძლიათ შეტყობინების დატოვება.";
+"conversation.message-input-toolbar.user-blocked-messages.button"="შეტყობინებების ბლოკის მოხსნა";
+"messages.input-toolbar.placeholder"="შეტყობინება ...";
+/* #################### PLIST */
+/* NSLocationWhenInUseUsageDescription */
+"NSCameraUsageDescription"="დაასკანირე QR კოდი";
+
+/* NSLocationWhenInUseUsageDescription */
+"NSLocationWhenInUseUsageDescription"="It’s required to find nearby places";
+
+/* NSPhotoLibraryUsageDescription */
+"NSPhotoLibraryUsageDescription"="It’s required for choosing a profile picture";
+
+/* TGShortcutItemTypeDiscountTitle */
+"TGShortcutItemTypeDiscountTitle"="ფასდაკლება";
+
+/* TGShortcutItemTypePromoTitle */
+"TGShortcutItemTypePromoTitle"="პრომო კოდი";
+
+/* TGShortcutItemTypePlacesTitle */
+"TGShortcutItemTypePlacesTitle"="ადგილები";
+
+/* TGShortcutItemTypeOffersTitle */
+"TGShortcutItemTypeOffersTitle"="გთავაზობთ";

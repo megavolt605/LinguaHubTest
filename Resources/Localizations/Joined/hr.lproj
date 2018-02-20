@@ -1,0 +1,755 @@
+/* #################### PROJECT */
+/* And string */
+"base.and"="I";
+/* are don't match string */
+"are don't match"="ne podudaraju se";
+
+
+"qr-scan.message.camera-required"="Za čitanje QR koda, UDS Game treba pristup Vašem fotoaparatu";
+
+"history.table-footer.empty"="Povijest operacija je prazna";
+
+
+"price-menu.empty"="Cjenik je prazan";
+"price-menu.empty-cart"="Nemate stavki u košarici";
+
+"pricelist.add-to-cart"="Dodaj u košaricu";
+
+
+"base.price"="Cijena";
+
+"rate.comment-filed.placeholder"="Vaš komentar";
+
+
+
+/* u.e. string */
+"u.e."="valuta";
+
+
+"price-cart.title"="Košarica";
+"price-cart.base-discount"="Osnovni popust";
+"price-cart.purchase"="Kupiti";
+
+
+
+"price-cart.total-sum"="Ukupno";
+
+"base.total"="Ukupno";
+
+/* Purchase for cash string */
+"price-cart.alert.action.purchase-for-cash.format"="Kupnja za %@";
+
+/* Purchase for scores string */
+"Purchase for scores"="Kupnja s bonus bodovima";
+
+
+
+
+/* Insufficient scores string */
+"Insufficient scores"="Nema dovoljno bodova";
+
+/* Choose action string */
+"Choose action"="Odaberite akciju";
+
+/* Today from-to work time string */
+"Today from-to work time"="Danas od %@ do %@";
+
+/* Game not availiable string */
+"Game not availiable"="Ups! Održavanje u tijeku. Vraćamo se uskoro!";
+
+/* Invite award scores string */
+"Invite award scores"="Nagrada za preporuku";
+
+/* History string */
+"History"="Povijest";
+
+/* To join string */
+"To join"="Pridruži se";
+
+/* In cart string */
+"In cart"="U košaricu";
+
+/* Name string */
+"Name"="Ime";
+
+/* Rate string */
+"Rate"="Komentari";
+
+/* Rate service string */
+"Rate service"="Molimo ocijenite uslugu";
+
+/* joining award scores string */
+"joining award scores"="Bodovi dobrodošlice";
+
+/* referral reward scores string */
+"referral reward scores"="bodovi za preporuku";
+
+/* Price for scores string */
+"Price for scores"="Cijena s bonus bodovima";
+
+/* Permanent discount string */
+"Permanent discount"="Popust";
+
+/* Permanent discount 2 string */
+"Permanent discount 2"="Popust";
+
+/* History new participant string */
+"New participant"="Novi korisnik";
+
+/* You became VIP client at place string */
+"You became VIP client at place"="Dobivate status %@";
+
+/* Bill string */
+"Bill"="Račun";
+
+/* Scores string */
+"Scores"="Bodovi";
+
+/* Scores incoming string */
+"Scores incoming"="Obračun bodova";
+
+/* Details string */
+"Details"="Detalji";
+
+/* Pricelist order string */
+"Pricelist order"="Kupnja po cjeniku";
+
+/* Coupon purchase string */
+"Coupon purchase"="Kupnja kupona";
+
+/* Item added to cart string */
+"Item added to cart"="Dodano u košaricu";
+
+/* User Agreement string */
+"user_agreement"="Korisnički ugovor";
+
+/* Privacy policy string */
+"privacy_policy"="Izjava privatnosti";
+
+/* About app string */
+"about"="O aplikaciji";
+
+/* Name details string */
+"Name details"="Ime";
+
+/* KM unit string */
+"KM unit"="km";
+
+/* M unit string */
+"M unit"="m";
+"Mile unit"="mi";
+
+
+// Base
+"base.done"="Gotovo";
+"base.apply"="primijeniti";
+"base.send"="Pošalji";
+"base.next"="Sljedeće";
+"base.cancel"="otkazati";
+"base.close"="Zatvori";
+"base.continue"="Nastaviti";
+"base.could-not-autodefine-location"="Nije moguće pronaći vašu lokaciju";
+"base.error"="Pogreška";
+"base.error.user-not-authorized"="Korisnik nije ovlašten";
+"base.information"="Informacije";
+"base.navigate"="Idi";
+"base.register"="Registrirajte se";
+"base.required-field"="Obavezno polje";
+"base.settings"="Postavke";
+"base.skip"="Preskočiti";
+"base.write"="Ostavite poruku";
+"base.sign-in"="Autorizacija";
+"base.sign-up"="Registracija korisnika";
+"base.setup-phone"="Postavite telefon";
+"base.today"="Danas";
+"base.exit"="Izlaz";
+"base.phone-call"="Poziv";
+"base.scores.multiple"="Bodovi";
+"base.password"="Lozinka";
+"base.password-confirmation"="Potvrda lozinke";
+"base.not-defined"="Nije specificirano";
+"base.my-scores"="Moji bonus bodovi";
+"base.price-menu"="Cjenik / Menu";
+"base.update"="Ažuriraj";
+"base.update-available"="Ažuriranja dostupna";
+"base.discount"="Popust";
+"base.password-changed"="Vaša lozinka je promijenjena";
+"base.agreement"="Sporazum";
+"base.level"="Razina ";
+"base.female"="Žena";
+"base.gender"="Spol";
+"base.male"="Muškarac";
+"base.congratulations"="Čestitamo!";
+"base.you"="Ti";
+"base.yesterday"="jučer";
+
+
+// error
+"error.request.cancelled"="Zahtjev je odbijen";
+"error.data-not-available"="Podaci nisu dostupni";
+"error.internal-server"="Interna pogreška servera";
+"error.response.unrecognized"="Nepoznat odgovor servera";
+"error.unsupported-version"="Verzija nije podržana";
+"error.to-many-requests"="Previše zahtjeva";
+
+
+"request.cancelled"="Zahtjev je odbijen";
+
+
+"user-location.near-me"="U blizini";
+
+
+// Application
+"application.notification.text.launch-app-after-change-language"="Kliknite za resetiranje";
+
+
+// walkthrougth
+"walkthrough.page.0.subtitle"="Koristite se popustima i bonusima u svim objektima koji sudjeluju u UDS Game.";
+"walkthrough.page.0.title"="Popusti i bonusi!";
+
+"walkthrough.page.1.subtitle"="Najbolje ponude u skladu s vašim željama.";
+"walkthrough.page.1.title"="Promocije i posebne ponude!";
+
+"walkthrough.page.2.subtitle"="Dijelite promotivne kodove s vašim prijateljima i zarađujte bodove od svake njihove kupnje.";
+"walkthrough.page.2.title"="Preporučujemo prijateljima!";
+
+"walkthrough.skip"="Preskočiti";
+
+
+// welcome
+"welcome.button.auth"="Prijavite se";
+"welcome.button.continue-without-auth"="Preskoči registraciju ";
+"welcome.sign-in"="Prijaviti se";
+"welcome.sign-up"="Registrirajte se sada";
+"welcome.social.title"="ili";
+"sign-up.agreements.format"="Registriracijom u aplikaciji Vi se slažete s %1$@ i %2$@";
+"sign-up.agreements.part.user-agreement"="Ugovor o licenci";
+"sign-up.agreements.part.privacy-policy"="Pravila privatnosti";
+"welcome-options.label.title"="Prijavite svoj profil i pronađite mnogo jedinstvenih značajki UDS Game-a";
+
+"auth.facebook"="Facebook";
+"auth.vk"="VK";
+
+
+// phone
+"phone-auth.enter-phone.subtitle"="Unesite svoj telefonski broj";
+"phone-auth.enter-phone.button"="Pošaljite kôd za potvrdu";
+"phone-auth.enter-code.title"="Potvrda";
+"phone-auth.enter-code.subtitle.format"="Poslali smo šesteroznamenkasti kôd na %@";
+"phone-auth.enter-code.button"="Nastaviti";
+"phone-auth.enter-code.re-send-button"="Pošaljite novi kôd";
+"phone-auth.error.incorrect-phone-number"="Neispravan telefonski broj";
+"phone-auth.error.incorrect-confirmation-code"="Netočan kôd";
+
+// sign in
+"sign-in-options.button.email"="E-mail adresa";
+"sign-in-options.button.forgot"="Zaboravili ste lozinku?";
+"sign-in-options.button.phone"="Broj telefona";
+"sign-in-options.subtitle"="Prijavite se sa";
+"sign-in-options.title"="Autorizacija";
+
+"sign-in-with-email.password"="Lozinka";
+"sign-in-with-email.title"="Prijaviti se";
+"sign-in.enter-email.text-field.placeholder"="E-mail adresa";
+
+"sign-in.forgot"="Zaboravili ste lozinku?";
+
+
+// sign up
+"sign-up-options.button.email"="E-mail adresa";
+"sign-up-options.button.phone"="Broj telefona";
+"sign-up-options.subtitle"="Molimo izaberite prikladnu metodu registracije";
+"sign-up-options.title"="Registracija";
+
+"sign-up-with-email.step1.birthday-field.placeholder"="Datum rođenja";
+"sign-up-with-email.step1.code-description"="Kliknite na sliku i obnovite kôd";
+"sign-up-with-email.step1.code-field.placeholder"="Kod sa slike";
+"sign-up-with-email.step1.email-field.placeholder"="E-mail adresa";
+"sign-up-with-email.step1.gender-title"="Spol";
+"sign-up-with-email.step1.password-field.placeholder"="Lozinka";
+"sign-up-with-email.step1.title"="Registracija";
+
+"sign-up-with-email.step2.first-name-field.placeholder"="Ime";
+"sign-up-with-email.step2.last-name-field.placeholder"="Prezime";
+"sign-up-with-email.step2.title"="Prijavite se";
+
+"sign-up-with-phone.birthday-field.placeholder"="Datum rođenja";
+"sign-up-with-phone.first-name-field.placeholder"="Ime";
+"sign-up-with-phone.gender-title"="Spol";
+"sign-up-with-phone.last-name-field.placeholder"="Prezime";
+"sign-up-with-phone.title"="Prijavite se";
+
+"sign-up.gender.female"="Žena";
+"sign-up.gender.male"="Muškarac";
+
+
+// restore password
+"restore-password.step-email.title"="Zaboravili ste lozinku?";
+"restore-password.step-email.subtitle"="Unesite adresu e-pošte koju ste koristili prilikom registracije";
+"restore-password.step-email.text-field.placeholder"="E-mail adresa";
+
+"restore-password.step-code.title"="Zaboravili ste lozinku?";
+"restore-password.step-code.subtitle"="Unesite kôd poslan na Vašu e-mail adresu";
+"restore-password.step-code.text-field.placeholder"="Potvrdni kod";
+
+"restore-password.step-new-password.title"="Vraćanje lozinke";
+"restore-password.confirm-password-field.placeholder"="Potvrdi";
+"restore-password.password-field.placeholder"="Lozinka";
+
+
+// phone
+"phone-already-registered.subtitle"="Kliknite na gumb kako biste otvorili aplikaciju";
+"phone-already-registered.title"="Telefonski je broj već registriran";
+
+"phone-not-registered.title"="Telefonski broj nije registriran u UDS Game aplikaciji";
+
+
+// account banned & blocked
+"account-banned.title"="Pristup je blokiran zbog kršenja Ugovora o korisniku. Da bi razjasnili razloge blokade kontaktirajte tehničku podršku:\nsupport@udsgame.com";
+
+// device id
+"device-uuid-exceeded.device-id-title"="ID uređaja";
+"device-uuid-exceeded.subtitle"="Prijavite se pomoću drugih metoda autorizacije ili pošaljite snimku zaslona o pogrešci našem timu za tehničku podršku";
+"device-uuid-exceeded.title"="Ovaj je uređaj već registriran s drugim računom";
+
+
+// city picker
+"city-picker.background.title"="Uuh! Živite li na Marsu? Pomozite nam da vas pronađemo!";
+"city-picker.search.placeholder"="Grad ili regija";
+"city-picker.title"="Vaša lokacija";
+"city-picker.background.autodefine-button"="Pokušajte ponovo";
+
+
+// tabs
+"tab.discount"="Popust";
+"tab.home"="Osnovna";
+"tab.offers"="Ponude";
+"tab.places"="Mjesta";
+"tab.promo"="Promo kod";
+
+
+// logout
+"logout.alert.title"="Pogreška pri odjavi";
+"logout.alert.push-error"="Došlo je do pogreške. Vjerojatno će vaš uređaj primiti nove push obavijesti.";
+"logout.alert.try-again"="Molimo pokušajte ponovo";
+
+
+// categories
+"categories.all-categories"="Sva mjesta";
+"categories.all-categories.description"="Mjesta u svim kategorijama";
+
+"categories.favorite-places"="Omiljena mjesta";
+"categories.my-places"="Moja mjesta";
+
+"categories.category.all-places"="Sva mjesta";
+
+"category-preferences.my.title"="Moje postavke";
+
+"category-preferences.setup.subtitle"="Prvo će se prikazati posebne ponude na temelju tih postavki";
+"category-preferences.setup.title"="Odaberite najviše 3 kategorije";
+
+"category-switch.button.switch"="Zamijeniti";
+"category-switch.subtitle"="Zamijenite prethodno odabrane postavke i dodajte nove";
+"category-switch.title"="Broj dopuštenih kategorija - 3";
+
+
+// settings
+"settings.alert.change-instagram.title"="Zamijeniti";
+"settings.alert.change-skype.title"="Zamijeniti";
+"settings.alert.logout.title"="Jeste li sigurni?";
+
+"settings.app-info"="Informacije";
+"settings.app-language"="Jezik";
+"settings.cell.metric-system"="Postavke udaljenosti";
+"settings.metric-system.miles"="Milje";
+"settings.metric-system.meters"="Metri";
+"metric-system.title"="Postavke udaljenosti";
+"settings.cell.about-application"="O aplikaciji";
+"settings.cell.confirm-password"="Potvrdi";
+"settings.cell.current-password"="Trenutna lozinka";
+"settings.cell.email"="E-mail adresa";
+"settings.cell.email-password"="E-mail / Lozinka ";
+"settings.cell.instagram"="Instagram";
+"settings.cell.logout"="Odjaviti se";
+"settings.cell.new-password"="Nova lozinka";
+"settings.cell.phone"="Broj telefona";
+"settings.cell.skype"="Skype";
+"settings.cell.verify-phone"="Potvrdite telefonski broj";
+"settings.cell.preferences"="Postavke";
+"settings.cell.birth-date"="Datum rođenja";
+"settings.cell.last-name"="Prezime";
+"settings.cell.user-location"="Grad";
+"settings.cell.user-auth.button"="Prijavite se";
+"settings.cell.user-auth.title"="Prijavite se na profil";
+"settings.cell.user-auth.subtitle"="Prijavite svoj profil i pronađite mnogo jedinstvenih značajki UDS Game-a";
+
+
+"settings.notifications.cell.company-news"="Novosti";
+"settings.notifications.cell.company-offers"="Ponude";
+"settings.notifications.cell.company-messages"="Poruke";
+"settings.notifications.cell.new-members"="Preporučeno prijateljima";
+"settings.notifications.cell.scores-change"="Bodovi";
+
+"settings.change-language.alert.title"="Promijeni jezik";
+"settings.change-language.alert.text"="\"%@\" će se primijeniti nakon ponovnog pokretanja";
+
+"settings.languages"="Jezici";
+"settings.languages.system"="Jezik sustava";
+"settings.reset-to-system-language"="Reset";
+
+"settings.section.authorization"="Autorizacija";
+"settings.section.notifications"="Obavijesti";
+"settings.section.social"="Društvene mreže";
+
+"settings.upload-image"="Vaše fotografije";
+"settings.upload-image.open"="Otvoriti";
+"settings.upload-image.camera"="Slikaj";
+"settings.upload-image.gallery"="Izaberite iz foto galerije";
+"settings.upload-image.delete"="Izbrisati";
+
+"settings.select-phone.message"="Da biste promijenili svoj telefonski broj, molimo kontaktirajte tehničku podršku na support@udsgame.com";
+
+// place
+"place.joining-award.alert.title"="Bodovi za preporuku";
+"place.joining-award.alert.message"="Bit ćete nagrađeni bodovima za preporuku kada čovjek kojem ste preporučili učini prvu kupnju";
+
+"places.tab.all"="Sva mjesta";
+"places.tab.favorite"="Omiljeni";
+"places.tab.my"="Moja mjesta";
+
+"places.title"="Mjesta";
+
+"my-places.title"="Moja mjesta";
+"my-places.table-placeholder.title"="Moja mjesta";
+"my-places.table-placeholder.subtitle"="Mjesta koja posjećujete prikazati će se ovdje";
+
+"favorite-palces.title"="Omiljena mjesta";
+"favorite-places.table-placeholder.title"="Omiljena mjesta";
+"favorite-places.table-placeholder.subtitle"="Dodajte mjesta koja vam se sviđaju u favorite";
+
+"company.tab.description"="Opis";
+"company.tab.news"="Novosti";
+"company.tab.offers"="Ponude";
+
+"company.bonus-program-description"="Opis bonus programa ";
+"company.bonus-program-cell.button"="Bonus program";
+"company.branches-cell.button.format"="Prikaži sve ogranke: %@";
+"company.bonus-program.title"="Bonus program";
+
+"company.news-cell.detail-button"="Prikaži detalje...";
+
+"company.action.add-to-favorites"="Dodaj u favorite";
+"company.action.remove-from-favorites"="Ukloni iz favorita";
+"company.action.offers-notifications.enabled"="Potpiši se na ponude";
+"company.action.offers-notifications.disabled"="Otkažite se od ponuda";
+"company.action.news-notifications.enabled"="Potpiši se na novosti";
+"company.action.news-notifications.disabled"="Otkažite se od novosti";
+
+"company.cell.nearest-branch"="Najbliža adresa";
+"company.cell.description"="O nama";
+"company.cell.phone"="Broj telefona";
+"company.cell.website"="Web stranica";
+"company.cell.worktime"="Radno vrijeme";
+"company.cell.message"="Napišite poruku";
+"company.cell.branches"="Podružnice";
+
+"company.worktime.opens-after.format"="Otvara se u %@";
+"company.worktime.remains-opens.format"="Otvoreno do %@ ";
+"company.worktime.today-closed"="Zatvoreno";
+"company.worktime.around-the-clock"="24 sata";
+
+"company.error.already-participant"="Već ste se pridružili kompaniji";
+
+"company.message.become-participant"="Uspješno ste se pridružili";
+"company.message.declined"="Nažalost, ova je tvrtka privremeno neaktivna";
+
+"company.share-text.cashback.format"="Ostvarite %1$@ povrata novca od kupnje u %2$@:\n1. Preuzmite aplikaciju UDS Game od %3$@\n2. Unesite kod %4$@ u odjeljak \"Promo kod\" i koristite popuste i zarađujte bonus bodove!";
+"company.share-text.discount.format"="Ostvarite %1$@ sa svake kupnje u %2$@:\n1. Preuzmite UDS Game aplikaciju od %3$@\n2. Unesite %4$@ u odjeljku \"Promo kod\" i koristite popuste i zarađujte bonus bodove!!";
+
+"company.become-participant.message"="Dobili ste %1$@ bodova dobrodošlice";
+
+"company.auth-alert.title"="Prijavite se i skupljajte bonus bodove i popuste!";
+"company.auth-alert.auth-action.title"="Prijavite se";
+
+
+// companies map
+"companies-map.all-companies.title"="Sva mjesta";
+"companies-map.favorite-companies.title"="Omiljeni";
+"companies-map.my-companies.title"="Moja mjesta";
+
+"company-add-to-favorite.button.add"="Dodati";
+"company-add-to-favorite.subtitle"="Dodaj u favorite";
+
+"company-branch.address"="Adrese";
+"company-branch.cell.phone"="Broj telefona";
+"company-branch.cell.worktime"="Radno vrijeme";
+
+"company-list-tutorial.bottom-view.button"="Nastaviti";
+"company-list-tutorial.top-view.favorite"="Omiljena mjesta";
+"company-list-tutorial.top-view.recommend"="Preporuke mjesta";
+"company-list-tutorial.top-view.title"="Prijeđite prstom ulijevo kako bi pristupili";
+
+"company-list.section-header.up-to-3-km"="Unutar 3 km";
+"company-list.section-header.up-to-5-km"="Unutar 5 km";
+"company-list.section-header.up-to-10-km"="Unutar 10 km";
+"company-list.section-header.up-to-20-km"="Unutar 20 km";
+"company-list.section-header.up-to-30-km"="Unutar 30 km";
+"company-list.section-header.greater-30-km"="Dalje od 30 km";
+
+"company-list.section-header.up-to-2-mile"="Unutar 2 milje";
+"company-list.section-header.up-to-4-mile"="Unutar 4 milje";
+"company-list.section-header.up-to-8-mile"="Unutar 8 milja";
+"company-list.section-header.up-to-15-mile"="Unutar 15 milja";
+"company-list.section-header.up-to-18-mile"="Unutar 18 milja";
+"company-list.section-header.greater-18-mile"="Dalje od 18 milja";
+
+
+// members structure
+"company.members-structure.level1"="razina 1";
+"company.members-structure.level2"="razina 2";
+"company.members-structure.level3"="razina 3";
+"company.members-structure.no-members-placeholder"="Nemate prijatelja s preporukom";
+"company.members-structure.recommend"="Preporuči";
+
+"company.recommend"="Preporuči";
+"company.recommend.title"="Preporuči";
+"company.recommend.view.title"="Podijelite promo kôd svojim prijateljima";
+"company.recommendations"="Preporuke";
+
+
+// dashboard
+"dashboard.recent-companies.title"="Nedavno ste posjetili";
+"dashboard.search.placeholder"="Pretražite mjesta";
+
+"dashboard.category-header.button"="Pregledati";
+
+"global-search.placeholder"="Pretraživanje";
+
+
+// offers
+"offer-trends-cell.button"="Idi";
+"offer-trends-cell.subtitle"="Pogledajte najpopularnija mjesta";
+"offer-trends-cell.title"="Izbor korisnika";
+
+"offer.title"="Ponuda";
+"offer.action.complaint"="Podnijeti žalbu";
+"offer.expire-date"="Ponuda vrijedi do";
+"offer.quantity"="Preostali / Svi";
+"offer.use"="Koristiti";
+
+"offers-filters.cell.location"="Lokacija";
+"offers-filters.title"="Filter";
+
+"offers-recommended-for-you.title"="Za Vas";
+
+"offers-trending.title"="Izbor korisnika";
+
+"offers.recommend-header.button"="Idi";
+"offers.recommended-header.title"="Posebno za Vas";
+
+"offers.title"="Ponude";
+
+"offer.compaint.succes"="Pritužba je poslana";
+
+
+// profile
+"profile.title"="Profil";
+
+
+// qr code
+"qr-code.discount.title"="Popust";
+"qr-code.discount.subtitle"="Prikažite ovaj QR kod blagajniku ili izdiktirajte broj";
+"qr-code.discount.details"="Vrijedi za bilo koji objekt unutar UDS GAME APP";
+
+"qr-code.offer.title"="Ponuda";
+"qr-code.offer.subtitle"="Prikažite ovaj QR kod blagajniku ili izdiktirajte broj";
+
+"qr-code.storefront.title"="Plaćanje";
+"qr-code.storefront.subtitle"="Prikažite ovaj QR kod blagajniku ili izdiktirajte broj";
+
+"qr-code.input.input-view-title"="Unesite promotivni kôd ili ga skenirajte";
+"qr-code.input.text-field-placeholder"="Promo kod";
+"qr-code.input.title"="Promo kod";
+
+"qr-code.recommend.card-subtitle"="Ili ga unesite ručno";
+"qr-code.recommend.card-title"="Upotrijebite QR kod";
+
+
+// sample
+"sample.company1.annotation"="Roof coffee house - najbolja kava od talijanskog bariste.";
+"sample.company1.name"="Krov";
+
+"sample.company2.annotation"="Klinika za ljepotu - estetska kirurgija.";
+"sample.company2.name"="Bestia";
+
+"sample.company3.annotation"="Pizzerija - autentična napuljska pizza";
+"sample.company3.name"="Bella Italia";
+
+
+// timeline
+"timeline.type.purchase"="Kupiti";
+"timeline.type.scores-income"="Obračun bodova";
+"timeline.type.all"="Sva povijesti";
+
+"timeline.order-by-offer"="Kupnje napravljene iz promotivne ponude";
+"timeline.scores-refunded"="Vraćeni bodovi";
+"timeline.operation.comment"="Comment";
+
+"timeline.cell.birday-gift.title"="Poklon";
+
+"timeline.pricelist-order-cell.purchase.format"="Potrošeno %1$@ bodova i %2$@ %3$@";
+
+
+// location service
+"location-service.request-timed-out"="Vrijeme sesije je isteklo";
+"location-service.options-alert.title"="Nije moguće pronaći vašu lokaciju";
+"location-service.options-alert.action.manual-enter"="Unesite ručno";
+"location-service.options-alert.action.navigate-to-settings"="Idite na postavke";
+
+"city.not-defined"="Nije pronađeno";
+
+// table
+"table.footer.pull-to-load-more"="Prijeđite prstom prema dolje kako biste učitali više";
+"companies-list-table.footer.no-items"="Nije pronađeno";
+"company-search-table.footer.no-items"="Nije pronađeno";
+"city-search-table.footer.no-items"="Nije pronađeno";
+"offers-table.footer.no-items"="Nije pronađeno";
+
+/* Not delete because used in MWPhotoBrowser pod */
+"Done"="Gotovo";
+"of"="od";
+
+
+"place.not-defined-neares-branch-cell.text"="Nije moguće pronaći vašu lokaciju";
+"place.not-defined-neares-branch-cell.button"="Odrediti";
+"paces.table-footer.my-places-empty"="Nedavno ste se registrirali i još se niste pridružili nijednom mjestu :(";
+
+"global-search.cell.location"="Lokacija";
+
+// feedback && poll
+"feedback.title"="Povratna informacija";
+"feedback.comment.placeholder"="Ostavite povratne informacije (ako želite)";
+"feedback.rate.title"="Hvala vam na kupnji!";
+"feedback.rate.subtitle.format"="Ocjenjujte kvalitetu usluge u %@";
+
+"feedback-take-poll.title"="Hvala na povratnoj informaciji!";
+"feedback-take-poll.subtitle.format"="%@ trudi se biti bolji za vas! Molimo Vas, ispunite kratku anketu";
+"feedback-take-poll.poll-button"="Započnite anketu";
+
+"poll.title"="Anketa";
+
+
+// conversation
+"conversations-list.title"="Poruke";
+"conversations-list.background.title"="Još nema poruka";
+"conversations-list.background.subtitle"="Možete otvoriti dijalog na stranici profila tvrtke";
+
+"company.messages.alert.unlock-messages"="Odblokiraj dijalog";
+"company.messages.alert.lock-messages"="Blokiraj dijalog";
+"message.forward-rate.title"="Odgovor na povratnu informaciju";
+"conversation.message-input-toolbar.company-inactive"="Nažalost, ova je tvrtka privremeno neaktivna";
+"conversation.message-input-toolbar.company-blocked-messages"="Firma je blokirala primanje poruka";
+"conversation.message-input-toolbar.user-blocked-messages"="Taj je dijalog blokiran. Ne možete slati poruku.";
+"conversation.message-input-toolbar.user-blocked-messages.button"="Deblokiraj poruke";
+"messages.input-toolbar.placeholder"="Poruka...";
+
+
+// category picker
+"category-picker.general.title"="Kategorija";
+
+
+// company filters
+"company-filters.cell.location"="Grad";
+"company-filters.cell.category"="Kategorija";
+"company-filters.cell.halal"="Halal";
+"company-filters.cell.rating"="Najbolja mjesta";
+"company-filters.cell.discount"="Popust";
+"company-filters.cell.cashback"="Cashback ";
+"company-filters.title"="filteri";
+"company-filters.button.clear"="Reset";
+"company-filters.rating-header"="Ocjena";
+"company-filters.bonus-program-header"="Bonus program";
+
+
+// search
+"company-search.title"="Pretraživanje";
+
+
+// pushes
+"push-notification.merge-scores.text"="Pregled prikaza povijesti uplata putem telefonskog broja, kao i porijekla bodova i registracije u tvrtki";
+
+
+// auth
+"restore-password.title"="Obnovljenje lozinke";
+"restore-password.enter-email.title"="Daljnje upute bit će poslane na vašu e-mail adresu";
+"restore-password.enter-email.text-field.placeholder"="e-mail";
+
+"restore-password.enter-code.text-field.placeholder"="Kod potvrde";
+"restore-password.enter-code.title.format"="Unesite kod iz dobivenog mail-a, poslanog na %@";
+
+"restore-password.setup-password.title"="Napravite novu lozinku";
+"restore-password.setup-password.text-field.placeholder"="Lozinka";
+
+"auth.enter-sms-code.button.resend"="Pošalji novi kod";
+"auth.button.no-account"="Nemam profil";
+"auth.enter-sms-code.title.format"="Poslan Vam je šestoznamenkasti kod na %@";
+"auth.enter-sms-code.label.resend.format"="Poslati ponovno za: %@";
+"auth.button.sign-in"="Prijavite se";
+"auth.button.sign-up"="Registrirati se";
+"auth.button.restore-password"="Zaboravio lozinku";
+
+"sign-in.enter-password.text-field.placeholder"="Lozinka";
+"sign-in.enter-password.title.format"="Da biste nastavili, unesite lozinku profila %@";
+
+"sign-in.title"="Prijavite svoj profil i pronađite mnogo jedinstvenih značajki UDS Game-a";
+"sign-in.text-field.placeholder"="E-mail";
+"sign-in.button.sign-up"="Ja sam novi korisnik";
+"sign-in.label.social"="Prijavite se putem ";
+
+"auth.button.already-have-account"="Već imam UDS Game profil";
+
+"sign-up.enter-password.title"="Napravite novu lozinku";
+"sign-up.enter-password.text-field.placeholder"="Lozinka";
+
+"sign-up.enter-captcha.label.captcha"="Kliknite na foto, kako bi obnovili kod";
+"sign-up.enter-captcha.text-field.placeholder"="Unesite kôd";
+
+"sign-up.enter-user-info.title"="Napišite par riječi o sebi";
+"sign-up.enter-user-info.text-field.first-name.placeholder"="Ime";
+"sign-up.enter-user-info.text-field.last-name.placeholder"="Prezime";
+"sign-up.enter-user-info.text-field.birthday.placeholder"="Datum rođenja";
+"sign-up.enter-user-info.label.gender-title"="Navedite svoj spol";
+"sign-up.enter-user-info.label.male-gender"="Muškarac";
+"sign-up.enter-user-info.label.female-gender"="Žena";
+
+"sign-up.title"="Izradite profil kako biste otkrili sve značajke UDS Game-a!";
+"sign-up.text-field.placeholder"="E-mail";
+"sign-up.label.social"="Prijavite se putem ";
+
+"verify-phone.title"="Provjera broja telefona";
+"verify-phone.text-field.placeholder"="Telefon";
+/* #################### PLIST */
+/* NSLocationWhenInUseUsageDescription */
+"NSCameraUsageDescription"="Skenirajte QR kod";
+
+/* NSLocationWhenInUseUsageDescription */
+"NSLocationWhenInUseUsageDescription"="Potrebno je pronaći okolna mjesta";
+
+/* NSPhotoLibraryUsageDescription */
+"NSPhotoLibraryUsageDescription"="Potrebno je za odabir slike profila";
+
+/* TGShortcutItemTypeDiscountTitle */
+"TGShortcutItemTypeDiscountTitle"="Popust";
+
+/* TGShortcutItemTypePromoTitle */
+"TGShortcutItemTypePromoTitle"="Promo kod";
+
+/* TGShortcutItemTypePlacesTitle */
+"TGShortcutItemTypePlacesTitle"="Mjesta";
+
+/* TGShortcutItemTypeOffersTitle */
+"TGShortcutItemTypeOffersTitle"="Ponude";
+/* #################### SETTINGS */
+/* A single strings file, whose title is specified in your preferences schema. The strings files provide the localized content to display to the user for each of your preferences. */
+"Licenses"="Licence";
+"Version"="Verzija";

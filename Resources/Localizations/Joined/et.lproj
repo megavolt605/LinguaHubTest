@@ -1,0 +1,637 @@
+/* #################### PROJECT */
+/* And string */
+"base.and"="Ja";
+/* are don't match string */
+"are don't match"="ei klapi";
+
+
+"qr-scan.message.camera-required"="UDS Game rakendus küsib kaamerakasutusluba QR-koodi skannimiseks";
+
+"history.table-footer.empty"="Toimingute ajaloo loend on tühi";
+
+
+"price-menu.empty"="Hinnakiri on tühi";
+"price-menu.empty-cart"="Ostukorv on tühi";
+
+"pricelist.add-to-cart"="Lisatud ostukorvi";
+
+
+"base.price"="Hind";
+
+"rate.comment-filed.placeholder"="Sinu kommentaar";
+
+
+
+/* u.e. string */
+"u.e."="Sularaha";
+
+
+"price-cart.title"="Ostukorv";
+"price-cart.base-discount"="Põhisoodustus";
+"price-cart.purchase"="Ostmine";
+
+
+
+"price-cart.total-sum"="Kokku";
+
+"base.total"="Kokku";
+
+/* Purchase for cash string */
+"price-cart.alert.action.purchase-for-cash.format"="Osta %@ eest";
+
+/* Purchase for scores string */
+"Purchase for scores"="Osta boonuspunktide eest";
+
+/* Purchased with scores and cash string */
+"timeline.pricelist-order-cell.purchase.format"="Kulutatud %1$@ punkti ja %2$@ %3$@";
+
+/* Insufficient scores string */
+"Insufficient scores"="Pole piisavalt punkte";
+
+/* Choose action string */
+"Choose action"="Vali tegevus";
+
+/* Today from-to work time string */
+"Today from-to work time"="Täna %@-st %@-ni";
+
+/* Game not availiable string */
+"Game not availiable"="Vabandust! Meil on tehnilised tööd. Oleme varsti tagasi.";
+
+/* Invite award scores string */
+"Invite award scores"="Tasu soovituse eest";
+
+/* History string */
+"History"="Ajalugu";
+
+/* To join string */
+"To join"="Liitu";
+
+/* In cart string */
+"In cart"="Ostukorvis";
+
+/* Name string */
+"Name"="Nimi";
+
+/* Rate string */
+"Rate"="Tagasiside";
+
+/* Rate service string */
+"Rate service"="Palun hinnake meie teenust";
+
+/* joining award scores string */
+"joining award scores"="punkti liitumise eest";
+
+/* referral reward scores string */
+"referral reward scores"="punkti soovituse eest";
+
+/* Price for scores string */
+"Price for scores"="Hind boonuspunktide eest";
+
+/* Earned join scores string */
+"company.become-participant.message"="Olete kogunud %1$@ kinkepunkti liitumise eest";
+
+/* Permanent discount string */
+"Permanent discount"="Soodustus";
+
+/* Permanent discount 2 string */
+"Permanent discount 2"="soodustus";
+
+/* History new participant string */
+"New participant"="Uus osaleja";
+
+/* You became VIP client at place string */
+"You became VIP client at place"="Teie olete %@ liige";
+
+/* Bill string */
+"Bill"="Arve";
+
+/* Scores string */
+"Scores"="Punktid";
+
+/* Scores incoming string */
+"Scores incoming"="Punktide kogumine";
+
+/* Details string */
+"Details"="Detailid";
+
+/* Pricelist order string */
+"Pricelist order"="Ostmine hinnakirja järgi";
+
+/* Coupon purchase string */
+"Coupon purchase"="Kupongi ostmine";
+
+/* Item added to cart string */
+"Item added to cart"="Lisatud ostukorvi";
+
+/* User Agreement string */
+"user_agreement"="Kasutajaleping";
+
+/* Privacy policy string */
+"privacy_policy"="Privaatsuspoliitika";
+
+/* About app string */
+"about"="Info rakenduse kohta";
+
+/* Name details string */
+"Name details"="Nimi";
+
+/* KM unit string */
+"KM unit"="km";
+
+/* M unit string */
+"M unit"="m";
+
+
+
+// Base
+"base.apply"="Rakenda";
+"base.send"="Saada";
+"base.next"="Edasi";
+"base.cancel"="Tühista";
+"base.close"="Sulge";
+"base.continue"="Jätka";
+"base.could-not-autodefine-location"="Teie asukohta ei leitud";
+"base.error"="Viga";
+"base.error.user-not-authorized"="Kasutaja pole autoriseeritud ";
+"base.information"="Info";
+"base.navigate"="Mine";
+"base.register"="Registreeru";
+"base.required-field"="Kohustuslik väli";
+"base.settings"="Seaded";
+"base.skip"="Jätan vahele";
+"base.write"="Kirjuta sõnum";
+"base.sign-in"="Autoriseerimine";
+"base.sign-up"="Kasutaja registreerimine";
+"base.setup-phone"="Lisa telefoninumber";
+"base.today"="Täna";
+"base.exit"="Logi välja";
+"base.phone-call"="Helista";
+"base.scores.multiple"="punkti";
+"base.password"="Salasõna";
+"base.password-confirmation"="Salasõna kinnitus";
+"base.not-defined"="Pole täpsustatud";
+"base.my-scores"="Minu boonuspunktid";
+"base.price-menu"="Hind / menüü";
+"base.update"="Värskenda";
+"base.update-available"="Värskendus on saadaval ";
+"base.discount"="Soodustus";
+"base.password-changed"="Teie salasõna on muudetud";
+"base.agreement"="Kasutajaleping";
+"base.level"="Tase";
+"base.female"="Naine";
+"base.gender"="Sugu";
+"base.male"="Mees";
+"base.congratulations"="Õnnitleme!";
+"base.you"="Teie";
+"base.yesterday"="Eile";
+
+
+// error
+"error.request.cancelled"="Päring on tühistatud";
+"error.data-not-available"="Andmed pole saadaval";
+"error.internal-server"="Sisemine serveritõrge";
+"error.response.unrecognized"="Tundmatu serveri vastus";
+"error.unsupported-version"="Seda versiooni enam ei toetata";
+"error.to-many-requests"="Liiga palju päringuid";
+
+
+"request.cancelled"="Päring on tühistatud";
+
+
+"user-location.near-me"="Läheduses";
+
+
+// Application
+"application.notification.text.launch-app-after-change-language"="Klikake rakenduse taaskäivitamiseks";
+
+
+// walkthrougth
+"walkthrough.page.0.subtitle"="Soodustused ja boonused on saadaval kõikides UDS Game partnerettevõtetes. ";
+"walkthrough.page.0.title"="Soodustused ja boonused!";
+
+"walkthrough.page.1.subtitle"="Parimad pakkumised vastavalt teie eelistustele.";
+"walkthrough.page.1.title"="Kampaaniad ja eripakkumised!";
+
+"walkthrough.page.2.subtitle"="Jaga promo koode oma sõpradega ja saad punkte iga ostu pealt.";
+"walkthrough.page.2.title"="Soovita oma sõpradele!";
+
+"walkthrough.skip"="Jätan vahele";
+
+
+// welcome
+"welcome.sign-in"="Logi sisse";
+"welcome.sign-up"="Registreeru";
+"welcome.social.title"="või";
+"sign-up.agreements.format"="Registreerimisel nõustute %1$@ ja %2$@";
+"sign-up.agreements.part.user-agreement"="Litsentsilepinguga";
+"sign-up.agreements.part.privacy-policy"="Konfidentsiaalse privaatsuseeskirjadega";
+
+
+"auth.facebook"="Facebook";
+"auth.vk"="VK";
+
+
+// phone
+"phone-auth.enter-phone.subtitle"="Sisesta oma telefoninumber";
+"phone-auth.enter-phone.button"="Saada kinnituskood";
+"phone-auth.enter-code.title"="Kinnituskood";
+"phone-auth.enter-code.subtitle.format"="6-kohalise kood on saadetud telefoninumbrile  %@";
+"phone-auth.enter-code.button"="Jätka";
+"phone-auth.enter-code.re-send-button"="Saada uus kood";
+"phone-auth.error.incorrect-phone-number"="Telefoninumber on valesti sisestatud ";
+"phone-auth.error.incorrect-confirmation-code"="Vale kood";
+
+// sign in
+"sign-in-options.button.email"="E-posti aadress";
+"sign-in-options.button.forgot"="Unustasid salasõna?";
+"sign-in-options.button.phone"="Telefoninumber";
+"sign-in-options.subtitle"="Logi sisse";
+"sign-in-options.title"="Autoriseerimine";
+
+"sign-in-with-email.password"="Salasõna";
+"sign-in-with-email.title"="Logi sisse";
+"sign-in.enter-email.text-field.placeholder"="E-posti aadress";
+
+"sign-in.forgot"="Unustasid salasõna?";
+
+
+// sign up
+"sign-up-options.button.email"="E-posti aadress";
+"sign-up-options.button.phone"="Telefoninumber";
+"sign-up-options.subtitle"="Palun vali sobivaim registreerimise viis";
+"sign-up-options.title"="Registreeru";
+
+"sign-up-with-email.step1.birthday-field.placeholder"="Sünnipäev";
+"sign-up-with-email.step1.code-description"="Kliki pildile ja uuenda koodi";
+"sign-up-with-email.step1.code-field.placeholder"="Kood pildilt";
+"sign-up-with-email.step1.email-field.placeholder"="E-posti aadress";
+"sign-up-with-email.step1.gender-title"="Sugu";
+"sign-up-with-email.step1.password-field.placeholder"="Salasõna";
+"sign-up-with-email.step1.title"="Registreeru";
+
+"sign-up-with-email.step2.first-name-field.placeholder"="Eesnimi";
+"sign-up-with-email.step2.last-name-field.placeholder"="Perekonnanimi";
+"sign-up-with-email.step2.title"="Registreeru";
+
+"sign-up-with-phone.birthday-field.placeholder"="Sünnipäev";
+"sign-up-with-phone.first-name-field.placeholder"="Eesnimi";
+"sign-up-with-phone.gender-title"="Sugu";
+"sign-up-with-phone.last-name-field.placeholder"="Perekonnanimi";
+"sign-up-with-phone.title"="Registreeru";
+
+"sign-up.gender.female"="Naine";
+"sign-up.gender.male"="Mees";
+
+
+// restore password
+"restore-password.step-email.title"="Unustasid salasõna?";
+"restore-password.step-email.subtitle"="Sisestage e-posti aadress, mida kasutasite registreerimisel";
+"restore-password.step-email.text-field.placeholder"="E-posti aadress";
+
+"restore-password.step-code.title"="Unustasid salasõna?";
+"restore-password.step-code.subtitle"="Sisestada e-posti teel saadetud kinnituskood";
+"restore-password.step-code.text-field.placeholder"="Kinnituskood";
+
+"restore-password.step-new-password.title"="Taasta oma salasõna ";
+"restore-password.confirm-password-field.placeholder"="Kinnita";
+"restore-password.password-field.placeholder"="Salasõna";
+
+
+// phone
+"phone-already-registered.subtitle"="Klikake nupule rakenduse avamiseks";
+"phone-already-registered.title"="Telefoninumber on juba registreeritud";
+
+"phone-not-registered.title"="Teie telefoninumber ei ole registreeritud UDS Game rakenduses";
+
+
+// account banned & blocked
+"account-banned.title"="Juurdepääs on piiratud. Kasutajalepingu reeglid on rikutud. Blokeerimise põhjuste selgitamiseks võtke ühendust tehnilisetoega support@udsgame.com";
+
+// device id
+"device-uuid-exceeded.device-id-title"="seadme ID";
+"device-uuid-exceeded.subtitle"="Proovige kasutada teisi autoriseerimismeetodeid või saatke ekraanipilti klienditoele e-posti aadressile support@udsgame.com";
+"device-uuid-exceeded.title"="Selle seadmega kasutaja on juba registreeritud";
+
+
+// city picker
+"city-picker.background.title"="Oih! Kas te olete Marsil? Palun aidake teid üles leida!";
+"city-picker.search.placeholder"="Linn või piirkond";
+"city-picker.title"="Teie asukoht";
+"city-picker.background.autodefine-button"="Proovi uuesti";
+
+
+// tabs
+"tab.discount"="Soodustus";
+"tab.home"="Esileht";
+"tab.offers"="Kampaaniad";
+"tab.places"="Kohad";
+"tab.promo"="Promo kood";
+
+
+// logout
+"logout.alert.title"="Välja logimine ebaõnnestus";
+"logout.alert.push-error"="Tekkis viga. Tõenäoliselt push-sõnumitest loobumine ebaõnnestus tehnilistel põhjustel.";
+"logout.alert.try-again"="Palun proovige uuesti";
+
+
+// categories
+"categories.all-categories"="Kõik kohad";
+"categories.all-categories.description"="Kohad kõikides kategooriates";
+
+"categories.favorite-places"="Lemmikkohad";
+"categories.my-places"="Minu kohad";
+
+"categories.category.all-places"="Kõik kohad";
+
+"category-preferences.my.title"="Minu eelistused";
+
+"category-preferences.setup.subtitle"="Esmalt näidatakse nende kategooriate eripakkumised";
+"category-preferences.setup.title"="Valige 3 kategooriat";
+
+"category-switch.button.switch"="Asenda";
+"category-switch.subtitle"="Kui soovid lisada eelistus, asenda uus eelnevalt valitud eelistusega";
+"category-switch.title"="Lubatud kategooriate arv - 3";
+
+
+// settings
+"settings.alert.change-instagram.title"="Asenda";
+"settings.alert.change-skype.title"="Asenda";
+"settings.alert.logout.title"="Kas olete kindel?";
+
+"settings.app-info"="Info";
+"settings.app-language"="Keel";
+
+"settings.cell.about-application"="Info rakenduse kohta";
+"settings.cell.confirm-password"="Kinnita";
+"settings.cell.current-password"="Praegune salasõna";
+"settings.cell.email"="E-posti aadress";
+"settings.cell.email-password"="E-post / Salasõna";
+"settings.cell.instagram"="Instagram";
+"settings.cell.logout"="Logi välja";
+"settings.cell.new-password"="Uus salasõna";
+"settings.cell.phone"="Telefoninumber";
+"settings.cell.skype"="Skype";
+"settings.cell.verify-phone"="Kinnita telefoninumber";
+"settings.cell.preferences"="Eelistused";
+"settings.cell.birth-date"="Sünnipäev";
+"settings.cell.last-name"="Perekonnanimi";
+
+"settings.notifications.cell.company-news"="Uudised";
+"settings.notifications.cell.company-offers"="Kampaaniad";
+"settings.notifications.cell.company-messages"="Teated";
+"settings.notifications.cell.new-members"="Kutsutud sõbrad";
+"settings.notifications.cell.scores-change"="Punktid";
+
+"settings.change-language.alert.title"="Vali keel";
+"settings.change-language.alert.text"="\"%@\" rakendatakse pärast taaskäivitamist";
+
+"settings.languages"="Keeled";
+"settings.languages.system"="Süsteemikeel";
+"settings.reset-to-system-language"="Lähtesta";
+
+"settings.section.authorization"="Autoriseerimine";
+"settings.section.notifications"="Teated";
+"settings.section.social"="Sotsiaalvõrgustikud";
+
+"settings.upload-image"="Sinu pilt";
+"settings.upload-image.open"="Ava";
+"settings.upload-image.camera"="Tee pilti";
+"settings.upload-image.gallery"="Vali fotogaleriist";
+"settings.upload-image.delete"="Eemalda";
+
+"settings.select-phone.message"="Kui soovite muuta oma telefoninumber, võtke palun ühendust klienditoega aadressil support@udsgame.com";
+
+
+// place
+"place.joining-award.alert.title"="Punkti soovituse eest";
+"place.joining-award.alert.message"="Saate punkte soovituse eest siis kui kutsutud sõber sooritab esimest ostu";
+
+"places.tab.all"="Kõik kohad";
+"places.tab.favorite"="Minu lemmikud";
+"places.tab.my"="Minu kohad";
+
+"places.title"="Kohad";
+
+"my-places.title"="Minu kohad";
+"my-places.table-placeholder.title"="Minu kohad";
+"my-places.table-placeholder.subtitle"=" Siin kuvatakse kõik kohad mida olete külastanud";
+
+"favorite-palces.title"="Lemmikkohad";
+"favorite-places.table-placeholder.title"="Lemmikkohad";
+"favorite-places.table-placeholder.subtitle"="Lisage  lemmikutesse kohad mis teile meeldisid\n";
+
+"company.tab.description"="Kirjeldus";
+"company.tab.news"="Uudised";
+"company.tab.offers"="Kampaaniad";
+
+"company.bonus-program-description"="Boonusprogrammi kirjeldus";
+"company.bonus-program-cell.button"="Boonusprogramm";
+"company.branches-cell.button.format"="Näita kõiki aadresse: %@";
+"company.bonus-program.title"="Boonusprogramm";
+
+"company.news-cell.detail-button"="Näita detaile...";
+
+"company.action.add-to-favorites"="Lisa lemmikutesse\n";
+"company.action.remove-from-favorites"="Eemalda lemmikutest";
+"company.action.offers-notifications.enabled"="Telli pakkumised";
+"company.action.offers-notifications.disabled"="Loobu pakkumistest";
+"company.action.news-notifications.enabled"="Telli uudised";
+"company.action.news-notifications.disabled"="Loobu uudistest";
+
+"company.cell.nearest-branch"="Lähim aadress";
+"company.cell.description"="Meist";
+"company.cell.phone"="Telefoninumber";
+"company.cell.website"="Kodulehekülg";
+"company.cell.worktime"="Lahtiolekuajad";
+"company.cell.message"="Kirjuta sõnum";
+
+"company.worktime.opens-after.format"="Avatakse %@ tunni pärast";
+"company.worktime.remains-opens.format"="Avatud veel %@";
+"company.worktime.today-closed"="Suletud";
+"company.worktime.around-the-clock"="Ööpäevaringselt";
+
+"company.error.already-participant"="Selle ettevõtega olete juba liitunud";
+
+"company.message.become-participant"="Olete edukalt liitunud";
+
+
+// companies map
+"companies-map.all-companies.title"="Kõik kohad";
+"companies-map.favorite-companies.title"="Minu lemmikud";
+"companies-map.my-companies.title"="Minu kohad";
+
+"company-add-to-favorite.button.add"="Lisa";
+"company-add-to-favorite.subtitle"="Lisa lemmikutesse\n";
+
+"company-branch.address"="Aadressid";
+"company-branch.cell.phone"="Telefoninumber";
+"company-branch.cell.worktime"="Lahtiolekuajad";
+
+"company-list-tutorial.bottom-view.button"="Jätka";
+"company-list-tutorial.top-view.favorite"="Lemmikkohad";
+"company-list-tutorial.top-view.recommend"="Soovita";
+"company-list-tutorial.top-view.title"="Pühkige vasakule ja avage funktsioonid";
+
+
+// members structure
+"company.members-structure.level1"="1. tase";
+"company.members-structure.level2"="2. tase";
+"company.members-structure.level3"="3. tase";
+"company.members-structure.no-members-placeholder"="Teie pole veel kedagi kutsunud";
+"company.members-structure.recommend"="Soovita";
+
+"company.recommend"="Soovita";
+"company.recommend.title"="Soovita";
+"company.recommend.view.title"="Jaga promo koodi oma sõpradega";
+"company.recommendations"="Soovitused";
+
+
+// dashboard
+"dashboard.recent-companies.title"="Olete hiljuti külastanud";
+"dashboard.search.placeholder"="Otsi kohti";
+
+"dashboard.category-header.button"="Vaata";
+
+"global-search.placeholder"="Otsing";
+
+
+// offers
+"offer-trends-cell.button"="Mine";
+"offer-trends-cell.subtitle"="Vaadake mis meeldis teistele kasutajatele";
+"offer-trends-cell.title"="Kasutajate valik";
+
+"offer.action.complaint"="Esitage kaebus";
+"offer.expire-date"="Pakkumine kehtib kuni";
+"offer.quantity"="Jäänud / Kõik";
+"offer.use"="Kasuta";
+
+"offers-filters.cell.location"="Asukoht";
+"offers-filters.title"="Filtreeri";
+
+"offers-recommended-for-you.title"="Teie jaoks";
+
+"offers-trending.title"="Kasutajate valik";
+
+"offers.recommend-header.button"="Mine";
+"offers.recommended-header.title"="Spetsiaalselt teie jaoks ";
+
+"offers.title"="Kampaaniad";
+
+"offer.compaint.succes"="Kaebus on saadetud";
+
+
+// profile
+"profile.title"="Profiil";
+
+
+// qr code
+"qr-code.discount.title"="Soodustus";
+"qr-code.discount.subtitle"="Näita QR-kood teenindajale või ütle temale need numbrid";
+"qr-code.discount.details"=" Soodustus kehtib kõikides UDS Game partneettevõtetes";
+
+"qr-code.offer.title"="Pakkumine";
+"qr-code.offer.subtitle"="Näita QR-kood teenindajale või ütle temale need numbrid";
+
+"qr-code.storefront.title"="Makse";
+"qr-code.storefront.subtitle"="Näita QR-kood teenindajale või ütle temale need numbrid";
+
+"qr-code.input.input-view-title"="Sisesta või skanni promo kood";
+"qr-code.input.text-field-placeholder"="Promo kood";
+"qr-code.input.title"="Promo kood";
+
+"qr-code.recommend.card-subtitle"="või sisesta käsitsi";
+"qr-code.recommend.card-title"="Kasuta QR-koodi";
+
+
+// sample
+"sample.company1.annotation"="Coffeine Roof - parim itaalia barista kohv.";
+"sample.company1.name"="Roof";
+
+"sample.company2.annotation"="Ilusalong - esteetiline kirurgia.";
+"sample.company2.name"="Bestia";
+
+"sample.company3.annotation"="Pizzeria - tõeline neapolitan pitsa";
+"sample.company3.name"="Bella Italiano";
+
+
+// timeline
+"timeline.type.purchase"="Ostmine";
+"timeline.type.scores-income"="Punktide kogumine";
+"timeline.type.all"="Kogu ajalugu";
+
+"timeline.order-by-offer"="Ost on sooritatud kampaania hinnaga";
+"timeline.scores-refunded"="Parandus";
+"timeline.operation.comment"="Kommentaar";
+
+
+// location service
+"location-service.request-timed-out"="Sessioon on aegunud";
+"location-service.options-alert.title"="Teie asukohta ei leitud";
+"location-service.options-alert.action.manual-enter"="Sisesta käsitsi";
+"location-service.options-alert.action.navigate-to-settings"="Seaded";
+
+"city.not-defined"="Ei leitud midagi";
+
+// table
+"table.footer.pull-to-load-more"="Andmete allaladimiseks pühkige ülevalt alla";
+"company-search-table.footer.no-items"="Ei leitud midagi";
+"city-search-table.footer.no-items"="Ei leitud midagi";
+
+/* Not delete because used in MWPhotoBrowser pod */
+"Done"="Valmis";
+"of"="/";
+
+
+"place.not-defined-neares-branch-cell.text"="Teie asukohta ei leitud";
+"place.not-defined-neares-branch-cell.button"="Määra";
+"paces.table-footer.my-places-empty"="Teie ei ole veel kuskil saanud osaleda";
+
+"global-search.cell.location"="Asukoht";
+
+// feedback && poll
+"feedback.title"="Tagasiside";
+"feedback.comment.placeholder"="Palun jätke oma tagasiside (soovi korral)";
+"feedback.rate.title"="Täname teid ostu eest!";
+"feedback.rate.subtitle.format"="Palun hinnake meie teenuse kvaliteeti %@";
+
+"feedback-take-poll.title"="Täname tagasiside eest!";
+"feedback-take-poll.subtitle.format"="%@ püüab olla parim teie jaoks! Palun täitke lühiküsitlis";
+"feedback-take-poll.poll-button"="Täitke lühiküsitlus";
+
+"poll.title"="Uuring";
+
+
+// conversation
+"conversations-list.title"="Teated";
+"conversations-list.background.title"="Teateid ei ole";
+"conversations-list.background.subtitle"="Võite alustada vestlust ettevõte leheküljel";
+
+"company.messages.alert.unlock-messages"="Vestluse blookeering on tühistatud";
+"company.messages.alert.lock-messages"="Blokeeri vestlus";
+"message.forward-rate.title"="Vastus tagasisidele";
+"conversation.message-input-toolbar.company-inactive"="Vabandust, see ettevõte on ajutiselt mitteaktiivne";
+"conversation.message-input-toolbar.company-blocked-messages"="Ettevõte piirab sissetulevaid sõnumeid";
+"conversation.message-input-toolbar.user-blocked-messages"="See vestlus on blokeeritud. Ei ole võimalik teadet saata.";
+"conversation.message-input-toolbar.user-blocked-messages.button"="Sõnumite blokeering on tühistatud";
+"messages.input-toolbar.placeholder"="Teade ...";
+/* #################### PLIST */
+/* NSLocationWhenInUseUsageDescription */
+"NSCameraUsageDescription"="Skanni QR-kood";
+
+/* NSLocationWhenInUseUsageDescription */
+"NSLocationWhenInUseUsageDescription"="It’s required to find nearby places";
+
+/* NSPhotoLibraryUsageDescription */
+"NSPhotoLibraryUsageDescription"="It’s required for choosing a profile picture";
+
+/* TGShortcutItemTypeDiscountTitle */
+"TGShortcutItemTypeDiscountTitle"="Soodustus";
+
+/* TGShortcutItemTypePromoTitle */
+"TGShortcutItemTypePromoTitle"="Promo kood";
+
+/* TGShortcutItemTypePlacesTitle */
+"TGShortcutItemTypePlacesTitle"="Kohad";
+
+/* TGShortcutItemTypeOffersTitle */
+"TGShortcutItemTypeOffersTitle"="Kampaaniad";

@@ -1,0 +1,679 @@
+/* #################### PROJECT */
+/* And string */
+"base.and"="І";
+/* are don't match string */
+"are don't match"="не збігаються";
+
+
+"qr-scan.message.camera-required"="Щоб прочитати QR-код, програма UDS Game потребує доступ до вашої камери";
+
+"history.table-footer.empty"="Історія операцій порожня";
+
+
+"price-menu.empty"="Прайс-лист порожній";
+"price-menu.empty-cart"="У кошику немає елементів";
+
+"pricelist.add-to-cart"="Додано у кошик";
+
+
+"base.price"="Ціна";
+
+"rate.comment-filed.placeholder"="Ваш коментар";
+
+
+
+/* u.e. string */
+"u.e."="тощо";
+
+
+"price-cart.title"="Кошик";
+"price-cart.base-discount"="Базова знижка";
+"price-cart.purchase"="Покупка";
+
+
+
+"price-cart.total-sum"="Загалом";
+
+"base.total"="Загалом";
+
+/* Purchase for cash string */
+"price-cart.alert.action.purchase-for-cash.format"="Купити за %@";
+
+/* Purchase for scores string */
+"Purchase for scores"="Покупка за бонусні бали";
+
+
+
+
+/* Insufficient scores string */
+"Insufficient scores"="недостатньо балів";
+
+/* Choose action string */
+"Choose action"="Виберіть дію";
+
+/* Today from-to work time string */
+"Today from-to work time"="сьогодні з %@ до %@";
+
+/* Game not availiable string */
+"Game not availiable"="На жаль! Технічне обслуговування триває. Ми скоро повернемося!";
+
+/* Invite award scores string */
+"Invite award scores"="Рекомендація винагороди";
+
+/* History string */
+"History"="Історія";
+
+/* To join string */
+"To join"="Приєднатись";
+
+/* In cart string */
+"In cart"="В кошику";
+
+/* Name string */
+"Name"="Ім'я";
+
+/* Rate string */
+"Rate"="Огляд";
+
+/* Rate service string */
+"Rate service"="Оцініть обслуговування клієнтів";
+
+/* joining award scores string */
+"joining award scores"="бали за запрошення";
+
+/* referral reward scores string */
+"referral reward scores"="Бали за рекомендацію";
+
+/* Price for scores string */
+"Price for scores"="Ціна з бонусними балами";
+
+/* Permanent discount string */
+"Permanent discount"="Знижка";
+
+/* Permanent discount 2 string */
+"Permanent discount 2"="знижка";
+
+/* History new participant string */
+"New participant"="Новий учасник";
+
+/* You became VIP client at place string */
+"You became VIP client at place"="Ви отримали %@ статус";
+
+/* Bill string */
+"Bill"="Рахунок";
+
+/* Scores string */
+"Scores"="Бали";
+
+/* Scores incoming string */
+"Scores incoming"="Нарахування балів";
+
+/* Details string */
+"Details"="деталі";
+
+/* Pricelist order string */
+"Pricelist order"="Операція по прейскуранту";
+
+/* Coupon purchase string */
+"Coupon purchase"="Покупка за купоном";
+
+/* Item added to cart string */
+"Item added to cart"="додано у кошик";
+
+/* User Agreement string */
+"user_agreement"="Угода користувача";
+
+/* Privacy policy string */
+"privacy_policy"="Політика конфіденційності";
+
+/* About app string */
+"about"="Про додаток";
+
+/* Name details string */
+"Name details"="Ім'я";
+
+/* KM unit string */
+"KM unit"="км";
+
+/* M unit string */
+"M unit"="м";
+
+
+// Base
+"base.apply"="застосувати";
+"base.send"="Відправити";
+"base.next"="Далі";
+"base.cancel"="скасувати";
+"base.close"="закрити";
+"base.continue"="Продовжити";
+"base.could-not-autodefine-location"="Не вдалося визначити Ваше місце розташування";
+"base.error"="Помилка";
+"base.error.user-not-authorized"="Користувач не авторизований";
+"base.information"="інформація";
+"base.navigate"="Перейти";
+"base.register"="Зареєструватися";
+"base.required-field"="Обов'язкове поле";
+"base.settings"="Налаштування";
+"base.skip"="Пропустити";
+"base.write"="Залишити повідомлення";
+"base.sign-in"="авторизація";
+"base.sign-up"="Реєстрація користувача";
+"base.setup-phone"="Встановити телефон";
+"base.today"="Сьогодні";
+"base.exit"="ВХІД";
+"base.phone-call"="Подзвонити";
+"base.scores.multiple"="Бали";
+"base.password"="пароль";
+"base.password-confirmation"="Підтвердження паролю";
+"base.not-defined"="не визначено";
+"base.my-scores"="Мої бонусні бали";
+"base.price-menu"="Прейскурант / Меню";
+"base.update"="Оновити";
+"base.update-available"="Доступні оновлення";
+"base.discount"="Знижка";
+"base.password-changed"="Ваш пароль було змінено";
+"base.agreement"="Угода";
+"base.level"="рівень";
+"base.female"="Жінка";
+"base.gender"="Стать";
+"base.male"="Чоловік";
+"base.congratulations"="Вітаємо!";
+"base.you"="ви";
+"base.yesterday"="вчора";
+
+
+// error
+"error.request.cancelled"="Запит скасовано";
+"error.data-not-available"="Дані недоступні";
+"error.internal-server"="Внутрішня помилка сервера";
+"error.response.unrecognized"="Невизнана відповідь сервера";
+"error.unsupported-version"="Версія не підтримується";
+"error.to-many-requests"="Забагато запитів";
+
+
+"request.cancelled"="Запит скасовано";
+
+
+"user-location.near-me"="Неподалік";
+
+
+// Application
+"application.notification.text.launch-app-after-change-language"="Натисніть, щоб скинути";
+
+
+// walkthrougth
+"walkthrough.page.0.subtitle"="Отримайте знижки та бонуси в усіх місцях, що беруть участь у UDS Game.";
+"walkthrough.page.0.title"="Знижки та бонуси!";
+
+"walkthrough.page.1.subtitle"="Найкращі пропозиції відповідно до ваших уподобань.";
+"walkthrough.page.1.title"="Акції та спеціальні пропозиції!";
+
+"walkthrough.page.2.subtitle"="Передайте рекламні коди своїм друзям і отримуйте бали з кожної покупки.";
+"walkthrough.page.2.title"="Рекомендуй своїм друзям!";
+
+"walkthrough.skip"="Пропустити";
+"welcome.sign-in"="увійти";
+"welcome.sign-up"="Зареєструйтеся зараз";
+"welcome.social.title"="або";
+"sign-up.agreements.format"="Зареєструвавшись у додатку, ви погоджуєтеся з %1$@і %2$@";
+"sign-up.agreements.part.user-agreement"="Ліцензійна угода";
+"sign-up.agreements.part.privacy-policy"="Конфіденційна політика конфіденційності";
+"welcome-options.label.title"="Увійдіть до свого облікового запису та знайдіть більше унікальних функцій гри UDS";
+
+"auth.facebook"="Facebook";
+"auth.vk"="VK";
+
+
+// phone
+"phone-auth.enter-phone.subtitle"="Введіть свій номер телефону";
+"phone-auth.enter-phone.button"="Надіслати код підтвердження";
+"phone-auth.enter-code.title"="Верифікація";
+"phone-auth.enter-code.subtitle.format"="Ми надіслали 6-значний код на %@";
+"phone-auth.enter-code.button"="Продовжити";
+"phone-auth.enter-code.re-send-button"="Надішліть новий код";
+"phone-auth.error.incorrect-phone-number"="Неправильний номер телефону";
+"phone-auth.error.incorrect-confirmation-code"="Невірний код";
+
+// sign in
+"sign-in-options.button.email"="адреса електронної пошти";
+"sign-in-options.button.forgot"="Забули пароль?";
+"sign-in-options.button.phone"="номер телефону";
+"sign-in-options.subtitle"="Увійдіть, використовуючи";
+"sign-in-options.title"="авторизація";
+
+"sign-in-with-email.password"="пароль";
+"sign-in-with-email.title"="Увійти";
+"sign-in.enter-email.text-field.placeholder"="адреса електронної пошти";
+
+"sign-in.forgot"="Забули пароль?";
+
+
+// sign up
+"sign-up-options.button.email"="адреса електронної пошти";
+"sign-up-options.button.phone"="номер телефону";
+"sign-up-options.subtitle"="Будь ласка, виберіть зручний метод реєстрації";
+"sign-up-options.title"="реєстрація";
+
+"sign-up-with-email.step1.birthday-field.placeholder"="дата народження";
+"sign-up-with-email.step1.code-description"="Натисніть на зображення та відновіть код";
+"sign-up-with-email.step1.code-field.placeholder"="Код з картинки";
+"sign-up-with-email.step1.email-field.placeholder"="адреса електронної пошти";
+"sign-up-with-email.step1.gender-title"="Стать";
+"sign-up-with-email.step1.password-field.placeholder"="пароль";
+"sign-up-with-email.step1.title"="реєстрація";
+
+"sign-up-with-email.step2.first-name-field.placeholder"="Ім'я";
+"sign-up-with-email.step2.last-name-field.placeholder"="Прізвище";
+"sign-up-with-email.step2.title"="Реєстрація";
+
+"sign-up-with-phone.birthday-field.placeholder"="дата народження";
+"sign-up-with-phone.first-name-field.placeholder"="Ім'я";
+"sign-up-with-phone.gender-title"="Gender";
+"sign-up-with-phone.last-name-field.placeholder"="Прізвище";
+"sign-up-with-phone.title"="Sign up";
+
+"sign-up.gender.female"="Жінка";
+"sign-up.gender.male"="Чоловік";
+
+
+// restore password
+"restore-password.step-email.title"="Forgot password?";
+"restore-password.step-email.subtitle"="Enter the e-mail address, you used while registering";
+"restore-password.step-email.text-field.placeholder"="E-mail address";
+
+"restore-password.step-code.title"="Forgot password?";
+"restore-password.step-code.subtitle"="Enter the code sent to your e-mail address";
+"restore-password.step-code.text-field.placeholder"="Підтвердження кода";
+
+"restore-password.step-new-password.title"="Restore password";
+"restore-password.confirm-password-field.placeholder"="Confirm";
+"restore-password.password-field.placeholder"="пароль";
+
+
+// phone
+"phone-already-registered.subtitle"="Please click on the button to open the app";
+"phone-already-registered.title"="The phone number is already registered";
+
+"phone-not-registered.title"="The phone number is not registered in UDS Game app";
+
+
+// account banned & blocked
+"account-banned.title"="Access is blocked for violation of the User Agreement. To clarify the reasons of block refer to the Technical Support:\nsupport@udsgame.com";
+
+// device id
+"device-uuid-exceeded.device-id-title"="ідентифікатор пристрою";
+"device-uuid-exceeded.subtitle"="Please, sign in using other authorization methods or send an error  screenshot to our technical support team";
+"device-uuid-exceeded.title"="This device is already registered with a different account";
+
+
+// city picker
+"city-picker.background.title"="Oops! Are you living on Mars? Please help us to find you!";
+"city-picker.search.placeholder"="City or region";
+"city-picker.title"="Your location";
+"city-picker.background.autodefine-button"="Спробуйте ще раз";
+
+
+// tabs
+"tab.discount"="Знижка";
+"tab.home"="Додому";
+"tab.offers"="Пропозиції";
+"tab.places"="Місця";
+"tab.promo"="Промо-код";
+
+
+// logout
+"logout.alert.title"="Помилка виходу";
+"logout.alert.push-error"="Сталася помилка. Можливо, ваш пристрій отримає нові сповіщення.";
+"logout.alert.try-again"="Будь ласка спробуйте ще раз";
+
+
+// categories
+"categories.all-categories"="Всі місця";
+"categories.all-categories.description"="Місця в усіх категоріях";
+
+"categories.favorite-places"="улюблені місця";
+"categories.my-places"="мої місця";
+
+"categories.category.all-places"="Всі місця";
+
+"category-preferences.my.title"="Мої уподобання";
+
+"category-preferences.setup.subtitle"="Спершу будуть показані спеціальні пропозиції на основі цих уподобань";
+"category-preferences.setup.title"="Виберіть до 3 категорій";
+
+"category-switch.button.switch"="Замініть";
+"category-switch.subtitle"="Будь ласка, замініть попередньо вибрані налаштування та додайте нові";
+"category-switch.title"="Кількість дозволених категорій - 3";
+
+
+// settings
+"settings.alert.change-instagram.title"="Замініть";
+"settings.alert.change-skype.title"="Замініть";
+"settings.alert.logout.title"="Ви впевнені?";
+
+"settings.app-info"="інформація";
+"settings.app-language"="Мова";
+
+"settings.cell.about-application"="Про додаток";
+"settings.cell.confirm-password"="підтвердити";
+"settings.cell.current-password"="Поточний пароль";
+"settings.cell.email"="адреса електронної пошти";
+"settings.cell.email-password"="Електронна пошта / пароль";
+"settings.cell.instagram"="Instagram";
+"settings.cell.logout"="вийти";
+"settings.cell.new-password"="новий пароль";
+"settings.cell.phone"="номер телефону";
+"settings.cell.skype"="Skype";
+"settings.cell.verify-phone"="Перевірте номер телефону";
+"settings.cell.preferences"="Мої уподобання";
+"settings.cell.birth-date"="дата народження";
+"settings.cell.last-name"="Прізвище";
+"settings.cell.user-location"="Місто";
+"settings.cell.user-auth.button"="Увійти";
+"settings.cell.user-auth.title"="Увійдіть до облікового запису";
+"settings.cell.user-auth.subtitle"="Увійдіть до свого облікового запису та знайдіть більше унікальних функцій гри UDS";
+
+
+"settings.notifications.cell.company-news"="Новини";
+"settings.notifications.cell.company-offers"="Пропозиції";
+"settings.notifications.cell.company-messages"="Повідомлення";
+"settings.notifications.cell.new-members"="Запросити друзів";
+"settings.notifications.cell.scores-change"="місця";
+
+"settings.change-language.alert.title"="Змінити мову";
+"settings.change-language.alert.text"="\"%@\" буде застосовано після перезапуску";
+
+"settings.languages"="Мови";
+"settings.languages.system"="Системна мова";
+"settings.reset-to-system-language"="Скинути";
+
+"settings.section.authorization"="Авторизація";
+"settings.section.notifications"="повідомлення";
+"settings.section.social"="Соціальні мережі";
+
+"settings.upload-image"="Ваша фотографія";
+"settings.upload-image.open"="Відкрити";
+"settings.upload-image.camera"="Зробити фото";
+"settings.upload-image.gallery"="Виберіть з фото галереї";
+"settings.upload-image.delete"="Видалити";
+
+"settings.select-phone.message"="Щоб змінити свій номер телефону, зверніться до служби технічної підтримки на support@udsgame.com";
+
+
+// place
+"place.joining-award.alert.title"="Бали за рекомендацію";
+"place.joining-award.alert.message"="Ви будете нагороджені балами за рекомендацію, коли ваш особисто запрошений друг зробить першу покупку";
+
+"places.tab.all"="Всі місця";
+"places.tab.favorite"="улюблені";
+"places.tab.my"="Мої місця";
+
+"places.title"="Місця";
+
+"my-places.title"="мої місця";
+"my-places.table-placeholder.title"="мої місця";
+"my-places.table-placeholder.subtitle"="Місця, які ви відвідуєте, з'являться тут";
+
+"favorite-palces.title"="улюблені місця";
+"favorite-places.table-placeholder.title"="улюблені місця";
+"favorite-places.table-placeholder.subtitle"="Додайте місця, які вам сподобалися до улюблених";
+
+"company.tab.description"="Опис";
+"company.tab.news"="Новини";
+"company.tab.offers"="Пропозиції";
+
+"company.bonus-program-description"="Опис бонусної програми";
+"company.bonus-program-cell.button"="Бонусна програма";
+"company.branches-cell.button.format"="Показати всі гілки: %@";
+"company.bonus-program.title"="Бонусна програма";
+
+"company.news-cell.detail-button"="Показати деталі...";
+
+"company.action.add-to-favorites"="Додати в обране";
+"company.action.remove-from-favorites"="Видалити з обраного";
+"company.action.offers-notifications.enabled"="Підпишіться на пропозиції";
+"company.action.offers-notifications.disabled"="Скасувати підписку на пропозиції";
+"company.action.news-notifications.enabled"="Підпишіться на новини";
+"company.action.news-notifications.disabled"="Скасувати підписку на новини";
+
+"company.cell.nearest-branch"="Найближча адреса";
+"company.cell.description"="Про нас";
+"company.cell.phone"="номер телефону";
+"company.cell.website"="Веб-сайт";
+"company.cell.worktime"="Робочі години";
+"company.cell.message"="Напишіть повідомлення";
+"company.cell.branches"="Філії";
+
+"company.worktime.opens-after.format"="Відкривається в %@";
+"company.worktime.remains-opens.format"="залишається відкритим %@";
+"company.worktime.today-closed"="Зачинено";
+"company.worktime.around-the-clock"="24 години";
+
+"company.error.already-participant"="Ви вже приєдналися до компанії";
+
+"company.message.become-participant"="Ви успішно приєдналися";
+"company.message.declined"="На жаль, ця компанія тимчасово не активна";
+
+"company.share-text.cashback.format"="Ви хочете отримати %1$@грошовий переказ в %2$@?\n1. Завантажте програму з %3$@\n2. Виберіть розділ Промо-коду та введіть наступний код: %4$@\nОтримайте знижки, бонуси та резервні копії з додатком UDS для гри!";
+"company.share-text.discount.format"="Отримати %1$@ВИМКНУТИ будь-яку покупку на %2$@:\n1. Завантажте програму ігор UDS з %3$@\n2. Введіть %4$@у розділ \"Промо-код\" та отримайте винагороду зі знижками, бонусами та готівкою!";
+
+"company.become-participant.message"="Ви заробили %1$@привітання";
+
+
+// companies map
+"companies-map.all-companies.title"="Всі місця";
+"companies-map.favorite-companies.title"="обране";
+"companies-map.my-companies.title"="Мої місця";
+
+"company-add-to-favorite.button.add"="додати";
+"company-add-to-favorite.subtitle"="Додано в обране";
+
+"company-branch.address"="Адреси";
+"company-branch.cell.phone"="номер телефону";
+"company-branch.cell.worktime"="Робочі години";
+
+"company-list-tutorial.bottom-view.button"="Продовжити";
+"company-list-tutorial.top-view.favorite"=" Улюблені місця";
+"company-list-tutorial.top-view.recommend"="Рекомендації місць";
+"company-list-tutorial.top-view.title"="Проведіть пальцем ліворуч та відкрийте доступ до функцій";
+
+"company-list.section-header.up-to-3-km"="В межах 3 км";
+"company-list.section-header.up-to-5-km"="В межах 5 км";
+"company-list.section-header.up-to-10-km"="В межах 10 км";
+"company-list.section-header.up-to-20-km"="В межах 20 км";
+"company-list.section-header.up-to-30-km"="В межах 30 км";
+
+
+// members structure
+"company.members-structure.level1"="1 рівень";
+"company.members-structure.level2"="2 рівень";
+"company.members-structure.level3"="3 рівень";
+"company.members-structure.no-members-placeholder"="Немає запрошених друзів";
+"company.members-structure.recommend"="Рекомендувати";
+
+"company.recommend"="Рекомендувати";
+"company.recommend.title"="Рекомендувати";
+"company.recommend.view.title"="Поділіться промо кодом з Вашими друзями";
+"company.recommendations"="Рекомендації";
+
+
+// dashboard
+"dashboard.recent-companies.title"="Ви нещодавно відвідали";
+"dashboard.search.placeholder"="Пошук місць";
+
+"dashboard.category-header.button"="Вид";
+
+"global-search.placeholder"="пошук";
+
+
+// offers
+"offer-trends-cell.button"="Перейти";
+"offer-trends-cell.subtitle"="Перегляньте найбільш сподобані місця";
+"offer-trends-cell.title"="Вибір користувачів";
+
+"offer.action.complaint"="Подати скаргу";
+"offer.expire-date"="Пропозиція дійсна до";
+"offer.quantity"="Залишається / все";
+"offer.use"="Використати";
+
+"offers-filters.cell.location"="Місцезнаходження";
+"offers-filters.title"="фільтр";
+
+"offers-recommended-for-you.title"="Для вас";
+
+"offers-trending.title"="Вибір користувачів";
+
+"offers.recommend-header.button"="Перейти";
+"offers.recommended-header.title"="Спеціально для вас";
+
+"offers.title"="Пропозиції";
+
+"offer.compaint.succes"="Скарга була відправлена";
+
+
+// profile
+"profile.title"="Профіль";
+
+
+// qr code
+"qr-code.discount.title"="Знижка";
+"qr-code.discount.subtitle"="Показати цей QR-код касирові, або скажіть ці цифри";
+"qr-code.discount.details"="Ця знижка діє у всіх місцях, що беруть участь у додатку UDS Game";
+
+"qr-code.offer.title"="Пропозиція";
+"qr-code.offer.subtitle"="Показати цей QR-код касирові, або скажіть ці цифри";
+
+"qr-code.storefront.title"="Оплата";
+"qr-code.storefront.subtitle"="Показати цей QR-код касирові, або скажіть ці цифри";
+
+"qr-code.input.input-view-title"="Введіть промо код або відскануйте його";
+"qr-code.input.text-field-placeholder"="Промо-код";
+"qr-code.input.title"="Промо код";
+
+"qr-code.recommend.card-subtitle"="або введіть його вручну";
+"qr-code.recommend.card-title"="Використовуйте QR-код";
+
+
+// sample
+"sample.company1.annotation"="Кафе на даху - найкраща кава з італійської бариста.";
+"sample.company1.name"="Дах";
+
+"sample.company2.annotation"="Клініка краси - косметична хірургія.";
+"sample.company2.name"="Бестія";
+
+"sample.company3.annotation"="Піцерія - автентична неаполітанська піца";
+"sample.company3.name"="Bella Italiano";
+
+
+// timeline
+"timeline.type.purchase"="Покупка";
+"timeline.type.scores-income"="Нарахування балів";
+"timeline.type.all"="Вся історія";
+
+"timeline.order-by-offer"="Покупки з промо-пропозиціями";
+"timeline.scores-refunded"="Бали відшкодовані";
+"timeline.operation.comment"="коментар";
+
+"timeline.cell.birday-gift.title"="Подарунок";
+
+"timeline.pricelist-order-cell.purchase.format"="Витрачені %1$@ пункти та %2$@ %3$@";
+
+
+// location service
+"location-service.request-timed-out"="Тайм-аут сеансу";
+"location-service.options-alert.title"="Ваше місцезнаходження не знайдено";
+"location-service.options-alert.action.manual-enter"="Введіть вручну";
+"location-service.options-alert.action.navigate-to-settings"="Перейдіть до налаштувань";
+
+"city.not-defined"="Не знайдено";
+
+// table
+"table.footer.pull-to-load-more"="Будь ласка, проведіть пальцем униз, щоб завантажити більше";
+"companies-list-table.footer.no-items"="Не знайдено";
+"company-search-table.footer.no-items"="Не знайдено";
+"city-search-table.footer.no-items"="Не знайдено";
+"offers-table.footer.no-items"="Не знайдено";
+
+/* Not delete because used in MWPhotoBrowser pod */
+"Done"="Готово";
+"of"="від";
+
+
+"place.not-defined-neares-branch-cell.text"="Ваше місцезнаходження не знайдено";
+"place.not-defined-neares-branch-cell.button"="Визначте";
+"paces.table-footer.my-places-empty"="Ви нещодавно зареєструвалися і ще не приєдналися до жодного місця :(";
+
+"global-search.cell.location"="Місцезнаходження";
+
+// feedback && poll
+"feedback.title"="Зворотній зв'язок";
+"feedback.comment.placeholder"="написати відгук, коментар";
+"feedback.rate.title"="тип зворотнього зв'язку";
+"feedback.rate.subtitle.format"="формат зворотнього зв'язку %@";
+
+"feedback-take-poll.title"="Спасибі за Ваш відгук!";
+"feedback-take-poll.subtitle.format"="%@ формат відгуків зворотнього зв'язку";
+"feedback-take-poll.poll-button"="прийом зворотнього опитування. Кнопка голосування";
+
+"poll.title"="титул опитування";
+
+
+// conversation
+"conversations-list.title"="Повідомлення";
+"conversations-list.background.title"="Немає жодних повідомлень";
+"conversations-list.background.subtitle"="Ви можете відкрити діалогове вікно на сторінці профілю компанії";
+
+"company.messages.alert.unlock-messages"="Розблокувати діалог";
+"company.messages.alert.lock-messages"="Заблокувати діалог";
+"message.forward-rate.title"="Відповідь на відгук";
+"conversation.message-input-toolbar.company-inactive"="На жаль, ця компанія тимчасово не активна";
+"conversation.message-input-toolbar.company-blocked-messages"="Вхідні повідомлення обмежуються компанією";
+"conversation.message-input-toolbar.user-blocked-messages"="Цей діалог заблоковано. Ви не можете надіслати повідомлення.";
+"conversation.message-input-toolbar.user-blocked-messages.button"="Розблокувати повідомлення";
+"messages.input-toolbar.placeholder"="Повідомлення...";
+
+
+// category picker
+"category-picker.general.title"="Категорія";
+
+
+// company filters
+"company-filters.cell.location"="Місто";
+"company-filters.cell.category"="Категорія";
+"company-filters.cell.halal"="Халал";
+"company-filters.cell.rating"="Найкращі місця";
+"company-filters.cell.discount"="Знижка";
+"company-filters.cell.cashback"="Cashback";
+"company-filters.title"="Фільтри";
+"company-filters.button.clear"="Скинути";
+"company-filters.rating-header"="рейтинг";
+"company-filters.bonus-program-header"="Бонусна програма";
+
+
+// search
+"company-search.title"="пошук";
+
+
+// pushes
+"push-notification.merge-scores.text"="Перегляньте історію платежів, здійснених за номером телефону, а також походження точок та реєстрацію в компанії";
+/* #################### PLIST */
+/* NSLocationWhenInUseUsageDescription */
+"NSCameraUsageDescription"="Сканування QR-коду";
+
+/* NSLocationWhenInUseUsageDescription */
+"NSLocationWhenInUseUsageDescription"="Потрібно знайти найближчі місця";
+
+/* NSPhotoLibraryUsageDescription */
+"NSPhotoLibraryUsageDescription"="Це потрібно для вибору зображення профілю";
+
+/* TGShortcutItemTypeDiscountTitle */
+"TGShortcutItemTypeDiscountTitle"="Знижка";
+
+/* TGShortcutItemTypePromoTitle */
+"TGShortcutItemTypePromoTitle"="Промо код";
+
+/* TGShortcutItemTypePlacesTitle */
+"TGShortcutItemTypePlacesTitle"="Місця";
+
+/* TGShortcutItemTypeOffersTitle */
+"TGShortcutItemTypeOffersTitle"="Пропозиції";

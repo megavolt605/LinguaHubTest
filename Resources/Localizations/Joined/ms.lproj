@@ -1,0 +1,751 @@
+/* #################### PROJECT */
+/* And string */
+"base.and"="Dan";
+/* are don't match string */
+"are don't match"="tidak sepadan";
+
+
+"qr-scan.message.camera-required"="Untuk membaca kod QR, UDS Game memerlukan akses kepada kamera anda";
+
+"history.table-footer.empty"="Sejarah operasi kosong";
+
+
+"price-menu.empty"="Senarai harga kosong";
+"price-menu.empty-cart"="Anda tidak mempunyai item dalam Troli";
+
+"pricelist.add-to-cart"="Ditambah ke troli";
+
+
+"base.price"="Harga";
+
+"rate.comment-filed.placeholder"="Komen anda";
+
+
+
+/* u.e. string */
+"u.e."="u.e.";
+
+
+"price-cart.title"="Troli";
+"price-cart.base-discount"="Diskaun asas";
+"price-cart.purchase"="Pembelian";
+
+
+
+"price-cart.total-sum"="jumlah";
+
+"base.total"="Jumlah";
+
+/* Purchase for cash string */
+"price-cart.alert.action.purchase-for-cash.format"="Pembelian untuk %@";
+
+/* Purchase for scores string */
+"Purchase for scores"="Beli dengan mata bonus";
+
+
+
+
+/* Insufficient scores string */
+"Insufficient scores"="Mata tidak mencukupi";
+
+/* Choose action string */
+"Choose action"="Pilih tindakan";
+
+/* Today from-to work time string */
+"Today from-to work time"="Hari ini dari %@ hingga %@";
+
+/* Game not availiable string */
+"Game not availiable"="Oops! Penyelenggaraan sedang dijalankan. Kami akan kembali tidak lama lagi!";
+
+/* Invite award scores string */
+"Invite award scores"="Ganjaran yang disyorkan ";
+
+/* History string */
+"History"="Sejarah";
+
+/* To join string */
+"To join"="Turut serta";
+
+/* In cart string */
+"In cart"="Dalam troli ";
+
+/* Name string */
+"Name"="Nama";
+
+/* Rate string */
+"Rate"="Kajian semula ";
+
+/* Rate service string */
+"Rate service"="Sila nilaikan perkhidmatan pelanggan";
+
+/* joining award scores string */
+"joining award scores"="mata selamat datang";
+
+/* referral reward scores string */
+"referral reward scores"="mata cadangan";
+
+/* Price for scores string */
+"Price for scores"="Harga dengan mata bonus";
+
+/* Permanent discount string */
+"Permanent discount"="Diskaun";
+
+/* Permanent discount 2 string */
+"Permanent discount 2"="diskaun";
+
+/* History new participant string */
+"New participant"="Peserta baru";
+
+/* You became VIP client at place string */
+"You became VIP client at place"="Anda mendapat status %@";
+
+/* Bill string */
+"Bill"="semak";
+
+/* Scores string */
+"Scores"="mata";
+
+/* Scores incoming string */
+"Scores incoming"="Mata akruan";
+
+/* Details string */
+"Details"="butiran";
+
+/* Pricelist order string */
+"Pricelist order"="Pembelian mengikut senarai harga";
+
+/* Coupon purchase string */
+"Coupon purchase"="Pembelian kupon";
+
+/* Item added to cart string */
+"Item added to cart"="Ditambah ke troli";
+
+/* User Agreement string */
+"user_agreement"="Perjanjian Pengguna";
+
+/* Privacy policy string */
+"privacy_policy"="Dasar privasi";
+
+/* About app string */
+"about"="Mengenai aplikasi";
+
+/* Name details string */
+"Name details"="nama ";
+
+/* KM unit string */
+"KM unit"="km";
+
+/* M unit string */
+"M unit"="m";
+"Mile unit"="mi";
+
+
+// Base
+"base.done"="Selesai";
+"base.apply"="memohon";
+"base.send"="Hantar";
+"base.next"="Seterusnya";
+"base.cancel"="Batal";
+"base.close"="Tutup";
+"base.continue"="Teruskan";
+"base.could-not-autodefine-location"="Lokasi anda tidak dapat dijumpai";
+"base.error"="ralat";
+"base.error.user-not-authorized"="Pengguna tidak dibenarkan";
+"base.information"="Maklumat";
+"base.navigate"="Pergi";
+"base.register"="Daftar";
+"base.required-field"="Bidang yang diperlukan";
+"base.settings"="Tetapan";
+"base.skip"="Langkau";
+"base.write"="Tinggalkan pesanan";
+"base.sign-in"="Kebenaran";
+"base.sign-up"="Pendaftaran Pengguna";
+"base.setup-phone"="Tetapkan telefon";
+"base.today"="Hari ini";
+"base.exit"="Keluar";
+"base.phone-call"="Panggilan";
+"base.scores.multiple"="mata";
+"base.password"="kata laluan";
+"base.password-confirmation"="pengesahan kata laluan";
+"base.not-defined"="Tidak ditentukan";
+"base.my-scores"="Mata bonus saya";
+"base.price-menu"="Harga / Menu";
+"base.update"="Kemas kini";
+"base.update-available"="Kemas kini tersedia";
+"base.discount"="Diskaun";
+"base.password-changed"="kata laluan anda telah ditukar";
+"base.agreement"="Perjanjian";
+"base.level"="Tahap";
+"base.female"="Perempuan";
+"base.gender"="Jantina";
+"base.male"="Lelaki";
+"base.congratulations"="Tahniah!";
+"base.you"="Anda";
+"base.yesterday"="Semalam";
+
+
+// error
+"error.request.cancelled"="Permintaan dibatalkan";
+"error.data-not-available"="Data tidak tersedia";
+"error.internal-server"="Kesilapan server dalaman ";
+"error.response.unrecognized"="tindakbalas server tidak diiktiraf";
+"error.unsupported-version"="Versi ini tidak disokong";
+"error.to-many-requests"="Terlalu banyak permintaan";
+
+
+"request.cancelled"="Permintaan dibatalkan";
+
+
+"user-location.near-me"="Berdekatan";
+
+
+// Application
+"application.notification.text.launch-app-after-change-language"="Klik untuk menetapkan semula";
+
+
+// walkthrougth
+"walkthrough.page.0.subtitle"="Menerima diskaun dan mata bonus di semua tempat yang menyertai UDS Game.";
+"walkthrough.page.0.title"="Diskaun dan bonus!";
+
+"walkthrough.page.1.subtitle"="Tawaran terbaik sesuai dengan keutamaan anda.";
+"walkthrough.page.1.title"="Promosi dan tawaran istimewa!";
+
+"walkthrough.page.2.subtitle"="Kongsi kod promo dengan rakan anda dan terima mata untuk setiap pembelian.";
+"walkthrough.page.2.title"="syorkan kepada rakan-rakan anda!";
+
+"walkthrough.skip"="Langkau";
+
+
+// welcome
+"welcome.button.auth"="Daftar Masuk";
+"welcome.button.continue-without-auth"="Langkau Pendaftaran Pengguna";
+"welcome.sign-in"="Log masuk";
+"welcome.sign-up"="Daftar sekarang";
+"welcome.social.title"="atau";
+"sign-up.agreements.format"="Dengan Pendaftaran dalam aplikasi anda bersetuju dengan perjanjian %1$@ dan %2$@";
+"sign-up.agreements.part.user-agreement"="Lesen perjanjian ";
+"sign-up.agreements.part.privacy-policy"="dasar polisi sulit";
+"welcome-options.label.title"="Masuk ke akaun anda dan dapatkan lebih banyak ciri unik dari UDS Game";
+
+"auth.facebook"="Facebook";
+"auth.vk"="VK";
+
+
+// phone
+"phone-auth.enter-phone.subtitle"="Masukkan nombor telefon anda";
+"phone-auth.enter-phone.button"="Hantar kod Pengesahan";
+"phone-auth.enter-code.title"="Pengesahan";
+"phone-auth.enter-code.subtitle.format"="Kami telah menghantar kod 6 angka kepada %@";
+"phone-auth.enter-code.button"="Teruskan";
+"phone-auth.enter-code.re-send-button"="Hantar kod baru";
+"phone-auth.error.incorrect-phone-number"="Nombor Telefon yang salah";
+"phone-auth.error.incorrect-confirmation-code"="kod salah";
+
+// sign in
+"sign-in-options.button.email"="Alamat emel";
+"sign-in-options.button.forgot"="lupa kata laluan?";
+"sign-in-options.button.phone"="Nombor telefon";
+"sign-in-options.subtitle"="daftar masuk dengan";
+"sign-in-options.title"="Kebenaran";
+
+"sign-in-with-email.password"="kata laluan";
+"sign-in-with-email.title"="daftar Masuk";
+"sign-in.enter-email.text-field.placeholder"="Alamat emel";
+
+"sign-in.forgot"="lupa kata laluan?";
+
+
+// sign up
+"sign-up-options.button.email"="Alamat emel";
+"sign-up-options.button.phone"="Nombor telefon";
+"sign-up-options.subtitle"="Sila pilih kaedah pendaftaran yang mudah";
+"sign-up-options.title"="Pendaftaran";
+
+"sign-up-with-email.step1.birthday-field.placeholder"="Tarikh lahir";
+"sign-up-with-email.step1.code-description"="Klik pada imej dan memperbaharui kod";
+"sign-up-with-email.step1.code-field.placeholder"="Kod dari imej";
+"sign-up-with-email.step1.email-field.placeholder"="Alamat emel";
+"sign-up-with-email.step1.gender-title"="Jantina";
+"sign-up-with-email.step1.password-field.placeholder"="kata laluan";
+"sign-up-with-email.step1.title"="Pendaftaran";
+
+"sign-up-with-email.step2.first-name-field.placeholder"="Nama pertama";
+"sign-up-with-email.step2.last-name-field.placeholder"="Nama keluarga";
+"sign-up-with-email.step2.title"="Daftar";
+
+"sign-up-with-phone.birthday-field.placeholder"="Tarikh lahir";
+"sign-up-with-phone.first-name-field.placeholder"="Nama pertama";
+"sign-up-with-phone.gender-title"="Jantina";
+"sign-up-with-phone.last-name-field.placeholder"="Nama terakhir";
+"sign-up-with-phone.title"="Daftar";
+
+"sign-up.gender.female"="Perempuan";
+"sign-up.gender.male"="Lelaki";
+
+
+// restore password
+"restore-password.step-email.title"="lupa kata laluan?";
+"restore-password.step-email.subtitle"="Masukkan alamat e-mel, yang digunakan semasa mendaftar";
+"restore-password.step-email.text-field.placeholder"="Alamat emel";
+
+"restore-password.step-code.title"="lupa kata laluan?";
+"restore-password.step-code.subtitle"="Masukkan kod yang dihantar ke alamat e-mel anda";
+"restore-password.step-code.text-field.placeholder"="Kod pengesahan";
+
+"restore-password.step-new-password.title"="Pulihkan kata laluan";
+"restore-password.confirm-password-field.placeholder"="sahkan";
+"restore-password.password-field.placeholder"="kata laluan";
+
+
+// phone
+"phone-already-registered.subtitle"="Sila klik pada butang untuk membuka aplikasi";
+"phone-already-registered.title"="Nombor telefon sudah didaftarkan";
+
+"phone-not-registered.title"="Nombor telefon tidak didaftarkan dalam aplikasi UDS Game";
+
+
+// account banned & blocked
+"account-banned.title"="Akses disekat kerana melanggar Perjanjian Pengguna. Untuk menjelaskan alasan blok merujuk kepada Sokongan Teknikal: support@udsgame.com";
+
+// device id
+"device-uuid-exceeded.device-id-title"="id peranti";
+"device-uuid-exceeded.subtitle"="Sila, log masuk menggunakan kaedah pengesahan lain atau hantarkan tangkapan skrin kesalahan kepada pasukan sokongan teknikal kami";
+"device-uuid-exceeded.title"="Peranti ini sudah didaftarkan dengan akaun yang berbeza";
+
+
+// city picker
+"city-picker.background.title"="Oops! Adakah anda tinggal di Marikh? Tolong bantu kami untuk mencari anda!";
+"city-picker.search.placeholder"="Bandar atau wilayah";
+"city-picker.title"="Lokasi anda";
+"city-picker.background.autodefine-button"="Cuba lagi";
+
+
+// tabs
+"tab.discount"="Diskaun";
+"tab.home"="Rumah";
+"tab.offers"="Tawaran";
+"tab.places"="Tempat";
+"tab.promo"="Kod promosi";
+
+
+// logout
+"logout.alert.title"="Ralat log keluar";
+"logout.alert.push-error"="Ralat berlaku. Mungkin, peranti anda akan menerima notifikasi push baru.";
+"logout.alert.try-again"="Sila cuba lagi";
+
+
+// categories
+"categories.all-categories"="Semua tempat";
+"categories.all-categories.description"="Tempat dalam semua kategori";
+
+"categories.favorite-places"="Tempat kegemaran";
+"categories.my-places"="Tempat saya";
+
+"categories.category.all-places"="Semua tempat";
+
+"category-preferences.my.title"="Pilihan saya";
+
+"category-preferences.setup.subtitle"="Tawaran istimewa berdasarkan pilihan ini akan ditunjukkan terlebih dahulu";
+"category-preferences.setup.title"="Pilih sehingga 3 kategori";
+
+"category-switch.button.switch"="Ganti";
+"category-switch.subtitle"="Sila ganti pilihan yang dipilih sebelum ini dan tambahkan yang baru";
+"category-switch.title"="Bilangan kategori yang dibenarkan - 3";
+
+
+// settings
+"settings.alert.change-instagram.title"="Ganti";
+"settings.alert.change-skype.title"="Ganti";
+"settings.alert.logout.title"="Adakah anda pasti?";
+
+"settings.app-info"="Maklumat";
+"settings.app-language"="bahasa";
+"settings.cell.metric-system"="Tetapan jarak";
+"settings.metric-system.miles"="Batu ";
+"settings.metric-system.meters"="Meter";
+"metric-system.title"="Tetapan jarak";
+"settings.cell.about-application"="Mengenai aplikasi";
+"settings.cell.confirm-password"="sahkan";
+"settings.cell.current-password"="Kata laluan semasa";
+"settings.cell.email"="Alamat emel";
+"settings.cell.email-password"="E-mel / Kata Laluan";
+"settings.cell.instagram"="Instagram";
+"settings.cell.logout"="Log keluar";
+"settings.cell.new-password"="Kata laluan baharu";
+"settings.cell.phone"="Nombor telefon";
+"settings.cell.skype"="Skype";
+"settings.cell.verify-phone"="Sahkan nombor telefon";
+"settings.cell.preferences"="Keutamaan";
+"settings.cell.birth-date"="Tarikh lahir";
+"settings.cell.last-name"="Nama terakhir";
+"settings.cell.user-location"="bandar";
+"settings.cell.user-auth.button"="daftar Masuk";
+"settings.cell.user-auth.title"="Log masuk ke akaun";
+"settings.cell.user-auth.subtitle"="Masuk ke akaun anda dan dapatkan lebih banyak ciri unik dari UDS Game";
+
+
+"settings.notifications.cell.company-news"="Berita";
+"settings.notifications.cell.company-offers"="Tawaran";
+"settings.notifications.cell.company-messages"="Mesej";
+"settings.notifications.cell.new-members"="Rakan yang dijemput";
+"settings.notifications.cell.scores-change"="mata";
+
+"settings.change-language.alert.title"="Tukar bahasa";
+"settings.change-language.alert.text"="\"%@\" akan digunakan selepas mula semula";
+
+"settings.languages"="Bahasa";
+"settings.languages.system"="Bahasa sistem";
+"settings.reset-to-system-language"="Tetapkan semula";
+
+"settings.section.authorization"="Kebenaran";
+"settings.section.notifications"="Pemberitahuan";
+"settings.section.social"="Rangkaian sosial";
+
+"settings.upload-image"="Foto anda";
+"settings.upload-image.open"="Buka";
+"settings.upload-image.camera"="Ambil gambar";
+"settings.upload-image.gallery"="Pilih dari galeri foto";
+"settings.upload-image.delete"="Padam";
+
+"settings.select-phone.message"="Untuk menukar nombor telefon anda, sila hubungi sokongan teknikal di support@udsgame.com";
+
+// place
+"place.joining-award.alert.title"="Mata yang disyorkan ";
+"place.joining-award.alert.message"="Anda akan diberi ganjaran dengan mata ganjaran apabila rakan anda yang dijemput secara peribadi membuat pembelian pertama";
+
+"places.tab.all"="Semua tempat";
+"places.tab.favorite"="Kegemaran ";
+"places.tab.my"="Tempat saya";
+
+"places.title"="Tempat";
+
+"my-places.title"="Tempat saya";
+"my-places.table-placeholder.title"="Tempat saya";
+"my-places.table-placeholder.subtitle"="Tempat yang anda lawati akan muncul di sini";
+
+"favorite-palces.title"="Tempat kegemaran";
+"favorite-places.table-placeholder.title"="Tempat kegemaran";
+"favorite-places.table-placeholder.subtitle"="Tambah tempat yang anda suka ke kegemaran";
+
+"company.tab.description"="Penerangan";
+"company.tab.news"="Berita";
+"company.tab.offers"="Tawaran";
+
+"company.bonus-program-description"="Penerangan program bonus";
+"company.bonus-program-cell.button"="Program bonus";
+"company.branches-cell.button.format"="Tunjukkan semua cawangan: %@";
+"company.bonus-program.title"="Program bonus";
+
+"company.news-cell.detail-button"="Tunjukkan butiran ...";
+
+"company.action.add-to-favorites"="Tambah ke kegemaran";
+"company.action.remove-from-favorites"="Alih keluar dari kegemaran";
+"company.action.offers-notifications.enabled"="Langgan tawaran";
+"company.action.offers-notifications.disabled"="Berhenti melanggan dari tawaran";
+"company.action.news-notifications.enabled"="Langgan berita";
+"company.action.news-notifications.disabled"="Berhenti langganan berita";
+
+"company.cell.nearest-branch"="Alamat terdekat ";
+"company.cell.description"="Tentang kami ";
+"company.cell.phone"="Nombor telefon";
+"company.cell.website"="Laman web";
+"company.cell.worktime"="waktu bekerja ";
+"company.cell.message"="Tulis mesej";
+"company.cell.branches"="Cawangan";
+
+"company.worktime.opens-after.format"="buka di %@";
+"company.worktime.remains-opens.format"="Kekal buka %@";
+"company.worktime.today-closed"="telah ditutup";
+"company.worktime.around-the-clock"="24 jam";
+
+"company.error.already-participant"="Anda telah menyertai syarikat ini";
+
+"company.message.become-participant"="Anda telah berjaya menyertai";
+"company.message.declined"="Maaf, Syarikat ini tidak aktif buat sementara waktu";
+
+"company.share-text.cashback.format"="Dapatkan %1$@cash back pembelian pada %2$@:\n1. Muat turun App Game UDS dari %3$@\n2.Masukkan %4$@di bahagian 'Kod Promo' dan dapatkan ganjaran dengan diskaun dan bonus!";
+"company.share-text.discount.format"="Dapatkan %1$@dengan sebarang pembelian di %2$@:\n1.Muat turun App Game UDS dari %3$@\n2.Masukkan %4$@di bahagian 'Kod Promo' dan dapatkan ganjaran dengan diskaun, bonus dan wang tunai kembali!";
+
+"company.become-participant.message"="Anda telah mendapat %1$@  mata ganjaran selamat datang ";
+
+"company.auth-alert.title"="Daftar dan dapatkan mata ganjaran dan bonus";
+"company.auth-alert.auth-action.title"="Daftar Masuk";
+
+
+// companies map
+"companies-map.all-companies.title"="Semua tempat";
+"companies-map.favorite-companies.title"="kegemaran ";
+"companies-map.my-companies.title"="Tempat saya";
+
+"company-add-to-favorite.button.add"="Tambah";
+"company-add-to-favorite.subtitle"="Tambah ke kegemaran";
+
+"company-branch.address"="Alamat";
+"company-branch.cell.phone"="Nombor telefon";
+"company-branch.cell.worktime"="Jam bekerja";
+
+"company-list-tutorial.bottom-view.button"="Teruskan";
+"company-list-tutorial.top-view.favorite"=" Tempat kegemaran";
+"company-list-tutorial.top-view.recommend"="Cadangan tempat";
+"company-list-tutorial.top-view.title"="Leret ke kiri dan capaian ciri";
+
+"company-list.section-header.up-to-3-km"="Dalam jarak 3 km";
+"company-list.section-header.up-to-5-km"="Dalam jarak 5 km";
+"company-list.section-header.up-to-10-km"="Dalam jarak 10 km";
+"company-list.section-header.up-to-20-km"="Dalam jarak 20 km";
+"company-list.section-header.up-to-30-km"="Dalam jarak 30 km";
+"company-list.section-header.greater-30-km"="Lebih 30km";
+
+"company-list.section-header.up-to-2-mile"="Dalam jarak 2 batu";
+"company-list.section-header.up-to-4-mile"="Dalam jarak 4 batu";
+"company-list.section-header.up-to-8-mile"="Dalam jarak 8 batu";
+"company-list.section-header.up-to-15-mile"="Dalam jarak 15 batu";
+"company-list.section-header.up-to-18-mile"="Dalam jarak 18 batu";
+"company-list.section-header.greater-18-mile"="Lebih 18 batu";
+
+
+// members structure
+"company.members-structure.level1"="tahap 1";
+"company.members-structure.level2"="tahap 2";
+"company.members-structure.level3"="tahap 3";
+"company.members-structure.no-members-placeholder"="Tiada rakan yang dijemput";
+"company.members-structure.recommend"="Mengesyorkan";
+
+"company.recommend"="Mengesyorkan";
+"company.recommend.title"="Mengesyorkan";
+"company.recommend.view.title"="Kongsi kod promo dengan rakan anda";
+"company.recommendations"="Cadangan";
+
+
+// dashboard
+"dashboard.recent-companies.title"="baru-baru ini anda melawat";
+"dashboard.search.placeholder"="Cari tempat";
+
+"dashboard.category-header.button"="Lihat";
+
+"global-search.placeholder"="carian";
+
+
+// offers
+"offer-trends-cell.button"="Pergi";
+"offer-trends-cell.subtitle"="Lihat tempat yang paling disukai";
+"offer-trends-cell.title"="Pilihan pengguna";
+
+"offer.title"="Tawaran";
+"offer.action.complaint"="buat aduan";
+"offer.expire-date"="Tawaran sah sehingga";
+"offer.quantity"="Baki / Semua";
+"offer.use"="Gunakan";
+
+"offers-filters.cell.location"="Lokasi";
+"offers-filters.title"="saringan ";
+
+"offers-recommended-for-you.title"="Untuk anda";
+
+"offers-trending.title"="Pilihan pengguna";
+
+"offers.recommend-header.button"="Pergi";
+"offers.recommended-header.title"="Khas untuk anda";
+
+"offers.title"="Tawaran";
+
+"offer.compaint.succes"="Aduan telah dihantar";
+
+
+// profile
+"profile.title"="profil";
+
+
+// qr code
+"qr-code.discount.title"="Diskaun";
+"qr-code.discount.subtitle"="Paparkan kod QR ini kepada juruwang atau beritahu nombor ini";
+"qr-code.discount.details"="Diskaun ini sah di semua tempat yang mengambil bahagian dalam aplikasi UDS Game";
+
+"qr-code.offer.title"="Tawaran";
+"qr-code.offer.subtitle"="Paparkan kod QR ini kepada juruwang atau beritahu nombor ini";
+
+"qr-code.storefront.title"="Pembayaran";
+"qr-code.storefront.subtitle"="Paparkan kod QR ini kepada juruwang atau beritahu nombor ini";
+
+"qr-code.input.input-view-title"="Masukkan kod promo atau imbaskannya";
+"qr-code.input.text-field-placeholder"="Kod promosi";
+"qr-code.input.title"="Kod promosi";
+
+"qr-code.recommend.card-subtitle"="atau masukkan secara manual";
+"qr-code.recommend.card-title"="Gunakan kod QR";
+
+
+// sample
+"sample.company1.annotation"="Kedai Kopi Roof - Kopi terbaik dari barista itali ";
+"sample.company1.name"="Roof ";
+
+"sample.company2.annotation"="Klinik kecantikan - pembedahan kosmetik.";
+"sample.company2.name"="Bestia";
+
+"sample.company3.annotation"="Pizzeria - pizza neapolitan asli";
+"sample.company3.name"="Bella Italiano";
+
+
+// timeline
+"timeline.type.purchase"="Pembelian";
+"timeline.type.scores-income"="Mata akruan";
+"timeline.type.all"="Semua sejarah";
+
+"timeline.order-by-offer"="Pembelian dibuat dengan tawaran promo";
+"timeline.scores-refunded"="Markah dikembalikan";
+"timeline.operation.comment"="komen ";
+
+"timeline.cell.birday-gift.title"="hadiah ";
+
+"timeline.pricelist-order-cell.purchase.format"="Belanjakan %1$@ mata ganjaran dan %2$@%3$@";
+
+
+// location service
+"location-service.request-timed-out"="sesi tamat ";
+"location-service.options-alert.title"="Lokasi anda tidak dapat dijumpai";
+"location-service.options-alert.action.manual-enter"="Masukkan secara manual";
+"location-service.options-alert.action.navigate-to-settings"="Pergi ke tetapan";
+
+"city.not-defined"="Tidak dijumpai ";
+
+// table
+"table.footer.pull-to-load-more"="Sila leret ke bawah untuk memuat lebih banyak";
+"companies-list-table.footer.no-items"="Tidak dijumpai ";
+"company-search-table.footer.no-items"="Tidak dijumpai ";
+"city-search-table.footer.no-items"="Tidak ditemui";
+"offers-table.footer.no-items"="Tidak ditemui";
+
+/* Not delete because used in MWPhotoBrowser pod */
+"Done"="Selesai";
+"of"="daripada";
+
+
+"place.not-defined-neares-branch-cell.text"="Lokasi anda tidak dapat dijumpai";
+"place.not-defined-neares-branch-cell.button"="Tentukan";
+"paces.table-footer.my-places-empty"="Anda baru mendaftar dan anda belum menyertai mana-mana tempat :(";
+
+"global-search.cell.location"="Lokasi";
+
+// feedback && poll
+"feedback.title"="Maklumbalas";
+"feedback.comment.placeholder"="Sila tinggalkan maklum balas anda (jika anda mahu)";
+"feedback.rate.title"="Terima kasih atas pembelian anda!";
+"feedback.rate.subtitle.format"="Sila  nilaikan kualiti perkhidmatan dalam %@";
+
+"feedback-take-poll.title"="Terima kasih atas maklum balas anda!";
+"feedback-take-poll.subtitle.format"="%@berusaha keras menjadi lebih baik untuk anda! Sila lengkapkan kaji selidik pendek";
+"feedback-take-poll.poll-button"="Mulakan tinjauan";
+
+"poll.title"="kaji selidik ";
+
+
+// conversation
+"conversations-list.title"="mesej ";
+"conversations-list.background.title"="tiada mesej lagi ";
+"conversations-list.background.subtitle"="Anda boleh membuka dialog pada halaman profil syarikat";
+
+"company.messages.alert.unlock-messages"="Buka Dialog";
+"company.messages.alert.lock-messages"="Dialog disekat ";
+"message.forward-rate.title"="Respons kepada maklum balas";
+"conversation.message-input-toolbar.company-inactive"="Maaf, Syarikat ini tidak aktif buat sementara waktu";
+"conversation.message-input-toolbar.company-blocked-messages"="Mesej masuk dihadkan oleh syarikat";
+"conversation.message-input-toolbar.user-blocked-messages"="Dialog ini telah disekat. Anda tidak boleh menghantar mesej.";
+"conversation.message-input-toolbar.user-blocked-messages.button"="Buka Mesej";
+"messages.input-toolbar.placeholder"="mesej ";
+
+
+// category picker
+"category-picker.general.title"="kategori";
+
+
+// company filters
+"company-filters.cell.location"="bandar";
+"company-filters.cell.category"="kategori";
+"company-filters.cell.halal"="halal";
+"company-filters.cell.rating"="Tempat terbaik";
+"company-filters.cell.discount"="diskaun ";
+"company-filters.cell.cashback"="pemulangan Tunai semula ";
+"company-filters.title"="Penyaringan";
+"company-filters.button.clear"="Tetapkan semula";
+"company-filters.rating-header"="penilaian ";
+"company-filters.bonus-program-header"="Bonus program ";
+
+
+// search
+"company-search.title"="carian";
+
+
+// pushes
+"push-notification.merge-scores.text"="Lihat sejarah pembayaran yang dibuat melalui nombor telefon serta asal mata, dan pendaftaran dalam syarikat";
+
+
+// auth
+"restore-password.title"="Pemulihan kata laluan";
+"restore-password.enter-email.title"="Arahan selanjutnya akan di hantar ke alamat e-mel anda";
+"restore-password.enter-email.text-field.placeholder"="E-mel";
+
+"restore-password.enter-code.text-field.placeholder"="Kod pengesahan";
+"restore-password.enter-code.title.format"="Sila masukkan kod yang anda terima dalam e-mel pengesahan %@";
+
+"restore-password.setup-password.title"="Ciptakan kata laluan baru";
+"restore-password.setup-password.text-field.placeholder"="Kata laluan";
+
+"auth.enter-sms-code.button.resend"="Hantar semula kod";
+"auth.button.no-account"="Saya tidak mempunyai akaun lagi";
+"auth.enter-sms-code.title.format"="Kami telah menghantar kod 6 angka kepada %@";
+"auth.enter-sms-code.label.resend.format"="Hantar semula: %@";
+"auth.button.sign-in"="Daftar Masuk";
+"auth.button.sign-up"="Daftar";
+"auth.button.restore-password"="Lupa kata laluan?";
+
+"sign-in.enter-password.text-field.placeholder"="Katalaluan ";
+"sign-in.enter-password.title.format"="Untuk meneruskan sila masukkan kata laluan anda untuk %@";
+
+"sign-in.title"="Log masuk ke akaun anda dan dapatkan lebih banyak ciri unik dari UDS Game";
+"sign-in.text-field.placeholder"="Telefon atau e-mel";
+"sign-in.button.sign-up"="Saya pengguna baru";
+"sign-in.label.social"="Masukkan dengan";
+
+"auth.button.already-have-account"="Saya mempunyai akaun UDS Game";
+
+"sign-up.enter-password.title"="Ciptakan kata laluan baru";
+"sign-up.enter-password.text-field.placeholder"="Katalaluan ";
+
+"sign-up.enter-captcha.label.captcha"="Klik pada imej untuk terima kod baru";
+"sign-up.enter-captcha.text-field.placeholder"="Masukkan kod";
+
+"sign-up.enter-user-info.title"="Beritahu sesuatu tentang diri anda";
+"sign-up.enter-user-info.text-field.first-name.placeholder"="Nama pertama";
+"sign-up.enter-user-info.text-field.last-name.placeholder"="Nama keluarga";
+"sign-up.enter-user-info.text-field.birthday.placeholder"="Tarikh lahir";
+"sign-up.enter-user-info.label.gender-title"="Nyatakan jantina anda";
+"sign-up.enter-user-info.label.male-gender"="Lelaki";
+"sign-up.enter-user-info.label.female-gender"="Perempuan";
+
+"sign-up.title"="Buat akaun untuk mengetahui semua ciri Aplikasi UDS Game!";
+"sign-up.text-field.placeholder"="Telefon atau e-mel";
+"sign-up.label.social"="Masukkan dengan";
+
+"verify-phone.title"="Pengesahan telefon";
+"verify-phone.text-field.placeholder"="Telefon";
+/* #################### PLIST */
+/* NSLocationWhenInUseUsageDescription */
+"NSCameraUsageDescription"="Imbas kod QR";
+
+/* NSLocationWhenInUseUsageDescription */
+"NSLocationWhenInUseUsageDescription"="Amat diperlukan dalam mencari tempat-tempat yang berdekatan ";
+
+/* NSPhotoLibraryUsageDescription */
+"NSPhotoLibraryUsageDescription"="Amat diperlukan dalam memilih gambar profil ";
+
+/* TGShortcutItemTypeDiscountTitle */
+"TGShortcutItemTypeDiscountTitle"="Diskaun";
+
+/* TGShortcutItemTypePromoTitle */
+"TGShortcutItemTypePromoTitle"="Kod promosi";
+
+/* TGShortcutItemTypePlacesTitle */
+"TGShortcutItemTypePlacesTitle"="Tempat";
+
+/* TGShortcutItemTypeOffersTitle */
+"TGShortcutItemTypeOffersTitle"="Tawaran";

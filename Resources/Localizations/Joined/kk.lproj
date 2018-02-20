@@ -1,0 +1,638 @@
+/* #################### PROJECT */
+/* And string */
+"base.and"="Және";
+/* are don't match string */
+"are don't match"="Сәйкес келмейді";
+
+
+"qr-scan.message.camera-required"="QR кодын оқу үшін, UDS Game сіздіңкамераға кіруге қажет";
+
+"history.table-footer.empty"="Операция тарихы бос";
+
+
+"price-menu.empty"="Бағалар тізімі бос";
+"price-menu.empty-cart"="Себеттегі элементтер жоқ";
+
+"pricelist.add-to-cart"="Себетке қосылды";
+
+
+"base.price"="Бағасы";
+
+"rate.comment-filed.placeholder"="Сіздің пікіріңіз";
+
+
+
+/* u.e. string */
+"u.e."="Валюта";
+
+
+"price-cart.title"="Себет";
+"price-cart.base-discount"="Базалық жеңілдік";
+"price-cart.purchase"="Сатып алу";
+
+
+
+"price-cart.total-sum"="Барлығы";
+
+"base.total"="Барлығы";
+
+/* Purchase for cash string */
+"price-cart.alert.action.purchase-for-cash.format"="%@үшін сатып алыңыз";
+
+/* Purchase for scores string */
+"Purchase for scores"="Бонустық ұпаймен сатып алу";
+
+/* Purchased with scores and cash string */
+"timeline.pricelist-order-cell.purchase.format"="%1$@ ұпай және %2$@ %3$@";
+
+/* Insufficient scores string */
+"Insufficient scores"="Ұпайлар жеткіліксіз";
+
+/* Choose action string */
+"Choose action"="Әрекетті таңдаңыз";
+
+/* Today from-to work time string */
+"Today from-to work time"="Бүгінгі күні  %@ден%@lдейін";
+
+/* Game not availiable string */
+"Game not availiable"="Ой! Жөндеу жұмыстары жалғасуда. Біз жақында ораламыз!";
+
+/* Invite award scores string */
+"Invite award scores"="Сыйақыға ұсыныс";
+
+/* History string */
+"History"="Тарих";
+
+/* To join string */
+"To join"="Кіру";
+
+/* In cart string */
+"In cart"="Себетте";
+
+/* Name string */
+"Name"="Атауы";
+
+/* Rate string */
+"Rate"="Шолу";
+
+/* Rate service string */
+"Rate service"="Өтініш, клиенттерге қызмет көрсетуді бағалаңыз";
+
+/* joining award scores string */
+"joining award scores"="Тіркелгені үшін сыйақы";
+
+/* referral reward scores string */
+"referral reward scores"="Ұсыныс ұпайлары";
+
+/* Price for scores string */
+"Price for scores"="Бонустық ұпаймен бағасы";
+
+/* Earned join scores string */
+"company.become-participant.message"="Сіз %1$@ құптау баллын таптыңыз";
+
+/* Permanent discount string */
+"Permanent discount"="Жеңілдік";
+
+/* Permanent discount 2 string */
+"Permanent discount 2"="Жеңілдік";
+
+/* History new participant string */
+"New participant"="Жаңа қатысушы";
+
+/* You became VIP client at place string */
+"You became VIP client at place"="Сіз %@мәртебесін аласыз";
+
+/* Bill string */
+"Bill"="Тексеріңіз";
+
+/* Scores string */
+"Scores"="Ұпайлар";
+
+/* Scores incoming string */
+"Scores incoming"="Баллдарды есептеу";
+
+/* Details string */
+"Details"="Егжей";
+
+/* Pricelist order string */
+"Pricelist order"="Бағалар тізімін сатып алу";
+
+/* Coupon purchase string */
+"Coupon purchase"="Купонды сатып алу";
+
+/* Item added to cart string */
+"Item added to cart"="Себетке қосылды";
+
+/* User Agreement string */
+"user_agreement"="Пайдаланушы келісімі";
+
+/* Privacy policy string */
+"privacy_policy"="Құпиялылық саясаты";
+
+/* About app string */
+"about"="Бағдарлама туралы";
+
+/* Name details string */
+"Name details"="Атауы";
+
+/* KM unit string */
+"KM unit"="Км";
+
+/* M unit string */
+"M unit"="М";
+
+
+
+// Base
+"base.apply"="Қолданыңыз";
+"base.send"="Жіберу";
+"base.next"="Келесі";
+"base.cancel"="Жою";
+"base.close"="Жабық";
+"base.continue"="Жалғастыру";
+"base.could-not-autodefine-location"="Сіздің орналасқан жеріңіз табылмады";
+"base.error"="Қате";
+"base.error.user-not-authorized"="Пайдаланушы рұқсат етілмеген";
+"base.information"="Ақпарат";
+"base.navigate"="Барыңыз";
+"base.register"="Тіркелу";
+"base.required-field"="Міндетті өріс";
+"base.settings"="Параметрлер";
+"base.skip"="Өткізіңіз";
+"base.write"="Хабарлама қалдыру";
+"base.sign-in"="Authorization";
+"base.sign-up"="User Registration";
+"base.setup-phone"="Set phone";
+"base.today"="Бүгін";
+"base.exit"="Шығу";
+"base.phone-call"="Қоңырау шалу";
+"base.scores.multiple"="Ұпайлар";
+"base.password"="Құпия сөз";
+"base.password-confirmation"="Құпия сөзді растау";
+"base.not-defined"="анықталмады";
+"base.my-scores"="Менің бонус ұпайларым";
+"base.price-menu"="Бағасы / Мәзір";
+"base.update"="Жаңарту";
+"base.update-available"="Жаңартулар қол жетімді";
+"base.discount"="Жеңілдік";
+"base.password-changed"="Құпия сөзіңіз өзгертілді";
+"base.agreement"="Келісім";
+"base.level"="Деңгейі";
+"base.female"="Әйел";
+"base.gender"="Жыныс";
+"base.male"="Еркек";
+"base.congratulations"="Құттықтаймыз!";
+"base.you"="Сіз";
+"base.yesterday"="Кеше";
+
+
+// error
+"error.request.cancelled"="Сұраным жойылды";
+"error.data-not-available"="Деректер қол жетімді емес";
+"error.internal-server"="Ішкі қате";
+"error.response.unrecognized"="Танылмаған сервер жауап";
+"error.unsupported-version"="Бұл нұсқаға қолдау көрсетілмейді";
+"error.to-many-requests"="Тым көп сұраулар";
+
+
+"request.cancelled"="Сұрау жойылды";
+
+
+"user-location.near-me"="Жақын";
+
+
+// Application
+"application.notification.text.launch-app-after-change-language"="Бастау үшін нұқыңыз";
+
+
+// walkthrougth
+"walkthrough.page.0.subtitle"="UDS Game-ге қатысатын барлық жерлерде жеңілдіктер және бонустық ұпайлар алу.";
+"walkthrough.page.0.title"="Жеңілдіктер мен бонустар!";
+
+"walkthrough.page.1.subtitle"="Өз қалауыңыз бойынша ең жақсы ұсыныстар.";
+"walkthrough.page.1.title"="Акциялар мен арнайы ұсыныстар!";
+
+"walkthrough.page.2.subtitle"="Достарыңызбен промо-кодтарды бөлісіңіз және әрбір сатып алу үшін ұпайларды алыңыз.";
+"walkthrough.page.2.title"="Достарыңызға ұсыныңыз!";
+
+"walkthrough.skip"="Өткізіңіз";
+
+
+// welcome
+"welcome.sign-in"="Логин";
+"welcome.sign-up"="Қазір тіркеліңіз";
+"welcome.social.title"="Немесе";
+"sign-up.agreements.format"="Қолданбаға тіркелу сіз %1$@ %2$@ келісесіз.";
+"sign-up.agreements.part.user-agreement"="Licences келісімшартымен және";
+"sign-up.agreements.part.privacy-policy"="Confidential құпиялылық саясатымен";
+
+
+
+"auth.facebook"="Facebook";
+"auth.vk"="В.К.";
+
+
+// phone
+"phone-auth.enter-phone.subtitle"="Enter your phone number";
+"phone-auth.enter-phone.button"="Send a Verification code";
+"phone-auth.enter-code.title"="Verification";
+"phone-auth.enter-code.subtitle.format"="We have sent a 6-digit code to %@";
+"phone-auth.enter-code.button"="Continue";
+"phone-auth.enter-code.re-send-button"="Send a new code";
+"phone-auth.error.incorrect-phone-number"="Incorrect Phone Number";
+"phone-auth.error.incorrect-confirmation-code"="Incorrect code";
+
+// sign in
+"sign-in-options.button.email"="Электрондық пошта";
+"sign-in-options.button.forgot"="Құпия сөзді ұмыттыңыз ба?";
+"sign-in-options.button.phone"="Телефон нөмірі";
+"sign-in-options.subtitle"="Жүйеге кіріңіз";
+"sign-in-options.title"="Авторизация";
+
+"sign-in-with-email.password"="Құпия сөз";
+"sign-in-with-email.title"="Кіру";
+"sign-in.enter-email.text-field.placeholder"="электрондық пошта";
+
+"sign-in.forgot"="Құпия сөзді ұмыттыңыз ба?";
+
+
+// sign up
+"sign-up-options.button.email"="электрондық пошта";
+"sign-up-options.button.phone"="Телефон нөмірі";
+"sign-up-options.subtitle"="Сізге ыңғайлы тіркеу әдісін таңдап алыңыз";
+"sign-up-options.title"="Тіркеу";
+
+"sign-up-with-email.step1.birthday-field.placeholder"="Туған жылы";
+"sign-up-with-email.step1.code-description"="Кескінді басып, кодты жаңартыңыз";
+"sign-up-with-email.step1.code-field.placeholder"="Кескіннің коды";
+"sign-up-with-email.step1.email-field.placeholder"="электрондық пошта";
+"sign-up-with-email.step1.gender-title"="жынысы";
+"sign-up-with-email.step1.password-field.placeholder"="Құпия сөз";
+"sign-up-with-email.step1.title"="тіркеу";
+
+"sign-up-with-email.step2.first-name-field.placeholder"="Аты";
+"sign-up-with-email.step2.last-name-field.placeholder"="Тегі";
+"sign-up-with-email.step2.title"="Тіркелу";
+
+"sign-up-with-phone.birthday-field.placeholder"="Туған жылы";
+"sign-up-with-phone.first-name-field.placeholder"="Аты";
+"sign-up-with-phone.gender-title"="Жынысы";
+"sign-up-with-phone.last-name-field.placeholder"="Тегі";
+"sign-up-with-phone.title"="Тіркелу";
+
+"sign-up.gender.female"="Әйел";
+"sign-up.gender.male"="Еркек";
+
+
+// restore password
+"restore-password.step-email.title"="Құпия сөзді ұмыттыңыз ба?";
+"restore-password.step-email.subtitle"="Тіркелген кезде пайдаланған электрондық пошта мекенжайын енгізіңіз";
+"restore-password.step-email.text-field.placeholder"="Электрондық пошта";
+
+"restore-password.step-code.title"="Құпия сөзді ұмыттыңыз ба?";
+"restore-password.step-code.subtitle"="Электрондық поштаңызға жіберілген кодты енгізіңіз";
+"restore-password.step-code.text-field.placeholder"="Растау коды";
+
+"restore-password.step-new-password.title"="Құпия сөзді қалпына келтіріңіз";
+"restore-password.confirm-password-field.placeholder"="Растау";
+"restore-password.password-field.placeholder"="Құпия сөз";
+
+
+// phone
+"phone-already-registered.subtitle"="Қолданбаны ашу үшін батырманы басыңыз";
+"phone-already-registered.title"="Көрсетілген телефон нөмірі тіркелген";
+
+"phone-not-registered.title"="Телефон нөмірі UDS Game қосымшасында тіркелмеген";
+
+
+// account banned & blocked
+"account-banned.title"="Пайдаланушы келісімін бұзғаны үшін кіруге тыйым салынған. Блоктың себебін анықтау үшін Техникалық қолдау бөліміне хабарласыңыз: support@udsgame.com.";
+
+// device id
+"device-uuid-exceeded.device-id-title"="Құрылғы идентификаторы";
+"device-uuid-exceeded.subtitle"="Өтініш, басқа авторизация әдістерін пайдаланып жүйеге кіруді қайталап көріңіз немесе қате скриншоты біздің техникалық қолдау қызметіне жіберіңіз";
+"device-uuid-exceeded.title"="Бұл құрылғы басқа тіркелгіде бұрыннан тіркелген";
+
+
+// city picker
+"city-picker.background.title"="Ой! Сіз Марста тұрасыз ба? Өтінеміз, бізге сізді табуға көмектесіңіз!";
+"city-picker.search.placeholder"="Қала немесе аймақ";
+"city-picker.title"="Сіздің орналасқан жеріңіз";
+"city-picker.background.autodefine-button"="Қайтадан байқап көріңіз";
+
+
+// tabs
+"tab.discount"="Жеңілдік";
+"tab.home"="Ең басты";
+"tab.offers"="Ұсыныстар";
+"tab.places"="Орындар";
+"tab.promo"="Промо код";
+
+
+// logout
+"logout.alert.title"="Шығу қатесі";
+"logout.alert.push-error"="Қате пайда болды. Мүмкін, сіздің құрылғыңыз жаңа push-хабарландыруларын алады.";
+"logout.alert.try-again"="Әрекетті қайталап көріңіз";
+
+
+// categories
+"categories.all-categories"="Барлық орындар";
+"categories.all-categories.description"="Барлық санаттардағы орындар";
+
+"categories.favorite-places"=" Сүйікті орындар";
+"categories.my-places"="Менің орындарым";
+
+"categories.category.all-places"="Барлық орындар";
+
+"category-preferences.my.title"="Менің қалауым";
+
+"category-preferences.setup.subtitle"="Алдымен осы артықшылықтарға негізделген арнайы ұсыныстар көрсетіледі";
+"category-preferences.setup.title"="3 санатқа дейін таңдаңыз";
+
+"category-switch.button.switch"="Ауыстыру";
+"category-switch.subtitle"="Бұрын таңдалған параметрлерді ауыстырып, жаңаларын қосыңыз";
+"category-switch.title"="Рұқсат етілген санаттар саны - 3";
+
+
+// settings
+"settings.alert.change-instagram.title"="Ауыстыру";
+"settings.alert.change-skype.title"="Ауыстыру";
+"settings.alert.logout.title"="Сіз сенімдісіз бе?";
+
+"settings.app-info"="Ақпарат";
+"settings.app-language"="Тіл";
+
+"settings.cell.about-application"="Қолданба туралы";
+"settings.cell.confirm-password"="Растау";
+"settings.cell.current-password"="Ағымдағы Құпия сөз";
+"settings.cell.email"="Электрондық пошта";
+"settings.cell.email-password"="Электрондық пошта / пароль";
+"settings.cell.instagram"="Instagram";
+"settings.cell.logout"="шығу";
+"settings.cell.new-password"="Жаңа құпия Сөз";
+"settings.cell.phone"="Телефон нөмірі";
+"settings.cell.skype"="Скайп";
+"settings.cell.verify-phone"="Телефон нөмірін тексеріңіз";
+"settings.cell.preferences"="Теңшелімдер";
+"settings.cell.birth-date"="Туған жылы";
+"settings.cell.last-name"="Тегі";
+
+"settings.notifications.cell.company-news"="News";
+"settings.notifications.cell.company-offers"="Offers";
+"settings.notifications.cell.company-messages"="Хабарламалар";
+"settings.notifications.cell.new-members"="Шақырылған достар";
+"settings.notifications.cell.scores-change"="Ұпайлар";
+
+"settings.change-language.alert.title"="Тілді өзгерту";
+"settings.change-language.alert.text"="«%@» қайта іске қосылғаннан кейін қолданылады";
+
+"settings.languages"="Тілдер";
+"settings.languages.system"="Жүйелік тіл";
+"settings.reset-to-system-language"="Қалпына келтіру";
+
+"settings.section.authorization"="Авторизация";
+"settings.section.notifications"="Хабарламалар";
+"settings.section.social"="Әлеуметтік желілер";
+
+"settings.upload-image"="Сіздіің суретіңіз";
+"settings.upload-image.open"="Ашық";
+"settings.upload-image.camera"="Суретке түсіру";
+"settings.upload-image.gallery"="Фотогалереядан таңдаңыз";
+"settings.upload-image.delete"="жою";
+
+"settings.select-phone.message"="Телефон нөмірін өзгерту үшін support@udsgame.com торабындағы техникалық қолдау қызметіне хабарласыңыз";
+
+
+// place
+"place.joining-award.alert.title"="Ұсыныс үшін ұпайлар";
+"place.joining-award.alert.message"="Жеке ұсынылған досыңыз бірінші сатып алғаннан кейін ұсыныс ұпайларымен марапатталады";
+
+"places.tab.all"="Барлық орындар";
+"places.tab.favorite"="Таңдаулы нәрсе";
+"places.tab.my"="Менің орындарым";
+
+"places.title"="Орындар";
+
+"my-places.title"="Менің орындарым";
+"my-places.table-placeholder.title"="Менің орындарым";
+"my-places.table-placeholder.subtitle"="Сіз кірген орындар осында пайда болады";
+
+"favorite-palces.title"=" Сүйікті орындар";
+"favorite-places.table-placeholder.title"=" Сүйікті орындар";
+"favorite-places.table-placeholder.subtitle"="Өзіңізге ұнаған жерлерді таңдаулыларға қосыңыз";
+
+"company.tab.description"="Сипаттама";
+"company.tab.news"="News";
+"company.tab.offers"="Ұсыныстар";
+
+"company.bonus-program-description"="Бонустық бағдарламаның сипаттамасы";
+"company.bonus-program-cell.button"="Bonus program";
+"company.branches-cell.button.format"="Show all branches: %@";
+"company.bonus-program.title"="Bonus program";
+
+"company.news-cell.detail-button"="Show details...";
+
+"company.action.add-to-favorites"="Таңдаулыларға қосу";
+"company.action.remove-from-favorites"="Таңдаулылардан жою";
+"company.action.offers-notifications.enabled"="Subscribe to offers";
+"company.action.offers-notifications.disabled"="Unsubscribe from offers";
+"company.action.news-notifications.enabled"="Subscribe to news";
+"company.action.news-notifications.disabled"="Unsubscribe from news";
+
+"company.cell.nearest-branch"="Ең жақын мекен";
+"company.cell.description"="Біз туралы";
+"company.cell.phone"="Телефон нөмірі";
+"company.cell.website"="Веб-сайт";
+"company.cell.worktime"="Жұмыс сағаттары";
+"company.cell.message"="Хабар жазу";
+
+"company.worktime.opens-after.format"="%@бөлімінде ашылады";
+"company.worktime.remains-opens.format"="%@ашылды";
+"company.worktime.today-closed"="Жабық";
+"company.worktime.around-the-clock"="24 сағат";
+
+"company.error.already-participant"="Сіз компанияға қосылдыңыз";
+
+"company.message.become-participant"="Сіз сәтті қосылдыңыз";
+
+
+// companies map
+"companies-map.all-companies.title"="Барлық орындар";
+"companies-map.favorite-companies.title"="Таңдаулы нәрсе";
+"companies-map.my-companies.title"="Менің орындарым";
+
+"company-add-to-favorite.button.add"="Қосу";
+"company-add-to-favorite.subtitle"="Таңдаулыларға қосу";
+
+"company-branch.address"="Мекен-жайы";
+"company-branch.cell.phone"="Телефон нөмірі";
+"company-branch.cell.worktime"="Жұмыс сағаттары";
+
+"company-list-tutorial.bottom-view.button"="Жалғастыру";
+"company-list-tutorial.top-view.favorite"=" Сүйікті орындар";
+"company-list-tutorial.top-view.recommend"="Орын ұсыныстары";
+"company-list-tutorial.top-view.title"="Солға айналдырыңыз және ерекшелік қолжетімді";
+
+
+// members structure
+"company.members-structure.level1"="1 деңгей";
+"company.members-structure.level2"="2-деңгей";
+"company.members-structure.level3"="3 деңгей";
+"company.members-structure.no-members-placeholder"="Шақырылған достар жоқ";
+"company.members-structure.recommend"="Ұсыну";
+
+"company.recommend"="Ұсыну";
+"company.recommend.title"="Ұсыну";
+"company.recommend.view.title"="Достарыңызбен промо-кодты бөлісіңіз";
+"company.recommendations"="Ұсынымдар";
+
+
+// dashboard
+"dashboard.recent-companies.title"="Жақында көрдіңіз";
+"dashboard.search.placeholder"="Орындарды іздеу";
+
+"dashboard.category-header.button"="Көрініс";
+
+"global-search.placeholder"="Іздеу";
+
+
+// offers
+"offer-trends-cell.button"="Барыңыз";
+"offer-trends-cell.subtitle"="Ең көрікті орындарды қараңыз";
+"offer-trends-cell.title"="Пайдаланушылардың таңдауы";
+
+"offer.action.complaint"="Шағым жасаңыз";
+"offer.expire-date"="Ұсыныс дейін жарамды";
+"offer.quantity"="Қалған / Барлығы";
+"offer.use"="Пайдаланыңыз";
+
+"offers-filters.cell.location"="Орналасуы";
+"offers-filters.title"="Сүзгі";
+
+"offers-recommended-for-you.title"="Сен үшін";
+
+"offers-trending.title"="Пайдаланушылардың таңдауы";
+
+"offers.recommend-header.button"="Барыңыз";
+"offers.recommended-header.title"="Арнайы сіз үшін";
+
+"offers.title"="Ұсыныстар";
+
+"offer.compaint.succes"="Шағым жіберілді";
+
+
+// profile
+"profile.title"="Профиль";
+
+
+// qr code
+"qr-code.discount.title"="Discount";
+"qr-code.discount.subtitle"="Show this QR code to cashier or tell this numbers";
+"qr-code.discount.details"="This discount is valid at all places participating in UDS Game app";
+
+"qr-code.offer.title"="Offer";
+"qr-code.offer.subtitle"="Show this QR code to cashier or tell this numbers";
+
+"qr-code.storefront.title"="Payment";
+"qr-code.storefront.subtitle"="Show this QR code to cashier or tell this numbers";
+
+"qr-code.input.input-view-title"="Промо-кодты енгізіңіз немесе сканерлеңіз";
+"qr-code.input.text-field-placeholder"="Промо код";
+"qr-code.input.title"="Промо код";
+
+"qr-code.recommend.card-subtitle"="Немесе оны қолмен енгізіңіз";
+"qr-code.recommend.card-title"="QR кодын пайдаланыңыз";
+
+
+// sample
+"sample.company1.annotation"="Шатыр кофеханасы - итальяндық баристадан ең жақсы кофе.";
+"sample.company1.name"="Шатыр";
+
+"sample.company2.annotation"="Сұлулық клиникасы - косметикалық хирургия.";
+"sample.company2.name"="Бестия";
+
+"sample.company3.annotation"="Пиццерия - нағыз неаполитан пиццасы";
+"sample.company3.name"="Bella Italiano";
+
+
+// timeline
+"timeline.type.purchase"="Сатып алу";
+"timeline.type.scores-income"="Баллдарды есептеу";
+"timeline.type.all"="Барлық тарих";
+
+"timeline.order-by-offer"="Науқандық ұсыныстармен сатып алу";
+"timeline.scores-refunded"="Scores refunded";
+"timeline.operation.comment"="Comment";
+
+
+// location service
+"location-service.request-timed-out"="Сеанстың күту уақыты";
+"location-service.options-alert.title"="Сіздің орналасқан жеріңіз табылмады";
+"location-service.options-alert.action.manual-enter"="Қолмен енгізіңіз";
+"location-service.options-alert.action.navigate-to-settings"="Параметрлер бөліміне өтіңіз";
+
+"city.not-defined"="Табылмады";
+
+// table
+"table.footer.pull-to-load-more"="Көбірек жүктеу үшін төмен қарай жанап өтіңіз";
+"company-search-table.footer.no-items"="Табылмады";
+"city-search-table.footer.no-items"="Табылмады";
+
+/* Not delete because used in MWPhotoBrowser pod */
+"Done"="Аяқтау";
+"of"="Оның ішінде";
+
+
+"place.not-defined-neares-branch-cell.text"="Сіздің орналасқан жеріңіз табылмады";
+"place.not-defined-neares-branch-cell.button"="Анықтаңыз";
+"paces.table-footer.my-places-empty"="Сіз жақында тіркелгенсіз және ешбір жерге қосылмадыңыз :(";
+
+"global-search.cell.location"="Орналасуы";
+
+// feedback && poll
+"feedback.title"="Дәрежесі";
+"feedback.comment.placeholder"="Пікіріңізді қалдырыңыз (қаласаңыз)";
+"feedback.rate.title"="Сатып алғаныңыз үшін рақмет!";
+"feedback.rate.subtitle.format"="Қызмет көрсету сапасын %@бағалаңыз";
+
+"feedback-take-poll.title"="Сіздің рейтингіңізге рахмет!";
+"feedback-take-poll.subtitle.format"="%@сіз үшін жақсы болуға тырысады! Қысқаша сауалнаманы толтырыңыз";
+"feedback-take-poll.poll-button"="Сауалнаманы бастаңыз";
+
+"poll.title"="Сауалнама";
+
+
+// conversation
+"conversations-list.title"="Хабарламалар";
+"conversations-list.background.title"="Хабар әлі жоқ";
+"conversations-list.background.subtitle"="Компания профилі бетіндегі диалогты ашуға болады";
+
+"company.messages.alert.unlock-messages"="Диалогты бұғаттан босату";
+"company.messages.alert.lock-messages"="Блокты диалог";
+"message.forward-rate.title"="Кері байланысқа жауап";
+"conversation.message-input-toolbar.company-inactive"="Кешіріңіз, бұл компания уақытша белсенді емес";
+"conversation.message-input-toolbar.company-blocked-messages"="Кіріс хабарламалары компаниямен шектеледі";
+"conversation.message-input-toolbar.user-blocked-messages"="Бұл диалог бұғатталған. Хабарлама жібере алмайсыз.";
+"conversation.message-input-toolbar.user-blocked-messages.button"="Хабарларды бұғаттан босату";
+"messages.input-toolbar.placeholder"="Хабарлама ...";
+/* #################### PLIST */
+/* NSLocationWhenInUseUsageDescription */
+"NSCameraUsageDescription"="QR кодын сканерлеу";
+
+/* NSLocationWhenInUseUsageDescription */
+"NSLocationWhenInUseUsageDescription"="It’s required to find nearby places";
+
+/* NSPhotoLibraryUsageDescription */
+"NSPhotoLibraryUsageDescription"="It’s required for choosing a profile picture";
+
+/* TGShortcutItemTypeDiscountTitle */
+"TGShortcutItemTypeDiscountTitle"="Жеңілдік";
+
+/* TGShortcutItemTypePromoTitle */
+"TGShortcutItemTypePromoTitle"="Промо код";
+
+/* TGShortcutItemTypePlacesTitle */
+"TGShortcutItemTypePlacesTitle"="Орындар";
+
+/* TGShortcutItemTypeOffersTitle */
+"TGShortcutItemTypeOffersTitle"="Ұсыныстар";

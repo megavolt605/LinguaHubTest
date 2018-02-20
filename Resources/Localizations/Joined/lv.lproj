@@ -1,0 +1,627 @@
+/* #################### PROJECT */
+/* And string */
+"base.and"="Un";
+/* are don't match string */
+"are don't match"="nesakrīt";
+
+
+"qr-scan.message.camera-required"="Nepieciešama piekļuve kamerai. Jūs varat atļaut izmantot kameru veicot izmaiņas iestatījumos";
+
+"history.table-footer.empty"="Operāciju vēsture ir tukša";
+
+
+"price-menu.empty"="Cenrādis ir tukšs";
+"price-menu.empty-cart"="Grozs ir tukšs";
+
+"pricelist.add-to-cart"="Pievienot grozam";
+
+
+"base.price"="Cena";
+
+"rate.comment-filed.placeholder"="Jūsu komentārs";
+
+
+
+/* u.e. string */
+"u.e."="Skaidrā nauda";
+
+
+"price-cart.title"="Grozs";
+"price-cart.base-discount"="Pamata atlaide";
+"price-cart.purchase"="Samaksāt";
+
+
+
+"price-cart.total-sum"="Kopā";
+
+"base.total"="Kopā";
+
+/* Purchase for cash string */
+"price-cart.alert.action.purchase-for-cash.format"="Pirkums ar %@";
+
+/* Purchase for scores string */
+"Purchase for scores"="Pirkums ar punktiem";
+
+/* Purchased with scores and cash string */
+"timeline.pricelist-order-cell.purchase.format"="Iztērēti %1$@ punkti un %2$@ %3$@";
+
+/* Insufficient scores string */
+"Insufficient scores"="Nepietiek punktu";
+
+/* Choose action string */
+"Choose action"="Izvēlēties darbību";
+
+/* Today from-to work time string */
+"Today from-to work time"="Šodien no%@ līdz %@";
+
+/* Game not availiable string */
+"Game not availiable"="Ops! Notiek tehniskie darbi. Pavisam drīz mēs būsim kopā ar Jums!";
+
+/* Invite award scores string */
+"Invite award scores"="Punkti par uzaicinājumu";
+
+/* History string */
+"History"="Vēsture";
+
+/* To join string */
+"To join"="Piebiedroties";
+
+/* In cart string */
+"In cart"="Grozā";
+
+/* Name string */
+"Name"="Vārds";
+
+/* Rate string */
+"Rate"="Atsauksme";
+
+/* Rate service string */
+"Rate service"="Lūdzu, novērtējiet apkalpošanu";
+
+/* joining award scores string */
+"joining award scores"="Punkti par iestāšanos";
+
+/* referral reward scores string */
+"referral reward scores"="Punkti par uzaicinājumu";
+
+/* Price for scores string */
+"Price for scores"="Cena ar punktiem";
+
+/* Permanent discount string */
+"Permanent discount"="Atlaide";
+
+/* Permanent discount 2 string */
+"Permanent discount 2"="Atlaide";
+
+/* History new participant string */
+"New participant"="Jauns dalībnieks";
+
+/* You became VIP client at place string */
+"You became VIP client at place"="Jums ir piešķirts %@ statuss";
+
+/* Bill string */
+"Bill"="Rēķins";
+
+/* Scores string */
+"Scores"="Punkti";
+
+/* Scores incoming string */
+"Scores incoming"="Punktu ieskaitīšana";
+
+/* Details string */
+"Details"="Sīkāka informācija";
+
+/* Pricelist order string */
+"Pricelist order"="Pirkums pēc cenrāža";
+
+/* Coupon purchase string */
+"Coupon purchase"="Kupona iegāde";
+
+/* Item added to cart string */
+"Item added to cart"="Prece ir pievienota grozam";
+
+/* User Agreement string */
+"user_agreement"="Lietotāja vienošanās";
+
+/* Privacy policy string */
+"privacy_policy"="Privātuma politika";
+
+/* About app string */
+"about"="Par";
+
+/* Name details string */
+"Name details"="Nosaukums";
+
+/* KM unit string */
+"KM unit"="km";
+
+/* M unit string */
+"M unit"="m";
+
+
+
+// Base
+"base.apply"="Piemērot";
+"base.send"="Nosūtīt";
+"base.next"="Talāk";
+"base.cancel"="Atcelt";
+"base.close"="Aizvērt";
+"base.continue"="Turpināt";
+"base.could-not-autodefine-location"="Nav iespējams noteikt jūsu atrašanās vietu";
+"base.error"="Kļūda";
+"base.error.user-not-authorized"="Lietotājs nav autorizēts";
+"base.information"="Informācija";
+"base.navigate"="Pāriet";
+"base.register"="Reģistrēties";
+"base.required-field"="Obligāts lauks";
+"base.settings"="Iestatījumi";
+"base.skip"="Izlaist";
+"base.write"="Atstāj ziņu";
+"base.sign-in"="Authorization";
+"base.sign-up"="User Registration";
+"base.setup-phone"="Set phone";
+"base.today"="Šodien";
+"base.exit"="Iziet";
+"base.phone-call"="Piezvanīt";
+"base.scores.multiple"="punktu";
+"base.password"="Parole";
+"base.password-confirmation"="Paroles apstiprināšana";
+"base.not-defined"="Nav noteikts";
+"base.my-scores"="Mani punkti";
+"base.price-menu"="Cenrādis / Ēdienkarte";
+"base.update"="Atjaunināt";
+"base.update-available"="Ir pieejami atjauninājumi ";
+"base.discount"="Atlaide";
+"base.password-changed"="Parole ir veiksmīgi nomainīta";
+"base.agreement"="Vienošanās";
+"base.level"="Līmenis";
+"base.female"="Sieviešu";
+"base.gender"="Dzimums";
+"base.male"="Vīriešu";
+"base.congratulations"="Apsveicam!";
+"base.you"="Jūs";
+"base.yesterday"="Vakar";
+
+
+// error
+"error.request.cancelled"="Pieprasījums ir atcelts";
+"error.data-not-available"="Dati nav pieejami";
+"error.internal-server"="Iekšējā servera kļūda";
+"error.response.unrecognized"="Neatpazīta servera atbilde";
+"error.unsupported-version"="Šī versija vairs netiek atbalstīta";
+"error.to-many-requests"="Pārāk daudz pieprasījumu";
+
+
+"request.cancelled"="Pieprasījums tika atcelts";
+
+
+"user-location.near-me"="Blakus";
+
+
+// Application
+"application.notification.text.launch-app-after-change-language"="Noklikšķiniet, lai restartēt";
+
+
+// walkthrougth
+"walkthrough.page.0.subtitle"="Saņemiet atlaides un bonusa punktus visās vietās, kas piedalās UDS Game.";
+"walkthrough.page.0.title"="Atlaides un bonusi!";
+
+"walkthrough.page.1.subtitle"="Labākie piedāvājumi atbilstoši jūsu vēlmēm.";
+"walkthrough.page.1.title"="Akcijas un īpašie piedāvājumi!";
+
+"walkthrough.page.2.subtitle"="Dalies Promo kodus ar saviem draugiem un saņemiet punktus par katru pirkumu.";
+"walkthrough.page.2.title"="Rekomende saviem draugiem!";
+
+"walkthrough.skip"="Izlaist";
+
+
+// welcome
+"welcome.sign-in"="Ieiet";
+"welcome.sign-up"="Reģistrēties";
+"welcome.social.title"="vai";
+"sign-up.agreements.format"="Reģistrējoties lietotnē, jūs piekrītat %1$@ un %2$@";
+"sign-up.agreements.part.user-agreement"="Lietošanas noteikumiem";
+"sign-up.agreements.part.privacy-policy"="Privātuma politikai";
+
+
+"auth.facebook"="Facebook";
+"auth.vk"="VK";
+
+
+// phone
+"phone-auth.enter-phone.subtitle"="Enter your phone number";
+"phone-auth.enter-phone.button"="Send a Verification code";
+"phone-auth.enter-code.title"="Verification";
+"phone-auth.enter-code.subtitle.format"="We have sent a 6-digit code to %@";
+"phone-auth.enter-code.button"="Continue";
+"phone-auth.enter-code.re-send-button"="Send a new code";
+"phone-auth.error.incorrect-phone-number"="Incorrect Phone Number";
+"phone-auth.error.incorrect-confirmation-code"="Incorrect code";
+
+// sign in
+"sign-in-options.button.email"="E-pasts";
+"sign-in-options.button.forgot"="Aizmirsi paroli?";
+"sign-in-options.button.phone"="Telefona numurs";
+"sign-in-options.subtitle"="Ieiet ar";
+"sign-in-options.title"="Autorizācija";
+
+"sign-in-with-email.password"="Parole";
+"sign-in-with-email.title"="Ieiet";
+"sign-in.enter-email.text-field.placeholder"="E-pasts";
+
+"sign-in.forgot"="Aizmirsi paroli?";
+
+
+// sign up
+"sign-up-options.button.email"="E-pasts";
+"sign-up-options.button.phone"="Telefona numurs";
+"sign-up-options.subtitle"="Lūdzu, izvēlieties ērtu reģistrācijas metodi";
+"sign-up-options.title"="Reģistrēties";
+
+"sign-up-with-email.step1.birthday-field.placeholder"="Dzimšanas datums";
+"sign-up-with-email.step1.code-description"="Noklikšķiniet uz attēla un atjauniniet kodu";
+"sign-up-with-email.step1.code-field.placeholder"="Kods no attēla";
+"sign-up-with-email.step1.email-field.placeholder"="E-pasts";
+"sign-up-with-email.step1.gender-title"="Dzimums";
+"sign-up-with-email.step1.password-field.placeholder"="Parole";
+"sign-up-with-email.step1.title"="Reģistrēties";
+
+"sign-up-with-email.step2.first-name-field.placeholder"="Vārds";
+"sign-up-with-email.step2.last-name-field.placeholder"="Uzvārds";
+"sign-up-with-email.step2.title"="Reģistrēties";
+
+"sign-up-with-phone.birthday-field.placeholder"="Dzimšanas datums";
+"sign-up-with-phone.first-name-field.placeholder"="Vārds";
+"sign-up-with-phone.gender-title"="Dzimums";
+"sign-up-with-phone.last-name-field.placeholder"="Uzvārds";
+"sign-up-with-phone.title"="Reģistrēties";
+
+"sign-up.gender.female"="Sieviešu";
+"sign-up.gender.male"="Vīriešu";
+
+
+// restore password
+"restore-password.step-email.title"="Aizmirsi paroli?";
+"restore-password.step-email.subtitle"="Ievadiet e-pasta adresi kuru norādījāt pie reģistrācijas";
+"restore-password.step-email.text-field.placeholder"="E-pasts";
+
+"restore-password.step-code.title"="Aizmirsi paroli?";
+"restore-password.step-code.subtitle"="Ievadiet kodu, kas nosūtīts uz jūsu e-pasta adresi";
+"restore-password.step-code.text-field.placeholder"="Apstiprināšanas kods";
+
+"restore-password.step-new-password.title"="Atjaunot paroli";
+"restore-password.confirm-password-field.placeholder"="Apstiprināt";
+"restore-password.password-field.placeholder"="Parole";
+
+
+// phone
+"phone-already-registered.subtitle"="Lūdzu, noklikšķiniet pogu, lai atvērtu lietotni";
+"phone-already-registered.title"="Šis tālruņa numurs jau ir reģistrēts";
+
+"phone-not-registered.title"="Tālruņa numurs nav reģistrēts UDS Game lietotnē";
+
+
+// account banned & blocked
+"account-banned.title"="Piekļuve ir bloķēta lietošanas noteikumu pārkāpuma dēļ. Lai noskaidrotu bloķēšanas iemeslus, lūdzu, sazinieties ar tehnisko atbalstu: support@udsgame.com";
+
+// device id
+"device-uuid-exceeded.device-id-title"="ierīces ID";
+"device-uuid-exceeded.subtitle"="Lūdzu, pierakstieties, izmantojot citas autorizācijas metodes, vai nosūtiet mūsu tehniskās palīdzības komandai kļūdas ekrānuzņēmumu";
+"device-uuid-exceeded.title"="Šī ierīce jau ir reģistrēta citā kontā";
+
+
+// city picker
+"city-picker.background.title"="Hmm Vai tu dzīvo Marsā? Lūdzu, palīdziet mums atrast tevi!";
+"city-picker.search.placeholder"="Pilsēta vai reģions";
+"city-picker.title"="Jūsu atrašanās vieta";
+"city-picker.background.autodefine-button"="Mēģiniet vēlreiz";
+
+
+// tabs
+"tab.discount"="Atlaide";
+"tab.home"="Sākums";
+"tab.offers"="Piedāvājumi";
+"tab.places"="Vietas";
+"tab.promo"="Promo kods";
+
+
+// logout
+"logout.alert.title"="Logout kļūda";
+"logout.alert.push-error"="Radās kļūda. Iespējams, jūsu ierīce saņems jaunus push-izziņus.";
+"logout.alert.try-again"="Lūdzu mēģiniet vēlreiz";
+
+
+// categories
+"categories.all-categories"="Visas vietas";
+"categories.all-categories.description"="Vietas visās kategorijās";
+
+"categories.favorite-places"="Iecienītākās vietas";
+"categories.my-places"="Manas vietas";
+
+"categories.category.all-places"="Visas vietas";
+
+"category-preferences.my.title"="Mani uzstādījumi";
+
+"category-preferences.setup.subtitle"="Pirmkārt, tiks parādīti īpaši piedāvājumi no šīm kategorijām";
+"category-preferences.setup.title"="Izvēlieties 3 kategorijas";
+
+"category-switch.button.switch"="Aizvietot";
+"category-switch.subtitle"="Lūdzu, nomainiet iepriekš izvēlētās favoritus un pievienojiet jaunas";
+"category-switch.title"="Atļauto kategoriju skaits - 3";
+
+
+// settings
+"settings.alert.change-instagram.title"="Nomainīt";
+"settings.alert.change-skype.title"="Nomainīt";
+"settings.alert.logout.title"="Vai Jūs esat pārliecināts?";
+
+"settings.app-info"="Info";
+"settings.app-language"="Valoda";
+
+"settings.cell.about-application"="Par lietotni";
+"settings.cell.confirm-password"="Apstiprināt";
+"settings.cell.current-password"="Pašreizējā parole";
+"settings.cell.email"="E-pasts";
+"settings.cell.email-password"="E-pasts / Parole";
+"settings.cell.instagram"="Instagram";
+"settings.cell.logout"="Iziet";
+"settings.cell.new-password"="Jauna parole";
+"settings.cell.phone"="Tālruņa numurs";
+"settings.cell.skype"="Skype";
+"settings.cell.verify-phone"="Apstiprināt tālruņa numuru";
+"settings.cell.preferences"="Uzstādījumi";
+"settings.cell.birth-date"="Dzimšanas datums";
+"settings.cell.last-name"="Uzvārds";
+
+"settings.notifications.cell.company-news"="News";
+"settings.notifications.cell.company-offers"="Offers";
+"settings.notifications.cell.company-messages"="Ziņojumi";
+"settings.notifications.cell.new-members"="Uzaicinātie draugi";
+"settings.notifications.cell.scores-change"="Punkti";
+
+"settings.change-language.alert.title"="Mainīt valodu";
+"settings.change-language.alert.text"="\"%@\" tiks uzstadīts pēc restartēšanas";
+
+"settings.languages"="Valodas";
+"settings.languages.system"="Sistēmas valoda";
+"settings.reset-to-system-language"="Reset";
+
+"settings.section.authorization"="Autorizācija";
+"settings.section.notifications"="Paziņojumi";
+"settings.section.social"="Sociālie tīkli";
+
+"settings.upload-image"="Jūsu foto";
+"settings.upload-image.open"="Atvērt";
+"settings.upload-image.camera"="Fotogrāfēt";
+"settings.upload-image.gallery"="Izvēlieties no foto galerijas";
+"settings.upload-image.delete"="Izdzēst";
+
+"settings.select-phone.message"="Lai mainītu tālruņa numuru, lūdzu, sazinieties ar tehnisko atbalstu support@udsgame.com";
+
+
+// place
+"place.joining-award.alert.title"="Punkti par uzaicinājumu";
+"place.joining-award.alert.message"="Jūs saņemsiet punktus par rekomendāciju, tiklīdz jūsu personiski uzaicinātais draugs veic pirmo pirkumu";
+
+"places.tab.all"="Visas vietas";
+"places.tab.favorite"="Favorīti";
+"places.tab.my"="Manas vietas";
+
+"places.title"="Vietas";
+
+"my-places.title"="Manas vietas";
+"my-places.table-placeholder.title"="Manas vietas";
+
+"favorite-palces.title"="Iecienītākās vietas";
+"favorite-places.table-placeholder.title"="Iecienītākās vietas";
+
+"company.tab.description"="Apraksts";
+"company.tab.news"="News";
+"company.tab.offers"="Piedāvājumi";
+
+"company.bonus-program-description"="Bonusa programmas apraksts";
+"company.bonus-program-cell.button"="Bonus program";
+"company.branches-cell.button.format"="Show all branches: %@";
+"company.bonus-program.title"="Bonus program";
+
+"company.news-cell.detail-button"="Show details...";
+
+"company.action.add-to-favorites"="Pievienot favorītiem";
+"company.action.remove-from-favorites"="Remove from favorites";
+"company.action.offers-notifications.enabled"="Subscribe to offers";
+"company.action.offers-notifications.disabled"="Unsubscribe from offers";
+"company.action.news-notifications.enabled"="Subscribe to news";
+"company.action.news-notifications.disabled"="Unsubscribe from news";
+
+"company.cell.nearest-branch"="Tuvākā adrese";
+"company.cell.description"="Par mums";
+"company.cell.phone"="Telefona numurs";
+"company.cell.website"="Tīmekļa vietne";
+"company.cell.worktime"="Darba laiks";
+"company.cell.message"="Uzrakstīt ziņu";
+
+"company.worktime.opens-after.format"="Tiks atvērts %@";
+"company.worktime.remains-opens.format"="Atvērts līdz %@";
+"company.worktime.today-closed"="Slēgts";
+"company.worktime.around-the-clock"="Visu Diennakti";
+
+"company.error.already-participant"="Jūs jau esat UDS Game lietotājs šajā vietā!";
+
+"company.message.become-participant"="Jūs esat veiksmīgi pievienojies";
+
+
+// companies map
+"companies-map.all-companies.title"="Visas vietas";
+"companies-map.favorite-companies.title"="Favorīti";
+"companies-map.my-companies.title"="Manas vietas";
+
+"company-add-to-favorite.button.add"="Pievienot";
+"company-add-to-favorite.subtitle"="Pievienot favorītiem";
+
+"company-branch.address"="Adreses";
+"company-branch.cell.phone"="Telefona numurs";
+"company-branch.cell.worktime"="Darba laiks";
+
+"company-list-tutorial.bottom-view.button"="Turpināt";
+"company-list-tutorial.top-view.favorite"="Iecienītākās vietas";
+"company-list-tutorial.top-view.recommend"="Vietu Rekomendācijas";
+"company-list-tutorial.top-view.title"="Velciet pa kreisi lai piekļūt funkcijām";
+
+
+// members structure
+"company.members-structure.level1"="1. līmenis";
+"company.members-structure.level2"="2. līmenis";
+"company.members-structure.level3"="3. līmenis";
+"company.members-structure.no-members-placeholder"="Nav uzaicināto draugu";
+"company.members-structure.recommend"="Rekomendēt";
+
+"company.recommend"="Rekomendēt";
+"company.recommend.title"="Rekomendēt";
+"company.recommend.view.title"="Dalies promo (reklāmas) kodu ar saviem draugiem";
+"company.recommendations"="Rekomendācijas";
+
+
+// dashboard
+"dashboard.recent-companies.title"="Jūs nesen apmeklējāt";
+"dashboard.search.placeholder"="Vietu meklēšana";
+
+"dashboard.category-header.button"="Apskatīt";
+
+"global-search.placeholder"="Meklēt";
+
+
+// offers
+"offer-trends-cell.button"="Pāriet";
+"offer-trends-cell.subtitle"="Apskatiet populārākās vietas";
+"offer-trends-cell.title"="Lietotāju izvēle";
+
+"offer.action.complaint"="Iesniegt sūdzību";
+"offer.expire-date"="Piedāvājums derīgs līdz";
+"offer.quantity"="Atlikušais / Kopā";
+"offer.use"="Izmantojiet";
+
+"offers-filters.cell.location"="Atrašanās vieta";
+"offers-filters.title"="Filtrs";
+
+"offers-recommended-for-you.title"="Jums";
+
+"offers-trending.title"="Lietotāju izvēle";
+
+"offers.recommend-header.button"="Pāriet";
+"offers.recommended-header.title"="Īpaši Jums";
+
+"offers.title"="Piedāvājumi";
+
+"offer.compaint.succes"="Sūdzība tika nosūtīta";
+
+
+// profile
+"profile.title"="Profils";
+
+
+// qr code
+"qr-code.discount.title"="Discount";
+
+"qr-code.offer.title"="Offer";
+
+"qr-code.storefront.title"="Payment";
+
+"qr-code.input.input-view-title"="Ievadiet promo kodu vai skenējiet to";
+"qr-code.input.text-field-placeholder"="Promo kods";
+"qr-code.input.title"="Promo kods";
+
+"qr-code.recommend.card-subtitle"="vai ievadiet to manuāli";
+"qr-code.recommend.card-title"="Izmantojiet QR kodu";
+
+
+// sample
+"sample.company1.annotation"="Jumtas kafejnīca - labākā kafija no itāļu barista.";
+"sample.company1.name"="Roof";
+
+"sample.company2.annotation"="Skaistumkopšanas klīnika - kosmētiskā ķirurģija.";
+"sample.company2.name"="Bestia";
+
+"sample.company3.annotation"="Īsta neapolitaņu pica";
+"sample.company3.name"="Bella Italiano";
+
+
+// timeline
+"timeline.type.purchase"="Samaksa";
+"timeline.type.scores-income"="Punktu ieskaitīšana";
+"timeline.type.all"="Visa vēsture";
+
+"timeline.order-by-offer"="Pirkumi, izmantojot reklāmas piedāvājumus";
+"timeline.scores-refunded"="Scores refunded";
+"timeline.operation.comment"="Comment";
+
+
+// location service
+"location-service.request-timed-out"="Pārsniegts gaidīšanas laiks";
+"location-service.options-alert.title"="Nav iespējams noteikt jūsu atrašanās vietu";
+"location-service.options-alert.action.manual-enter"="Ievadīt manuāli";
+"location-service.options-alert.action.navigate-to-settings"="Pāriet uz iestatījumiem";
+
+"city.not-defined"="Nav atrasts";
+
+// table
+"table.footer.pull-to-load-more"="Lūdzu, velciet uz leju, lai ielādētu vairāk";
+"company-search-table.footer.no-items"="Nekas nav atrasts";
+"city-search-table.footer.no-items"="Nekas nav atrasts";
+
+/* Not delete because used in MWPhotoBrowser pod */
+"Done"="Pabeigt";
+"of"="no";
+
+
+"place.not-defined-neares-branch-cell.text"="Nav iespējams noteikt jūsu atrašanās vietu";
+"place.not-defined-neares-branch-cell.button"="Noteikt";
+"paces.table-footer.my-places-empty"="Jūs nesen esat pierakstījies un neesat pieteicies nevienā vietā :(";
+
+"global-search.cell.location"="Atrašanās vieta";
+
+// feedback && poll
+"feedback.title"="Novērtējums";
+"feedback.comment.placeholder"=" Lūdzu atstājiet savu atsauksmi (pēc vēlēšanas)";
+"feedback.rate.title"="Paldies par pirkumu!";
+"feedback.rate.subtitle.format"="Lūdzu, novērtējiet pakalpojumu kvalitāti uzņēmumā %@";
+
+"feedback-take-poll.title"="Paldies par novērtējumu!";
+"feedback-take-poll.poll-button"="Sākt aptauju";
+
+"poll.title"="Aptauja";
+
+
+// conversation
+"conversations-list.title"="Ziņojumi";
+"conversations-list.background.title"="Ziņojumi vēl nav";
+"conversations-list.background.subtitle"="Jūs varat sākt saraksti uzņēmuma profila lapā";
+
+"company.messages.alert.unlock-messages"="Atbloķēt saraksti";
+"company.messages.alert.lock-messages"="Bloķēt saraksti";
+"message.forward-rate.title"="Atbilde uz atsauksmi";
+"conversation.message-input-toolbar.company-inactive"="Atvainojiet, šīs uzņēmums uz laiku nav aktīvs";
+"conversation.message-input-toolbar.company-blocked-messages"="Ienākošie ziņojumi ir ierobežoti";
+"conversation.message-input-toolbar.user-blocked-messages"="Šis saraksts ir bloķēts. Jūs nevarat nosūtīt ziņojumu.";
+"conversation.message-input-toolbar.user-blocked-messages.button"="Atbloķēt ziņojumus";
+"messages.input-toolbar.placeholder"="Ziņojums ...";
+/* #################### PLIST */
+/* NSLocationWhenInUseUsageDescription */
+"NSCameraUsageDescription"="Skenējiet QR kodu";
+
+/* NSLocationWhenInUseUsageDescription */
+"NSLocationWhenInUseUsageDescription"="It’s required to find nearby places";
+
+/* NSPhotoLibraryUsageDescription */
+"NSPhotoLibraryUsageDescription"="It’s required for choosing a profile picture";
+
+/* TGShortcutItemTypeDiscountTitle */
+"TGShortcutItemTypeDiscountTitle"="Atlaide";
+
+/* TGShortcutItemTypePromoTitle */
+"TGShortcutItemTypePromoTitle"="Promo kods";
+
+/* TGShortcutItemTypePlacesTitle */
+"TGShortcutItemTypePlacesTitle"="Visas vietas";
+
+/* TGShortcutItemTypeOffersTitle */
+"TGShortcutItemTypeOffersTitle"="Piedāvājumi";

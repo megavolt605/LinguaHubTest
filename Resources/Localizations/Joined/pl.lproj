@@ -1,0 +1,595 @@
+/* #################### PROJECT */
+/* And string */
+"base.and"="I";
+/* are don't match string */
+"are don't match"="nie pasują";
+
+
+"qr-scan.message.camera-required"="Aby odczytać QR-kod, UDS Game potrzebuje dostęp do Twojego aparatu";
+
+"history.table-footer.empty"="Historia operacji jest pusta";
+
+
+"price-menu.empty"="Cennik jest pusty";
+"price-menu.empty-cart"="Nie masz żadnych produktów w koszyku";
+
+"pricelist.add-to-cart"="Dodaj do koszyka";
+
+
+"base.price"="Cena";
+
+"rate.comment-filed.placeholder"="Twój komentarz";
+
+
+
+/* u.e. string */
+"u.e."="PLN";
+
+
+"price-cart.title"="Koszyk";
+"price-cart.base-discount"="Podstawowy rabat";
+"price-cart.purchase"="Kup";
+
+
+
+"price-cart.total-sum"="Razem";
+
+"base.total"="Razem";
+
+/* Purchase for cash string */
+"price-cart.alert.action.purchase-for-cash.format"="Zakup za  %@";
+
+/* Purchase for scores string */
+"Purchase for scores"="Zakup za punkty";
+
+/* Purchased with scores and cash string */
+"timeline.pricelist-order-cell.purchase.format"="Wydane %1$@ punktów oraz %2$@ %3$@";
+
+/* Insufficient scores string */
+"Insufficient scores"="Za mało punktów";
+
+/* Choose action string */
+"Choose action"="Wybierz działanie";
+
+/* Today from-to work time string */
+"Today from-to work time"="Dzisiaj od %@ do %@";
+
+/* Game not availiable string */
+"Game not availiable"="Ups! Trwają prace techniczne, już wkrótce będziemy dostępni!";
+
+/* Invite award scores string */
+"Invite award scores"="Nagroda za polecenie";
+
+/* History string */
+"History"="Historia";
+
+/* To join string */
+"To join"="Dołącz";
+
+/* In cart string */
+"In cart"="W koszyku";
+
+/* Name string */
+"Name"="Nazwa";
+
+/* Rate string */
+"Rate"="Oceń";
+
+/* Rate service string */
+"Rate service"="Proszę ocenić jakość obsługi";
+
+/* joining award scores string */
+"joining award scores"="Punkty powitalne";
+
+/* referral reward scores string */
+"referral reward scores"="Punkty za rekomendacje";
+
+/* Price for scores string */
+"Price for scores"="Cena za punkty bonusowe";
+
+/* Earned join scores string */
+"company.become-participant.message"="Zdobyłeś/-aś %1$@ powitalne punkty!";
+
+/* Permanent discount string */
+"Permanent discount"="Rabat";
+
+/* Permanent discount 2 string */
+"Permanent discount 2"="Rabat";
+
+/* History new participant string */
+"New participant"="Nowy uczestnik";
+
+/* You became VIP client at place string */
+"You became VIP client at place"="Otrzymałeś status %@";
+
+/* Bill string */
+"Bill"="Kontrola";
+
+/* Scores string */
+"Scores"="Punkty";
+
+/* Scores incoming string */
+"Scores incoming"="Punkty naliczone";
+
+/* Details string */
+"Details"="Szczegóły";
+
+/* Pricelist order string */
+"Pricelist order"="Zakup wg cennika";
+
+/* Coupon purchase string */
+"Coupon purchase"="Zakup z kuponu";
+
+/* Item added to cart string */
+"Item added to cart"="Dodano do koszyka";
+
+/* User Agreement string */
+"user_agreement"="Regulamin użytkowania";
+
+/* Privacy policy string */
+"privacy_policy"="Polityka prywatności";
+
+/* About app string */
+"about"="Opisanie aplikacji";
+
+/* Name details string */
+"Name details"="Nazwa";
+
+/* KM unit string */
+"KM unit"="km";
+
+/* M unit string */
+"M unit"="m";
+
+
+
+// Base
+"base.apply"="Zastosuj";
+"base.send"="Wyślij";
+"base.next"="Dalej";
+"base.cancel"="Anuluj";
+"base.close"="Zamknij";
+"base.continue"="Kontynuuj";
+"base.could-not-autodefine-location"="Nie udało się automatycznie ustalić lokalizację";
+"base.error"="Błąd";
+"base.error.user-not-authorized"="Użytkownik nie jest uprawniony";
+"base.information"="Informacja";
+"base.navigate"="Przejdź";
+"base.register"="Rejestracja";
+"base.required-field"="Wymagane pole";
+"base.settings"="Ustawienia";
+"base.skip"="Pomiń";
+"base.write"="Zostaw wiadomość";
+"base.sign-in"="AUTORYZACJA";
+"base.sign-up"="Rejestracja Użytkownika";
+"base.setup-phone"="Ustawienia";
+"base.today"="Dzisiaj";
+"base.exit"="Wyjście";
+"base.phone-call"="Zadzwoń";
+"base.scores.multiple"="Punkty";
+"base.password"="Hasło";
+"base.password-confirmation"="Potwierdzenie hasła";
+"base.not-defined"="Nie sprecyzowane";
+"base.my-scores"="Moje punkty bonusowe";
+"base.price-menu"="Cena / Menu";
+"base.update"="Aktualizacja";
+"base.update-available"="Dostępna aktualizacja";
+"base.discount"="Rabat";
+"base.password-changed"="Twoje hasło zostało zmienione";
+"base.agreement"="Umowa";
+"base.level"="Poziom";
+"base.female"="Kobieta";
+"base.gender"="Płeć";
+"base.male"="Mężczyzna";
+"base.congratulations"="Gratulacje!";
+
+
+// error
+"error.request.cancelled"="Żądanie zostało anulowane";
+"error.data-not-available"="Dane nie są dostępne";
+"error.internal-server"="Wewnętrzny błąd serwera";
+"error.response.unrecognized"="Nierozpoznana odpowiedź serwera";
+"error.unsupported-version"="Ta wersja nie jest już obsługiwana";
+"error.to-many-requests"="Zbyt wiele prób logowania";
+
+
+"request.cancelled"="Żądanie zostało anulowane";
+
+
+"user-location.near-me"="Obok";
+
+
+// Application
+"application.notification.text.launch-app-after-change-language"="Kliknij, aby zresetować";
+
+
+// walkthrougth
+"walkthrough.page.0.subtitle"="Odbieraj rabaty i punkty bonusowe we wszystkich miejscach uczestniczących w UDS Game.";
+"walkthrough.page.0.title"="Rabaty i bonusy!";
+
+"walkthrough.page.1.subtitle"="Najlepsze oferty według Twoich preferencji.";
+"walkthrough.page.1.title"="Promocje i oferty specjalne!";
+
+"walkthrough.page.2.subtitle"="Dziel się promo kodami ze swoimi przyjaciółmi i zdobywaj punkty za każdy zrobiony ich zakup.";
+"walkthrough.page.2.title"="Polecaj swoim znajomym!";
+
+"walkthrough.skip"="Pomiń";
+
+
+// welcome
+"welcome.sign-in"="Login";
+"welcome.sign-up"="Zarejestruj się teraz";
+"welcome.social.title"="lub";
+"sign-up.agreements.format"="Rejestrując się w aplikacji zgadzasz się z umową  %1$@ i %2$@";
+"sign-up.agreements.part.user-agreement"="Umową licencyjną";
+"sign-up.agreements.part.privacy-policy"="Poufne Polityka prywatności";
+
+
+"auth.facebook"="Facebook";
+"auth.vk"="VK";
+
+
+// phone
+"phone-auth.enter-phone.subtitle"="Wprowadź swój numer telefonu";
+"phone-auth.enter-phone.button"="Wyślij kod weryfikacyjny";
+"phone-auth.enter-code.title"="Weryfikacja";
+"phone-auth.enter-code.subtitle.format"="Wysłany 6-cyfrowy kod do %@";
+"phone-auth.enter-code.button"="Kontynuuj";
+"phone-auth.enter-code.re-send-button"="Wyślij nowy kod";
+"phone-auth.error.incorrect-phone-number"="Niewłaściwy numer telefonu";
+"phone-auth.error.incorrect-confirmation-code"="Błędny kod";
+
+// sign in
+"sign-in-options.button.email"="Adres e-mail";
+"sign-in-options.button.forgot"="Zapomniałeś hasła?";
+"sign-in-options.button.phone"="Numer telefonu";
+"sign-in-options.subtitle"="Zaloguj się korzystając z";
+"sign-in-options.title"="AUTORYZACJA";
+
+"sign-in-with-email.password"="Hasło";
+"sign-in-with-email.title"="Zarejestruj się";
+"sign-in.enter-email.text-field.placeholder"="Adres e-mail";
+
+"sign-in.forgot"="Zapomniałeś hasła?";
+
+
+// sign up
+"sign-up-options.button.email"="Adres e-mail";
+"sign-up-options.button.phone"="Numer telefonu";
+"sign-up-options.subtitle"="Proszę wybrać dogodną metodę rejestracji";
+"sign-up-options.title"="Rejestracja";
+
+"sign-up-with-email.step1.birthday-field.placeholder"="Data urodzenia";
+"sign-up-with-email.step1.code-description"="Dotknij obrazu, aby odświeżyć Kod";
+"sign-up-with-email.step1.code-field.placeholder"="Kod z obrazka";
+"sign-up-with-email.step1.email-field.placeholder"="Adres e-mail";
+"sign-up-with-email.step1.gender-title"="Twoja płeć";
+"sign-up-with-email.step1.password-field.placeholder"="Hasło";
+"sign-up-with-email.step1.title"="Rejestracja";
+
+"sign-up-with-email.step2.first-name-field.placeholder"="Imię";
+"sign-up-with-email.step2.last-name-field.placeholder"="Nazwisko";
+"sign-up-with-email.step2.title"="Zarejestruj się";
+
+"sign-up-with-phone.birthday-field.placeholder"="Data urodzenia";
+"sign-up-with-phone.first-name-field.placeholder"="Imię";
+"sign-up-with-phone.gender-title"="Twoja płeć";
+"sign-up-with-phone.last-name-field.placeholder"="Nazwisko";
+"sign-up-with-phone.title"="Zarejestruj się";
+
+"sign-up.gender.female"="Kobieta";
+"sign-up.gender.male"="Mężczyzna";
+
+
+// restore password
+"restore-password.step-email.title"="Zapomniałeś hasła?";
+"restore-password.step-email.subtitle"="Wprowadź adres e-mail który był używany podczas rejestracji";
+"restore-password.step-email.text-field.placeholder"="Adres e-mail";
+
+"restore-password.step-code.title"="Zapomniałeś hasła?";
+"restore-password.step-code.subtitle"="Wprowadź kod który był wysłany na Twój adres e-mail";
+"restore-password.step-code.text-field.placeholder"="Kod potwierdzający";
+
+"restore-password.step-new-password.title"="Przywróć hasło";
+"restore-password.confirm-password-field.placeholder"="Potwierdź";
+"restore-password.password-field.placeholder"="Hasło";
+
+
+// phone
+"phone-already-registered.subtitle"="Proszę kliknąć na przycisk, aby otworzyć aplikację";
+"phone-already-registered.title"="Numer telefonu jest już zarejestrowany";
+
+"phone-not-registered.title"="Numer telefonu nie jest zarejestrowany w aplikacji UDS Game";
+
+
+// account banned & blocked
+"account-banned.title"="Dostęp jest zablokowany z powodu naruszenia Umowy użytkownika. Aby wyjaśnić powody blokowania, należy skorzystać z pomocy technicznej:\nsupport@udsgame.com";
+
+// device id
+"device-uuid-exceeded.device-id-title"="ID urządzenia";
+"device-uuid-exceeded.subtitle"="Zaloguj się za pomocą innych metod autoryzacji lub wyślij zrzut ekranu błędu do naszego zespołu pomocy technicznej";
+"device-uuid-exceeded.title"="To urządzenie jest już zarejestrowane na innym koncie";
+
+
+// city picker
+"city-picker.background.title"="Ups! Mieszkasz na Marsie? Proszę, pomóż nam Ciebie znaleźć!";
+"city-picker.search.placeholder"="Miasto lub region";
+"city-picker.title"="Twoja lokalizacja";
+"city-picker.background.autodefine-button"="Spróbuj ponownie";
+
+
+// tabs
+"tab.discount"="Rabat";
+"tab.home"="Strona Główna";
+"tab.offers"="Oferty";
+"tab.places"="Miejsca";
+"tab.promo"="Kod promocyjny";
+
+
+// logout
+"logout.alert.title"="Błąd wylogowania";
+"logout.alert.push-error"="Can't turn off push notifications. This device will continue receive new push notifications";
+"logout.alert.try-again"="Proszę spróbuj ponownie";
+
+
+// categories
+"categories.all-categories"="Wszystkie miejsca";
+"categories.all-categories.description"="Wszystkie miejsca";
+
+"categories.category.all-places"="Wszystkie miejsca";
+
+"category-preferences.my.title"="Moje preferencje";
+
+"category-preferences.setup.subtitle"="Na początek zostaną wyświetlone oferty specjalne na podstawie twoich preferencji";
+"category-preferences.setup.title"="Wybierz do 3 kategorii";
+
+"category-switch.button.switch"="Zastąpić";
+"category-switch.subtitle"="Proszę zastąpić wcześniej wybrane preferencje i dodać nowe";
+"category-switch.title"="Można wybrać tylko 3 kategorie i dodać do ulubionych";
+
+
+// settings
+"settings.alert.change-instagram.title"="Zastąpić";
+"settings.alert.change-skype.title"="Skype:";
+"settings.alert.logout.title"="Jesteś pewien?";
+
+"settings.app-info"="Informacja";
+"settings.app-language"="Język";
+
+"settings.cell.about-application"="Opisanie aplikacji";
+"settings.cell.confirm-password"="Potwierdź";
+"settings.cell.current-password"="Aktualne hasło";
+"settings.cell.email"="Adres e-mail";
+"settings.cell.email-password"="Email / Hasło";
+"settings.cell.instagram"="Instagram";
+"settings.cell.logout"="Wyloguj";
+"settings.cell.new-password"="Nowe hasło ";
+"settings.cell.phone"="Numer telefonu";
+"settings.cell.skype"="Skype";
+"settings.cell.verify-phone"="Zweryfikuj numer telefonu";
+"settings.cell.preferences"="Preferencje";
+"settings.cell.birth-date"="Data urodzenia";
+"settings.cell.last-name"="Nazwisko";
+
+"settings.notifications.cell.company-news"="Aktualności";
+"settings.notifications.cell.company-offers"="Oferty";
+"settings.notifications.cell.new-members"="Zaproszono znajomych";
+"settings.notifications.cell.scores-change"="Punkty";
+
+"settings.change-language.alert.title"="Zmień język";
+"settings.change-language.alert.text"="Nowy język: \"%@\" zostanie zastosowany po ponownym uruchomieniu aplikacji";
+
+"settings.languages"="Języki";
+"settings.languages.system"="System";
+"settings.reset-to-system-language"="Resetowanie";
+
+"settings.section.authorization"="Autoryzacja";
+"settings.section.notifications"="Powiadomienia";
+"settings.section.social"="Portale społecznościowe";
+
+"settings.upload-image"="Twoje zdjęcie";
+"settings.upload-image.open"="Otworzyć";
+"settings.upload-image.camera"="Zrób zdjęcie";
+"settings.upload-image.gallery"="Wybierz z galerii zdjęć";
+"settings.upload-image.delete"="Usunąć";
+
+"settings.select-phone.message"="Aby zmienić swój numer telefonu, skontaktuj się z pomocą techniczną pod adresem support@udsgame.com";
+
+
+// place
+"place.joining-award.alert.title"="Punkty za rekomendacje";
+"place.joining-award.alert.message"="Zostaniesz nagrodzony punktami rekomendacji, gdy twój pierwszy zaproszony przyjaciel dokona pierwszego zakupu";
+
+"places.tab.all"="Miejsca";
+"places.tab.favorite"="Zakładki";
+"places.tab.my"="Moje miejsca";
+
+"places.title"="Miejsca";
+
+"company.tab.description"="Opis";
+"company.tab.news"="Aktualności ";
+"company.tab.offers"="Oferty";
+
+"company.bonus-program-description"="Opis programu bonusowego";
+"company.bonus-program-cell.button"="Program bonusowy";
+"company.branches-cell.button.format"="Pokaż wszystkie branże: %@";
+"company.bonus-program.title"="Program bonusowy";
+
+"company.news-cell.detail-button"="Pokaż szczegóły...";
+
+"company.action.add-to-favorites"="Dodaj do ulubionych";
+"company.action.remove-from-favorites"="Usuń z ulubionych";
+"company.action.offers-notifications.enabled"="Subskrybuj oferty";
+"company.action.offers-notifications.disabled"="Anuluj subskrypcję ofert";
+"company.action.news-notifications.enabled"="Subskrybuj nowości";
+"company.action.news-notifications.disabled"="Anuluj subskrybowanie wiadomości";
+
+"company.cell.nearest-branch"="Najbliższy adres";
+"company.cell.description"="O nas";
+"company.cell.phone"="Numer telefonu";
+"company.cell.website"="Strona www";
+"company.cell.worktime"="Godziny pracy";
+
+"company.worktime.opens-after.format"="Otwiera się o %@";
+"company.worktime.remains-opens.format"="Pozostaje otwarte przez %@";
+"company.worktime.today-closed"="Zamknięte";
+"company.worktime.around-the-clock"="24 godziny";
+
+"company.error.already-participant"="Dołączyłeś już do firmy";
+
+"company.message.become-participant"="Z powodzeniem dołączyłeś/-aś do";
+
+
+// companies map
+"companies-map.all-companies.title"="Wszystkie miejsca";
+"companies-map.favorite-companies.title"="Ulubione miejsca";
+"companies-map.my-companies.title"="Moje miejsca";
+
+"company-add-to-favorite.button.add"="dodać ";
+"company-add-to-favorite.subtitle"="Dodaj do ulubionych";
+
+"company-branch.address"="Adresy";
+"company-branch.cell.phone"="Numer telefonu";
+"company-branch.cell.worktime"="Godziny pracy";
+
+"company-list-tutorial.bottom-view.button"="Kontynuuj";
+"company-list-tutorial.top-view.favorite"="Dodaj lub usuń miejsce z/do ulubionych";
+"company-list-tutorial.top-view.recommend"="Polecam to miejsce znajomym";
+"company-list-tutorial.top-view.title"="Dla szybkiego wejścia do funkcji przesuń w lewo";
+
+
+// members structure
+"company.members-structure.level1"="Poziom 1";
+"company.members-structure.level2"="Poziom 2";
+"company.members-structure.level3"="Poziom 3";
+"company.members-structure.no-members-placeholder"="Brak zaproszonych przyjaciół";
+"company.members-structure.recommend"="Polecam";
+
+"company.recommend"="Polecam";
+"company.recommend.title"="Polecam";
+"company.recommend.view.title"="Udostępnij kod promocyjny znajomym";
+"company.recommendations"="Polecenia";
+
+
+// dashboard
+"dashboard.recent-companies.title"="Ostatnio odwiedziłeś";
+"dashboard.search.placeholder"="Szukaj miejsc";
+
+"dashboard.category-header.button"="Navigate";
+
+"global-search.placeholder"="Szukaj";
+
+
+// offers
+"offer-trends-cell.button"="Navigate";
+"offer-trends-cell.subtitle"="Zobacz, co większość wybiera";
+"offer-trends-cell.title"="Wybór użytkowników";
+
+"offer.action.complaint"="Skargi";
+"offer.expire-date"="Oferta ważna do";
+"offer.quantity"="Pozostałe / Wszystkie";
+"offer.use"="Użyj";
+
+"offers-filters.cell.location"="Lokalizacja";
+"offers-filters.title"="Filtr";
+
+"offers-recommended-for-you.title"="Dla Ciebie";
+
+"offers-trending.title"="Wybór użytkowników";
+
+"offers.recommend-header.button"="Navigate";
+"offers.recommended-header.title"="Specjalnie dla Ciebie";
+
+"offers.title"="Oferty";
+
+"offer.compaint.succes"="Wysłano skargę";
+
+
+// profile
+"profile.title"="Profil";
+
+
+// qr code
+"qr-code.discount.title"="Rabat";
+"qr-code.discount.subtitle"="Pokaż QR kod na kasie, lub podaj te numery";
+"qr-code.discount.details"="Ta zniżka obowiązuje we wszystkich miejscach, uczestniczących w UDS GAME";
+
+"qr-code.offer.title"="Oferta";
+"qr-code.offer.subtitle"="Pokaż QR kod na kasie, lub podaj te numery";
+
+"qr-code.storefront.title"="Płatność";
+"qr-code.storefront.subtitle"="Pokaż QR kod na kasie, lub podaj te numery";
+
+"qr-code.input.input-view-title"="Wprowadź kod promocyjny lub zeskanuj go";
+"qr-code.input.text-field-placeholder"="Kod promocyjny";
+"qr-code.input.title"="Kod promocyjny";
+
+"qr-code.recommend.card-subtitle"="lub wprowadź go ręcznie";
+"qr-code.recommend.card-title"="Użyj QR kodu";
+
+
+// sample
+"sample.company1.annotation"="Opis";
+"sample.company1.name"="Dach";
+
+"sample.company2.annotation"="Klinika urody - chirurgia plastyczna.";
+"sample.company2.name"="sample.company2.name";
+
+"sample.company3.annotation"="Pizzeria - autentyczna neapolitańska pizza";
+"sample.company3.name"="sample.company3.name";
+
+
+// timeline
+"timeline.type.purchase"="Kup";
+"timeline.type.scores-income"="Punkty naliczone";
+"timeline.type.all"="Cała historia";
+
+"timeline.order-by-offer"="Zamówienie wg oferty";
+"timeline.scores-refunded"="Zwrot punktów";
+"timeline.operation.comment"="Comment";
+
+
+// location service
+"location-service.request-timed-out"="Limit czasu sesji";
+"location-service.options-alert.title"="Twoja lokalizacja nie została znaleziona";
+"location-service.options-alert.action.manual-enter"="Wprowadź ręcznie";
+"location-service.options-alert.action.navigate-to-settings"="Przejdź do ustawień";
+
+"city.not-defined"="Nie znaleziono";
+
+// table
+"table.footer.pull-to-load-more"="Przesuń palcem w dół, aby załadować więcej";
+"company-search-table.footer.no-items"="Nie znaleziono";
+"city-search-table.footer.no-items"="Nie znaleziono";
+
+/* Not delete because used in MWPhotoBrowser pod */
+"Done"="Zakończone";
+"of"="z";
+
+
+"place.not-defined-neares-branch-cell.text"="Twoja lokalizacja nie została znaleziona";
+"place.not-defined-neares-branch-cell.button"="Ustalać";
+"paces.table-footer.my-places-empty"="Jesteś niedawno zarejestrowany i jeszcze nie dołączyłeś/aś do żadnego miejsca :(";
+
+"global-search.cell.location"="Lokalizacja";
+/* #################### PLIST */
+/* NSLocationWhenInUseUsageDescription */
+"NSCameraUsageDescription"="Zeskanuj QR-kod";
+
+/* NSLocationWhenInUseUsageDescription */
+"NSLocationWhenInUseUsageDescription"="It’s required to find nearby places";
+
+/* NSPhotoLibraryUsageDescription */
+"NSPhotoLibraryUsageDescription"="It’s required for choosing a profile picture";
+
+/* TGShortcutItemTypeDiscountTitle */
+"TGShortcutItemTypeDiscountTitle"="Rabat";
+
+/* TGShortcutItemTypePromoTitle */
+"TGShortcutItemTypePromoTitle"="Kod promocyjny";
+
+/* TGShortcutItemTypePlacesTitle */
+"TGShortcutItemTypePlacesTitle"="Miejsca";
+
+/* TGShortcutItemTypeOffersTitle */
+"TGShortcutItemTypeOffersTitle"="Specjalne oferty";

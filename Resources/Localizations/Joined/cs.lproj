@@ -1,0 +1,635 @@
+/* #################### PROJECT */
+/* And string */
+"base.and"="A";
+/* are don't match string */
+"are don't match"="neshoduje se";
+
+
+"qr-scan.message.camera-required"="Chcete-li načíst QR kód, potřebuje UDS Game přístup k vaší kamere ";
+
+"history.table-footer.empty"="Historie je prázdná";
+
+
+"price-menu.empty"="Ceník je prázdný";
+"price-menu.empty-cart"="Nemáte žádné položky v nákupním košíku";
+
+"pricelist.add-to-cart"="Přidáno do košíku";
+
+
+"base.price"="Cena";
+
+"rate.comment-filed.placeholder"="Váš komentář";
+
+
+
+/* u.e. string */
+"u.e."="u.e.";
+
+
+"price-cart.title"="Košík";
+"price-cart.base-discount"="Základní sleva";
+"price-cart.purchase"="Nákup";
+
+
+
+"price-cart.total-sum"="Součet";
+
+"base.total"="Celkem";
+
+/* Purchase for cash string */
+"price-cart.alert.action.purchase-for-cash.format"="Nákup za  %@";
+
+/* Purchase for scores string */
+"Purchase for scores"="Nákup za body";
+
+/* Purchased with scores and cash string */
+"timeline.pricelist-order-cell.purchase.format"="Zakoupeno %1$@ bodů a %2$@ %3$@";
+
+/* Insufficient scores string */
+"Insufficient scores"="Nedostatek bodů";
+
+/* Choose action string */
+"Choose action"="Vyberte si akci";
+
+/* Today from-to work time string */
+"Today from-to work time"="Dnes od %@ do %@";
+
+/* Game not availiable string */
+"Game not availiable"="Jejda! Probíhají technické práce. Již brzy se vrátíme!";
+
+/* Invite award scores string */
+"Invite award scores"="Odměna za doporučení ";
+
+/* History string */
+"History"="Historie";
+
+/* To join string */
+"To join"="Připojit se";
+
+/* In cart string */
+"In cart"="V košíku";
+
+/* Name string */
+"Name"="Jméno";
+
+/* Rate string */
+"Rate"="Recenze";
+
+/* Rate service string */
+"Rate service"="Ohodnoťte prosím kvalitu našich služeb";
+
+/* joining award scores string */
+"joining award scores"="Uvítací body";
+
+/* referral reward scores string */
+"referral reward scores"="Body za pozvání";
+
+/* Price for scores string */
+"Price for scores"="Cena za body";
+
+/* Earned join scores string */
+"company.become-participant.message"="Získali jste %1$@ uvítací body!";
+
+/* Permanent discount string */
+"Permanent discount"="Sleva";
+
+/* Permanent discount 2 string */
+"Permanent discount 2"="sleva";
+
+/* History new participant string */
+"New participant"="Nový účastník";
+
+/* You became VIP client at place string */
+"You became VIP client at place"="Získál/a jste status %@";
+
+/* Bill string */
+"Bill"="Účet";
+
+/* Scores string */
+"Scores"="Body";
+
+/* Scores incoming string */
+"Scores incoming"="Připsané body";
+
+/* Details string */
+"Details"="Podrobnosti";
+
+/* Pricelist order string */
+"Pricelist order"="Nákup z Ceníku";
+
+/* Coupon purchase string */
+"Coupon purchase"="Nákup kupónu";
+
+/* Item added to cart string */
+"Item added to cart"="Přidáno do košíku";
+
+/* User Agreement string */
+"user_agreement"="Uživatelská smlouva";
+
+/* Privacy policy string */
+"privacy_policy"="Zásady ochrany osobních údajů";
+
+/* About app string */
+"about"="O aplikaci";
+
+/* Name details string */
+"Name details"="Jméno";
+
+/* KM unit string */
+"KM unit"="km";
+
+/* M unit string */
+"M unit"="m";
+
+
+
+// Base
+"base.apply"="Použít";
+"base.send"="Poslat";
+"base.next"="Další";
+"base.cancel"="Zrušit";
+"base.close"="Zavřít";
+"base.continue"="Pokračovat";
+"base.could-not-autodefine-location"="Vaši polohu nelze zjistit";
+"base.error"="Chyba";
+"base.error.user-not-authorized"="Uživatel není přihlášen ";
+"base.information"="Info";
+"base.navigate"="Přejít ";
+"base.register"="Zaregistrovat se";
+"base.required-field"="Povinné pole";
+"base.settings"="Nastavení";
+"base.skip"="Přeskočit";
+"base.write"="Zanechat vzkaz";
+"base.sign-in"="Autorizace";
+"base.sign-up"="Registrace uživatele";
+"base.setup-phone"="Nastavte telefon";
+"base.today"="Dnes";
+"base.exit"="Odejít";
+"base.phone-call"="Volat";
+"base.scores.multiple"="body";
+"base.password"="Heslo";
+"base.password-confirmation"="Potvrzení hesla";
+"base.not-defined"="Není specifikováno";
+"base.my-scores"="Moje body";
+"base.price-menu"="Ceník / Menu";
+"base.update"="Aktualizovat";
+"base.update-available"="Aktualizace jsou k dispozici";
+"base.discount"="Sleva";
+"base.password-changed"="Heslo úspěšně změněno";
+"base.agreement"="Smlouva";
+"base.level"="Úroveň";
+"base.female"="Žena";
+"base.gender"="Pohlaví";
+"base.male"="Muž";
+"base.congratulations"="Gratulujeme!";
+"base.yesterday"="Včera";
+
+
+// error
+"error.request.cancelled"="Požadavek byl zrušen";
+"error.data-not-available"="Data nejsou k dispozici";
+"error.internal-server"="Vnitřní chyba serveru";
+"error.response.unrecognized"="Nerozpoznaná odpověď serveru";
+"error.unsupported-version"="Tato verze není podporována";
+"error.to-many-requests"="Příliš mnoho požadavků";
+
+
+"request.cancelled"="Požadavek byl zrušen";
+
+
+"user-location.near-me"="Poblíž";
+
+
+// Application
+"application.notification.text.launch-app-after-change-language"="Kliknout pro obnovení";
+
+
+// walkthrougth
+"walkthrough.page.0.subtitle"="Získávejte slevy a bonusové body ve všech místech, které se účastní UDS Game !";
+"walkthrough.page.0.title"="Slevy a bonusy!";
+
+"walkthrough.page.1.subtitle"="Nejlepší nabídky podle vašich preferencí.";
+"walkthrough.page.1.title"="Akční a speciální nabídky!";
+
+"walkthrough.page.2.subtitle"="Sdělte slevové kódy s přáteli a získávejte body za každý nákup.";
+"walkthrough.page.2.title"="Doporučte svým přátelům!";
+
+"walkthrough.skip"="Přeskočit";
+
+
+// welcome
+"welcome.sign-in"="Přihlásit se";
+"welcome.sign-up"="Zaregistrovat se";
+"welcome.social.title"="nebo";
+"sign-up.agreements.format"="Při registraci souhlasíte s %1$@ a %2$@";
+"sign-up.agreements.part.user-agreement"="Smluvními podmínkami";
+"sign-up.agreements.part.privacy-policy"="Zásadami ochrany osobních údajů";
+
+
+"auth.facebook"="Facebook";
+"auth.vk"="VK";
+
+
+// phone
+"phone-auth.enter-phone.subtitle"="Zadejte své telefonní číslo";
+"phone-auth.enter-phone.button"="Odeslat ověřovací kód";
+"phone-auth.enter-code.title"="Ověření";
+"phone-auth.enter-code.subtitle.format"="Odeslali jsme šestimístný kód na %@";
+"phone-auth.enter-code.button"="Pokračovat";
+"phone-auth.enter-code.re-send-button"="Odeslat nový kód";
+"phone-auth.error.incorrect-phone-number"="Nesprávné telefonní číslo";
+"phone-auth.error.incorrect-confirmation-code"="Nesprávný kód";
+
+// sign in
+"sign-in-options.button.email"="E-mail";
+"sign-in-options.button.forgot"="Zapomněli jste heslo?";
+"sign-in-options.button.phone"="Telefon";
+"sign-in-options.subtitle"="Přihlásit se přes";
+"sign-in-options.title"="Autorizace";
+
+"sign-in-with-email.password"="Heslo";
+"sign-in-with-email.title"="Přihlásit se";
+"sign-in.enter-email.text-field.placeholder"="E-mail";
+
+"sign-in.forgot"="Zapomněli jste heslo?";
+
+
+// sign up
+"sign-up-options.button.email"="E-mail";
+"sign-up-options.button.phone"="Telefon";
+"sign-up-options.subtitle"="Vyberte vhodnou metodu registrace";
+"sign-up-options.title"="Registrace";
+
+"sign-up-with-email.step1.birthday-field.placeholder"="Datum narození";
+"sign-up-with-email.step1.code-description"="Klikněte na obrázek a obnovte kód";
+"sign-up-with-email.step1.code-field.placeholder"="Kód z obrázku";
+"sign-up-with-email.step1.email-field.placeholder"="E-mail";
+"sign-up-with-email.step1.gender-title"="Pohlaví";
+"sign-up-with-email.step1.password-field.placeholder"="Heslo";
+"sign-up-with-email.step1.title"="Registrace";
+
+"sign-up-with-email.step2.first-name-field.placeholder"="Jméno";
+"sign-up-with-email.step2.last-name-field.placeholder"="Příjmení";
+"sign-up-with-email.step2.title"="Přihlásit se";
+
+"sign-up-with-phone.birthday-field.placeholder"="Datum narození";
+"sign-up-with-phone.first-name-field.placeholder"="Jméno";
+"sign-up-with-phone.gender-title"="Pohlaví";
+"sign-up-with-phone.last-name-field.placeholder"="Příjmení";
+"sign-up-with-phone.title"="Přihlásit se";
+
+"sign-up.gender.female"="Žena";
+"sign-up.gender.male"="Muž";
+
+
+// restore password
+"restore-password.step-email.title"="Zapomněli jste heslo?";
+"restore-password.step-email.subtitle"="Zadejte e-mailovou adresu, kterou jste použili při registraci";
+"restore-password.step-email.text-field.placeholder"="E-mail";
+
+"restore-password.step-code.title"="Zapomněli jste heslo?";
+"restore-password.step-code.subtitle"="Zadejte kód zaslaný na vaši e-mailovou adresu";
+"restore-password.step-code.text-field.placeholder"="Potvrdit kód";
+
+"restore-password.step-new-password.title"="Obnovit heslo";
+"restore-password.confirm-password-field.placeholder"="Potvrdit";
+"restore-password.password-field.placeholder"="Heslo";
+
+
+// phone
+"phone-already-registered.subtitle"="Kliknutím otevřete aplikaci";
+"phone-already-registered.title"="Telefonní číslo je již zaregistrováno";
+
+"phone-not-registered.title"="Telefonní číslo není registrováno v aplikaci UDS Game";
+
+
+// account banned & blocked
+"account-banned.title"="Přístup je zablokován za porušení Uživatelské smlouvy. Chcete-li zjistit důvody blokace, obraťte se na technickou podporu:\nsupport@udsgame.com";
+
+// device id
+"device-uuid-exceeded.device-id-title"="ID zařízení";
+"device-uuid-exceeded.subtitle"="Přihlaste se prosím pomocí jiné metody autorizace nebo zašlete snímek obrazovky telefonu týmu technické podpory";
+"device-uuid-exceeded.title"="Toto zařízení je již spojeno s existujícím účtem";
+
+
+// city picker
+"city-picker.background.title"="Jejda! Jste na Marsu? Pomozte nám najít vás!";
+"city-picker.search.placeholder"="Město nebo region";
+"city-picker.title"="Vaše poloha";
+"city-picker.background.autodefine-button"="Zkuste znovu";
+
+
+// tabs
+"tab.discount"="Sleva";
+"tab.home"="Domů";
+"tab.offers"="Nabídky";
+"tab.places"="Místa";
+"tab.promo"="Promo kód";
+
+
+// logout
+"logout.alert.title"="Chyba odhlášení";
+"logout.alert.push-error"="Došlo k chybě. Vaše zařízení pravděpodobně obdrží nová push-oznámení.";
+"logout.alert.try-again"="Prosím zkuste znovu";
+
+
+// categories
+"categories.all-categories"="Všechna místa";
+"categories.all-categories.description"="Místa ve všech kategoriích";
+
+"categories.favorite-places"=" Oblíbené místa";
+"categories.my-places"="Moje místa";
+
+"categories.category.all-places"="Všechna místa";
+
+"category-preferences.my.title"="Moje preference";
+
+"category-preferences.setup.subtitle"="Speciální nabídky založené na vašich preferencích budou zobrazeny jako první";
+"category-preferences.setup.title"="Vyberte 3 kategorie";
+
+"category-switch.button.switch"="Nahradit";
+"category-switch.subtitle"="Prosím nahraďte dříve vybrané preference a přidejte nové";
+"category-switch.title"="Počet povolených kategorií - 3";
+
+
+// settings
+"settings.alert.change-instagram.title"="Nahradit";
+"settings.alert.change-skype.title"="Nahradit";
+"settings.alert.logout.title"="Je si jistý/á ?";
+
+"settings.app-info"="Info";
+"settings.app-language"="Jazyk";
+
+"settings.cell.about-application"="O aplikaci";
+"settings.cell.confirm-password"="Potvrdit";
+"settings.cell.current-password"="Aktuální heslo";
+"settings.cell.email"="E-mail";
+"settings.cell.email-password"="E-mail  / Heslo";
+"settings.cell.instagram"="Instagram";
+"settings.cell.logout"="Odhlásit Se";
+"settings.cell.new-password"="Nové heslo";
+"settings.cell.phone"="Telefon";
+"settings.cell.skype"="Skype";
+"settings.cell.verify-phone"="Ověřte telefonní číslo";
+"settings.cell.preferences"="Preference";
+"settings.cell.birth-date"="Vaše datum narození";
+"settings.cell.last-name"="Vaše skutečné příjmení";
+
+"settings.notifications.cell.company-news"="Novinky";
+"settings.notifications.cell.company-offers"="Nabídky";
+"settings.notifications.cell.company-messages"="Zprávy";
+"settings.notifications.cell.new-members"="Pozvaní přátelé";
+"settings.notifications.cell.scores-change"="Body";
+
+"settings.change-language.alert.title"="Změnit jazyk";
+"settings.change-language.alert.text"="\"%@\" bude nastaveno po restartu";
+
+"settings.languages"="Jazyky";
+"settings.languages.system"="Jazyk systému";
+"settings.reset-to-system-language"="Obnovit";
+
+"settings.section.authorization"="Autorizace ";
+"settings.section.notifications"="Oznámení";
+"settings.section.social"="Sociální sítě";
+
+"settings.upload-image"="Vaše fotografie";
+"settings.upload-image.open"="Otevřít\n";
+"settings.upload-image.camera"="Vyfotit";
+"settings.upload-image.gallery"="Vyberte si z fotogalerie";
+"settings.upload-image.delete"="Vymazat";
+
+"settings.select-phone.message"="Chcete-li změnit telefonní číslo, kontaktujte prosím technickou podporu - support@udsgame.com";
+
+
+// place
+"place.joining-award.alert.title"="Body za pozvání";
+"place.joining-award.alert.message"="Budete odměněni body za doporučení poté, co váš osobně pozvaný přítel provede první nákup";
+
+"places.tab.all"="Všechna místa";
+"places.tab.favorite"="Oblíbené";
+"places.tab.my"="Moje místa";
+
+"places.title"="Místa";
+
+"my-places.title"="Moje místa";
+"my-places.table-placeholder.title"="Moje místa";
+"my-places.table-placeholder.subtitle"="Zde se objeví místa, která jste navštívili";
+
+"favorite-palces.title"=" Oblíbené místa";
+"favorite-places.table-placeholder.title"=" Oblíbené místa";
+"favorite-places.table-placeholder.subtitle"="Přidejte místa která se Vám líbí do oblíbených";
+
+"company.tab.description"="Popis";
+"company.tab.news"="Novinky";
+"company.tab.offers"="Nabídky";
+
+"company.bonus-program-description"="Popis bonusového programu";
+"company.bonus-program-cell.button"="Bonusový program";
+"company.branches-cell.button.format"="Zobrazit všechny pobočky: %@";
+"company.bonus-program.title"="Bonusový program";
+
+"company.news-cell.detail-button"="Zobrazit detaily...";
+
+"company.action.add-to-favorites"="Přidat do oblíbených";
+"company.action.remove-from-favorites"="Odebrat z oblíbených";
+"company.action.offers-notifications.enabled"="Přihlaste se k nabídkám";
+"company.action.offers-notifications.disabled"="Odhlásit z nabídek";
+"company.action.news-notifications.enabled"="Přihlaste se k novinkám";
+"company.action.news-notifications.disabled"="Odhlásit z novinek";
+
+"company.cell.nearest-branch"="Nejbližší adresa";
+"company.cell.description"="O nás";
+"company.cell.phone"="Telefon";
+"company.cell.website"="Webová stránka";
+"company.cell.worktime"="Otevírací doba";
+"company.cell.message"="Napsat zprávu";
+
+"company.worktime.opens-after.format"="Otevře se v %@";
+"company.worktime.remains-opens.format"="bude otevřeno ještě %@";
+"company.worktime.today-closed"="Zavřeno";
+"company.worktime.around-the-clock"="Nepřetržitě";
+
+"company.error.already-participant"="Do tohoto podniku jste se již zapojili ";
+
+"company.message.become-participant"="Úspěšně jste se připojili";
+
+
+// companies map
+"companies-map.all-companies.title"="Všechna místa";
+"companies-map.favorite-companies.title"="Oblíbené místa";
+"companies-map.my-companies.title"="Moje místa";
+
+"company-add-to-favorite.button.add"="Přidat";
+"company-add-to-favorite.subtitle"="Přidat k oblíbeným";
+
+"company-branch.address"="Adresy ";
+"company-branch.cell.phone"="Telefon";
+"company-branch.cell.worktime"="Otevírací doba";
+
+"company-list-tutorial.bottom-view.button"="Pokračovat";
+"company-list-tutorial.top-view.favorite"=" Oblíbené místa";
+"company-list-tutorial.top-view.recommend"="Doporučení míst";
+"company-list-tutorial.top-view.title"="Přetáhnutím vlevo získáte přístup k funkcím";
+
+
+// members structure
+"company.members-structure.level1"="1. úroveň";
+"company.members-structure.level2"="2. úroveň";
+"company.members-structure.level3"="3. úroveň";
+"company.members-structure.no-members-placeholder"="Žádní pozvaní přátelé";
+"company.members-structure.recommend"="Doporučit";
+
+"company.recommend"="Doporučit";
+"company.recommend.title"="Doporučit";
+"company.recommend.view.title"="Sdělte promo kód se svými přáteli";
+"company.recommendations"="Doporučení";
+
+
+// dashboard
+"dashboard.recent-companies.title"="Nedávno jste navštívili";
+"dashboard.search.placeholder"="Vyhledat místa";
+
+"dashboard.category-header.button"="Zobrazit";
+
+"global-search.placeholder"="Hledat";
+
+
+// offers
+"offer-trends-cell.button"="Přejít ";
+"offer-trends-cell.subtitle"="Podívejte se na nejoblíbenější místa";
+"offer-trends-cell.title"="Volba uživatelů";
+
+"offer.action.complaint"="Stěžovat si";
+"offer.expire-date"="Nabídka platná do";
+"offer.quantity"="Zbývající / Vše";
+"offer.use"="Použit";
+
+"offers-filters.cell.location"="Poloha";
+"offers-filters.title"="Filtr";
+
+"offers-recommended-for-you.title"="Pro Vás";
+
+"offers-trending.title"="Volba uživatelů";
+
+"offers.recommend-header.button"="Přejít ";
+"offers.recommended-header.title"="Speciálně pro Vás";
+
+"offers.title"="Nabídky";
+
+"offer.compaint.succes"=" Stížnostn byla odeslána";
+
+
+// profile
+"profile.title"="Profil";
+
+
+// qr code
+"qr-code.discount.title"="Sleva";
+"qr-code.discount.subtitle"="Ukažte QR-kód pokladníkovi nebo řeknete tento číselný kód";
+"qr-code.discount.details"="Tato sleva je platná ve všech místech zapojených do UDS Game";
+
+"qr-code.offer.title"="Nabídka";
+"qr-code.offer.subtitle"="Ukažte QR-kód pokladníkovi nebo řeknete tento číselný kód";
+
+"qr-code.storefront.title"="Platba";
+"qr-code.storefront.subtitle"="Ukažte QR-kód pokladníkovi nebo řeknete tento číselný kód";
+
+"qr-code.input.input-view-title"="Zadejte promo kód nebo naskenujte ho";
+"qr-code.input.text-field-placeholder"="Promo kód";
+"qr-code.input.title"="Promo kód";
+
+"qr-code.recommend.card-subtitle"="nebo zadejte ručně";
+"qr-code.recommend.card-title"="Použijte QR-kód ";
+
+
+// sample
+"sample.company1.annotation"="Střešní kavárna - nejlepší káva od italského barista.";
+"sample.company1.name"="Střecha";
+
+"sample.company2.annotation"="Klinika krásy - kosmetická chirurgie.";
+"sample.company2.name"="Bestia";
+
+"sample.company3.annotation"="Pizzerie - autentická neapolská pizza";
+"sample.company3.name"="Bella Italiano";
+
+
+// timeline
+"timeline.type.purchase"="Nákup";
+"timeline.type.scores-income"="Připsané body";
+"timeline.type.all"="Celá historie";
+
+"timeline.order-by-offer"="Nákupy speciálních nabídek";
+"timeline.scores-refunded"="Body byly vráceny";
+"timeline.operation.comment"="Comment";
+
+
+// location service
+"location-service.request-timed-out"="Časový limit relace";
+"location-service.options-alert.title"="Vaši polohu nelze zjistit";
+"location-service.options-alert.action.manual-enter"="Zadejte ručně";
+"location-service.options-alert.action.navigate-to-settings"="Jít do nastavení";
+
+"city.not-defined"="Nenalezeno";
+
+// table
+"table.footer.pull-to-load-more"="Přetáhnutím dolů zobrazíte více ";
+"company-search-table.footer.no-items"="Nenalezeno";
+"city-search-table.footer.no-items"="Nenalezeno";
+
+/* Not delete because used in MWPhotoBrowser pod */
+"Done"="Ukončit";
+"of"="z";
+
+
+"place.not-defined-neares-branch-cell.text"="Vaši polohu nelze zjistit";
+"place.not-defined-neares-branch-cell.button"="Určit";
+"paces.table-footer.my-places-empty"="Nedávno jste se zaregistrovali a zatím jste se nepřipojili k žádnému místu :(";
+
+"global-search.cell.location"="Poloha";
+
+// feedback && poll
+"feedback.title"="Zpětná vazba";
+"feedback.comment.placeholder"="Zanechte nám prosím zpětnou vazbu (pokud chcete)";
+"feedback.rate.title"="Děkujeme za Váš nákup!";
+"feedback.rate.subtitle.format"="Prosíme ohodnoťte kvalitu služeb v %@";
+
+"feedback-take-poll.title"="Děkujeme za zpětnou vazbu!";
+"feedback-take-poll.subtitle.format"="V %@ tvrdě pracujeme nad zlepšením služeb pro Vás ! Prosíme pomozte nám a vyplňte krátký dotazník ";
+"feedback-take-poll.poll-button"="Začit průzkum";
+
+"poll.title"="Průzkum";
+
+
+// conversation
+"conversations-list.title"="Zprávy";
+"conversations-list.background.title"="Zatím žádné zprávy";
+"conversations-list.background.subtitle"="Na stránce profilu společnosti můžete začít dialog";
+
+"company.messages.alert.unlock-messages"="Odblokovat dialog";
+"company.messages.alert.lock-messages"="Blokovat dialog";
+"message.forward-rate.title"="Odpověď na zpětnou vazbu";
+"conversation.message-input-toolbar.company-inactive"="Je nám líto, tato společnost je dočasně neaktivní";
+"conversation.message-input-toolbar.company-blocked-messages"="Společnost omezila příchozí zprávy";
+"conversation.message-input-toolbar.user-blocked-messages"="Tento dialog byl zablokován. Nelze odeslat zprávu.";
+"conversation.message-input-toolbar.user-blocked-messages.button"="Odblokovat zprávy";
+/* #################### PLIST */
+/* NSLocationWhenInUseUsageDescription */
+"NSCameraUsageDescription"="Naskenujte QR kód";
+
+/* NSLocationWhenInUseUsageDescription */
+"NSLocationWhenInUseUsageDescription"="It’s required to find nearby places";
+
+/* NSPhotoLibraryUsageDescription */
+"NSPhotoLibraryUsageDescription"="It’s required for choosing a profile picture";
+
+/* TGShortcutItemTypeDiscountTitle */
+"TGShortcutItemTypeDiscountTitle"="Sleva";
+
+/* TGShortcutItemTypePromoTitle */
+"TGShortcutItemTypePromoTitle"="Promo kód";
+
+/* TGShortcutItemTypePlacesTitle */
+"TGShortcutItemTypePlacesTitle"="Místa";
+
+/* TGShortcutItemTypeOffersTitle */
+"TGShortcutItemTypeOffersTitle"="Nabídky";

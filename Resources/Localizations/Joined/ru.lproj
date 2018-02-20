@@ -1,0 +1,820 @@
+/* #################### PROJECT */
+/* And string */
+"base.and"="И";
+/* are don't match string */
+"are don't match"="не совпадают";
+
+
+"qr-scan.message.camera-required"="Приложению UDS Game требуется доступ к камере для того, чтобы вы смогли отсканировать QR-код.";
+
+"history.table-footer.empty"="История операций пуста";
+
+
+"price-menu.empty"="Прайс пуст";
+"price-menu.empty-cart"="Корзина пуста";
+
+"pricelist.add-to-cart"="В корзину";
+
+
+"base.price"="Цена";
+
+"rate.comment-filed.placeholder"="Ваш комментарий";
+
+
+
+/* u.e. string */
+"u.e."="у.e.";
+
+
+"price-cart.title"="Корзина";
+"price-cart.base-discount"="Базовая скидка";
+"price-cart.purchase"="Оплатить";
+
+
+
+"price-cart.total-sum"="Сумма";
+
+"base.total"="Итого";
+
+/* Purchase for cash string */
+"price-cart.alert.action.purchase-for-cash.format"="Купить за %@";
+
+/* Purchase for scores string */
+"Purchase for scores"="Купить за баллы";
+
+
+
+
+/* Insufficient scores string */
+"Insufficient scores"="У вас недостаточно баллов";
+
+/* Choose action string */
+"Choose action"="Выберите действие";
+
+/* Today from-to work time string */
+"Today from-to work time"="Сегодня с %@ до %@";
+
+/* Game not availiable string */
+"Game not availiable"="Упс! Ведутся технические работы. Скоро мы снова будем с вами!";
+
+/* Invite award scores string */
+"Invite award scores"="Вознаграждение за рекомендацию";
+
+/* History string */
+"History"="История";
+
+/* To join string */
+"To join"="Вступить";
+
+/* In cart string */
+"In cart"="В корзине";
+
+/* Name string */
+"Name"="Имя";
+
+/* Rate string */
+"Rate"="Отзыв";
+
+/* Rate service string */
+"Rate service"="Поставьте оценку за качество обслуживания";
+
+/* joining award scores string */
+"joining award scores"="приветственных баллов";
+
+/* referral reward scores string */
+"referral reward scores"="баллов за рекомендацию";
+
+/* Price for scores string */
+"Price for scores"="цена за баллы";
+
+/* Permanent discount string */
+"Permanent discount"="Скидка";
+
+/* Permanent discount 2 string */
+"Permanent discount 2"="скидка";
+
+/* History new participant string */
+"New participant"="Новый друг";
+
+/* You became VIP client at place string */
+"You became VIP client at place"="Вы получили статус %@";
+
+/* Bill string */
+"Bill"="Счет";
+
+/* Scores string */
+"Scores"="Баллы";
+
+/* Scores incoming string */
+"Scores incoming"="Начисление баллов";
+
+/* Details string */
+"Details"="Детали";
+
+/* Pricelist order string */
+"Pricelist order"="Покупка по прайсу";
+
+/* Coupon purchase string */
+"Coupon purchase"="Покупка купона";
+
+/* Item added to cart string */
+"Item added to cart"="В корзине";
+
+/* User Agreement string */
+"user_agreement"="Пользовательское соглашение";
+
+/* Privacy policy string */
+"privacy_policy"="Политика конфиденциальности";
+
+/* About app string */
+"about"="О приложении";
+
+/* Name details string */
+"Name details"="Наименование";
+
+/* KM unit string */
+"KM unit"="км";
+
+/* M unit string */
+"M unit"="м";
+"Mile unit"="мили";
+
+
+// Base
+"base.done"="Готово";
+"base.apply"="Применить";
+"base.send"="Отправить";
+"base.next"="Далее";
+"base.cancel"="Отменить";
+"base.close"="Закрыть";
+"base.continue"="Продолжить";
+"base.could-not-autodefine-location"="Не удалось определить ваше местоположение";
+"base.error"="Ошибка";
+"base.error.user-not-authorized"="Пользователь не авторизован";
+"base.information"="Информация";
+"base.navigate"="Перейти";
+"base.register"="Зарегистрироваться";
+"base.required-field"="Обязательное поле";
+"base.settings"="Настройки";
+"base.skip"="Пропустить";
+"base.write"="Написать";
+"base.sign-in"="Авторизация";
+"base.sign-up"="Регистрация";
+"base.setup-phone"="Добавить телефон";
+"base.today"="Сегодня";
+"base.exit"="Выйти";
+"base.phone-call"="Позвонить";
+"base.scores.multiple"="баллов";
+"base.password"="Пароль";
+"base.password-confirmation"="Подтверждение пароля";
+"base.not-defined"="Не указано";
+"base.my-scores"="Мои баллы";
+"base.price-menu"="Прайс / меню";
+"base.update"="Обновить";
+"base.update-available"="Доступна новая версия, требуется обновление";
+"base.discount"="Скидка";
+"base.password-changed"="Пароль успешно изменен";
+"base.agreement"="Соглашение";
+"base.level"="Уровень";
+"base.female"="Женский";
+"base.gender"="Пол";
+"base.male"="Мужской";
+"base.congratulations"="Поздравляем!";
+"base.you"="Вы";
+"base.yesterday"="Вчера";
+
+
+// error
+"error.request.cancelled"="Что-то пошло не так :(";
+"error.data-not-available"="Данные недоступны";
+"error.internal-server"="Внутренняя ошибка на сервере";
+"error.response.unrecognized"="Нераспознанный ответ сервера";
+"error.unsupported-version"="Эта версия больше не поддерживается";
+"error.to-many-requests"="Слишком много запросов";
+
+
+"request.cancelled"="Запрос был отменен";
+
+
+"user-location.near-me"="Рядом со мной";
+
+
+// Application
+"application.notification.text.launch-app-after-change-language"="Нажмите, чтобы перезапустить приложение";
+
+
+// walkthrougth
+"walkthrough.page.0.subtitle"="Получайте скидки и бонусные баллы во всех местах-участниках UDS Game";
+"walkthrough.page.0.title"="Скидки и бонусы!";
+
+"walkthrough.page.1.subtitle"="Самые выгодные акции и спецпредложения, подобранные по вашим предпочтениям";
+"walkthrough.page.1.title"="Акции и спецпредложения!";
+
+"walkthrough.page.2.subtitle"="Делитесь промокодами с  друзьями и получайте баллы с каждой покупки";
+"walkthrough.page.2.title"="Рекомендации друзьям!";
+
+"walkthrough.skip"="Пропустить";
+
+
+// welcome
+"welcome.button.auth"="Войти";
+"welcome.button.continue-without-auth"="Продолжить без регистрации";
+"welcome.sign-in"="Войти в аккаунт";
+"welcome.sign-up"="Зарегистрироваться";
+"welcome.social.title"="или";
+"sign-up.agreements.format"="Регистрируясь, вы соглашаетесь с %1$@ и %2$@";
+"sign-up.agreements.part.user-agreement"="Пользовательским соглашением";
+"sign-up.agreements.part.privacy-policy"="Политикой конфиденциальности";
+"welcome-options.label.title"="Войдите, чтобы оценить все возможности UDS Game";
+
+"auth.facebook"="Facebook";
+"auth.vk"="VK";
+
+
+// phone
+"phone-auth.enter-phone.subtitle"="Введите номер телефона";
+"phone-auth.enter-phone.button"="Отправить код подтверждения";
+"phone-auth.enter-code.title"="Подтверждение";
+"phone-auth.enter-code.subtitle.format"="На ваш телефон отправлен код авторизации %@";
+"phone-auth.enter-code.button"="Продолжить";
+"phone-auth.enter-code.re-send-button"="Отправить код повторно";
+"phone-auth.error.incorrect-phone-number"="Некорректный номер телефона";
+"phone-auth.error.incorrect-confirmation-code"="Введен неверный код";
+
+// sign in
+"sign-in-options.button.email"="E-mail";
+"sign-in-options.button.forgot"="Забыли пароль?";
+"sign-in-options.button.phone"="Телефон";
+"sign-in-options.subtitle"="Войти, используя";
+"sign-in-options.title"="Авторизация ";
+
+"sign-in-with-email.password"="Пароль";
+"sign-in-with-email.title"="Войти";
+"sign-in.enter-email.text-field.placeholder"="E-mail";
+
+"sign-in.forgot"="Забыли пароль?";
+
+
+// sign up
+"sign-up-options.button.email"="E-mail";
+"sign-up-options.button.phone"="Телефон";
+"sign-up-options.subtitle"="Выберите удобный способ регистрации";
+"sign-up-options.title"="Регистрация";
+
+"sign-up-with-email.step1.birthday-field.placeholder"="Дата рождения";
+"sign-up-with-email.step1.code-description"="Нажмите на картинку, чтобы обновить код";
+"sign-up-with-email.step1.code-field.placeholder"="Код с картинки";
+"sign-up-with-email.step1.email-field.placeholder"="E-mail";
+"sign-up-with-email.step1.gender-title"="Пол";
+"sign-up-with-email.step1.password-field.placeholder"="Пароль";
+"sign-up-with-email.step1.title"="Регистрация";
+
+"sign-up-with-email.step2.first-name-field.placeholder"="Имя";
+"sign-up-with-email.step2.last-name-field.placeholder"="Фамилия";
+"sign-up-with-email.step2.title"="Регистрация";
+
+"sign-up-with-phone.birthday-field.placeholder"="Дата рождения";
+"sign-up-with-phone.first-name-field.placeholder"="Имя";
+"sign-up-with-phone.gender-title"="Пол";
+"sign-up-with-phone.last-name-field.placeholder"="Фамилия";
+"sign-up-with-phone.title"="Регистрация";
+
+"sign-up.gender.female"="Женский";
+"sign-up.gender.male"="Мужской";
+
+
+// restore password
+"restore-password.step-email.title"="Забыли пароль?";
+"restore-password.step-email.subtitle"="Введите e-mail, который вы указали при регистрации";
+"restore-password.step-email.text-field.placeholder"="E-mail";
+
+"restore-password.step-code.title"="Забыли пароль?";
+"restore-password.step-code.subtitle"="Введите код из письма, который мы отправили на указанный почтовый ящик";
+"restore-password.step-code.text-field.placeholder"="Код подтверждения";
+
+"restore-password.step-new-password.title"="Восстановление пароля";
+"restore-password.confirm-password-field.placeholder"="Подтверждение";
+"restore-password.password-field.placeholder"="Пароль";
+
+
+// phone
+"phone-already-registered.subtitle"="Для входа в приложение нажмите кнопку";
+"phone-already-registered.title"="По данному номеру телефона уже зарегистрирован пользователь";
+
+"phone-not-registered.title"="Ваш номер телефона не зарегистрирован в приложении UDS Game";
+
+
+// account banned & blocked
+"account-banned.title"="Доступ заблокирован за нарушения условий пользовательского соглашения. Для устранения причин блокировки просим обратиться в службу технической поддержки:\nsupport@udsgame.com";
+
+// device id
+"device-uuid-exceeded.device-id-title"="device ID";
+"device-uuid-exceeded.subtitle"="Пожалуйста, попробуйте авторизоваться,  используя другие средства входа или отправьте скриншот этого окна на почту службы технической поддержки ";
+"device-uuid-exceeded.title"="На данном устройстве уже зарегистрирован пользователь";
+
+
+// city picker
+"city-picker.background.title"=" Упс, неужели вы на Марсе? Помогите вас найти!";
+"city-picker.search.placeholder"="Город или область";
+"city-picker.title"="Ваше местоположение";
+"city-picker.background.autodefine-button"="Попробовать еще раз";
+
+
+// tabs
+"tab.discount"="Скидка";
+"tab.home"="Главная";
+"tab.offers"="Акции";
+"tab.places"="Места";
+"tab.promo"="Промокод";
+
+
+// logout
+"logout.alert.title"="Ошибка при выходе";
+"logout.alert.push-error"="Некорректный выход из приложения. Возможно, ваше устройство продолжит получить push-уведомления";
+"logout.alert.try-again"="Повторить";
+
+
+// categories
+"categories.all-categories"="Все места";
+"categories.all-categories.description"="Места во всех категориях";
+
+"categories.favorite-places"="Избранные места";
+"categories.my-places"="Мои места";
+
+"categories.category.all-places"="Все места";
+
+"category-preferences.my.title"="Предпочтения";
+
+"category-preferences.setup.subtitle"="Акции по ним будут показаны в первую очередь";
+"category-preferences.setup.title"="Выберите 3 категории";
+
+"category-switch.button.switch"="Заменить";
+"category-switch.subtitle"="Для добавления в предпочтения, замените одно из выбранных ранее";
+"category-switch.title"="Допустимое количество категорий в предпочтениях - 3";
+
+
+// settings
+"settings.alert.change-instagram.title"="Заменить";
+"settings.alert.change-skype.title"="Заменить";
+"settings.alert.logout.title"="Вы уверены?";
+
+"settings.app-info"="Инфо";
+"settings.app-language"="Язык";
+"settings.cell.metric-system"="Единицы измерения";
+"settings.metric-system.miles"="Мили";
+"settings.metric-system.meters"="Километры";
+"metric-system.title"="Единицы измерения";
+
+"settings.cell.support"="Служба поддержки";
+"settings.cell.about-application"="О приложении";
+"settings.cell.confirm-password"="Подтверждение";
+"settings.cell.current-password"="Старый пароль";
+"settings.cell.email"="E-mail";
+"settings.cell.email-password"="E-mail / Пароль";
+"settings.cell.instagram"="Instagram";
+"settings.cell.logout"="Выйти";
+"settings.cell.new-password"="Новый пароль";
+"settings.cell.phone"="Телефон";
+"settings.cell.skype"="Skype";
+"settings.cell.verify-phone"="Подтвердить телефон";
+"settings.cell.preferences"="Предпочтения";
+"settings.cell.birth-date"="Дата рождения";
+"settings.cell.last-name"="Фамилия";
+"settings.cell.user-location"="Город";
+"settings.cell.user-auth.button"="Войти";
+"settings.cell.user-auth.title"="Войдите в аккаунт";
+"settings.cell.user-auth.subtitle"="Это нужно, чтобы получать скидки, делиться ими с друзьями и многое другое";
+
+
+"settings.notifications.cell.company-news"="Новости";
+"settings.notifications.cell.company-offers"="Акции";
+"settings.notifications.cell.company-messages"="Сообщения";
+"settings.notifications.cell.new-members"="Приглашенные друзья";
+"settings.notifications.cell.scores-change"="Баллы";
+
+"settings.change-language.alert.title"="Изменить язык";
+"settings.change-language.alert.text"=" \"%@\" будет установлен после перезапуска приложения";
+
+"settings.languages"="Языки";
+"settings.languages.system"="Системный язык";
+"settings.reset-to-system-language"="Сброс";
+
+"settings.section.authorization"="Авторизация ";
+"settings.section.notifications"="Уведомления ";
+"settings.section.social"="Социальные сети";
+
+"settings.upload-image"="Ваше фото";
+"settings.upload-image.open"="Открыть";
+"settings.upload-image.camera"="Сделать фото";
+"settings.upload-image.gallery"="Выбрать из галереи";
+"settings.upload-image.delete"="Удалить";
+
+"settings.select-phone.message"="Для изменения номера телефона просим вас обратиться в службу технической поддержки по адресу электронной почты: support@udsgame.com";
+
+
+// support
+"support.title"="Служба поддержки";
+"support.cell.title"="По вопросам работы приложения UDS Game, вы можете обратиться в службу технической поддержки, написав по адресу:";
+"support.cell.details"="Обработка заявки осуществляется в течении 48 часов";
+
+// place
+"place.joining-award.alert.title"="Баллов за рекомендацию";
+"place.joining-award.alert.message"="Вы получите баллы за рекомендацию после первой оплаты приглашенного друга";
+
+"places.tab.all"="Все места";
+"places.tab.favorite"="Избранные";
+"places.tab.my"="Мои места";
+
+"places.title"="Места";
+
+"my-places.title"="Мои места";
+"my-places.table-placeholder.title"="Мои места";
+"my-places.table-placeholder.subtitle"="Места, которые вы посетите, будут отображаться тут";
+
+"favorite-palces.title"="Избранные места";
+"favorite-places.table-placeholder.title"="Избранные места";
+"favorite-places.table-placeholder.subtitle"="Добавляйте понравившиеся места в избранное";
+
+"company.tab.description"="Описание";
+"company.tab.news"="Новости";
+"company.tab.offers"="Акции";
+
+"company.bonus-program-description"="Описание бонусной программы";
+"company.bonus-program-cell.button"="Бонусная программа";
+"company.branches-cell.button.format"="Показать все адреса: %@";
+"company.bonus-program.title"="Бонусная программа";
+
+"company.news-cell.detail-button"="Показать подробно...";
+
+"company.action.add-to-favorites"="Добавить в избранное";
+"company.action.remove-from-favorites"="Удалить из избранного";
+"company.action.offers-notifications.enabled"="Подписаться на акции";
+"company.action.offers-notifications.disabled"="Отписаться от акций";
+"company.action.news-notifications.enabled"="Подписаться на новости";
+"company.action.news-notifications.disabled"="Отписаться от новостей";
+
+"company.cell.nearest-branch"="Ближайший адрес";
+"company.cell.description"="О нас";
+"company.cell.phone"="Телефон";
+"company.cell.website"="Сайт";
+"company.cell.worktime"="Режим работы";
+"company.cell.message"="Написать сообщение";
+"company.cell.branches"="Филиалы";
+
+"company.worktime.opens-after.format"="Откроется через %@";
+"company.worktime.remains-opens.format"="Будет открыто еще %@";
+"company.worktime.today-closed"="Закрыто";
+"company.worktime.around-the-clock"="Круглосуточно";
+
+"company.error.already-participant"="Вы уже присоединились к компании";
+
+"company.message.become-participant"="Вы присоединились к";
+"company.message.declined"="Компания временно не активна";
+
+"company.share-text.cashback.format"="Хочешь получить cashback %1$@ в %2$@? \n1. Скачай приложение %3$@ \n2. Введи %4$@ в разделе промокод \nПолучай скидки, бонусы и cashback с UDS Game!";
+"company.share-text.discount.format"="Хочешь получить скидку %1$@ в %2$@? \n1. Скачай приложение %3$@ \n2. Введи %4$@ в разделе промокод \nПолучай скидки, бонусы и cashback с UDS Game!";
+
+"company.become-participant.message"="Вам начислено %1$@ приветственных баллов";
+
+"company.auth-alert.title"="Авторизуйтесь и получите возможность воспользоваться бонусами и баллами!";
+"company.auth-alert.auth-action.title"="Авторизоваться";
+
+
+// companies map
+"companies-map.all-companies.title"="Все места";
+"companies-map.favorite-companies.title"="Избранные";
+"companies-map.my-companies.title"="Мои места";
+
+"company-add-to-favorite.button.add"="Добавить";
+"company-add-to-favorite.subtitle"="Добавить в избранное";
+
+"company-branch.address"="Адреса";
+"company-branch.cell.phone"="Телефон";
+"company-branch.cell.worktime"="Режим работы";
+
+"company-list-tutorial.bottom-view.button"="Продолжить";
+"company-list-tutorial.top-view.favorite"="Избранные места";
+"company-list-tutorial.top-view.recommend"="Рекомендация мест";
+"company-list-tutorial.top-view.title"="Для быстрого доступа к функциям проведите пальцем справа налево";
+
+"company-list.section-header.up-to-3-km"="Не далее 3 км";
+"company-list.section-header.up-to-5-km"="Не далее 5 км";
+"company-list.section-header.up-to-10-km"="Не далее 10 км";
+"company-list.section-header.up-to-20-km"="Не далее 20 км";
+"company-list.section-header.up-to-30-km"="Не далее 30 км";
+"company-list.section-header.greater-30-km"="Далее 30 км";
+
+"company-list.section-header.up-to-2-mile"="Не далее 2 миль";
+"company-list.section-header.up-to-4-mile"="Не далее 4 миль";
+"company-list.section-header.up-to-8-mile"="Не далее 8 миль";
+"company-list.section-header.up-to-15-mile"="Не далее 15 миль";
+"company-list.section-header.up-to-18-mile"="Не далее 18 миль";
+"company-list.section-header.greater-18-mile"="Далее 18 миль";
+
+
+// members structure
+"company.members-structure.level1"="1 уровень";
+"company.members-structure.level2"="2 уровень";
+"company.members-structure.level3"="3 уровень";
+"company.members-structure.no-members-placeholder"="Нет приглашенных друзей";
+"company.members-structure.recommend"="Рекомендовать";
+
+"company.recommend"="Рекомендовать";
+"company.recommend.title"="Рекомендовать";
+"company.recommend.view.title"="Делитесь промокодом с друзьями";
+"company.recommendations"="Рекомендации";
+
+
+// dashboard
+"dashboard.recent-companies.title"="Недавно вы посетили";
+"dashboard.search.placeholder"="Поиск мест";
+
+"dashboard.category-header.button"="Смотреть";
+
+"global-search.placeholder"="Поиск";
+
+
+// offers
+"offer-trends-cell.button"="Перейти";
+"offer-trends-cell.subtitle"="Узнайте, что понравилось другим пользователям";
+"offer-trends-cell.title"="Выбор пользователей";
+
+"offer.title"="Акция";
+"offer.action.complaint"="Пожаловаться";
+"offer.expire-date"="Акция действует до";
+"offer.quantity"="Осталось / Всего";
+"offer.use"="Использовать";
+
+"offers-filters.cell.location"="Местоположение";
+"offers-filters.title"="Фильтр";
+
+"offers-recommended-for-you.title"="Для вас";
+
+"offers-trending.title"="Выбор пользователей";
+
+"offers.recommend-header.button"="Перейти";
+"offers.recommended-header.title"="Специально для вас";
+
+"offers.title"="Акции";
+
+"offer.compaint.succes"="Жалоба отправлена";
+
+
+// profile
+"profile.title"="Профиль";
+
+
+// qr code
+"qr-code.discount.title"="Скидка";
+"qr-code.discount.subtitle"="Покажите этот код кассиру или сообщите ему цифры";
+"qr-code.discount.details"="Скидка действует во всех местах-участниках UDS Game";
+
+"qr-code.offer.title"="Акция";
+"qr-code.offer.subtitle"="Покажите этот код кассиру или сообщите ему цифры";
+
+"qr-code.storefront.title"="Покупка";
+"qr-code.storefront.subtitle"="Покажите этот код кассиру или сообщите ему цифры";
+
+"qr-code.input.input-view-title"="Введите промокод или отсканируйте его";
+"qr-code.input.text-field-placeholder"="Промокод";
+"qr-code.input.title"="Промокод";
+
+"qr-code.recommend.card-subtitle"="или ручной ввод";
+"qr-code.recommend.card-title"="Используйте QR-код";
+
+
+// sample
+"sample.company1.annotation"="Кофейня Roof- лучший кофе от баристы из Италии.";
+"sample.company1.name"="Roof";
+
+"sample.company2.annotation"="Салон красоты - хирургическая косметология";
+"sample.company2.name"="Бестия";
+
+"sample.company3.annotation"="Пиццерия - настоящая пицца по неаполитанским рецептам";
+"sample.company3.name"="Белла Итальяно";
+
+
+// timeline
+"timeline.type.purchase"="Оплата";
+"timeline.type.scores-income"="Начисление баллов";
+"timeline.type.all"="Вся история";
+
+"timeline.cell.leave-review"="Оцените качество обслуживания";
+
+"timeline.operation.type.purchase"="Покупка";
+"timeline.operation.type.fee"="Начисление баллов";
+"timeline.operation.type.joinig-award"="Начисление баллов";
+"timeline.operation.type.referal-award"="Баллы от друзей";
+"timeline.operation.type.invite"="Начисление баллов";
+"timeline.operation.type.price-list-purchase"="Покупка по прайсу";
+"timeline.operation.type.coupon-purchase"="Купон";
+"timeline.operation.type.offer"="Покупка по акции";
+"timeline.operation.type.appreciation-gift"="Начисление баллов";
+"timeline.operation.type.birthday-gift"="Начисление баллов";
+"timeline.operation.type.correction"="Списание баллов";
+
+"timeline.operation.type.charge-scores"="Начисление баллов";
+"timeline.operation.type.write-off-scores"="Списание баллов";
+"timeline.operation.type.refund"="Возврат";
+
+"timeline.operation.header.scores"="Баллов:";
+
+"timeline.operation.type.offer.cell.details"="Данные акции";
+"timeline.operation.type.offer.cell.refunded"="Возвращено";
+"timeline.operation.type.offer.cell.bill"="Счет";
+"timeline.operation.type.offer.cell.discount"="Скидка";
+"timeline.operation.type.offer.cell.total"="Итого";
+
+"timeline.operation.type.pricelist.purchase.cell.goods"="Товары";
+"timeline.operation.type.pricelist.purchase.cell.returned-goods"="Возвращенный товар";
+"timeline.operation.type.pricelist.purchase.cell.qty"=" шт.";
+"timeline.operation.type.pricelist.purchase.cell.bill"="Счет";
+"timeline.operation.type.pricelist.purchase.cell.scores"="Баллы";
+"timeline.operation.type.pricelist.purchase.cell.discount"="Скидка";
+"timeline.operation.type.pricelist.purchase.cell.amount"="Оплата";
+"timeline.operation.type.pricelist.purchase.cell.for-cash"="За";
+"timeline.operation.type.pricelist.purchase.cell.for-scores"="За баллы";
+"timeline.operation.type.pricelist.purchase.cell.data"="Данные операции";
+"timeline.operation.type.pricelist.purchase.cell.reversal"="Возвращено";
+
+"timeline.operation.type.cashback.cell.date"="Дата";
+"timeline.operation.type.cashback.cell.amount"="Оплата";
+"timeline.operation.type.cashback.cell.scores"="баллы";
+"timeline.operation.type.cashback.cell.for-purchase"="За покупку";
+
+"timeline.operation.type.purchase.bill"="Счет";
+"timeline.operation.type.purchase.discount"="Скидка";
+"timeline.operation.type.purchase.amount"="Оплата";
+"timeline.operation.type.purchase.scores"="баллы";
+"timeline.operation.type.purchase.cashback"="Cashback";
+"timeline.operation.type.purchase.scores-title"="Бонусы";
+"timeline.operation.type.purchase.operation-info"="Данные операции";
+"timeline.operation.type.purchase.reversal"="Возвращено";
+
+"timeline.operation.type.scores.changed.level"="уровень";
+"timeline.operation.type.scores.changed.reply-in-dialog"="Ответить в диалоге";
+"timeline.operation.type.scores.changed.joining-award"="Вам начислены приветственные баллы за присоединение к нашей компании!";
+
+"timeline.order-by-offer"="Покупка по акции";
+"timeline.scores-refunded"="Корректировка";
+"timeline.operation.comment"="Комментарий";
+
+"timeline.cell.birday-gift.title"="Поздравление";
+
+"timeline.pricelist-order-cell.purchase.format"="Реализовано %1$@ баллов и %2$@ %3$@";
+
+
+// location service
+"location-service.request-timed-out"="Превышено время ожидания";
+"location-service.options-alert.title"="Не удалось определить ваше местоположение";
+"location-service.options-alert.action.manual-enter"="Ввести вручную";
+"location-service.options-alert.action.navigate-to-settings"="Перейти к настройкам";
+
+"city.not-defined"="Не найдено";
+
+// table
+"table.footer.pull-to-load-more"="Для загрузки потяните вниз";
+"companies-list-table.footer.no-items"="Ничего не найдено";
+"company-search-table.footer.no-items"="Ничего не найдено";
+"city-search-table.footer.no-items"="Ничего не найдено";
+"offers-table.footer.no-items"="Ничего не найдено";
+
+/* Not delete because used in MWPhotoBrowser pod */
+"Done"="Готово";
+"of"="из";
+
+
+"place.not-defined-neares-branch-cell.text"="Не удалось определить ваше местоположение";
+"place.not-defined-neares-branch-cell.button"="Определить";
+"paces.table-footer.my-places-empty"="Вы недавно зарегистрировались и еще нигде не были :(";
+
+"global-search.cell.location"="Местоположение";
+
+// feedback && poll
+"feedback.title"="Оценка";
+"feedback.comment.placeholder"="Оставьте отзыв (по желанию)";
+"feedback.rate.title"="Спасибо за покупку!";
+"feedback.rate.subtitle.format"="Пожалуйста, оцените качество обслуживания в %@";
+
+"feedback-take-poll.title"="Спасибо за оценку!";
+"feedback-take-poll.subtitle.format"="%@ старается быть лучше для вас! Пожалуйста пройдите короткий опрос";
+"feedback-take-poll.poll-button"="Пройти опрос";
+
+"poll.title"="Опрос";
+
+
+// conversation
+"conversations-list.title"="Сообщения";
+"conversations-list.background.title"="Сообщений пока нет";
+"conversations-list.background.subtitle"="Начать диалог можно на странице компании";
+
+"company.messages.alert.unlock-messages"="Разблокировать диалог";
+"company.messages.alert.lock-messages"="Заблокировать диалог";
+"message.forward-rate.title"="Ответ на оценку обслуживания";
+"conversation.message-input-toolbar.company-inactive"="Компания временно не активна";
+"conversation.message-input-toolbar.company-blocked-messages"="Компания не может принимать сообщения";
+"conversation.message-input-toolbar.user-blocked-messages"="Диалог заблокирован. Вы не можете отправить сообщение компании";
+"conversation.message-input-toolbar.user-blocked-messages.button"="Разблокировать диалог";
+"messages.input-toolbar.placeholder"="Сообщение...";
+
+
+// category picker
+"category-picker.general.title"="Категория";
+
+
+// company filters
+"company-filters.cell.location"="Город";
+"company-filters.cell.category"="Категория";
+"company-filters.cell.halal"="Халяль";
+"company-filters.cell.rating"="Только лучшие места";
+"company-filters.cell.discount"="Скидка";
+"company-filters.cell.cashback"="Cashback";
+"company-filters.title"="Фильтр";
+"company-filters.button.clear"="Сбросить";
+"company-filters.rating-header"="Рейтинг";
+"company-filters.bonus-program-header"="Бонусная программа";
+
+
+// search
+"company-search.title"="Поиск";
+
+
+// pushes
+"push-notification.merge-scores.text"="Просмотрите историю оплат по номеру телефона, а также историю начислений баллов и регистрации в компании";
+
+
+// auth
+"restore-password.title"="Восстановление пароля";
+"restore-password.enter-email.title"="На указанный вами e-mail будет отправлено письмо с дальнейшей инструкцией";
+"restore-password.enter-email.text-field.placeholder"="E-mail";
+
+"restore-password.enter-code.text-field.placeholder"="Код подтверждения";
+"restore-password.enter-code.title.format"="Введите код из полученого вами письма, отправленного на %@";
+
+"restore-password.setup-password.title"="Придумайте новый пароль";
+"restore-password.setup-password.text-field.placeholder"="Пароль";
+
+"auth.enter-sms-code.button.resend"="Отправить код повторно";
+"auth.button.no-account"="У меня нет аккаунта";
+"auth.enter-sms-code.title.format"="Мы отправили вам шестизначный код на номер %@";
+"auth.enter-sms-code.label.resend.format"="Отправить повторно через: %@";
+"auth.button.sign-in"="Войти";
+"auth.button.sign-up"="Зарегистрироваться";
+"auth.button.restore-password"="Забыли пароль";
+
+"sign-in.enter-password.text-field.placeholder"="Пароль";
+"sign-in.enter-password.title.format"="Для продолжения введите пароль от аккаунта %@";
+
+"sign-in.title"="Войдите, чтобы оценить все возможности UDS Game";
+"sign-in.text-field.placeholder"="E-mail";
+"sign-in.button.sign-up"="Новый пользователь?";
+"sign-in.label.social"="Войти используя соц.сеть";
+
+"auth.button.already-have-account"="У меня уже есть аккаунт";
+
+"sign-up.enter-password.title"="Придумайте пароль";
+"sign-up.enter-password.text-field.placeholder"="Пароль";
+
+"sign-up.enter-captcha.label.captcha"="Нажмите на картинку, чтобы обновить код";
+"sign-up.enter-captcha.text-field.placeholder"="Введите код с картинки";
+
+"sign-up.enter-user-info.title"="Расскажите немного о себе";
+"sign-up.enter-user-info.text-field.first-name.placeholder"="Имя";
+"sign-up.enter-user-info.text-field.last-name.placeholder"="Фамилия";
+"sign-up.enter-user-info.text-field.birthday.placeholder"="Дата рождения";
+"sign-up.enter-user-info.label.gender-title"="Укажите ваш пол";
+"sign-up.enter-user-info.label.male-gender"="Мужской";
+"sign-up.enter-user-info.label.female-gender"="Женский";
+
+"sign-up.title"="Зарегистрируйтесь, чтобы использовать все возможности UDS Game";
+"sign-up.text-field.placeholder"="E-mail";
+"sign-up.label.social"="Войти используя соц.сеть";
+
+"verify-phone.title"="Верификация номера телефона";
+"verify-phone.text-field.placeholder"="Телефон";
+"verify-phone.error.value-not-a-phone-number"="Введите номер телефона";
+/* #################### PLIST */
+/* NSLocationWhenInUseUsageDescription */
+"NSCameraUsageDescription"="Для сканирования QR-кода";
+
+/* NSLocationWhenInUseUsageDescription */
+"NSLocationWhenInUseUsageDescription"="Это нужно для поиска ближайших компаний";
+
+/* NSPhotoLibraryUsageDescription */
+"NSPhotoLibraryUsageDescription"="Это нужно для выбора аватара";
+
+/* TGShortcutItemTypeDiscountTitle */
+"TGShortcutItemTypeDiscountTitle"="Скидка";
+
+/* TGShortcutItemTypePromoTitle */
+"TGShortcutItemTypePromoTitle"="Промокод";
+
+/* TGShortcutItemTypePlacesTitle */
+"TGShortcutItemTypePlacesTitle"="Места";
+
+/* TGShortcutItemTypeOffersTitle */
+"TGShortcutItemTypeOffersTitle"="Акции";
+/* #################### SETTINGS */
+/* A single strings file, whose title is specified in your preferences schema. The strings files provide the localized content to display to the user for each of your preferences. */
+"Licenses"="Лицензии";
+"Version"="Версия";
