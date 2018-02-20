@@ -1,0 +1,14 @@
+/* 
+  Localizable.strings
+  LHTest
+
+  Created by Igor Smirnov on 20/02/2018.
+  Copyright © 2018 IS. All rights reserved.
+*/
+
+#################### HEADER
+"test" = "тест";
+#################### SECTION 1
+"test2" = "тест2";
+#################### SECTION 2
+"test3" = "тест3";
